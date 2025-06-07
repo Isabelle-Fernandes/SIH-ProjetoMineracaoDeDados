@@ -1,0 +1,402 @@
+401  6                                                                                    
+      1  4190 Sem div.adm.estadual PR                       410010                            
+  1   2  .... Abatiá                                        410010                            
+  1   3  .... Adrianópolis                                  410020                            
+  1   4  .... Agudos do Sul                                 410030                            
+  1   5  .... Almirante Tamandaré                           410040                            
+  1   6  .... Altamira do Paraná                            410045                            
+  1   7  .... Alto Paraíso                                  412862                            
+  1   8  .... Alto Paraná                                   410060                            
+  1   9  .... Alto Piquiri                                  410070                            
+  1  10  .... Altônia                                       410050                            
+  1  11  .... Alvorada do Sul                               410080                            
+  1  12  .... Amaporã                                       410090                            
+  1  13  .... Ampére                                        410100                            
+  1  14  .... Anahy                                         410105                            
+  1  15  .... Andirá                                        410110                            
+  1  16  .... Ângulo                                        410115                            
+  1  17  .... Antonina                                      410120                            
+  1  18  .... Antônio Olinto                                410130                            
+  1  19  .... Apucarana                                     410140                            
+  1  20  .... Arapongas                                     410150                            
+  1  21  .... Arapoti                                       410160                            
+  1  22  .... Arapuã                                        410165                            
+  1  23  .... Araruna                                       410170                            
+  1  24  .... Araucária                                     410180                            
+  1  25  .... Ariranha do Ivaí                              410185                            
+  1  26  .... Assaí                                         410190                            
+  1  27  .... Assis Chateaubriand                           410200                            
+  1  28  .... Astorga                                       410210                            
+  1  29  .... Atalaia                                       410220                            
+  1  30  .... Balsa Nova                                    410230                            
+  1  31  .... Bandeirantes                                  410240                            
+  1  32  .... Barbosa Ferraz                                410250                            
+  1  33  .... Barra do Jacaré                               410270                            
+  1  34  .... Barracão                                      410260                            
+  1  35  .... Bela Vista da Caroba                          410275                            
+  1  36  .... Bela Vista do Paraíso                         410280                            
+  1  37  .... Bituruna                                      410290                            
+  1  38  .... Boa Esperança                                 410300                            
+  1  39  .... Boa Esperança do Iguaçu                       410302                            
+  1  40  .... Boa Ventura de São Roque                      410304                            
+  1  41  .... Boa Vista da Aparecida                        410305                            
+  1  42  .... Bocaiúva do Sul                               410310                            
+  1  43  .... Bom Jesus do Sul                              410315                            
+  1  44  .... Bom Sucesso                                   410320                            
+  1  45  .... Bom Sucesso do Sul                            410322                            
+  1  46  .... Borrazópolis                                  410330                            
+  1  47  .... Braganey                                      410335                            
+  1  48  .... Brasilândia do Sul                            410337                            
+  1  49  .... Cafeara                                       410340                            
+  1  50  .... Cafelândia                                    410345                            
+  1  51  .... Cafezal do Sul                                410347                            
+  1  52  .... Califórnia                                    410350                            
+  1  53  .... Cambará                                       410360                            
+  1  54  .... Cambé                                         410370                            
+  1  55  .... Cambira                                       410380                            
+  1  56  .... Campina da Lagoa                              410390                            
+  1  57  .... Campina do Simão                              410395                            
+  1  58  .... Campina Grande do Sul                         410400                            
+  1  59  .... Campo Bonito                                  410405                            
+  1  60  .... Campo do Tenente                              410410                            
+  1  61  .... Campo Largo                                   410420                            
+  1  62  .... Campo Magro                                   410425                            
+  1  63  .... Campo Mourão                                  410430                            
+  1  64  .... Cândido de Abreu                              410440                            
+  1  65  .... Candói                                        410442                            
+  1  66  .... Cantagalo                                     410445                            
+  1  67  .... Capanema                                      410450                            
+  1  68  .... Capitão Leônidas Marques                      410460                            
+  1  69  .... Carambeí                                      410465                            
+  1  70  .... Carlópolis                                    410470                            
+  1  71  .... Cascavel                                      410480                            
+  1  72  .... Castro                                        410490                            
+  1  73  .... Catanduvas                                    410500                            
+  1  74  .... Centenário do Sul                             410510                            
+  1  75  .... Cerro Azul                                    410520                            
+  1  76  .... Céu Azul                                      410530                            
+  1  77  .... Chopinzinho                                   410540                            
+  1  78  .... Cianorte                                      410550                            
+  1  79  .... Cidade Gaúcha                                 410560                            
+  1  80  .... Clevelândia                                   410570                            
+  1  81  .... Colombo                                       410580                            
+  1  82  .... Colorado                                      410590                            
+  1  83  .... Congonhinhas                                  410600                            
+  1  84  .... Conselheiro Mairinck                          410610                            
+  1  85  .... Contenda                                      410620                            
+  1  86  .... Corbélia                                      410630                            
+  1  87  .... Cornélio Procópio                             410640                            
+  1  88  .... Coronel Domingos Soares                       410645                            
+  1  89  .... Coronel Vivida                                410650                            
+  1  90  .... Corumbataí do Sul                             410655                            
+  1  91  .... Cruz Machado                                  410680                            
+  1  92  .... Cruzeiro do Iguaçu                            410657                            
+  1  93  .... Cruzeiro do Oeste                             410660                            
+  1  94  .... Cruzeiro do Sul                               410670                            
+  1  95  .... Cruzmaltina                                   410685                            
+  1  96  .... Curitiba                                      410690                            
+  1  97  .... Curiúva                                       410700                            
+  1  98  .... Diamante D'Oeste                              410715                            
+  1  99  .... Diamante do Norte                             410710                            
+  1 100  .... Diamante do Sul                               410712                            
+  1 101  .... Dois Vizinhos                                 410720                            
+  1 102  .... Douradina                                     410725                            
+  1 103  .... Doutor Camargo                                410730                            
+  1 104  .... Doutor Ulysses                                412863                            
+  1 105  .... Enéas Marques                                 410740                            
+  1 106  .... Engenheiro Beltrão                            410750                            
+  1 107  .... Entre Rios do Oeste                           410753                            
+  1 108  .... Esperança Nova                                410752                            
+  1 109  .... Espigão Alto do Iguaçu                        410754                            
+  1 110  .... Farol                                         410755                            
+  1 111  .... Faxinal                                       410760                            
+  1 112  .... Fazenda Rio Grande                            410765                            
+  1 113  .... Fênix                                         410770                            
+  1 114  .... Fernandes Pinheiro                            410773                            
+  1 115  .... Figueira                                      410775                            
+  1 116  .... Flor da Serra do Sul                          410785                            
+  1 117  .... Floraí                                        410780                            
+  1 118  .... Floresta                                      410790                            
+  1 119  .... Florestópolis                                 410800                            
+  1 120  .... Flórida                                       410810                            
+  1 121  .... Formosa do Oeste                              410820                            
+  1 122  .... Foz do Iguaçu                                 410830                            
+  1 123  .... Foz do Jordão                                 410845                            
+  1 124  .... Francisco Alves                               410832                            
+  1 125  .... Francisco Beltrão                             410840                            
+  1 126  .... General Carneiro                              410850                            
+  1 127  .... Godoy Moreira                                 410855                            
+  1 128  .... Goioerê                                       410860                            
+  1 129  .... Goioxim                                       410865                            
+  1 130  .... Grandes Rios                                  410870                            
+  1 131  .... Guaíra                                        410880                            
+  1 132  .... Guairaçá                                      410890                            
+  1 133  .... Guamiranga                                    410895                            
+  1 134  .... Guapirama                                     410900                            
+  1 135  .... Guaporema                                     410910                            
+  1 136  .... Guaraci                                       410920                            
+  1 137  .... Guaraniaçu                                    410930                            
+  1 138  .... Guarapuava                                    410940                            
+  1 139  .... Guaraqueçaba                                  410950                            
+  1 140  .... Guaratuba                                     410960                            
+  1 141  .... Honório Serpa                                 410965                            
+  1 142  .... Ibaiti                                        410970                            
+  1 143  .... Ibema                                         410975                            
+  1 144  .... Ibiporã                                       410980                            
+  1 145  .... Icaraíma                                      410990                            
+  1 146  .... Iguaraçu                                      411000                            
+  1 147  .... Iguatu                                        411005                            
+  1 148  .... Imbaú                                         411007                            
+  1 149  .... Imbituva                                      411010                            
+  1 150  .... Inácio Martins                                411020                            
+  1 151  .... Inajá                                         411030                            
+  1 152  .... Indianópolis                                  411040                            
+  1 153  .... Ipiranga                                      411050                            
+  1 154  .... Iporã                                         411060                            
+  1 155  .... Iracema do Oeste                              411065                            
+  1 156  .... Irati                                         411070                            
+  1 157  .... Iretama                                       411080                            
+  1 158  .... Itaguajé                                      411090                            
+  1 159  .... Itaipulândia                                  411095                            
+  1 160  .... Itambaracá                                    411100                            
+  1 161  .... Itambé                                        411110                            
+  1 162  .... Itapejara d'Oeste                             411120                            
+  1 163  .... Itaperuçu                                     411125                            
+  1 164  .... Itaúna do Sul                                 411130                            
+  1 165  .... Ivaí                                          411140                            
+  1 166  .... Ivaiporã                                      411150                            
+  1 167  .... Ivaté                                         411155                            
+  1 168  .... Ivatuba                                       411160                            
+  1 169  .... Jaboti                                        411170                            
+  1 170  .... Jacarezinho                                   411180                            
+  1 171  .... Jaguapitã                                     411190                            
+  1 172  .... Jaguariaíva                                   411200                            
+  1 173  .... Jandaia do Sul                                411210                            
+  1 174  .... Janiópolis                                    411220                            
+  1 175  .... Japira                                        411230                            
+  1 176  .... Japurá                                        411240                            
+  1 177  .... Jardim Alegre                                 411250                            
+  1 178  .... Jardim Olinda                                 411260                            
+  1 179  .... Jataizinho                                    411270                            
+  1 180  .... Jesuítas                                      411275                            
+  1 181  .... Joaquim Távora                                411280                            
+  1 182  .... Jundiaí do Sul                                411290                            
+  1 183  .... Juranda                                       411295                            
+  1 184  .... Jussara                                       411300                            
+  1 185  .... Kaloré                                        411310                            
+  1 186  .... Lapa                                          411320                            
+  1 187  .... Laranjal                                      411325                            
+  1 188  .... Laranjeiras do Sul                            411330                            
+  1 189  .... Leópolis                                      411340                            
+  1 190  .... Lidianópolis                                  411342                            
+  1 191  .... Lindoeste                                     411345                            
+  1 192  .... Loanda                                        411350                            
+  1 193  .... Lobato                                        411360                            
+  1 194  .... Londrina                                      411370                            
+  1 195  .... Luiziana                                      411373                            
+  1 196  .... Lunardelli                                    411375                            
+  1 197  .... Lupionópolis                                  411380                            
+  1 198  .... Mallet                                        411390                            
+  1 199  .... Mamborê                                       411400                            
+  1 200  .... Mandaguaçu                                    411410                            
+  1 201  .... Mandaguari                                    411420                            
+  1 202  .... Mandirituba                                   411430                            
+  1 203  .... Manfrinópolis                                 411435                            
+  1 204  .... Mangueirinha                                  411440                            
+  1 205  .... Manoel Ribas                                  411450                            
+  1 206  .... Marechal Cândido Rondon                       411460                            
+  1 207  .... Maria Helena                                  411470                            
+  1 208  .... Marialva                                      411480                            
+  1 209  .... Marilândia do Sul                             411490                            
+  1 210  .... Marilena                                      411500                            
+  1 211  .... Mariluz                                       411510                            
+  1 212  .... Maringá                                       411520                            
+  1 213  .... Mariópolis                                    411530                            
+  1 214  .... Maripá                                        411535                            
+  1 215  .... Marmeleiro                                    411540                            
+  1 216  .... Marquinho                                     411545                            
+  1 217  .... Marumbi                                       411550                            
+  1 218  .... Matelândia                                    411560                            
+  1 219  .... Matinhos                                      411570                            
+  1 220  .... Mato Rico                                     411573                            
+  1 221  .... Mauá da Serra                                 411575                            
+  1 222  .... Medianeira                                    411580                            
+  1 223  .... Mercedes                                      411585                            
+  1 224  .... Mirador                                       411590                            
+  1 225  .... Miraselva                                     411600                            
+  1 226  .... Missal                                        411605                            
+  1 227  .... Moreira Sales                                 411610                            
+  1 228  .... Morretes                                      411620                            
+  1 229  .... Munhoz de Melo                                411630                            
+  1 230  .... Nossa Senhora das Graças                      411640                            
+  1 231  .... Nova Aliança do Ivaí                          411650                            
+  1 232  .... Nova América da Colina                        411660                            
+  1 233  .... Nova Aurora                                   411670                            
+  1 234  .... Nova Cantu                                    411680                            
+  1 235  .... Nova Esperança                                411690                            
+  1 236  .... Nova Esperança do Sudoeste                    411695                            
+  1 237  .... Nova Fátima                                   411700                            
+  1 238  .... Nova Laranjeiras                              411705                            
+  1 239  .... Nova Londrina                                 411710                            
+  1 240  .... Nova Olímpia                                  411720                            
+  1 241  .... Nova Prata do Iguaçu                          411725                            
+  1 242  .... Nova Santa Bárbara                            411721                            
+  1 243  .... Nova Santa Rosa                               411722                            
+  1 244  .... Nova Tebas                                    411727                            
+  1 245  .... Novo Itacolomi                                411729                            
+  1 246  .... Ortigueira                                    411730                            
+  1 247  .... Ourizona                                      411740                            
+  1 248  .... Ouro Verde do Oeste                           411745                            
+  1 249  .... Paiçandu                                      411750                            
+  1 250  .... Palmas                                        411760                            
+  1 251  .... Palmeira                                      411770                            
+  1 252  .... Palmital                                      411780                            
+  1 253  .... Palotina                                      411790                            
+  1 254  .... Paraíso do Norte                              411800                            
+  1 255  .... Paranacity                                    411810                            
+  1 256  .... Paranaguá                                     411820                            
+  1 257  .... Paranapoema                                   411830                            
+  1 258  .... Paranavaí                                     411840                            
+  1 259  .... Pato Bragado                                  411845                            
+  1 260  .... Pato Branco                                   411850                            
+  1 261  .... Paula Freitas                                 411860                            
+  1 262  .... Paulo Frontin                                 411870                            
+  1 263  .... Peabiru                                       411880                            
+  1 264  .... Perobal                                       411885                            
+  1 265  .... Pérola                                        411890                            
+  1 266  .... Pérola d'Oeste                                411900                            
+  1 267  .... Piên                                          411910                            
+  1 268  .... Pinhais                                       411915                            
+  1 269  .... Pinhal de São Bento                           411925                            
+  1 270  .... Pinhalão                                      411920                            
+  1 271  .... Pinhão                                        411930                            
+  1 272  .... Piraí do Sul                                  411940                            
+  1 273  .... Piraquara                                     411950                            
+  1 274  .... Pitanga                                       411960                            
+  1 275  .... Pitangueiras                                  411965                            
+  1 276  .... Planaltina do Paraná                          411970                            
+  1 277  .... Planalto                                      411980                            
+  1 278  .... Ponta Grossa                                  411990                            
+  1 279  .... Pontal do Paraná                              411995                            
+  1 280  .... Porecatu                                      412000                            
+  1 281  .... Porto Amazonas                                412010                            
+  1 282  .... Porto Barreiro                                412015                            
+  1 283  .... Porto Rico                                    412020                            
+  1 284  .... Porto Vitória                                 412030                            
+  1 285  .... Prado Ferreira                                412033                            
+  1 286  .... Pranchita                                     412035                            
+  1 287  .... Presidente Castelo Branco                     412040                            
+  1 288  .... Primeiro de Maio                              412050                            
+  1 289  .... Prudentópolis                                 412060                            
+  1 290  .... Quarto Centenário                             412065                            
+  1 291  .... Quatiguá                                      412070                            
+  1 292  .... Quatro Barras                                 412080                            
+  1 293  .... Quatro Pontes                                 412085                            
+  1 294  .... Quedas do Iguaçu                              412090                            
+  1 295  .... Querência do Norte                            412100                            
+  1 296  .... Quinta do Sol                                 412110                            
+  1 297  .... Quitandinha                                   412120                            
+  1 298  .... Ramilândia                                    412125                            
+  1 299  .... Rancho Alegre                                 412130                            
+  1 300  .... Rancho Alegre D'Oeste                         412135                            
+  1 301  .... Realeza                                       412140                            
+  1 302  .... Rebouças                                      412150                            
+  1 303  .... Renascença                                    412160                            
+  1 304  .... Reserva                                       412170                            
+  1 305  .... Reserva do Iguaçu                             412175                            
+  1 306  .... Ribeirão Claro                                412180                            
+  1 307  .... Ribeirão do Pinhal                            412190                            
+  1 308  .... Rio Azul                                      412200                            
+  1 309  .... Rio Bom                                       412210                            
+  1 310  .... Rio Bonito do Iguaçu                          412215                            
+  1 311  .... Rio Branco do Ivaí                            412217                            
+  1 312  .... Rio Branco do Sul                             412220                            
+  1 313  .... Rio Negro                                     412230                            
+  1 314  .... Rolândia                                      412240                            
+  1 315  .... Roncador                                      412250                            
+  1 316  .... Rondon                                        412260                            
+  1 317  .... Rosário do Ivaí                               412265                            
+  1 318  .... Sabáudia                                      412270                            
+  1 319  .... Salgado Filho                                 412280                            
+  1 320  .... Salto do Itararé                              412290                            
+  1 321  .... Salto do Lontra                               412300                            
+  1 322  .... Santa Amélia                                  412310                            
+  1 323  .... Santa Cecília do Pavão                        412320                            
+  1 324  .... Santa Cruz de Monte Castelo                   412330                            
+  1 325  .... Santa Fé                                      412340                            
+  1 326  .... Santa Helena                                  412350                            
+  1 327  .... Santa Inês                                    412360                            
+  1 328  .... Santa Isabel do Ivaí                          412370                            
+  1 329  .... Santa Izabel do Oeste                         412380                            
+  1 330  .... Santa Lúcia                                   412382                            
+  1 331  .... Santa Maria do Oeste                          412385                            
+  1 332  .... Santa Mariana                                 412390                            
+  1 333  .... Santa Mônica                                  412395                            
+  1 334  .... Santa Tereza do Oeste                         412402                            
+  1 335  .... Santa Terezinha de Itaipu                     412405                            
+  1 336  .... Santana do Itararé                            412400                            
+  1 337  .... Santo Antônio da Platina                      412410                            
+  1 338  .... Santo Antônio do Caiuá                        412420                            
+  1 339  .... Santo Antônio do Paraíso                      412430                            
+  1 340  .... Santo Antônio do Sudoeste                     412440                            
+  1 341  .... Santo Inácio                                  412450                            
+  1 342  .... São Carlos do Ivaí                            412460                            
+  1 343  .... São Jerônimo da Serra                         412470                            
+  1 344  .... São João                                      412480                            
+  1 345  .... São João do Caiuá                             412490                            
+  1 346  .... São João do Ivaí                              412500                            
+  1 347  .... São João do Triunfo                           412510                            
+  1 348  .... São Jorge d'Oeste                             412520                            
+  1 349  .... São Jorge do Ivaí                             412530                            
+  1 350  .... São Jorge do Patrocínio                       412535                            
+  1 351  .... São José da Boa Vista                         412540                            
+  1 352  .... São José das Palmeiras                        412545                            
+  1 353  .... São José dos Pinhais                          412550                            
+  1 354  .... São Manoel do Paraná                          412555                            
+  1 355  .... São Mateus do Sul                             412560                            
+  1 356  .... São Miguel do Iguaçu                          412570                            
+  1 357  .... São Pedro do Iguaçu                           412575                            
+  1 358  .... São Pedro do Ivaí                             412580                            
+  1 359  .... São Pedro do Paraná                           412590                            
+  1 360  .... São Sebastião da Amoreira                     412600                            
+  1 361  .... São Tomé                                      412610                            
+  1 362  .... Sapopema                                      412620                            
+  1 363  .... Sarandi                                       412625                            
+  1 364  .... Saudade do Iguaçu                             412627                            
+  1 365  .... Sengés                                        412630                            
+  1 366  .... Serranópolis do Iguaçu                        412635                            
+  1 367  .... Sertaneja                                     412640                            
+  1 368  .... Sertanópolis                                  412650                            
+  1 369  .... Siqueira Campos                               412660                            
+  1 370  .... Sulina                                        412665                            
+  1 371  .... Tamarana                                      412667                            
+  1 372  .... Tamboara                                      412670                            
+  1 373  .... Tapejara                                      412680                            
+  1 374  .... Tapira                                        412690                            
+  1 375  .... Teixeira Soares                               412700                            
+  1 376  .... Telêmaco Borba                                412710                            
+  1 377  .... Terra Boa                                     412720                            
+  1 378  .... Terra Rica                                    412730                            
+  1 379  .... Terra Roxa                                    412740                            
+  1 380  .... Tibagi                                        412750                            
+  1 381  .... Tijucas do Sul                                412760                            
+  1 382  .... Toledo                                        412770                            
+  1 383  .... Tomazina                                      412780                            
+  1 384  .... Três Barras do Paraná                         412785                            
+  1 385  .... Tunas do Paraná                               412788                            
+  1 386  .... Tuneiras do Oeste                             412790                            
+  1 387  .... Tupãssi                                       412795                            
+  1 388  .... Turvo                                         412796                            
+  1 389  .... Ubiratã                                       412800                            
+  1 390  .... Umuarama                                      412810                            
+  1 391  .... União da Vitória                              412820                            
+  1 392  .... Uniflor                                       412830                            
+  1 393  .... Uraí                                          412840                            
+  1 394  .... Ventania                                      412853                            
+  1 395  .... Vera Cruz do Oeste                            412855                            
+  1 396  .... Verê                                          412860                            
+  1 397  .... Virmond                                       412865                            
+  1 398  .... Vitorino                                      412870                            
+  1 399  .... Wenceslau Braz                                412850                            
+  1 400  .... Xambrê                                        412880                            
+    401  4100 Município ignorado - PR                       410000,419999                     

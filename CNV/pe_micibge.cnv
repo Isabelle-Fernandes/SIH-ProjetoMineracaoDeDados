@@ -1,0 +1,187 @@
+20 6
+      1  26001 ARARIPINA                                    260110
+      1  26001 ARARIPINA                                    260200
+      1  26001 ARARIPINA                                    260530
+      1  26001 ARARIPINA                                    260630
+      1  26001 ARARIPINA                                    260730
+      1  26001 ARARIPINA                                    260990
+      1  26001 ARARIPINA                                    261245
+      1  26001 ARARIPINA                                    261255
+      1  26001 ARARIPINA                                    261430
+      1  26001 ARARIPINA                                    261560
+      2  26002 SALGUEIRO                                    260430
+      2  26002 SALGUEIRO                                    260930
+      2  26002 SALGUEIRO                                    261040
+      2  26002 SALGUEIRO                                    261220
+      2  26002 SALGUEIRO                                    261350
+      2  26002 SALGUEIRO                                    261400
+      2  26002 SALGUEIRO                                    261610
+      3  26003 PAJEU                                        260010
+      3  26003 PAJEU                                        260250
+      3  26003 PAJEU                                        260340
+      3  26003 PAJEU                                        260390
+      3  26003 PAJEU                                        260560
+      3  26003 PAJEU                                        260690
+      3  26003 PAJEU                                        260710
+      3  26003 PAJEU                                        260770
+      3  26003 PAJEU                                        261153
+      3  26003 PAJEU                                        261247
+      3  26003 PAJEU                                        261280
+      3  26003 PAJEU                                        261360
+      3  26003 PAJEU                                        261390
+      3  26003 PAJEU                                        261440
+      3  26003 PAJEU                                        261460
+      3  26003 PAJEU                                        261570
+      3  26003 PAJEU                                        261590
+      4  26004 SERTAO DO MOXOTO                             260120
+      4  26004 SERTAO DO MOXOTO                             260180
+      4  26004 SERTAO DO MOXOTO                             260510
+      4  26004 SERTAO DO MOXOTO                             260660
+      4  26004 SERTAO DO MOXOTO                             260700
+      4  26004 SERTAO DO MOXOTO                             260915
+      4  26004 SERTAO DO MOXOTO                             261410
+      5  26005 PETROLINA                                    260020
+      5  26005 PETROLINA                                    260300
+      5  26005 PETROLINA                                    260515
+      5  26005 PETROLINA                                    260875
+      5  26005 PETROLINA                                    260980
+      5  26005 PETROLINA                                    261110
+      5  26005 PETROLINA                                    261260
+      5  26005 PETROLINA                                    261520
+      6  26006 ITAPARICA                                    260160
+      6  26006 ITAPARICA                                    260392
+      6  26006 ITAPARICA                                    260570
+      6  26006 ITAPARICA                                    260740
+      6  26006 ITAPARICA                                    260805
+      6  26006 ITAPARICA                                    261100
+      6  26006 ITAPARICA                                    261480
+      7  26007 VALE DO IPANEMA                              260050
+      7  26007 VALE DO IPANEMA                              260280
+      7  26007 VALE DO IPANEMA                              260750
+      7  26007 VALE DO IPANEMA                              261080
+      7  26007 VALE DO IPANEMA                              261580
+      7  26007 VALE DO IPANEMA                              261600
+      8  26008 VALE DO IPOJUCA                              260060
+      8  26008 VALE DO IPOJUCA                              260170
+      8  26008 VALE DO IPOJUCA                              260190
+      8  26008 VALE DO IPOJUCA                              260260
+      8  26008 VALE DO IPOJUCA                              260310
+      8  26008 VALE DO IPOJUCA                              260380
+      8  26008 VALE DO IPOJUCA                              260410
+      8  26008 VALE DO IPOJUCA                              260640
+      8  26008 VALE DO IPOJUCA                              260800
+      8  26008 VALE DO IPOJUCA                              261090
+      8  26008 VALE DO IPOJUCA                              261120
+      8  26008 VALE DO IPOJUCA                              261170
+      8  26008 VALE DO IPOJUCA                              261240
+      8  26008 VALE DO IPOJUCA                              261300
+      8  26008 VALE DO IPOJUCA                              261310
+      8  26008 VALE DO IPOJUCA                              261470
+      9  26009 ALTO CAPIBARIBE                              260415
+      9  26009 ALTO CAPIBARIBE                              260580
+      9  26009 ALTO CAPIBARIBE                              261250
+      9  26009 ALTO CAPIBARIBE                              261270
+      9  26009 ALTO CAPIBARIBE                              261450
+      9  26009 ALTO CAPIBARIBE                              261500
+      9  26009 ALTO CAPIBARIBE                              261540
+      9  26009 ALTO CAPIBARIBE                              261618
+      9  26009 ALTO CAPIBARIBE                              261620
+     10  26010 MEDIO CAPIBARIBE                             260220
+     10  26010 MEDIO CAPIBARIBE                             260490
+     10  26010 MEDIO CAPIBARIBE                             260540
+     10  26010 MEDIO CAPIBARIBE                             260810
+     10  26010 MEDIO CAPIBARIBE                             260890
+     10  26010 MEDIO CAPIBARIBE                             260910
+     10  26010 MEDIO CAPIBARIBE                             260970
+     10  26010 MEDIO CAPIBARIBE                             261050
+     10  26010 MEDIO CAPIBARIBE                             261210
+     10  26010 MEDIO CAPIBARIBE                             261380
+     11  26011 GARANHUNS                                    260100
+     11  26011 GARANHUNS                                    260210
+     11  26011 GARANHUNS                                    260240
+     11  26011 GARANHUNS                                    260320
+     11  26011 GARANHUNS                                    260330
+     11  26011 GARANHUNS                                    260370
+     11  26011 GARANHUNS                                    260470
+     11  26011 GARANHUNS                                    260600
+     11  26011 GARANHUNS                                    260650
+     11  26011 GARANHUNS                                    260825
+     11  26011 GARANHUNS                                    260830
+     11  26011 GARANHUNS                                    260840
+     11  26011 GARANHUNS                                    260860
+     11  26011 GARANHUNS                                    260880
+     11  26011 GARANHUNS                                    261010
+     11  26011 GARANHUNS                                    261030
+     11  26011 GARANHUNS                                    261230
+     11  26011 GARANHUNS                                    261320
+     11  26011 GARANHUNS                                    261510
+     12  26012 BREJO PERNAMBUCANO                           260030
+     12  26012 BREJO PERNAMBUCANO                           260080
+     12  26012 BREJO PERNAMBUCANO                           260130
+     12  26012 BREJO PERNAMBUCANO                           260230
+     12  26012 BREJO PERNAMBUCANO                           260350
+     12  26012 BREJO PERNAMBUCANO                           260500
+     12  26012 BREJO PERNAMBUCANO                           260670
+     12  26012 BREJO PERNAMBUCANO                           260870
+     12  26012 BREJO PERNAMBUCANO                           261020
+     12  26012 BREJO PERNAMBUCANO                           261200
+     12  26012 BREJO PERNAMBUCANO                           261330
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               260070
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               260270
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               260360
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               260400
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               260460
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               260550
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               260620
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               260765
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               260780
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               260845
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               260850
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               260900
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               260950
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               261060
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               261530
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               261550
+     13  26013 MATA SETENTRIONAL PERNAMBUCANA               261630
+     14  26014 VITORIA DE SANTO ANTAO                       260440
+     14  26014 VITORIA DE SANTO ANTAO                       260450
+     14  26014 VITORIA DE SANTO ANTAO                       260610
+     14  26014 VITORIA DE SANTO ANTAO                       261130
+     14  26014 VITORIA DE SANTO ANTAO                       261640
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 260040
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 260090
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 260140
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 260150
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 260420
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 260480
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 260520
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 260590
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 260795
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 260820
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 260920
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 261000
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 261140
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 261150
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 261180
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 261190
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 261290
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 261340
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 261420
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 261485
+     15  26015 MATA MERIDIONAL PERNAMBUCANA                 261650
+     16  26016 ITAMARACA                                    260105
+     16  26016 ITAMARACA                                    260680
+     16  26016 ITAMARACA                                    260760
+     16  26016 ITAMARACA                                    260775
+     17  26017 RECIFE                                       260005
+     17  26017 RECIFE                                       260345
+     17  26017 RECIFE                                       260790
+     17  26017 RECIFE                                       260940
+     17  26017 RECIFE                                       260960
+     17  26017 RECIFE                                       261070
+     17  26017 RECIFE                                       261160
+     17  26017 RECIFE                                       261370
+     18  26018 SUAPE                                        260290
+     18  26018 SUAPE                                        260720
+     19  26019 FERNANDO DE NORONHA                          260545
+     20  Ignorado - PE                                      260000,269999

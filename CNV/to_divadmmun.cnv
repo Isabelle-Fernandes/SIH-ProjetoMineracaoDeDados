@@ -1,0 +1,142 @@
+141  6                                                                                    
+      1  1790 Sem div.adm.estadual TO                       170025                            
+  1   2  .... Abreulândia                                   170025                            
+  1   3  .... Aguiarnópolis                                 170030                            
+  1   4  .... Aliança do Tocantins                          170035                            
+  1   5  .... Almas                                         170040                            
+  1   6  .... Alvorada                                      170070                            
+  1   7  .... Ananás                                        170100                            
+  1   8  .... Angico                                        170105                            
+  1   9  .... Aparecida do Rio Negro                        170110                            
+  1  10  .... Aragominas                                    170130                            
+  1  11  .... Araguacema                                    170190                            
+  1  12  .... Araguaçu                                      170200                            
+  1  13  .... Araguaína                                     170210                            
+  1  14  .... Araguanã                                      170215                            
+  1  15  .... Araguatins                                    170220                            
+  1  16  .... Arapoema                                      170230                            
+  1  17  .... Arraias                                       170240                            
+  1  18  .... Augustinópolis                                170255                            
+  1  19  .... Aurora do Tocantins                           170270                            
+  1  20  .... Axixá do Tocantins                            170290                            
+  1  21  .... Babaçulândia                                  170300                            
+  1  22  .... Bandeirantes do Tocantins                     170305                            
+  1  23  .... Barra do Ouro                                 170307                            
+  1  24  .... Barrolândia                                   170310                            
+  1  25  .... Bernardo Sayão                                170320                            
+  1  26  .... Bom Jesus do Tocantins                        170330                            
+  1  27  .... Brasilândia do Tocantins                      170360                            
+  1  28  .... Brejinho de Nazaré                            170370                            
+  1  29  .... Buriti do Tocantins                           170380                            
+  1  30  .... Cachoeirinha                                  170382                            
+  1  31  .... Campos Lindos                                 170384                            
+  1  32  .... Cariri do Tocantins                           170386                            
+  1  33  .... Carmolândia                                   170388                            
+  1  34  .... Carrasco Bonito                               170389                            
+  1  35  .... Caseara                                       170390                            
+  1  36  .... Centenário                                    170410                            
+  1  37  .... Chapada da Natividade                         170510                            
+  1  38  .... Chapada de Areia                              170460                            
+  1  39  .... Colinas do Tocantins                          170550                            
+  1  40  .... Colméia                                       171670                            
+  1  41  .... Combinado                                     170555                            
+  1  42  .... Conceição do Tocantins                        170560                            
+  1  43  .... Couto Magalhães                               170600                            
+  1  44  .... Cristalândia                                  170610                            
+  1  45  .... Crixás do Tocantins                           170625                            
+  1  46  .... Darcinópolis                                  170650                            
+  1  47  .... Dianópolis                                    170700                            
+  1  48  .... Divinópolis do Tocantins                      170710                            
+  1  49  .... Dois Irmãos do Tocantins                      170720                            
+  1  50  .... Dueré                                         170730                            
+  1  51  .... Esperantina                                   170740                            
+  1  52  .... Fátima                                        170755                            
+  1  53  .... Figueirópolis                                 170765                            
+  1  54  .... Filadélfia                                    170770                            
+  1  55  .... Formoso do Araguaia                           170820                            
+  1  56  .... Fortaleza do Tabocão                          170825                            
+  1  57  .... Goianorte                                     170830                            
+  1  58  .... Goiatins                                      170900                            
+  1  59  .... Guaraí                                        170930                            
+  1  60  .... Gurupi                                        170950                            
+  1  61  .... Ipueiras                                      170980                            
+  1  62  .... Itacajá                                       171050                            
+  1  63  .... Itaguatins                                    171070                            
+  1  64  .... Itapiratins                                   171090                            
+  1  65  .... Itaporã do Tocantins                          171110                            
+  1  66  .... Jaú do Tocantins                              171150                            
+  1  67  .... Juarina                                       171180                            
+  1  68  .... Lagoa da Confusão                             171190                            
+  1  69  .... Lagoa do Tocantins                            171195                            
+  1  70  .... Lajeado                                       171200                            
+  1  71  .... Lavandeira                                    171215                            
+  1  72  .... Lizarda                                       171240                            
+  1  73  .... Luzinópolis                                   171245                            
+  1  74  .... Marianópolis do Tocantins                     171250                            
+  1  75  .... Mateiros                                      171270                            
+  1  76  .... Maurilândia do Tocantins                      171280                            
+  1  77  .... Miracema do Tocantins                         171320                            
+  1  78  .... Miranorte                                     171330                            
+  1  79  .... Monte do Carmo                                171360                            
+  1  80  .... Monte Santo do Tocantins                      171370                            
+  1  81  .... Muricilândia                                  171395                            
+  1  82  .... Natividade                                    171420                            
+  1  83  .... Nazaré                                        171430                            
+  1  84  .... Nova Olinda                                   171488                            
+  1  85  .... Nova Rosalândia                               171500                            
+  1  86  .... Novo Acordo                                   171510                            
+  1  87  .... Novo Alegre                                   171515                            
+  1  88  .... Novo Jardim                                   171525                            
+  1  89  .... Oliveira de Fátima                            171550                            
+  1  90  .... Palmas                                        172100                            
+  1  91  .... Palmeirante                                   171570                            
+  1  92  .... Palmeiras do Tocantins                        171380                            
+  1  93  .... Palmeirópolis                                 171575                            
+  1  94  .... Paraíso do Tocantins                          171610                            
+  1  95  .... Paranã                                        171620                            
+  1  96  .... Pau D'Arco                                    171630                            
+  1  97  .... Pedro Afonso                                  171650                            
+  1  98  .... Peixe                                         171660                            
+  1  99  .... Pequizeiro                                    171665                            
+  1 100  .... Pindorama do Tocantins                        171700                            
+  1 101  .... Piraquê                                       171720                            
+  1 102  .... Pium                                          171750                            
+  1 103  .... Ponte Alta do Bom Jesus                       171780                            
+  1 104  .... Ponte Alta do Tocantins                       171790                            
+  1 105  .... Porto Alegre do Tocantins                     171800                            
+  1 106  .... Porto Nacional                                171820                            
+  1 107  .... Praia Norte                                   171830                            
+  1 108  .... Presidente Kennedy                            171840                            
+  1 109  .... Pugmil                                        171845                            
+  1 110  .... Recursolândia                                 171850                            
+  1 111  .... Riachinho                                     171855                            
+  1 112  .... Rio da Conceição                              171865                            
+  1 113  .... Rio dos Bois                                  171870                            
+  1 114  .... Rio Sono                                      171875                            
+  1 115  .... Sampaio                                       171880                            
+  1 116  .... Sandolândia                                   171884                            
+  1 117  .... Santa Fé do Araguaia                          171886                            
+  1 118  .... Santa Maria do Tocantins                      171888                            
+  1 119  .... Santa Rita do Tocantins                       171889                            
+  1 120  .... Santa Rosa do Tocantins                       171890                            
+  1 121  .... Santa Tereza do Tocantins                     171900                            
+  1 122  .... Santa Terezinha do Tocantins                  172000                            
+  1 123  .... São Bento do Tocantins                        172010                            
+  1 124  .... São Félix do Tocantins                        172015                            
+  1 125  .... São Miguel do Tocantins                       172020                            
+  1 126  .... São Salvador do Tocantins                     172025                            
+  1 127  .... São Sebastião do Tocantins                    172030                            
+  1 128  .... São Valério                                   172049                            
+  1 129  .... Silvanópolis                                  172065                            
+  1 130  .... Sítio Novo do Tocantins                       172080                            
+  1 131  .... Sucupira                                      172085                            
+  1 132  .... Taguatinga                                    172090                            
+  1 133  .... Taipas do Tocantins                           172093                            
+  1 134  .... Talismã                                       172097                            
+  1 135  .... Tocantínia                                    172110                            
+  1 136  .... Tocantinópolis                                172120                            
+  1 137  .... Tupirama                                      172125                            
+  1 138  .... Tupiratins                                    172130                            
+  1 139  .... Wanderlândia                                  172208                            
+  1 140  .... Xambioá                                       172210                            
+    141  1700 Município ignorado - TO                       170000,179999,170172,171350,172206

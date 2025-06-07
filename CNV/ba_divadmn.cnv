@@ -1,0 +1,419 @@
+32  6                                                                                    
+      1  2903 BA Alagoinhas                                 290030                            
+      1  2903 BA Alagoinhas                                 290070                            
+      1  2903 BA Alagoinhas                                 290190                            
+      1  2903 BA Alagoinhas                                 290205                            
+      1  2903 BA Alagoinhas                                 290220                            
+      1  2903 BA Alagoinhas                                 290700                            
+      1  2903 BA Alagoinhas                                 290750                            
+      1  2903 BA Alagoinhas                                 290960                            
+      1  2903 BA Alagoinhas                                 291050                            
+      1  2903 BA Alagoinhas                                 291060                            
+      1  2903 BA Alagoinhas                                 291370                            
+      1  2903 BA Alagoinhas                                 291590                            
+      1  2903 BA Alagoinhas                                 291650                            
+      1  2903 BA Alagoinhas                                 291790                            
+      1  2903 BA Alagoinhas                                 292330                            
+      1  2903 BA Alagoinhas                                 292410                            
+      1  2903 BA Alagoinhas                                 292700                            
+      1  2903 BA Alagoinhas                                 292970                            
+      2  2929 BA Amargosa                                   290100                            
+      2  2929 BA Amargosa                                   291030                            
+      2  2929 BA Amargosa                                   291685                            
+      2  2929 BA Amargosa                                   291820                            
+      2  2929 BA Amargosa                                   291880                            
+      2  2929 BA Amargosa                                   292130                            
+      2  2929 BA Amargosa                                   292240                            
+      2  2929 BA Amargosa                                   292280                            
+      2  2929 BA Amargosa                                   292940                            
+      2  2929 BA Amargosa                                   293210                            
+      3  2925 BA Barreiras                                  290140                            
+      3  2925 BA Barreiras                                  290250                            
+      3  2925 BA Barreiras                                  290320                            
+      3  2925 BA Barreiras                                  290440                            
+      3  2925 BA Barreiras                                  290740                            
+      3  2925 BA Barreiras                                  290940                            
+      3  2925 BA Barreiras                                  290970                            
+      3  2925 BA Barreiras                                  291110                            
+      3  2925 BA Barreiras                                  291955                            
+      3  2925 BA Barreiras                                  292045                            
+      3  2925 BA Barreiras                                  292620                            
+      3  2925 BA Barreiras                                  292840                            
+      3  2925 BA Barreiras                                  292890                            
+      3  2925 BA Barreiras                                  293090                            
+      3  2925 BA Barreiras                                  293345                            
+      4  2923 BA Boquira                                    290050                            
+      4  2923 BA Boquira                                    290410                            
+      4  2923 BA Boquira                                    290420                            
+      4  2923 BA Boquira                                    290755                            
+      4  2923 BA Boquira                                    291250                            
+      4  2923 BA Boquira                                    291980                            
+      4  2923 BA Boquira                                    292360                            
+      4  2923 BA Boquira                                    292690                            
+      5  2919 BA Brumado                                    290200                            
+      5  2919 BA Brumado                                    290280                            
+      5  2919 BA Brumado                                    290460                            
+      5  2919 BA Brumado                                    290880                            
+      5  2919 BA Brumado                                    291010                            
+      5  2919 BA Brumado                                    291165                            
+      5  2919 BA Brumado                                    291220                            
+      5  2919 BA Brumado                                    291720                            
+      5  2919 BA Brumado                                    291860                            
+      5  2919 BA Brumado                                    291950                            
+      5  2919 BA Brumado                                    292030                            
+      5  2919 BA Brumado                                    292670                            
+      5  2919 BA Brumado                                    293100                            
+      6  2924 BA Caetité                                    290500                            
+      6  2924 BA Caetité                                    290520                            
+      6  2924 BA Caetité                                    291200                            
+      6  2924 BA Caetité                                    291340                            
+      6  2924 BA Caetité                                    291740                            
+      6  2924 BA Caetité                                    291875                            
+      6  2924 BA Caetité                                    291940                            
+      6  2924 BA Caetité                                    292180                            
+      6  2924 BA Caetité                                    292640                            
+      6  2924 BA Caetité                                    292680                            
+      6  2924 BA Caetité                                    293105                            
+      7  2931 BA Cruz das Almas                             290485                            
+      7  2931 BA Cruz das Almas                             290490                            
+      7  2931 BA Cruz das Almas                             290820                            
+      7  2931 BA Cruz das Almas                             290980                            
+      7  2931 BA Cruz das Almas                             291160                            
+      7  2931 BA Cruz das Almas                             292060                            
+      7  2931 BA Cruz das Almas                             292230                            
+      7  2931 BA Cruz das Almas                             292900                            
+      7  2931 BA Cruz das Almas                             292960                            
+      8  2911 BA Cícero Dantas                              290035                            
+      8  2911 BA Cícero Dantas                              290160                            
+      8  2911 BA Cícero Dantas                              290265                            
+      8  2911 BA Cícero Dantas                              290780                            
+      8  2911 BA Cícero Dantas                              290790                            
+      8  2911 BA Cícero Dantas                              290920                            
+      8  2911 BA Cícero Dantas                              291075                            
+      8  2911 BA Cícero Dantas                              291185                            
+      8  2911 BA Cícero Dantas                              292290                            
+      8  2911 BA Cícero Dantas                              292305                            
+      8  2911 BA Cícero Dantas                              292310                            
+      8  2911 BA Cícero Dantas                              292380                            
+      8  2911 BA Cícero Dantas                              292650                            
+      8  2911 BA Cícero Dantas                              292660                            
+      8  2911 BA Cícero Dantas                              293076                            
+      9  2908 BA Eunápolis                                  290340                            
+      9  2908 BA Eunápolis                                  291072                            
+      9  2908 BA Eunápolis                                  291180                            
+      9  2908 BA Eunápolis                                  291465                            
+      9  2908 BA Eunápolis                                  291530                            
+      9  2908 BA Eunápolis                                  291630                            
+      9  2908 BA Eunápolis                                  292530                            
+      9  2908 BA Eunápolis                                  292770                            
+     10  2902 BA Feira de Santana                           290110                            
+     10  2902 BA Feira de Santana                           290150                            
+     10  2902 BA Feira de Santana                           290170                            
+     10  2902 BA Feira de Santana                           290640                            
+     10  2902 BA Feira de Santana                           290850                            
+     10  2902 BA Feira de Santana                           290890                            
+     10  2902 BA Feira de Santana                           291080                            
+     10  2902 BA Feira de Santana                           291330                            
+     10  2902 BA Feira de Santana                           291380                            
+     10  2902 BA Feira de Santana                           291400                            
+     10  2902 BA Feira de Santana                           291450                            
+     10  2902 BA Feira de Santana                           292465                            
+     10  2902 BA Feira de Santana                           292595                            
+     10  2902 BA Feira de Santana                           292630                            
+     10  2902 BA Feira de Santana                           292750                            
+     10  2902 BA Feira de Santana                           292830                            
+     10  2902 BA Feira de Santana                           292880                            
+     10  2902 BA Feira de Santana                           292930                            
+     10  2902 BA Feira de Santana                           293040                            
+     10  2902 BA Feira de Santana                           293110                            
+     10  2902 BA Feira de Santana                           293140                            
+     10  2902 BA Feira de Santana                           293170                            
+     11  2905 BA Gandu                                      290540                            
+     11  2905 BA Gandu                                      290580                            
+     11  2905 BA Gandu                                      291120                            
+     11  2905 BA Gandu                                      291345                            
+     11  2905 BA Gandu                                      291730                            
+     11  2905 BA Gandu                                      292260                            
+     11  2905 BA Gandu                                      292275                            
+     11  2905 BA Gandu                                      292467                            
+     11  2905 BA Gandu                                      293120                            
+     11  2905 BA Gandu                                      293160                            
+     11  2905 BA Gandu                                      293290                            
+     11  2905 BA Gandu                                      293350                            
+     12  2930 BA Guanambi                                   290660                            
+     12  2930 BA Guanambi                                   290710                            
+     12  2930 BA Guanambi                                   291170                            
+     12  2930 BA Guanambi                                   291733                            
+     12  2930 BA Guanambi                                   292020                            
+     12  2930 BA Guanambi                                   292105                            
+     12  2930 BA Guanambi                                   292340                            
+     12  2930 BA Guanambi                                   292450                            
+     12  2930 BA Guanambi                                   293000                            
+     12  2930 BA Guanambi                                   293260                            
+     13  2922 BA Ibotirama                                  290270                            
+     13  2922 BA Ibotirama                                  290450                            
+     13  2922 BA Ibotirama                                  290475                            
+     13  2922 BA Ibotirama                                  291320                            
+     13  2922 BA Ibotirama                                  291410                            
+     13  2922 BA Ibotirama                                  292160                            
+     13  2922 BA Ibotirama                                  292225                            
+     13  2922 BA Ibotirama                                  292320                            
+     13  2922 BA Ibotirama                                  292370                            
+     14  2906 BA Ilhéus                                     290225                            
+     14  2906 BA Ilhéus                                     290630                            
+     14  2906 BA Ilhéus                                     291360                            
+     14  2906 BA Ilhéus                                     291490                            
+     14  2906 BA Ilhéus                                     292090                            
+     14  2906 BA Ilhéus                                     292805                            
+     14  2906 BA Ilhéus                                     293250                            
+     14  2906 BA Ilhéus                                     293270                            
+     15  2921 BA Irecê                                      290115                            
+     15  2921 BA Irecê                                      290300                            
+     15  2921 BA Irecê                                      290323                            
+     15  2921 BA Irecê                                      290530                            
+     15  2921 BA Irecê                                      290620                            
+     15  2921 BA Irecê                                      290760                            
+     15  2921 BA Irecê                                      291130                            
+     15  2921 BA Irecê                                      291240                            
+     15  2921 BA Irecê                                      291310                            
+     15  2921 BA Irecê                                      291460                            
+     15  2921 BA Irecê                                      291535                            
+     15  2921 BA Irecê                                      291835                            
+     15  2921 BA Irecê                                      291850                            
+     15  2921 BA Irecê                                      291915                            
+     15  2921 BA Irecê                                      292205                            
+     15  2921 BA Irecê                                      292560                            
+     15  2921 BA Irecê                                      292925                            
+     15  2921 BA Irecê                                      293240                            
+     15  2921 BA Irecê                                      293360                            
+     16  2918 BA Itaberaba                                  290130                            
+     16  2918 BA Itaberaba                                  290380                            
+     16  2918 BA Itaberaba                                  290405                            
+     16  2918 BA Itaberaba                                  291190                            
+     16  2918 BA Itaberaba                                  291260                            
+     16  2918 BA Itaberaba                                  291470                            
+     16  2918 BA Itaberaba                                  291500                            
+     16  2918 BA Itaberaba                                  291900                            
+     16  2918 BA Itaberaba                                  291960                            
+     16  2918 BA Itaberaba                                  292080                            
+     16  2918 BA Itaberaba                                  292285                            
+     16  2918 BA Itaberaba                                  292720                            
+     16  2918 BA Itaberaba                                  293280                            
+     16  2918 BA Itaberaba                                  293340                            
+     17  2907 BA Itabuna                                    290090                            
+     17  2907 BA Itabuna                                    290240                            
+     17  2907 BA Itabuna                                    290330                            
+     17  2907 BA Itabuna                                    290470                            
+     17  2907 BA Itabuna                                    290560                            
+     17  2907 BA Itabuna                                    290800                            
+     17  2907 BA Itabuna                                    291100                            
+     17  2907 BA Itabuna                                    291150                            
+     17  2907 BA Itabuna                                    291210                            
+     17  2907 BA Itabuna                                    291270                            
+     17  2907 BA Itabuna                                    291480                            
+     17  2907 BA Itabuna                                    291540                            
+     17  2907 BA Itabuna                                    291550                            
+     17  2907 BA Itabuna                                    291620                            
+     17  2907 BA Itabuna                                    291660                            
+     17  2907 BA Itabuna                                    291855                            
+     17  2907 BA Itabuna                                    292070                            
+     17  2907 BA Itabuna                                    292390                            
+     17  2907 BA Itabuna                                    292780                            
+     17  2907 BA Itabuna                                    292935                            
+     17  2907 BA Itabuna                                    293220                            
+     17  2907 BA Itabuna                                    293230                            
+     18  2914 BA Itapetinga                                 290480                            
+     18  2914 BA Itapetinga                                 291090                            
+     18  2914 BA Itapetinga                                 291230                            
+     18  2914 BA Itapetinga                                 291350                            
+     18  2914 BA Itapetinga                                 291580                            
+     18  2914 BA Itapetinga                                 291640                            
+     18  2914 BA Itapetinga                                 291680                            
+     18  2914 BA Itapetinga                                 291710                            
+     18  2914 BA Itapetinga                                 291970                            
+     18  2914 BA Itapetinga                                 292000                            
+     18  2914 BA Itapetinga                                 292270                            
+     18  2914 BA Itapetinga                                 292540                            
+     19  2916 BA Jacobina                                   290510                            
+     19  2916 BA Jacobina                                   290550                            
+     19  2916 BA Jacobina                                   290687                            
+     19  2916 BA Jacobina                                   291750                            
+     19  2916 BA Jacobina                                   292010                            
+     19  2916 BA Jacobina                                   292120                            
+     19  2916 BA Jacobina                                   292140                            
+     19  2916 BA Jacobina                                   292170                            
+     19  2916 BA Jacobina                                   292335                            
+     19  2916 BA Jacobina                                   292480                            
+     19  2916 BA Jacobina                                   292593                            
+     19  2916 BA Jacobina                                   292937                            
+     19  2916 BA Jacobina                                   292980                            
+     19  2916 BA Jacobina                                   293060                            
+     19  2916 BA Jacobina                                   293130                            
+     19  2916 BA Jacobina                                   293245                            
+     19  2916 BA Jacobina                                   293305                            
+     19  2916 BA Jacobina                                   293310                            
+     19  2916 BA Jacobina                                   293315                            
+     20  2913 BA Jequié                                     290060                            
+     20  2913 BA Jequié                                     290195                            
+     20  2913 BA Jequié                                     290310                            
+     20  2913 BA Jequié                                     290370                            
+     20  2913 BA Jequié                                     290430                            
+     20  2913 BA Jequié                                     290950                            
+     20  2913 BA Jequié                                     291000                            
+     20  2913 BA Jequié                                     291290                            
+     20  2913 BA Jequié                                     291390                            
+     20  2913 BA Jequié                                     291420                            
+     20  2913 BA Jequié                                     291430                            
+     20  2913 BA Jequié                                     291510                            
+     20  2913 BA Jequié                                     291520                            
+     20  2913 BA Jequié                                     291570                            
+     20  2913 BA Jequié                                     291670                            
+     20  2913 BA Jequié                                     291690                            
+     20  2913 BA Jequié                                     291760                            
+     20  2913 BA Jequié                                     291800                            
+     20  2913 BA Jequié                                     291830                            
+     20  2913 BA Jequié                                     291870                            
+     20  2913 BA Jequié                                     291905                            
+     20  2913 BA Jequié                                     292040                            
+     20  2913 BA Jequié                                     292050                            
+     20  2913 BA Jequié                                     292490                            
+     20  2913 BA Jequié                                     292790                            
+     21  2915 BA Juazeiro                                   290590                            
+     21  2915 BA Juazeiro                                   290682                            
+     21  2915 BA Juazeiro                                   290720                            
+     21  2915 BA Juazeiro                                   290990                            
+     21  2915 BA Juazeiro                                   291840                            
+     21  2915 BA Juazeiro                                   292440                            
+     21  2915 BA Juazeiro                                   292600                            
+     21  2915 BA Juazeiro                                   293020                            
+     21  2915 BA Juazeiro                                   293077                            
+     21  2915 BA Juazeiro                                   293200                            
+     22  2917 BA Mundo Novo                                 290260                            
+     22  2917 BA Mundo Novo                                 290685                            
+     22  2917 BA Mundo Novo                                 291125                            
+     22  2917 BA Mundo Novo                                 292210                            
+     22  2917 BA Mundo Novo                                 292273                            
+     22  2917 BA Mundo Novo                                 292405                            
+     23  2910 BA Paulo Afonso                               290020                            
+     23  2910 BA Paulo Afonso                               290770                            
+     23  2910 BA Paulo Afonso                               291140                            
+     23  2910 BA Paulo Afonso                               291810                            
+     23  2910 BA Paulo Afonso                               291990                            
+     23  2910 BA Paulo Afonso                               292400                            
+     23  2910 BA Paulo Afonso                               292420                            
+     23  2910 BA Paulo Afonso                               292710                            
+     23  2910 BA Paulo Afonso                               292760                            
+     24  2901 BA Salvador                                   290570                            
+     24  2901 BA Salvador                                   290650                            
+     24  2901 BA Salvador                                   290860                            
+     24  2901 BA Salvador                                   291005                            
+     24  2901 BA Salvador                                   291610                            
+     24  2901 BA Salvador                                   291920                            
+     24  2901 BA Salvador                                   291992                            
+     24  2901 BA Salvador                                   292100                            
+     24  2901 BA Salvador                                   292520                            
+     24  2901 BA Salvador                                   292740                            
+     24  2901 BA Salvador                                   292860                            
+     24  2901 BA Salvador                                   292920                            
+     24  2901 BA Salvador                                   292950                            
+     24  2901 BA Salvador                                   292975                            
+     24  2901 BA Salvador                                   293070                            
+     24  2901 BA Salvador                                   293320                            
+     25  2926 BA Santa Maria da Vitória                     290390                            
+     25  2926 BA Santa Maria da Vitória                     290610                            
+     25  2926 BA Santa Maria da Vitória                     290810                            
+     25  2926 BA Santa Maria da Vitória                     290910                            
+     25  2926 BA Santa Maria da Vitória                     290930                            
+     25  2926 BA Santa Maria da Vitória                     291077                            
+     25  2926 BA Santa Maria da Vitória                     291735                            
+     25  2926 BA Santa Maria da Vitória                     292810                            
+     25  2926 BA Santa Maria da Vitória                     292820                            
+     25  2926 BA Santa Maria da Vitória                     292905                            
+     25  2926 BA Santa Maria da Vitória                     293015,293025                     
+     25  2926 BA Santa Maria da Vitória                     293030                            
+     25  2926 BA Santa Maria da Vitória                     293075                            
+     26  2904 BA Santo Antônio de Jesus                     290230                            
+     26  2904 BA Santo Antônio de Jesus                     290730                            
+     26  2904 BA Santo Antônio de Jesus                     290830                            
+     26  2904 BA Santo Antônio de Jesus                     291020                            
+     26  2904 BA Santo Antônio de Jesus                     291780                            
+     26  2904 BA Santo Antônio de Jesus                     292220                            
+     26  2904 BA Santo Antônio de Jesus                     292250                            
+     26  2904 BA Santo Antônio de Jesus                     292575                            
+     26  2904 BA Santo Antônio de Jesus                     292730                            
+     26  2904 BA Santo Antônio de Jesus                     292850                            
+     26  2904 BA Santo Antônio de Jesus                     292870                            
+     26  2904 BA Santo Antônio de Jesus                     292910                            
+     26  2904 BA Santo Antônio de Jesus                     293317                            
+     27  2927 BA Seabra                                     290010                            
+     27  2927 BA Seabra                                     290400                            
+     27  2927 BA Seabra                                     291300                            
+     27  2927 BA Seabra                                     291440                            
+     27  2927 BA Seabra                                     291930                            
+     27  2927 BA Seabra                                     292190                            
+     27  2927 BA Seabra                                     292303                            
+     27  2927 BA Seabra                                     292350                            
+     27  2927 BA Seabra                                     292430                            
+     27  2927 BA Seabra                                     292990                            
+     27  2927 BA Seabra                                     293080                            
+     28  2928 BA Senhor do Bonfim                           290135                            
+     28  2928 BA Senhor do Bonfim                           290180                            
+     28  2928 BA Senhor do Bonfim                           290600                            
+     28  2928 BA Senhor do Bonfim                           291085                            
+     28  2928 BA Senhor do Bonfim                           291700                            
+     28  2928 BA Senhor do Bonfim                           291770                            
+     28  2928 BA Senhor do Bonfim                           292460                            
+     28  2928 BA Senhor do Bonfim                           292525                            
+     28  2928 BA Senhor do Bonfim                           293010                            
+     29  2912 BA Serrinha                                   290040                            
+     29  2912 BA Serrinha                                   290210                            
+     29  2912 BA Serrinha                                   290327                            
+     29  2912 BA Serrinha                                   290360                            
+     29  2912 BA Serrinha                                   290680                            
+     29  2912 BA Serrinha                                   290840                            
+     29  2912 BA Serrinha                                   291070                            
+     29  2912 BA Serrinha                                   291910                            
+     29  2912 BA Serrinha                                   292150                            
+     29  2912 BA Serrinha                                   292265                            
+     29  2912 BA Serrinha                                   292580                            
+     29  2912 BA Serrinha                                   292590                            
+     29  2912 BA Serrinha                                   292610                            
+     29  2912 BA Serrinha                                   292800                            
+     29  2912 BA Serrinha                                   292895                            
+     29  2912 BA Serrinha                                   293050                            
+     29  2912 BA Serrinha                                   293150                            
+     29  2912 BA Serrinha                                   293190                            
+     29  2912 BA Serrinha                                   293300                            
+     30  2909 BA Teixeira de Freitas                        290080                            
+     30  2909 BA Teixeira de Freitas                        290690                            
+     30  2909 BA Teixeira de Freitas                        291280                            
+     30  2909 BA Teixeira de Freitas                        291560                            
+     30  2909 BA Teixeira de Freitas                        291600                            
+     30  2909 BA Teixeira de Freitas                        291845                            
+     30  2909 BA Teixeira de Freitas                        291890                            
+     30  2909 BA Teixeira de Freitas                        292110                            
+     30  2909 BA Teixeira de Freitas                        292200                            
+     30  2909 BA Teixeira de Freitas                        292300                            
+     30  2909 BA Teixeira de Freitas                        292550                            
+     30  2909 BA Teixeira de Freitas                        293135                            
+     30  2909 BA Teixeira de Freitas                        293325                            
+     31  2920 BA Vitória da Conquista                       290120                            
+     31  2920 BA Vitória da Conquista                       290290                            
+     31  2920 BA Vitória da Conquista                       290350                            
+     31  2920 BA Vitória da Conquista                       290395                            
+     31  2920 BA Vitória da Conquista                       290515                            
+     31  2920 BA Vitória da Conquista                       290670                            
+     31  2920 BA Vitória da Conquista                       290689                            
+     31  2920 BA Vitória da Conquista                       290870                            
+     31  2920 BA Vitória da Conquista                       290900                            
+     31  2920 BA Vitória da Conquista                       291040                            
+     31  2920 BA Vitória da Conquista                       291995                            
+     31  2920 BA Vitória da Conquista                       292145                            
+     31  2920 BA Vitória da Conquista                       292470                            
+     31  2920 BA Vitória da Conquista                       292500                            
+     31  2920 BA Vitória da Conquista                       292510                            
+     31  2920 BA Vitória da Conquista                       292570                            
+     31  2920 BA Vitória da Conquista                       292665                            
+     31  2920 BA Vitória da Conquista                       293180                            
+     31  2920 BA Vitória da Conquista                       293330                            
+     32  2900 BA Município ignorado - BA                    290000,299999                     

@@ -1,0 +1,144 @@
+143  6                                                                                    
+      1  5190 Sem div.adm.estadual MT                       510010                            
+  1   2  .... Acorizal                                      510010                            
+  1   3  .... Água Boa                                      510020                            
+  1   4  .... Alta Floresta                                 510025                            
+  1   5  .... Alto Araguaia                                 510030                            
+  1   6  .... Alto Boa Vista                                510035                            
+  1   7  .... Alto Garças                                   510040                            
+  1   8  .... Alto Paraguai                                 510050                            
+  1   9  .... Alto Taquari                                  510060                            
+  1  10  .... Apiacás                                       510080                            
+  1  11  .... Araguaiana                                    510100                            
+  1  12  .... Araguainha                                    510120                            
+  1  13  .... Araputanga                                    510125                            
+  1  14  .... Arenápolis                                    510130                            
+  1  15  .... Aripuanã                                      510140                            
+  1  16  .... Barão de Melgaço                              510160                            
+  1  17  .... Barra do Bugres                               510170                            
+  1  18  .... Barra do Garças                               510180                            
+  1  19  .... Bom Jesus do Araguaia                         510185                            
+  1  20  .... Brasnorte                                     510190                            
+  1  21  .... Cáceres                                       510250                            
+  1  22  .... Campinápolis                                  510260                            
+  1  23  .... Campo Novo do Parecis                         510263                            
+  1  24  .... Campo Verde                                   510267                            
+  1  25  .... Campos de Júlio                               510268                            
+  1  26  .... Canabrava do Norte                            510269                            
+  1  27  .... Canarana                                      510270                            
+  1  28  .... Carlinda                                      510279                            
+  1  29  .... Castanheira                                   510285                            
+  1  30  .... Chapada dos Guimarães                         510300                            
+  1  31  .... Cláudia                                       510305                            
+  1  32  .... Cocalinho                                     510310                            
+  1  33  .... Colíder                                       510320                            
+  1  34  .... Colniza                                       510325                            
+  1  35  .... Comodoro                                      510330                            
+  1  36  .... Confresa                                      510335                            
+  1  37  .... Conquista D'Oeste                             510336                            
+  1  38  .... Cotriguaçu                                    510337                            
+  1  39  .... Cuiabá                                        510340                            
+  1  40  .... Curvelândia                                   510343                            
+  1  41  .... Denise                                        510345                            
+  1  42  .... Diamantino                                    510350                            
+  1  43  .... Dom Aquino                                    510360                            
+  1  44  .... Feliz Natal                                   510370                            
+  1  45  .... Figueirópolis D'Oeste                         510380                            
+  1  46  .... Gaúcha do Norte                               510385                            
+  1  47  .... General Carneiro                              510390                            
+  1  48  .... Glória D'Oeste                                510395                            
+  1  49  .... Guarantã do Norte                             510410                            
+  1  50  .... Guiratinga                                    510420                            
+  1  51  .... Indiavaí                                      510450                            
+  1  52  .... Ipiranga do Norte                             510452                            
+  1  53  .... Itanhangá                                     510454,510445                     
+  1  54  .... Itaúba                                        510455                            
+  1  55  .... Itiquira                                      510460                            
+  1  56  .... Jaciara                                       510480                            
+  1  57  .... Jangada                                       510490                            
+  1  58  .... Jauru                                         510500                            
+  1  59  .... Juara                                         510510                            
+  1  60  .... Juína                                         510515                            
+  1  61  .... Juruena                                       510517                            
+  1  62  .... Juscimeira                                    510520                            
+  1  63  .... Lambari D'Oeste                               510523                            
+  1  64  .... Lucas do Rio Verde                            510525                            
+  1  65  .... Luciara                                       510530                            
+  1  66  .... Marcelândia                                   510558                            
+  1  67  .... Matupá                                        510560                            
+  1  68  .... Mirassol d'Oeste                              510562                            
+  1  69  .... Nobres                                        510590                            
+  1  70  .... Nortelândia                                   510600                            
+  1  71  .... Nossa Senhora do Livramento                   510610                            
+  1  72  .... Nova Bandeirantes                             510615                            
+  1  73  .... Nova Brasilândia                              510620                            
+  1  74  .... Nova Canaã do Norte                           510621                            
+  1  75  .... Nova Guarita                                  510880                            
+  1  76  .... Nova Lacerda                                  510618                            
+  1  77  .... Nova Marilândia                               510885                            
+  1  78  .... Nova Maringá                                  510890                            
+  1  79  .... Nova Monte Verde                              510895                            
+  1  80  .... Nova Mutum                                    510622                            
+  1  81  .... Nova Nazaré                                   510617                            
+  1  82  .... Nova Olímpia                                  510623                            
+  1  83  .... Nova Santa Helena                             510619                            
+  1  84  .... Nova Ubiratã                                  510624                            
+  1  85  .... Nova Xavantina                                510625                            
+  1  86  .... Novo Horizonte do Norte                       510627                            
+  1  87  .... Novo Mundo                                    510626                            
+  1  88  .... Novo Santo Antônio                            510631                            
+  1  89  .... Novo São Joaquim                              510628                            
+  1  90  .... Paranaíta                                     510629                            
+  1  91  .... Paranatinga                                   510630                            
+  1  92  .... Pedra Preta                                   510637                            
+  1  93  .... Peixoto de Azevedo                            510642                            
+  1  94  .... Planalto da Serra                             510645                            
+  1  95  .... Poconé                                        510650                            
+  1  96  .... Pontal do Araguaia                            510665                            
+  1  97  .... Ponte Branca                                  510670                            
+  1  98  .... Pontes e Lacerda                              510675                            
+  1  99  .... Porto Alegre do Norte                         510677                            
+  1 100  .... Porto dos Gaúchos                             510680                            
+  1 101  .... Porto Esperidião                              510682                            
+  1 102  .... Porto Estrela                                 510685                            
+  1 103  .... Poxoréu                                       510700                            
+  1 104  .... Primavera do Leste                            510704                            
+  1 105  .... Querência                                     510706                            
+  1 106  .... Reserva do Cabaçal                            510715                            
+  1 107  .... Ribeirão Cascalheira                          510718                            
+  1 108  .... Ribeirãozinho                                 510719                            
+  1 109  .... Rio Branco                                    510720                            
+  1 110  .... Rondolândia                                   510757                            
+  1 111  .... Rondonópolis                                  510760                            
+  1 112  .... Rosário Oeste                                 510770                            
+  1 113  .... Salto do Céu                                  510775                            
+  1 114  .... Santa Carmem                                  510724                            
+  1 115  .... Santa Cruz do Xingu                           510774                            
+  1 116  .... Santa Rita do Trivelato                       510776                            
+  1 117  .... Santa Terezinha                               510777                            
+  1 118  .... Santo Afonso                                  510726                            
+  1 119  .... Santo Antônio do Leste                        510779                            
+  1 120  .... Santo Antônio do Leverger                     510780                            
+  1 121  .... São Félix do Araguaia                         510785                            
+  1 122  .... São José do Povo                              510729                            
+  1 123  .... São José do Rio Claro                         510730                            
+  1 124  .... São José do Xingu                             510735                            
+  1 125  .... São José dos Quatro Marcos                    510710                            
+  1 126  .... São Pedro da Cipa                             510740                            
+  1 127  .... Sapezal                                       510787                            
+  1 128  .... Serra Nova Dourada                            510788                            
+  1 129  .... Sinop                                         510790                            
+  1 130  .... Sorriso                                       510792                            
+  1 131  .... Tabaporã                                      510794                            
+  1 132  .... Tangará da Serra                              510795                            
+  1 133  .... Tapurah                                       510800                            
+  1 134  .... Terra Nova do Norte                           510805                            
+  1 135  .... Tesouro                                       510810                            
+  1 136  .... Torixoréu                                     510820                            
+  1 137  .... União do Sul                                  510830                            
+  1 138  .... Vale de São Domingos                          510835                            
+  1 139  .... Várzea Grande                                 510840                            
+  1 140  .... Vera                                          510850                            
+  1 141  .... Vila Bela da Santíssima Trindade              510550                            
+  1 142  .... Vila Rica                                     510860                            
+    143  5100 Município ignorado - MT                       510000,519999                     

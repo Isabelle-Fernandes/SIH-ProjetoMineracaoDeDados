@@ -1,0 +1,419 @@
+418 6
+      1   MUNICIPIO IGNORADO - BA                           290000,299999 
+      2  290010 ABAIRA                                      290010
+      3  290020 ABARE                                       290020
+      4  290030 ACAJUTIBA                                   290030
+      5  290035 ADUSTINA                                    290035
+      6  290040 AGUA FRIA                                   290040
+      7  290050 ERICO CARDOSO                               290050
+      8  290060 AIQUARA                                     290060
+      9  290070 ALAGOINHAS                                  290070
+     10  290080 ALCOBACA                                    290080
+     11  290090 ALMADINA                                    290090
+     12  290100 AMARGOSA                                    290100
+     13  290110 AMELIA RODRIGUES                            290110
+     14  290115 AMERICA DOURADA                             290115
+     15  290120 ANAGE                                       290120
+     16  290130 ANDARAI                                     290130
+     17  290135 ANDORINHA                                   290135
+     18  290140 ANGICAL                                     290140
+     19  290150 ANGUERA                                     290150
+     20  290160 ANTAS                                       290160
+     21  290170 ANTONIO CARDOSO                             290170
+     22  290180 ANTONIO GONCALVES                           290180
+     23  290190 APORA                                       290190
+     24  290195 APUAREMA                                    290195
+     25  290200 ARACATU                                     290200
+     26  290205 ARACAS                                      290205
+     27  290210 ARACI                                       290210
+     28  290220 ARAMARI                                     290220
+     29  290225 ARATACA                                     290225
+     30  290230 ARATUIPE                                    290230
+     31  290240 AURELINO LEAL                               290240
+     32  290250 BAIANOPOLIS                                 290250
+     33  290260 BAIXA GRANDE                                290260
+     34  290265 BANZAE                                      290265
+     35  290270 BARRA                                       290270
+     36  290280 BARRA DA ESTIVA                             290280
+     37  290290 BARRA DO CHOCA                              290290
+     38  290300 BARRA DO MENDES                             290300
+     39  290310 BARRA DO ROCHA                              290310
+     40  290320 BARREIRAS                                   290320
+     41  290323 BARRO ALTO                                  290323
+     42  290327 BARROCAS                                    290327
+     43  290330 BARRO PRETO                                 290330
+     44  290340 BELMONTE                                    290340
+     45  290350 BELO CAMPO                                  290350
+     46  290360 BIRITINGA                                   290360
+     47  290370 BOA NOVA                                    290370
+     48  290380 BOA VISTA DO TUPIM                          290380
+     49  290390 BOM JESUS DA LAPA                           290390
+     50  290395 BOM JESUS DA SERRA                          290395
+     51  290400 BONINAL                                     290400
+     52  290405 BONITO                                      290405
+     53  290410 BOQUIRA                                     290410
+     54  290420 BOTUPORA                                    290420
+     55  290430 BREJOES                                     290430
+     56  290440 BREJOLANDIA                                 290440
+     57  290450 BROTAS DE MACAUBAS                          290450
+     58  290460 BRUMADO                                     290460
+     59  290470 BUERAREMA                                   290470
+     60  290475 BURITIRAMA                                  290475
+     61  290480 CAATIBA                                     290480
+     62  290485 CABACEIRAS DO PARAGUACU                     290485
+     63  290490 CACHOEIRA                                   290490
+     64  290500 CACULE                                      290500
+     65  290510 CAEM                                        290510
+     66  290515 CAETANOS                                    290515
+     67  290520 CAETITE                                     290520
+     68  290530 CAFARNAUM                                   290530
+     69  290540 CAIRU                                       290540
+     70  290550 CALDEIRAO GRANDE                            290550
+     71  290560 CAMACAN                                     290560
+     72  290570 CAMACARI                                    290570
+     73  290580 CAMAMU                                      290580
+     74  290590 CAMPO ALEGRE DE LOURDES                     290590
+     75  290600 CAMPO FORMOSO                               290600
+     76  290610 CANAPOLIS                                   290610
+     77  290620 CANARANA                                    290620
+     78  290630 CANAVIEIRAS                                 290630
+     79  290640 CANDEAL                                     290640
+     80  290650 CANDEIAS                                    290650
+     81  290660 CANDIBA                                     290660
+     82  290670 CANDIDO SALES                               290670
+     83  290680 CANSANCAO                                   290680
+     84  290682 CANUDOS                                     290682
+     85  290685 CAPELA DO ALTO ALEGRE                       290685
+     86  290687 CAPIM GROSSO                                290687
+     87  290689 CARAIBAS                                    290689
+     88  290690 CARAVELAS                                   290690
+     89  290700 CARDEAL DA SILVA                            290700
+     90  290710 CARINHANHA                                  290710
+     91  290720 CASA NOVA                                   290720
+     92  290730 CASTRO ALVES                                290730
+     93  290740 CATOLANDIA                                  290740
+     94  290750 CATU                                        290750
+     95  290755 CATURAMA                                    290755
+     96  290760 CENTRAL                                     290760
+     97  290770 CHORROCHO                                   290770
+     98  290780 CICERO DANTAS                               290780
+     99  290790 CIPO                                        290790
+    100  290800 COARACI                                     290800
+    101  290810 COCOS                                       290810
+    102  290820 CONCEICAO DA FEIRA                          290820
+    103  290830 CONCEICAO DO ALMEIDA                        290830
+    104  290840 CONCEICAO DO COITE                          290840
+    105  290850 CONCEICAO DO JACUIPE                        290850
+    106  290860 CONDE                                       290860
+    107  290870 CONDEUBA                                    290870
+    108  290880 CONTENDAS DO SINCORA                        290880
+    109  290890 CORACAO DE MARIA                            290890
+    110  290900 CORDEIROS                                   290900
+    111  290910 CORIBE                                      290910
+    112  290920 CORONEL JOAO SA                             290920
+    113  290930 CORRENTINA                                  290930
+    114  290940 COTEGIPE                                    290940
+    115  290950 CRAVOLANDIA                                 290950
+    116  290960 CRISOPOLIS                                  290960
+    117  290970 CRISTOPOLIS                                 290970
+    118  290980 CRUZ DAS ALMAS                              290980
+    119  290990 CURACA                                      290990
+    120  291000 DARIO MEIRA                                 291000
+    121  291005 DIAS D'AVILA                                291005
+    122  291010 DOM BASILIO                                 291010
+    123  291020 DOM MACEDO COSTA                            291020
+    124  291030 ELISIO MEDRADO                              291030
+    125  291040 ENCRUZILHADA                                291040
+    126  291050 ENTRE RIOS                                  291050
+    127  291060 ESPLANADA                                   291060
+    128  291070 EUCLIDES DA CUNHA                           291070
+    129  291072 EUNAPOLIS                                   291072
+    130  291075 FATIMA                                      291075
+    131  291077 FEIRA DA MATA                               291077
+    132  291080 FEIRA DE SANTANA                            291080
+    133  291085 FILADELFIA                                  291085
+    134  291090 FIRMINO ALVES                               291090
+    135  291100 FLORESTA AZUL                               291100
+    136  291110 FORMOSA DO RIO PRETO                        291110
+    137  291120 GANDU                                       291120
+    138  291125 GAVIAO                                      291125
+    139  291130 GENTIO DO OURO                              291130
+    140  291140 GLORIA                                      291140
+    141  291150 GONGOGI                                     291150
+    142  291160 GOVERNADOR MANGABEIRA                       291160
+    143  291165 GUAJERU                                     291165
+    144  291170 GUANAMBI                                    291170
+    145  291180 GUARATINGA                                  291180
+    146  291185 HELIOPOLIS                                  291185
+    147  291190 IACU                                        291190
+    148  291200 IBIASSUCE                                   291200
+    149  291210 IBICARAI                                    291210
+    150  291220 IBICOARA                                    291220
+    151  291230 IBICUI                                      291230
+    152  291240 IBIPEBA                                     291240
+    153  291250 IBIPITANGA                                  291250
+    154  291260 IBIQUERA                                    291260
+    155  291270 IBIRAPITANGA                                291270
+    156  291280 IBIRAPUA                                    291280
+    157  291290 IBIRATAIA                                   291290
+    158  291300 IBITIARA                                    291300
+    159  291310 IBITITA                                     291310
+    160  291320 IBOTIRAMA                                   291320
+    161  291330 ICHU                                        291330
+    162  291340 IGAPORA                                     291340
+    163  291345 IGRAPIUNA                                   291345
+    164  291350 IGUAI                                       291350
+    165  291360 ILHEUS                                      291360
+    166  291370 INHAMBUPE                                   291370
+    167  291380 IPECAETA                                    291380
+    168  291390 IPIAU                                       291390
+    169  291400 IPIRA                                       291400
+    170  291410 IPUPIARA                                    291410
+    171  291420 IRAJUBA                                     291420
+    172  291430 IRAMAIA                                     291430
+    173  291440 IRAQUARA                                    291440
+    174  291450 IRARA                                       291450
+    175  291460 IRECE                                       291460
+    176  291465 ITABELA                                     291465
+    177  291470 ITABERABA                                   291470
+    178  291480 ITABUNA                                     291480
+    179  291490 ITACARE                                     291490
+    180  291500 ITAETE                                      291500
+    181  291510 ITAGI                                       291510
+    182  291520 ITAGIBA                                     291520
+    183  291530 ITAGIMIRIM                                  291530
+    184  291535 ITAGUACU DA BAHIA                           291535
+    185  291540 ITAJU DO COLONIA                            291540
+    186  291550 ITAJUIPE                                    291550
+    187  291560 ITAMARAJU                                   291560
+    188  291570 ITAMARI                                     291570
+    189  291580 ITAMBE                                      291580
+    190  291590 ITANAGRA                                    291590
+    191  291600 ITANHEM                                     291600
+    192  291610 ITAPARICA                                   291610
+    193  291620 ITAPE                                       291620
+    194  291630 ITAPEBI                                     291630
+    195  291640 ITAPETINGA                                  291640
+    196  291650 ITAPICURU                                   291650
+    197  291660 ITAPITANGA                                  291660
+    198  291670 ITAQUARA                                    291670
+    199  291680 ITARANTIM                                   291680
+    200  291685 ITATIM                                      291685
+    201  291690 ITIRUCU                                     291690
+    202  291700 ITIUBA                                      291700
+    203  291710 ITORORO                                     291710
+    204  291720 ITUACU                                      291720
+    205  291730 ITUBERA                                     291730
+    206  291733 IUIU                                        291733
+    207  291735 JABORANDI                                   291735
+    208  291740 JACARACI                                    291740
+    209  291750 JACOBINA                                    291750
+    210  291760 JAGUAQUARA                                  291760
+    211  291770 JAGUARARI                                   291770
+    212  291780 JAGUARIPE                                   291780
+    213  291790 JANDAIRA                                    291790
+    214  291800 JEQUIE                                      291800
+    215  291810 JEREMOABO                                   291810
+    216  291820 JIQUIRICA                                   291820
+    217  291830 JITAUNA                                     291830
+    218  291835 JOAO DOURADO                                291835
+    219  291840 JUAZEIRO                                    291840
+    220  291845 JUCURUCU                                    291845
+    221  291850 JUSSARA                                     291850
+    222  291855 JUSSARI                                     291855
+    223  291860 JUSSIAPE                                    291860
+    224  291870 LAFAIETE COUTINHO                           291870
+    225  291875 LAGOA REAL                                  291875
+    226  291880 LAJE                                        291880
+    227  291890 LAJEDAO                                     291890
+    228  291900 LAJEDINHO                                   291900
+    229  291905 LAJEDO DO TABOCAL                           291905
+    230  291910 LAMARAO                                     291910
+    231  291915 LAPAO                                       291915
+    232  291920 LAURO DE FREITAS                            291920
+    233  291930 LENCOIS                                     291930
+    234  291940 LICINIO DE ALMEIDA                          291940
+    235  291950 LIVRAMENTO DE NOSSA SENHORA                 291950
+    236  291955 LUIS EDUARDO MAGALHAES                      291955
+    237  291960 MACAJUBA                                    291960
+    238  291970 MACARANI                                    291970
+    239  291980 MACAUBAS                                    291980
+    240  291990 MACURURE                                    291990
+    241  291992 MADRE DE DEUS                               291992
+    242  291995 MAETINGA                                    291995
+    243  292000 MAIQUINIQUE                                 292000
+    244  292010 MAIRI                                       292010
+    245  292020 MALHADA                                     292020
+    246  292030 MALHADA DE PEDRAS                           292030
+    247  292040 MANOEL VITORINO                             292040
+    248  292045 MANSIDAO                                    292045
+    249  292050 MARACAS                                     292050
+    250  292060 MARAGOGIPE                                  292060
+    251  292070 MARAU                                       292070
+    252  292080 MARCIONILIO SOUZA                           292080
+    253  292090 MASCOTE                                     292090
+    254  292100 MATA DE SAO JOAO                            292100
+    255  292105 MATINA                                      292105
+    256  292110 MEDEIROS NETO                               292110
+    257  292120 MIGUEL CALMON                               292120
+    258  292130 MILAGRES                                    292130
+    259  292140 MIRANGABA                                   292140
+    260  292145 MIRANTE                                     292145
+    261  292150 MONTE SANTO                                 292150
+    262  292160 MORPARA                                     292160
+    263  292170 MORRO DO CHAPEU                             292170
+    264  292180 MORTUGABA                                   292180
+    265  292190 MUCUGE                                      292190
+    266  292200 MUCURI                                      292200
+    267  292205 MULUNGU DO MORRO                            292205
+    268  292210 MUNDO NOVO                                  292210
+    269  292220 MUNIZ FERREIRA                              292220
+    270  292225 MUQUEM DE SAO FRANCISCO                     292225
+    271  292230 MURITIBA                                    292230
+    272  292240 MUTUIPE                                     292240
+    273  292250 NAZARE                                      292250
+    274  292260 NILO PECANHA                                292260
+    275  292265 NORDESTINA                                  292265
+    276  292270 NOVA CANAA                                  292270
+    277  292273 NOVA FATIMA                                 292273
+    278  292275 NOVA IBIA                                   292275
+    279  292280 NOVA ITARANA                                292280
+    280  292285 NOVA REDENCAO                               292285
+    281  292290 NOVA SOURE                                  292290
+    282  292300 NOVA VICOSA                                 292300
+    283  292303 NOVO HORIZONTE                              292303
+    284  292305 NOVO TRIUNFO                                292305
+    285  292310 OLINDINA                                    292310
+    286  292320 OLIVEIRA DOS BREJINHOS                      292320
+    287  292330 OURICANGAS                                  292330
+    288  292335 OUROLANDIA                                  292335
+    289  292340 PALMAS DE MONTE ALTO                        292340
+    290  292350 PALMEIRAS                                   292350
+    291  292360 PARAMIRIM                                   292360
+    292  292370 PARATINGA                                   292370
+    293  292380 PARIPIRANGA                                 292380
+    294  292390 PAU BRASIL                                  292390
+    295  292400 PAULO AFONSO                                292400
+    296  292405 PE DE SERRA                                 292405
+    297  292410 PEDRAO                                      292410
+    298  292420 PEDRO ALEXANDRE                             292420
+    299  292430 PIATA                                       292430
+    300  292440 PILAO ARCADO                                292440
+    301  292450 PINDAI                                      292450
+    302  292460 PINDOBACU                                   292460
+    303  292465 PINTADAS                                    292465
+    304  292467 PIRAI DO NORTE                              292467
+    305  292470 PIRIPA                                      292470
+    306  292480 PIRITIBA                                    292480
+    307  292490 PLANALTINO                                  292490
+    308  292500 PLANALTO                                    292500
+    309  292510 POCOES                                      292510
+    310  292520 POJUCA                                      292520
+    311  292525 PONTO NOVO                                  292525
+    312  292530 PORTO SEGURO                                292530
+    313  292540 POTIRAGUA                                   292540
+    314  292550 PRADO                                       292550
+    315  292560 PRESIDENTE DUTRA                            292560
+    316  292570 PRESIDENTE JANIO QUADROS                    292570
+    317  292575 PRESIDENTE TANCREDO NEVES                   292575
+    318  292580 QUEIMADAS                                   292580
+    319  292590 QUIJINGUE                                   292590
+    320  292593 QUIXABEIRA                                  292593
+    321  292595 RAFAEL JAMBEIRO                             292595
+    322  292600 REMANSO                                     292600
+    323  292610 RETIROLANDIA                                292610
+    324  292620 RIACHAO DAS NEVES                           292620
+    325  292630 RIACHAO DO JACUIPE                          292630
+    326  292640 RIACHO DE SANTANA                           292640
+    327  292650 RIBEIRA DO AMPARO                           292650
+    328  292660 RIBEIRA DO POMBAL                           292660
+    329  292665 RIBEIRAO DO LARGO                           292665
+    330  292670 RIO DE CONTAS                               292670
+    331  292680 RIO DO ANTONIO                              292680
+    332  292690 RIO DO PIRES                                292690
+    333  292700 RIO REAL                                    292700
+    334  292710 RODELAS                                     292710
+    335  292720 RUY BARBOSA                                 292720
+    336  292730 SALINAS DA MARGARIDA                        292730
+    337  292740 SALVADOR                                    292740
+    338  292750 SANTA BARBARA                               292750
+    339  292760 SANTA BRIGIDA                               292760
+    340  292770 SANTA CRUZ CABRALIA                         292770
+    341  292780 SANTA CRUZ DA VITORIA                       292780
+    342  292790 SANTA INES                                  292790
+    343  292800 SANTALUZ                                    292800
+    344  292805 SANTA LUZIA                                 292805
+    345  292810 SANTA MARIA DA VITORIA                      292810
+    346  292820 SANTANA                                     292820
+    347  292830 SANTANOPOLIS                                292830
+    348  292840 SANTA RITA DE CASSIA                        292840
+    349  292850 SANTA TERESINHA                             292850
+    350  292860 SANTO AMARO                                 292860
+    351  292870 SANTO ANTONIO DE JESUS                      292870
+    352  292880 SANTO ESTEVAO                               292880
+    353  292890 SAO DESIDERIO                               292890
+    354  292895 SAO DOMINGOS                                292895
+    355  292900 SAO FELIX                                   292900
+    356  292905 SAO FELIX DO CORIBE                         292905
+    357  292910 SAO FELIPE                                  292910
+    358  292920 SAO FRANCISCO DO CONDE                      292920
+    359  292925 SAO GABRIEL                                 292925
+    360  292930 SAO GONCALO DOS CAMPOS                      292930
+    361  292935 SAO JOSE DA VITORIA                         292935
+    362  292937 SAO JOSE DO JACUIPE                         292937
+    363  292940 SAO MIGUEL DAS MATAS                        292940
+    364  292950 SAO SEBASTIAO DO PASSE                      292950
+    365  292960 SAPEACU                                     292960
+    366  292970 SATIRO DIAS                                 292970
+    367  292975 SAUBARA                                     292975
+    368  292980 SAUDE                                       292980
+    369  292990 SEABRA                                      292990
+    370  293000 SEBASTIAO LARANJEIRAS                       293000
+    371  293010 SENHOR DO BONFIM                            293010
+    372  293015 SERRA DO RAMALHO                            293015,293025
+    373  293020 SENTO SE                                    293020
+    374  293030 SERRA DOURADA                               293030
+    375  293040 SERRA PRETA                                 293040
+    376  293050 SERRINHA                                    293050
+    377  293060 SERROLANDIA                                 293060
+    378  293070 SIMOES FILHO                                293070
+    379  293075 SITIO DO MATO                               293075
+    380  293076 SITIO DO QUINTO                             293076
+    381  293077 SOBRADINHO                                  293077
+    382  293080 SOUTO SOARES                                293080
+    383  293090 TABOCAS DO BREJO VELHO                      293090
+    384  293100 TANHACU                                     293100
+    385  293105 TANQUE NOVO                                 293105
+    386  293110 TANQUINHO                                   293110
+    387  293120 TAPEROA                                     293120
+    388  293130 TAPIRAMUTA                                  293130
+    389  293135 TEIXEIRA DE FREITAS                         293135
+    390  293140 TEODORO SAMPAIO                             293140
+    391  293150 TEOFILANDIA                                 293150
+    392  293160 TEOLANDIA                                   293160
+    393  293170 TERRA NOVA                                  293170
+    394  293180 TREMEDAL                                    293180
+    395  293190 TUCANO                                      293190
+    396  293200 UAUA                                        293200
+    397  293210 UBAIRA                                      293210
+    398  293220 UBAITABA                                    293220
+    399  293230 UBATA                                       293230
+    400  293240 UIBAI                                       293240
+    401  293245 UMBURANAS                                   293245
+    402  293250 UNA                                         293250
+    403  293260 URANDI                                      293260
+    404  293270 URUCUCA                                     293270
+    405  293280 UTINGA                                      293280
+    406  293290 VALENCA                                     293290
+    407  293300 VALENTE                                     293300
+    408  293305 VARZEA DA ROCA                              293305
+    409  293310 VARZEA DO POCO                              293310
+    410  293315 VARZEA NOVA                                 293315
+    411  293317 VARZEDO                                     293317
+    412  293320 VERA CRUZ                                   293320
+    413  293325 VEREDA                                      293325
+    414  293330 VITORIA DA CONQUISTA                        293330
+    415  293340 WAGNER                                      293340
+    416  293345 WANDERLEY                                   293345
+    417  293350 WENCESLAU GUIMARAES                         293350
+    418  293360 XIQUE-XIQUE                                 293360

@@ -1,0 +1,647 @@
+64  6                                                  35X091                            
+      1  35091 SP Adamantina                                350010                            
+      1  35091 SP Adamantina                                351600                            
+      1  35091 SP Adamantina                                352080                            
+      1  35091 SP Adamantina                                352740                            
+      1  35091 SP Adamantina                                352890                            
+      1  35091 SP Adamantina                                353460                            
+      1  35091 SP Adamantina                                353490                            
+      1  35091 SP Adamantina                                354085                            
+      1  35091 SP Adamantina                                354470                            
+      2  35082 Alta Anhanguera                              35X082                            
+      2  35082 SP Alta Anhanguera                           352130                            
+      2  35082 SP Alta Anhanguera                           353190                            
+      2  35082 SP Alta Anhanguera                           353360                            
+      2  35082 SP Alta Anhanguera                           353430                            
+      2  35082 SP Alta Anhanguera                           354490                            
+      3  35083 Alta Mogiana                                 35X083                            
+      3  35083 SP Alta Mogiana                              350300                            
+      3  35083 SP Alta Mogiana                              350820                            
+      3  35083 SP Alta Mogiana                              351770                            
+      3  35083 SP Alta Mogiana                              352010                            
+      3  35083 SP Alta Mogiana                              352410                            
+      4  35111 Alta Paulista                                35X111                            
+      4  35111 SP Alta Paulista                             351440                            
+      4  35111 SP Alta Paulista                             351580                            
+      4  35111 SP Alta Paulista                             352160                            
+      4  35111 SP Alta Paulista                             352600                            
+      4  35111 SP Alta Paulista                             353160                            
+      4  35111 SP Alta Paulista                             353310                            
+      4  35111 SP Alta Paulista                             353480                            
+      4  35111 SP Alta Paulista                             353540                            
+      4  35111 SP Alta Paulista                             353640                            
+      4  35111 SP Alta Paulista                             354710                            
+      4  35111 SP Alta Paulista                             354930                            
+      5  35112 Alta Sorocabana                              35X112                            
+      5  35112 SP Alta Sorocabana                           350080                            
+      5  35112 SP Alta Sorocabana                           350130                            
+      5  35112 SP Alta Sorocabana                           350240                            
+      5  35112 SP Alta Sorocabana                           350890                            
+      5  35112 SP Alta Sorocabana                           351512                            
+      5  35112 SP Alta Sorocabana                           351530                            
+      5  35112 SP Alta Sorocabana                           352060                            
+      5  35112 SP Alta Sorocabana                           352920                            
+      5  35112 SP Alta Sorocabana                           353220                            
+      5  35112 SP Alta Sorocabana                           353920                            
+      5  35112 SP Alta Sorocabana                           354120                            
+      5  35112 SP Alta Sorocabana                           354140                            
+      5  35112 SP Alta Sorocabana                           354240                            
+      5  35112 SP Alta Sorocabana                           354323                            
+      5  35112 SP Alta Sorocabana                           354550                            
+      5  35112 SP Alta Sorocabana                           354770                            
+      5  35112 SP Alta Sorocabana                           354830                            
+      5  35112 SP Alta Sorocabana                           355290                            
+      6  35113 Alto Capivari                                35X113                            
+      6  35113 SP Alto Capivari                             351990                            
+      6  35113 SP Alto Capivari                             352560                            
+      6  35113 SP Alto Capivari                             353215                            
+      6  35113 SP Alto Capivari                             354170                            
+      7  35171 Alto Vale do Paraíba                         35X171                            
+      7  35171 SP Alto Vale do Paraíba                      350850                            
+      7  35171 SP Alto Vale do Paraíba                      352020                            
+      7  35171 SP Alto Vale do Paraíba                      352440                            
+      7  35171 SP Alto Vale do Paraíba                      352490                            
+      7  35171 SP Alto Vale do Paraíba                      353170                            
+      7  35171 SP Alto Vale do Paraíba                      353560                            
+      7  35171 SP Alto Vale do Paraíba                      354600                            
+      8  35011 Alto do Tietê                                35X011                            
+      8  35011 SP Alto do Tietê                             350390                            
+      8  35011 SP Alto do Tietê                             350660                            
+      8  35011 SP Alto do Tietê                             351570                            
+      8  35011 SP Alto do Tietê                             351830                            
+      8  35011 SP Alto do Tietê                             351880                            
+      8  35011 SP Alto do Tietê                             352310                            
+      8  35011 SP Alto do Tietê                             353060                            
+      8  35011 SP Alto do Tietê                             353980                            
+      8  35011 SP Alto do Tietê                             354500                            
+      8  35011 SP Alto do Tietê                             354680                            
+      9  35132 Aquífero Guarani                             35X132                            
+      9  35132 SP Aquífero Guarani                          351310                            
+      9  35132 SP Aquífero Guarani                          351885                            
+      9  35132 SP Aquífero Guarani                          352510                            
+      9  35132 SP Aquífero Guarani                          352760                            
+      9  35132 SP Aquífero Guarani                          354340                            
+      9  35132 SP Aquífero Guarani                          354750                            
+      9  35132 SP Aquífero Guarani                          354760                            
+      9  35132 SP Aquífero Guarani                          355090                            
+      9  35132 SP Aquífero Guarani                          355140                            
+     10  35101 Araras                                       35X101                            
+     10  35101 SP Araras                                    350330                            
+     10  35101 SP Araras                                    351220                            
+     10  35101 SP Araras                                    352670                            
+     10  35101 SP Araras                                    353930                            
+     11  35092 Assis                                        35X092                            
+     11  35092 SP Assis                                     350400                            
+     11  35092 SP Assis                                     350720                            
+     11  35092 SP Assis                                     351000                            
+     11  35092 SP Assis                                     351330                            
+     11  35092 SP Assis                                     351610                            
+     11  35092 SP Assis                                     352790                            
+     11  35092 SP Assis                                     352880                            
+     11  35092 SP Assis                                     353530                            
+     11  35092 SP Assis                                     353550                            
+     11  35092 SP Assis                                     353715                            
+     11  35092 SP Assis                                     353970                            
+     12  35141 Baixa Mogiana                                35X141                            
+     12  35141 SP Baixa Mogiana                             352260                            
+     12  35141 SP Baixa Mogiana                             353070                            
+     12  35141 SP Baixa Mogiana                             353080                            
+     13  35041 Baixada Santista                             35X041                            
+     13  35041 SP Baixada Santista                          350635                            
+     13  35041 SP Baixada Santista                          351350                            
+     13  35041 SP Baixada Santista                          351870                            
+     13  35041 SP Baixada Santista                          352210                            
+     13  35041 SP Baixada Santista                          353110                            
+     13  35041 SP Baixada Santista                          353760                            
+     13  35041 SP Baixada Santista                          354100                            
+     13  35041 SP Baixada Santista                          354850                            
+     14  35062 Bauru                                        35X062                            
+     14  35062 SP Bauru                                     350070                            
+     14  35062 SP Bauru                                     350340                            
+     14  35062 SP Bauru                                     350430                            
+     14  35062 SP Bauru                                     350470                            
+     14  35062 SP Bauru                                     350600                            
+     14  35062 SP Bauru                                     350745                            
+     14  35062 SP Bauru                                     350830                            
+     14  35062 SP Bauru                                     351450                            
+     14  35062 SP Bauru                                     351910                            
+     14  35062 SP Bauru                                     352680                            
+     14  35062 SP Bauru                                     352750                            
+     14  35062 SP Bauru                                     352800                            
+     14  35062 SP Bauru                                     353657                            
+     14  35062 SP Bauru                                     353670                            
+     14  35062 SP Bauru                                     353890                            
+     14  35062 SP Bauru                                     353940                            
+     14  35062 SP Bauru                                     354110                            
+     15  35071 Bragança                                     35X071                            
+     15  35071 SP Bragança                                  350410                            
+     15  35071 SP Bragança                                  350710                            
+     15  35071 SP Bragança                                  350760                            
+     15  35071 SP Bragança                                  352550                            
+     15  35071 SP Bragança                                  353240                            
+     15  35071 SP Bragança                                  353680                            
+     15  35071 SP Bragança                                  353820                            
+     15  35071 SP Bragança                                  353860                            
+     15  35071 SP Bragança                                  355210                            
+     15  35071 SP Bragança                                  355495                            
+     16  35151 Catanduva                                    35X151                            
+     16  35151 SP Catanduva                                 350370                            
+     16  35151 SP Catanduva                                 351110                            
+     16  35151 SP Catanduva                                 351120                            
+     16  35151 SP Catanduva                                 351492                            
+     16  35151 SP Catanduva                                 351495                            
+     16  35151 SP Catanduva                                 351560                            
+     16  35151 SP Catanduva                                 352150                            
+     16  35151 SP Catanduva                                 352190                            
+     16  35151 SP Catanduva                                 352885                            
+     16  35151 SP Catanduva                                 353325                            
+     16  35151 SP Catanduva                                 353350                            
+     16  35151 SP Catanduva                                 353510                            
+     16  35151 SP Catanduva                                 353570                            
+     16  35151 SP Catanduva                                 353810                            
+     16  35151 SP Catanduva                                 353900                            
+     16  35151 SP Catanduva                                 354480                            
+     16  35151 SP Catanduva                                 354560                            
+     16  35151 SP Catanduva                                 355260                            
+     17  35021 Central do DRS II                            35X021                            
+     17  35021 SP Central do DRS II                         350280                            
+     17  35021 SP Central do DRS II                         350420                            
+     17  35021 SP Central do DRS II                         350620                            
+     17  35021 SP Central do DRS II                         350640                            
+     17  35021 SP Central do DRS II                         351820                            
+     17  35021 SP Central do DRS II                         351890                            
+     17  35021 SP Central do DRS II                         353286                            
+     17  35021 SP Central do DRS II                         353330                            
+     17  35021 SP Central do DRS II                         354440                            
+     17  35021 SP Central do DRS II                         354805                            
+     18  35031 Central do DRS III                           35X031                            
+     18  35031 SP Central do DRS III                        350170                            
+     18  35031 SP Central do DRS III                        350320                            
+     18  35031 SP Central do DRS III                        350670                            
+     18  35031 SP Central do DRS III                        351685                            
+     18  35031 SP Central do DRS III                        353205                            
+     18  35031 SP Central do DRS III                        354370                            
+     18  35031 SP Central do DRS III                        354690                            
+     19  35032 Centro Oeste do DRS III                      35X032                            
+     19  35032 SP Centro Oeste do DRS III                   350740                            
+     19  35032 SP Centro Oeste do DRS III                   351960                            
+     19  35032 SP Centro Oeste do DRS III                   352270                            
+     19  35032 SP Centro Oeste do DRS III                   353290                            
+     20  35172 Circ. da Fé/V.Histórico                      35X172                            
+     20  35172 SP Circuito da Fé e Vale Histórico           350250                            
+     20  35172 SP Circuito da Fé e Vale Histórico           350315                            
+     20  35172 SP Circuito da Fé e Vale Histórico           350350                            
+     20  35172 SP Circuito da Fé e Vale Histórico           350490                            
+     20  35172 SP Circuito da Fé e Vale Histórico           350860                            
+     20  35172 SP Circuito da Fé e Vale Histórico           350995                            
+     20  35172 SP Circuito da Fé e Vale Histórico           351340                            
+     20  35172 SP Circuito da Fé e Vale Histórico           351360                            
+     20  35172 SP Circuito da Fé e Vale Histórico           351840                            
+     20  35172 SP Circuito da Fé e Vale Histórico           352660                            
+     20  35172 SP Circuito da Fé e Vale Histórico           352720                            
+     20  35172 SP Circuito da Fé e Vale Histórico           353850                            
+     20  35172 SP Circuito da Fé e Vale Histórico           354075                            
+     20  35172 SP Circuito da Fé e Vale Histórico           354190                            
+     20  35172 SP Circuito da Fé e Vale Histórico           354430                            
+     20  35172 SP Circuito da Fé e Vale Histórico           354960                            
+     21  35074 Circuito das Águas                           35X074                            
+     21  35074 SP Circuito das Águas                        350050                            
+     21  35074 SP Circuito das Águas                        350190                            
+     21  35074 SP Circuito das Águas                        352700                            
+     21  35074 SP Circuito das Águas                        353120                            
+     22  35023 Consórcios do DRS II                         35X023                            
+     22  35023 SP Consórcios do DRS II                      350110                            
+     22  35023 SP Consórcios do DRS II                      350440                            
+     22  35023 SP Consórcios do DRS II                      350510                            
+     22  35023 SP Consórcios do DRS II                      350650                            
+     22  35023 SP Consórcios do DRS II                      350770                            
+     22  35023 SP Consórcios do DRS II                      350775                            
+     22  35023 SP Consórcios do DRS II                      350810                            
+     22  35023 SP Consórcios do DRS II                      351190                            
+     22  35023 SP Consórcios do DRS II                      351250                            
+     22  35023 SP Consórcios do DRS II                      351650                            
+     22  35023 SP Consórcios do DRS II                      351710                            
+     22  35023 SP Consórcios do DRS II                      352725                            
+     22  35023 SP Consórcios do DRS II                      352770                            
+     22  35023 SP Consórcios do DRS II                      353730                            
+     22  35023 SP Consórcios do DRS II                      353770                            
+     22  35023 SP Consórcios do DRS II                      354840                            
+     23  35034 Coração do DRS III                           35X034                            
+     23  35034 SP Coração do DRS III                        351370                            
+     23  35034 SP Coração do DRS III                        351430                            
+     23  35034 SP Coração do DRS III                        351930                            
+     23  35034 SP Coração do DRS III                        354070                            
+     23  35034 SP Coração do DRS III                        354290                            
+     24  35114 Extremo Oeste Paulista                       35X114                            
+     24  35114 SP Extremo Oeste Paulista                    350910                            
+     24  35114 SP Extremo Oeste Paulista                    352870                            
+     24  35114 SP Extremo Oeste Paulista                    353830                            
+     24  35114 SP Extremo Oeste Paulista                    354130                            
+     25  35154 Fernandópolis                                35X154                            
+     25  35154 SP Fernandópolis                             351520                            
+     25  35154 SP Fernandópolis                             351550                            
+     25  35154 SP Fernandópolis                             351800                            
+     25  35154 SP Fernandópolis                             352070                            
+     25  35154 SP Fernandópolis                             352820                            
+     25  35154 SP Fernandópolis                             352960                            
+     25  35154 SP Fernandópolis                             353000                            
+     25  35154 SP Fernandópolis                             353475                            
+     25  35154 SP Fernandópolis                             353690                            
+     25  35154 SP Fernandópolis                             354040                            
+     25  35154 SP Fernandópolis                             354920                            
+     25  35154 SP Fernandópolis                             354925                            
+     26  35012 Franco da Rocha                              35X012                            
+     26  35012 SP Franco da Rocha                           350900                            
+     26  35012 SP Franco da Rocha                           350920                            
+     26  35012 SP Franco da Rocha                           351630                            
+     26  35012 SP Franco da Rocha                           351640                            
+     27  35015 Grande ABC                                   35X015                            
+     27  35015 SP Grande ABC                                351380                            
+     27  35015 SP Grande ABC                                352940                            
+     27  35015 SP Grande ABC                                354330                            
+     27  35015 SP Grande ABC                                354410                            
+     27  35015 SP Grande ABC                                354780                            
+     27  35015 SP Grande ABC                                354870                            
+     28  35131 Horizonte Verde                              35X131                            
+     28  35131 SP Horizonte Verde                           350560                            
+     28  35131 SP Horizonte Verde                           351460                            
+     28  35131 SP Horizonte Verde                           351860                            
+     28  35131 SP Horizonte Verde                           352430                            
+     28  35131 SP Horizonte Verde                           353130                            
+     28  35131 SP Horizonte Verde                           353950                            
+     28  35131 SP Horizonte Verde                           354020                            
+     28  35131 SP Horizonte Verde                           354090                            
+     29  35161 Itapetininga                                 35X161                            
+     29  35161 SP Itapetininga                              350075                            
+     29  35161 SP Itapetininga                              350220                            
+     29  35161 SP Itapetininga                              350945                            
+     29  35161 SP Itapetininga                              351020                            
+     29  35161 SP Itapetininga                              351150                            
+     29  35161 SP Itapetininga                              351160                            
+     29  35161 SP Itapetininga                              351850                            
+     29  35161 SP Itapetininga                              352230                            
+     29  35161 SP Itapetininga                              354165                            
+     29  35161 SP Itapetininga                              354325                            
+     29  35161 SP Itapetininga                              355020                            
+     29  35161 SP Itapetininga                              355110                            
+     30  35162 Itapeva                                      35X162                            
+     30  35162 SP Itapeva                                   350270                            
+     30  35162 SP Itapeva                                   350535                            
+     30  35162 SP Itapeva                                   350715                            
+     30  35162 SP Itapeva                                   350800                            
+     30  35162 SP Itapeva                                   351760                            
+     30  35162 SP Itapeva                                   352170                            
+     30  35162 SP Itapeva                                   352215                            
+     30  35162 SP Itapeva                                   352240                            
+     30  35162 SP Itapeva                                   352265                            
+     30  35162 SP Itapeva                                   352320                            
+     30  35162 SP Itapeva                                   353282                            
+     30  35162 SP Itapeva                                   354280                            
+     30  35162 SP Itapeva                                   354300                            
+     30  35162 SP Itapeva                                   354350                            
+     31  35153 Jales                                        35X153                            
+     31  35153 SP Jales                                     350260                            
+     31  35153 SP Jales                                     350395                            
+     31  35153 SP Jales                                     351385                            
+     31  35153 SP Jales                                     351420                            
+     31  35153 SP Jales                                     352480                            
+     31  35153 SP Jales                                     352910                            
+     31  35153 SP Jales                                     352965                            
+     31  35153 SP Jales                                     353520                            
+     31  35153 SP Jales                                     353590                            
+     31  35153 SP Jales                                     354025                            
+     31  35153 SP Jales                                     354570                            
+     31  35153 SP Jales                                     354720                            
+     31  35153 SP Jales                                     354765                            
+     31  35153 SP Jales                                     354900                            
+     31  35153 SP Jales                                     355580                            
+     32  35064 Jaú                                          35X064                            
+     32  35064 SP Jaú                                       350520                            
+     32  35064 SP Jaú                                       350530                            
+     32  35064 SP Jaú                                       350680                            
+     32  35064 SP Jaú                                       350730                            
+     32  35064 SP Jaú                                       350790                            
+     32  35064 SP Jaú                                       351410                            
+     32  35064 SP Jaú                                       352000                            
+     32  35064 SP Jaú                                       352200                            
+     32  35064 SP Jaú                                       352290                            
+     32  35064 SP Jaú                                       352530                            
+     32  35064 SP Jaú                                       352980                            
+     33  35156 José Bonifácio                               35X156                            
+     33  35156 SP José Bonifácio                            350020                            
+     33  35156 SP José Bonifácio                            352450                            
+     33  35156 SP José Bonifácio                            352570                            
+     33  35156 SP José Bonifácio                            352950                            
+     33  35156 SP José Bonifácio                            353140                            
+     33  35156 SP José Bonifácio                            353270                            
+     33  35156 SP José Bonifácio                            353960                            
+     33  35156 SP José Bonifácio                            353990                            
+     33  35156 SP José Bonifácio                            355535                            
+     33  35156 SP José Bonifácio                            355570                            
+     34  35073 Jundiaí                                      35X073                            
+     34  35073 SP Jundiaí                                   350840                            
+     34  35073 SP Jundiaí                                   350960                            
+     34  35073 SP Jundiaí                                   352400                            
+     34  35073 SP Jundiaí                                   352520                            
+     34  35073 SP Jundiaí                                   352590                            
+     34  35073 SP Jundiaí                                   352730                            
+     35  35022 Lagos do DRS II                              35X022                            
+     35  35022 SP Lagos do DRS II                           350210                            
+     35  35022 SP Lagos do DRS II                           351100                            
+     35  35022 SP Lagos do DRS II                           351780                            
+     35  35022 SP Lagos do DRS II                           352044                            
+     35  35022 SP Lagos do DRS II                           352300                            
+     35  35022 SP Lagos do DRS II                           352650                            
+     35  35022 SP Lagos do DRS II                           353010                            
+     35  35022 SP Lagos do DRS II                           353210                            
+     35  35022 SP Lagos do DRS II                           353320                            
+     35  35022 SP Lagos do DRS II                           353740                            
+     35  35022 SP Lagos do DRS II                           355230                            
+     36  35102 Limeira                                      35X102                            
+     36  35102 SP Limeira                                   351240                            
+     36  35102 SP Limeira                                   351515                            
+     36  35102 SP Limeira                                   352140                            
+     37  35065 Lins                                         35X065                            
+     37  35065 SP Lins                                      350880                            
+     37  35065 SP Lins                                      351700                            
+     37  35065 SP Lins                                      351720                            
+     37  35065 SP Lins                                      352710                            
+     37  35065 SP Lins                                      354010                            
+     37  35065 SP Lins                                      354160                            
+     37  35065 SP Lins                                      354460                            
+     38  35173 Litoral Norte                                35X173                            
+     38  35173 SP Litoral Norte                             351050                            
+     38  35173 SP Litoral Norte                             352040                            
+     38  35173 SP Litoral Norte                             355070                            
+     39  35013 Mananciais                                   35X013                            
+     39  35013 SP Mananciais                                351300                            
+     39  35013 SP Mananciais                                351500                            
+     39  35013 SP Mananciais                                351510                            
+     39  35013 SP Mananciais                                352220                            
+     39  35013 SP Mananciais                                352620                            
+     39  35013 SP Mananciais                                354995                            
+     39  35013 SP Mananciais                                355280                            
+     40  35142 Mantiqueira                                  35X142                            
+     40  35142 SP Mantiqueira                               350030                            
+     40  35142 SP Mantiqueira                               350040                            
+     40  35142 SP Mantiqueira                               351518                            
+     40  35142 SP Mantiqueira                               354630                            
+     40  35142 SP Mantiqueira                               354810                            
+     40  35142 SP Mantiqueira                               354910                            
+     40  35142 SP Mantiqueira                               355330                            
+     41  35093 Marília                                      35X093                            
+     41  35093 SP Marília                                   350140                            
+     41  35093 SP Marília                                   350150                            
+     41  35093 SP Marília                                   350980                            
+     41  35093 SP Marília                                   351470                            
+     41  35093 SP Marília                                   351565                            
+     41  35093 SP Marília                                   351660                            
+     41  35093 SP Marília                                   351670                            
+     41  35093 SP Marília                                   351730                            
+     41  35093 SP Marília                                   351810                            
+     41  35093 SP Marília                                   352580                            
+     41  35093 SP Marília                                   352780                            
+     41  35093 SP Marília                                   352900                            
+     41  35093 SP Marília                                   353370                            
+     41  35093 SP Marília                                   353410                            
+     41  35093 SP Marília                                   353450                            
+     41  35093 SP Marília                                   354000                            
+     41  35093 SP Marília                                   354200                            
+     41  35093 SP Marília                                   355550                            
+     42  35051 Norte - Barretos                             35X051                            
+     42  35051 SP Norte - Barretos                          350090                            
+     42  35051 SP Norte - Barretos                          350550                            
+     42  35051 SP Norte - Barretos                          350930                            
+     42  35051 SP Norte - Barretos                          351200                            
+     42  35051 SP Norte - Barretos                          351210                            
+     42  35051 SP Norte - Barretos                          351740                            
+     42  35051 SP Norte - Barretos                          351790                            
+     42  35051 SP Norte - Barretos                          352420                            
+     42  35051 SP Norte - Barretos                          353390                            
+     43  35033 Norte do DRS III                             35X033                            
+     43  35033 SP Norte do DRS III                          351010                            
+     43  35033 SP Norte do DRS III                          351400                            
+     43  35033 SP Norte do DRS III                          352930                            
+     43  35033 SP Norte do DRS III                          354650                            
+     44  35094 Ourinhos                                     35X094                            
+     44  35094 SP Ourinhos                                  350630                            
+     44  35094 SP Ourinhos                                  351015                            
+     44  35094 SP Ourinhos                                  351519                            
+     44  35094 SP Ourinhos                                  351950                            
+     44  35094 SP Ourinhos                                  352090                            
+     44  35094 SP Ourinhos                                  353380                            
+     44  35094 SP Ourinhos                                  353470                            
+     44  35094 SP Ourinhos                                  354320                            
+     44  35094 SP Ourinhos                                  354540                            
+     44  35094 SP Ourinhos                                  354640                            
+     44  35094 SP Ourinhos                                  355050                            
+     44  35094 SP Ourinhos                                  355460                            
+     45  35103 Piracicaba                                   35X103                            
+     45  35103 SP Piracicaba                                350060                            
+     45  35103 SP Piracicaba                                351040                            
+     45  35103 SP Piracicaba                                351170                            
+     45  35103 SP Piracicaba                                351490                            
+     45  35103 SP Piracicaba                                353090                            
+     45  35103 SP Piracicaba                                353870                            
+     45  35103 SP Piracicaba                                354210                            
+     45  35103 SP Piracicaba                                354400                            
+     45  35103 SP Piracicaba                                354515                            
+     45  35103 SP Piracicaba                                354700                            
+     46  35063 Polo Cuesta                                  35X063                            
+     46  35063 SP Polo Cuesta                               350230                            
+     46  35063 SP Polo Cuesta                               350360                            
+     46  35063 SP Polo Cuesta                               350690                            
+     46  35063 SP Polo Cuesta                               350750                            
+     46  35063 SP Polo Cuesta                               351230                            
+     46  35063 SP Polo Cuesta                               352350                            
+     46  35063 SP Polo Cuesta                               352640                            
+     46  35063 SP Polo Cuesta                               353610                            
+     46  35063 SP Polo Cuesta                               353750                            
+     46  35063 SP Polo Cuesta                               354050                            
+     46  35063 SP Polo Cuesta                               354105                            
+     46  35063 SP Polo Cuesta                               355010                            
+     47  35115 Pontal do Paranapanema                       35X115                            
+     47  35115 SP Pontal do Paranapanema                    351535                            
+     47  35115 SP Pontal do Paranapanema                    353020                            
+     47  35115 SP Pontal do Paranapanema                    354425                            
+     48  35072 Reg Metro Campinas                           35X072                            
+     48  35072 SP Região Metropolitana de Campinas          350160                            
+     48  35072 SP Região Metropolitana de Campinas          350380                            
+     48  35072 SP Região Metropolitana de Campinas          350950                            
+     48  35072 SP Região Metropolitana de Campinas          351280                            
+     48  35072 SP Região Metropolitana de Campinas          351905                            
+     48  35072 SP Região Metropolitana de Campinas          351907                            
+     48  35072 SP Região Metropolitana de Campinas          352050                            
+     48  35072 SP Região Metropolitana de Campinas          352340                            
+     48  35072 SP Região Metropolitana de Campinas          352470                            
+     48  35072 SP Região Metropolitana de Campinas          353180                            
+     48  35072 SP Região Metropolitana de Campinas          353200                            
+     48  35072 SP Região Metropolitana de Campinas          353340                            
+     48  35072 SP Região Metropolitana de Campinas          353650                            
+     48  35072 SP Região Metropolitana de Campinas          353710                            
+     48  35072 SP Região Metropolitana de Campinas          354580                            
+     48  35072 SP Região Metropolitana de Campinas          354800                            
+     48  35072 SP Região Metropolitana de Campinas          355240                            
+     48  35072 SP Região Metropolitana de Campinas          355620                            
+     49  35104 Rio Claro                                    35X104                            
+     49  35104 SP Rio Claro                                 350200                            
+     49  35104 SP Rio Claro                                 351270                            
+     49  35104 SP Rio Claro                                 352110                            
+     49  35104 SP Rio Claro                                 352360                            
+     49  35104 SP Rio Claro                                 354390                            
+     50  35143 Rio Pardo                                    35X143                            
+     50  35143 SP Rio Pardo                                 350870                            
+     50  35143 SP Rio Pardo                                 351080                            
+     50  35143 SP Rio Pardo                                 351390                            
+     50  35143 SP Rio Pardo                                 352380                            
+     50  35143 SP Rio Pardo                                 353050                            
+     50  35143 SP Rio Pardo                                 354970                            
+     50  35143 SP Rio Pardo                                 355080                            
+     51  35014 Rota dos Bandeirantes                        35X014                            
+     51  35014 SP Rota dos Bandeirantes                     350570                            
+     51  35014 SP Rota dos Bandeirantes                     351060                            
+     51  35014 SP Rota dos Bandeirantes                     352250                            
+     51  35014 SP Rota dos Bandeirantes                     352500                            
+     51  35014 SP Rota dos Bandeirantes                     353440                            
+     51  35014 SP Rota dos Bandeirantes                     353910                            
+     52  35152 Santa Fé do Sul                              35X152                            
+     52  35152 SP Santa Fé do Sul                           353284                            
+     52  35152 SP Santa Fé do Sul                           354450                            
+     52  35152 SP Santa Fé do Sul                           354610                            
+     52  35152 SP Santa Fé do Sul                           354660                            
+     52  35152 SP Santa Fé do Sul                           354740                            
+     53  35163 Sorocaba                                     35X163                            
+     53  35163 SP Sorocaba                                  350115                            
+     53  35163 SP Sorocaba                                  350275                            
+     53  35163 SP Sorocaba                                  350290                            
+     53  35163 SP Sorocaba                                  350700                            
+     53  35163 SP Sorocaba                                  351030                            
+     53  35163 SP Sorocaba                                  351970                            
+     53  35163 SP Sorocaba                                  352100                            
+     53  35163 SP Sorocaba                                  352390                            
+     53  35163 SP Sorocaba                                  352585                            
+     53  35163 SP Sorocaba                                  352840                            
+     53  35163 SP Sorocaba                                  353780                            
+     53  35163 SP Sorocaba                                  353790                            
+     53  35163 SP Sorocaba                                  354060                            
+     53  35163 SP Sorocaba                                  354520                            
+     53  35163 SP Sorocaba                                  354530                            
+     53  35163 SP Sorocaba                                  355060                            
+     53  35163 SP Sorocaba                                  355220                            
+     53  35163 SP Sorocaba                                  355350                            
+     53  35163 SP Sorocaba                                  355450                            
+     54  35052 Sul - Barretos                               35X052                            
+     54  35052 SP Sul - Barretos                            350610                            
+     54  35052 SP Sul - Barretos                            353150                            
+     54  35052 SP Sul - Barretos                            355310                            
+     54  35052 SP Sul - Barretos                            355320                            
+     54  35052 SP Sul - Barretos                            355365                            
+     54  35052 SP Sul - Barretos                            355440                            
+     54  35052 SP Sul - Barretos                            355680                            
+     55  35155 São José do Rio Preto                        35X155                            
+     55  35155 SP São José do Rio Preto                     350460                            
+     55  35155 SP São José do Rio Preto                     350480                            
+     55  35155 SP São José do Rio Preto                     351130                            
+     55  35155 SP São José do Rio Preto                     351750                            
+     55  35155 SP São José do Rio Preto                     351940                            
+     55  35155 SP São José do Rio Preto                     351980                            
+     55  35155 SP São José do Rio Preto                     352115                            
+     55  35155 SP São José do Rio Preto                     353030                            
+     55  35155 SP São José do Rio Preto                     353040                            
+     55  35155 SP São José do Rio Preto                     353250                            
+     55  35155 SP São José do Rio Preto                     353280                            
+     55  35155 SP São José do Rio Preto                     353300                            
+     55  35155 SP São José do Rio Preto                     353400                            
+     55  35155 SP São José do Rio Preto                     353420                            
+     55  35155 SP São José do Rio Preto                     353500                            
+     55  35155 SP São José do Rio Preto                     353660                            
+     55  35155 SP São José do Rio Preto                     354080                            
+     55  35155 SP São José do Rio Preto                     354980                            
+     55  35155 SP São José do Rio Preto                     355340                            
+     56  35016 São Paulo                                    35X016                            
+     57  35081 Três Colinas                                 35X081,358001-358058              
+     57  35081 SP Três Colinas                              351320                            
+     57  35081 SP Três Colinas                              351620                            
+     57  35081 SP Três Colinas                              352370                            
+     57  35081 SP Três Colinas                              352540                            
+     57  35081 SP Três Colinas                              353630                            
+     57  35081 SP Três Colinas                              353700                            
+     57  35081 SP Três Colinas                              354270                            
+     57  35081 SP Três Colinas                              354310                            
+     57  35081 SP Três Colinas                              354360                            
+     58  35095 Tupã                                         35X095                            
+     58  35095 SP Tupã                                      350335                            
+     58  35095 SP Tupã                                      350580                            
+     58  35095 SP Tupã                                      351900                            
+     58  35095 SP Tupã                                      351920                            
+     58  35095 SP Tupã                                      353600                            
+     58  35095 SP Tupã                                      354180                            
+     58  35095 SP Tupã                                      354380                            
+     59  35133 Vale das Cachoeiras                          35X133                            
+     59  35133 SP Vale das Cachoeiras                       350100                            
+     59  35133 SP Vale das Cachoeiras                       350590                            
+     59  35133 SP Vale das Cachoeiras                       350780                            
+     59  35133 SP Vale das Cachoeiras                       350940                            
+     59  35133 SP Vale das Cachoeiras                       351090                            
+     59  35133 SP Vale das Cachoeiras                       354625                            
+     60  35061 Vale do Jurumirim                            35X061                            
+     60  35061 SP Vale do Jurumirim                         350055                            
+     60  35061 SP Vale do Jurumirim                         350310                            
+     60  35061 SP Vale do Jurumirim                         350450                            
+     60  35061 SP Vale do Jurumirim                         350500                            
+     60  35061 SP Vale do Jurumirim                         351140                            
+     60  35061 SP Vale do Jurumirim                         351260                            
+     60  35061 SP Vale do Jurumirim                         351540                            
+     60  35061 SP Vale do Jurumirim                         351925                            
+     60  35061 SP Vale do Jurumirim                         352180                            
+     60  35061 SP Vale do Jurumirim                         352280                            
+     60  35061 SP Vale do Jurumirim                         352860                            
+     60  35061 SP Vale do Jurumirim                         353580                            
+     60  35061 SP Vale do Jurumirim                         353880                            
+     60  35061 SP Vale do Jurumirim                         355120                            
+     60  35061 SP Vale do Jurumirim                         355300                            
+     60  35061 SP Vale do Jurumirim                         355380                            
+     61  35174 V. Paraíba-Reg. Serrana                      35X174                            
+     61  35174 SP Vale do Paraíba/Região Serrana            350970                            
+     61  35174 SP Vale do Paraíba/Região Serrana            352630                            
+     61  35174 SP Vale do Paraíba/Região Serrana            353230                            
+     61  35174 SP Vale do Paraíba/Região Serrana            353800                            
+     61  35174 SP Vale do Paraíba/Região Serrana            354230                            
+     61  35174 SP Vale do Paraíba/Região Serrana            354820                            
+     61  35174 SP Vale do Paraíba/Região Serrana            354860                            
+     61  35174 SP Vale do Paraíba/Região Serrana            355000                            
+     61  35174 SP Vale do Paraíba/Região Serrana            355410                            
+     62  35121 Vale do Ribeira                              35X121                            
+     62  35121 SP Vale do Ribeira                           350540                            
+     62  35121 SP Vale do Ribeira                           350925                            
+     62  35121 SP Vale do Ribeira                           350990                            
+     62  35121 SP Vale do Ribeira                           351480                            
+     62  35121 SP Vale do Ribeira                           352030                            
+     62  35121 SP Vale do Ribeira                           352042                            
+     62  35121 SP Vale do Ribeira                           352120                            
+     62  35121 SP Vale do Ribeira                           352330                            
+     62  35121 SP Vale do Ribeira                           352460                            
+     62  35121 SP Vale do Ribeira                           352610                            
+     62  35121 SP Vale do Ribeira                           352990                            
+     62  35121 SP Vale do Ribeira                           353620                            
+     62  35121 SP Vale do Ribeira                           353720                            
+     62  35121 SP Vale do Ribeira                           354260                            
+     63  35157 Votuporanga                                  35X157                            
+     63  35157 SP Votuporanga                               350120                            
+     63  35157 SP Votuporanga                               350180                            
+     63  35157 SP Votuporanga                               351070                            
+     63  35157 SP Votuporanga                               351290                            
+     63  35157 SP Votuporanga                               351590                            
+     63  35157 SP Votuporanga                               351680                            
+     63  35157 SP Votuporanga                               351690                            
+     63  35157 SP Votuporanga                               352810                            
+     63  35157 SP Votuporanga                               352830                            
+     63  35157 SP Votuporanga                               353100                            
+     63  35157 SP Votuporanga                               353260                            
+     63  35157 SP Votuporanga                               353625                            
+     63  35157 SP Votuporanga                               354030                            
+     63  35157 SP Votuporanga                               354420                            
+     63  35157 SP Votuporanga                               355130                            
+     63  35157 SP Votuporanga                               355610                            
+     64  35000 Município ignorado - SP                      35X000                            
+     64  35000 SP Município ignorado - SP                   350000,359999                     

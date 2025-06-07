@@ -1,0 +1,186 @@
+34 6
+      1  23001 LITORAL DE CAMOCIM E ACARAU                  230020
+      1  23001 LITORAL DE CAMOCIM E ACARAU                  230205
+      1  23001 LITORAL DE CAMOCIM E ACARAU                  230230
+      1  23001 LITORAL DE CAMOCIM E ACARAU                  230260
+      1  23001 LITORAL DE CAMOCIM E ACARAU                  230390
+      1  23001 LITORAL DE CAMOCIM E ACARAU                  230425
+      1  23001 LITORAL DE CAMOCIM E ACARAU                  230470
+      1  23001 LITORAL DE CAMOCIM E ACARAU                  230655
+      1  23001 LITORAL DE CAMOCIM E ACARAU                  230725
+      1  23001 LITORAL DE CAMOCIM E ACARAU                  230780
+      1  23001 LITORAL DE CAMOCIM E ACARAU                  230790
+      1  23001 LITORAL DE CAMOCIM E ACARAU                  230890
+      2  23002 IBIAPABA                                     230340
+      2  23002 IBIAPABA                                     230423
+      2  23002 IBIAPABA                                     230500
+      2  23002 IBIAPABA                                     230530
+      2  23002 IBIAPABA                                     231230
+      2  23002 IBIAPABA                                     231340
+      2  23002 IBIAPABA                                     231360
+      2  23002 IBIAPABA                                     231410
+      3  23003 COREAU                                       230400
+      3  23003 COREAU                                       230450
+      3  23003 COREAU                                       230880
+      3  23003 COREAU                                       231390
+      4  23004 MERUOCA                                      230050
+      4  23004 MERUOCA                                      230820
+      5  23005 SOBRAL                                       230310
+      5  23005 SOBRAL                                       230435
+      5  23005 SOBRAL                                       230465
+      5  23005 SOBRAL                                       230490
+      5  23005 SOBRAL                                       230610
+      5  23005 SOBRAL                                       230800
+      5  23005 SOBRAL                                       230837
+      5  23005 SOBRAL                                       230900
+      5  23005 SOBRAL                                       230990
+      5  23005 SOBRAL                                       231200
+      5  23005 SOBRAL                                       231280
+      5  23005 SOBRAL                                       231290
+      6  23006 IPU                                          230580
+      6  23006 IPU                                          230590
+      6  23006 IPU                                          231095
+      6  23006 IPU                                          231100
+      6  23006 IPU                                          231170
+      6  23006 IPU                                          231395
+      7  23007 SANTA QUITERIA                               230365
+      7  23007 SANTA QUITERIA                               230520
+      7  23007 SANTA QUITERIA                               231220
+      8  23008 ITAPIPOCA                                    230075
+      8  23008 ITAPIPOCA                                    230640
+      8  23008 ITAPIPOCA                                    231350
+      9  23009 BAIXO CURU                                   231020
+      9  23009 BAIXO CURU                                   231025
+      9  23009 BAIXO CURU                                   231240
+     10  23010 URUBURETAMA                                  230630
+     10  23010 URUBURETAMA                                  231355
+     10  23010 URUBURETAMA                                  231375
+     10  23010 URUBURETAMA                                  231380
+     11  23011 MEDIO CURU                                   230090
+     11  23011 MEDIO CURU                                   230460
+     11  23011 MEDIO CURU                                   231070
+     11  23011 MEDIO CURU                                   231260
+     11  23011 MEDIO CURU                                   231335
+     12  23012 CANINDE                                      230280
+     12  23012 CANINDE                                      230300
+     12  23012 CANINDE                                      230660
+     12  23012 CANINDE                                      231040
+     13  23013 BATURITE                                     230015
+     13  23013 BATURITE                                     230120
+     13  23013 BATURITE                                     230140
+     13  23013 BATURITE                                     230210
+     13  23013 BATURITE                                     230290
+     13  23013 BATURITE                                     230510
+     13  23013 BATURITE                                     230650
+     13  23013 BATURITE                                     230910
+     13  23013 BATURITE                                     230980
+     13  23013 BATURITE                                     231010
+     13  23013 BATURITE                                     231160
+     14  23014 CHOROZINHO                                   230195
+     14  23014 CHOROZINHO                                   230395
+     14  23014 CHOROZINHO                                   230945
+     15  23015 CASCAVEL                                     230220
+     15  23015 CASCAVEL                                     230350
+     15  23015 CASCAVEL                                     231085
+     16  23016 FORTALEZA                                    230100
+     16  23016 FORTALEZA                                    230370
+     16  23016 FORTALEZA                                    230428
+     16  23016 FORTALEZA                                    230440
+     16  23016 FORTALEZA                                    230495
+     16  23016 FORTALEZA                                    230625
+     16  23016 FORTALEZA                                    230765
+     16  23016 FORTALEZA                                    230770
+     16  23016 FORTALEZA                                    230970
+     17  23017 PACAJUS                                      230523
+     17  23017 PACAJUS                                      230960
+     18  23018 SERTAO DE CRATEUS                            230125
+     18  23018 SERTAO DE CRATEUS                            230410
+     18  23018 SERTAO DE CRATEUS                            230560
+     18  23018 SERTAO DE CRATEUS                            230565
+     18  23018 SERTAO DE CRATEUS                            230860
+     18  23018 SERTAO DE CRATEUS                            230930
+     18  23018 SERTAO DE CRATEUS                            230940
+     18  23018 SERTAO DE CRATEUS                            231126
+     18  23018 SERTAO DE CRATEUS                            231320
+     19  23019 SERTAO DE QUIXERAMOBIM                       230185
+     19  23019 SERTAO DE QUIXERAMOBIM                       230240
+     19  23019 SERTAO DE QUIXERAMOBIM                       230393
+     19  23019 SERTAO DE QUIXERAMOBIM                       230526
+     19  23019 SERTAO DE QUIXERAMOBIM                       230763
+     19  23019 SERTAO DE QUIXERAMOBIM                       231130
+     19  23019 SERTAO DE QUIXERAMOBIM                       231140
+     20  23020 SERTAO DE INHAMUNS                           230040
+     20  23020 SERTAO DE INHAMUNS                           230150
+     20  23020 SERTAO DE INHAMUNS                           230360
+     20  23020 SERTAO DE INHAMUNS                           231030
+     20  23020 SERTAO DE INHAMUNS                           231190
+     20  23020 SERTAO DE INHAMUNS                           231330
+     21  23021 SERTAO DE SENADOR POMPEU                     230030
+     21  23021 SERTAO DE SENADOR POMPEU                     230426
+     21  23021 SERTAO DE SENADOR POMPEU                     230835
+     21  23021 SERTAO DE SENADOR POMPEU                     230850
+     21  23021 SERTAO DE SENADOR POMPEU                     231050
+     21  23021 SERTAO DE SENADOR POMPEU                     231090
+     21  23021 SERTAO DE SENADOR POMPEU                     231270
+     21  23021 SERTAO DE SENADOR POMPEU                     231300
+     22  23022 LITORAL DE ARACATI                           230110
+     22  23022 LITORAL DE ARACATI                           230445
+     22  23022 LITORAL DE ARACATI                           230535
+     22  23022 LITORAL DE ARACATI                           230620
+     23  23023 BAIXO JAGUARIBE                              230070
+     23  23023 BAIXO JAGUARIBE                              230533
+     23  23023 BAIXO JAGUARIBE                              230700
+     23  23023 BAIXO JAGUARIBE                              230760
+     23  23023 BAIXO JAGUARIBE                              230870
+     23  23023 BAIXO JAGUARIBE                              231000
+     23  23023 BAIXO JAGUARIBE                              231150
+     23  23023 BAIXO JAGUARIBE                              231180
+     23  23023 BAIXO JAGUARIBE                              231250
+     23  23023 BAIXO JAGUARIBE                              231310
+     24  23024 MEDIO JAGUARIBE                              230670
+     24  23024 MEDIO JAGUARIBE                              230680
+     24  23024 MEDIO JAGUARIBE                              230690
+     25  23025 SERRA DO PEREIRO                             230427
+     25  23025 SERRA DO PEREIRO                             230600
+     25  23025 SERRA DO PEREIRO                             231080
+     25  23025 SERRA DO PEREIRO                             231123
+     26  23026 IGUATU                                       230380
+     26  23026 IGUATU                                       230540
+     26  23026 IGUATU                                       230550
+     26  23026 IGUATU                                       230950
+     26  23026 IGUATU                                       231135
+     27  23027 VARZEA ALEGRE                                230080
+     27  23027 VARZEA ALEGRE                                230330
+     27  23027 VARZEA ALEGRE                                230740
+     27  23027 VARZEA ALEGRE                                231325
+     27  23027 VARZEA ALEGRE                                231400
+     28  23028 LAVRAS DA MANGABEIRA                         230180
+     28  23028 LAVRAS DA MANGABEIRA                         230570
+     28  23028 LAVRAS DA MANGABEIRA                         230750
+     28  23028 LAVRAS DA MANGABEIRA                         231370
+     29  23029 CHAPADA DO ARARIPE                           230130
+     29  23029 CHAPADA DO ARARIPE                           230160
+     29  23029 CHAPADA DO ARARIPE                           230270
+     29  23029 CHAPADA DO ARARIPE                           231120
+     29  23029 CHAPADA DO ARARIPE                           231195
+     30  23030 CARIRIACU                                    230060
+     30  23030 CARIRIACU                                    230320
+     30  23030 CARIRIACU                                    230430
+     30  23030 CARIRIACU                                    230480
+     31  23031 BARRO                                        230170
+     31  23031 BARRO                                        230200
+     31  23031 BARRO                                        230810
+     32  23032 CARIRI                                       230190
+     32  23032 CARIRI                                       230420
+     32  23032 CARIRI                                       230710
+     32  23032 CARIRI                                       230730
+     32  23032 CARIRI                                       230840
+     32  23032 CARIRI                                       230920
+     32  23032 CARIRI                                       231110
+     32  23032 CARIRI                                       231210
+     33  23033 BREJO SANTO                                  230010
+     33  23033 BREJO SANTO                                  230250
+     33  23033 BREJO SANTO                                  230720
+     33  23033 BREJO SANTO                                  230830
+     33  23033 BREJO SANTO                                  231060
+     34  Ignorado - CE                                      230000,239999

@@ -1,0 +1,297 @@
+18 6
+      1  42001 Extremo Oeste                                420080
+      1  42001 Extremo Oeste                                420208
+      1  42001 Extremo Oeste                                420209
+      1  42001 Extremo Oeste                                420215
+      1  42001 Extremo Oeste                                420257
+      1  42001 Extremo Oeste                                420490
+      1  42001 Extremo Oeste                                420500
+      1  42001 Extremo Oeste                                420535
+      1  42001 Extremo Oeste                                420640
+      1  42001 Extremo Oeste                                420660
+      1  42001 Extremo Oeste                                420765
+      1  42001 Extremo Oeste                                420775
+      1  42001 Extremo Oeste                                420840
+      1  42001 Extremo Oeste                                421050
+      1  42001 Extremo Oeste                                421090
+      1  42001 Extremo Oeste                                421100
+      1  42001 Extremo Oeste                                421200
+      1  42001 Extremo Oeste                                421223
+      1  42001 Extremo Oeste                                421415
+      1  42001 Extremo Oeste                                421520
+      1  42001 Extremo Oeste                                421535
+      1  42001 Extremo Oeste                                421555
+      1  42001 Extremo Oeste                                421568
+      1  42001 Extremo Oeste                                421625
+      1  42001 Extremo Oeste                                421670
+      1  42001 Extremo Oeste                                421715
+      1  42001 Extremo Oeste                                421720
+      1  42001 Extremo Oeste                                421730
+      1  42001 Extremo Oeste                                421795
+      1  42001 Extremo Oeste                                421875
+      2  42002 Oeste                                        420050
+      2  42002 Oeste                                        420055
+      2  42002 Oeste                                        420165
+      2  42002 Oeste                                        420310
+      2  42002 Oeste                                        420410
+      2  42002 Oeste                                        420420
+      2  42002 Oeste                                        420435
+      2  42002 Oeste                                        420440
+      2  42002 Oeste                                        420470
+      2  42002 Oeste                                        420475
+      2  42002 Oeste                                        420543
+      2  42002 Oeste                                        420665
+      2  42002 Oeste                                        420785
+      2  42002 Oeste                                        420895
+      2  42002 Oeste                                        421140
+      2  42002 Oeste                                        421145
+      2  42002 Oeste                                        421187
+      2  42002 Oeste                                        421210
+      2  42002 Oeste                                        421290
+      2  42002 Oeste                                        421315
+      2  42002 Oeste                                        421420
+      2  42002 Oeste                                        421507
+      2  42002 Oeste                                        421569
+      2  42002 Oeste                                        421600
+      2  42002 Oeste                                        421755
+      2  42002 Oeste                                        421775
+      2  42002 Oeste                                        421885
+      3  42003 Xanxerê                                      420010
+      3  42003 Xanxerê                                      420253
+      3  42003 Xanxerê                                      420350
+      3  42003 Xanxerê                                      420445
+      3  42003 Xanxerê                                      420517
+      3  42003 Xanxerê                                      420530
+      3  42003 Xanxerê                                      420560
+      3  42003 Xanxerê                                      420768
+      3  42003 Xanxerê                                      420917
+      3  42003 Xanxerê                                      420945
+      3  42003 Xanxerê                                      421055
+      3  42003 Xanxerê                                      421165
+      3  42003 Xanxerê                                      421185
+      3  42003 Xanxerê                                      421227
+      3  42003 Xanxerê                                      421340
+      3  42003 Xanxerê                                      421575
+      3  42003 Xanxerê                                      421610
+      3  42003 Xanxerê                                      421690
+      3  42003 Xanxerê                                      421910
+      3  42003 Xanxerê                                      421950
+      3  42003 Xanxerê                                      421970
+      4  42004 Alto Vale do Itajaí                          420020
+      4  42004 Alto Vale do Itajaí                          420030
+      4  42004 Alto Vale do Itajaí                          420180
+      4  42004 Alto Vale do Itajaí                          420190
+      4  42004 Alto Vale do Itajaí                          420285
+      4  42004 Alto Vale do Itajaí                          420419
+      4  42004 Alto Vale do Itajaí                          420510
+      4  42004 Alto Vale do Itajaí                          420690
+      4  42004 Alto Vale do Itajaí                          420740
+      4  42004 Alto Vale do Itajaí                          420850
+      4  42004 Alto Vale do Itajaí                          420915
+      4  42004 Alto Vale do Itajaí                          420950
+      4  42004 Alto Vale do Itajaí                          420990
+      4  42004 Alto Vale do Itajaí                          421085
+      4  42004 Alto Vale do Itajaí                          421270
+      4  42004 Alto Vale do Itajaí                          421370
+      4  42004 Alto Vale do Itajaí                          421400
+      4  42004 Alto Vale do Itajaí                          421410
+      4  42004 Alto Vale do Itajaí                          421450
+      4  42004 Alto Vale do Itajaí                          421460
+      4  42004 Alto Vale do Itajaí                          421480
+      4  42004 Alto Vale do Itajaí                          421530
+      4  42004 Alto Vale do Itajaí                          421567
+      4  42004 Alto Vale do Itajaí                          421780
+      4  42004 Alto Vale do Itajaí                          421860
+      4  42004 Alto Vale do Itajaí                          421920
+      4  42004 Alto Vale do Itajaí                          421935
+      4  42004 Alto Vale do Itajaí                          421940
+      5  42005 Foz do Rio Itajaí                            420200
+      5  42005 Foz do Rio Itajaí                            420245
+      5  42005 Foz do Rio Itajaí                            420320
+      5  42005 Foz do Rio Itajaí                            420710
+      5  42005 Foz do Rio Itajaí                            420820
+      5  42005 Foz do Rio Itajaí                            420830
+      5  42005 Foz do Rio Itajaí                            421000
+      5  42005 Foz do Rio Itajaí                            421130
+      5  42005 Foz do Rio Itajaí                            421250
+      5  42005 Foz do Rio Itajaí                            421280
+      5  42005 Foz do Rio Itajaí                            421350
+      6  42006 Médio Vale do Itajaí                         420125
+      6  42006 Médio Vale do Itajaí                         420170
+      6  42006 Médio Vale do Itajaí                         420220
+      6  42006 Médio Vale do Itajaí                         420240
+      6  42006 Médio Vale do Itajaí                         420270
+      6  42006 Médio Vale do Itajaí                         420290
+      6  42006 Médio Vale do Itajaí                         420515
+      6  42006 Médio Vale do Itajaí                         420590
+      6  42006 Médio Vale do Itajaí                         420630
+      6  42006 Médio Vale do Itajaí                         420750
+      6  42006 Médio Vale do Itajaí                         421320
+      6  42006 Médio Vale do Itajaí                         421470
+      6  42006 Médio Vale do Itajaí                         421510
+      6  42006 Médio Vale do Itajaí                         421820
+      7  42007 Grande Florianópolis                         420060
+      7  42007 Grande Florianópolis                         420070
+      7  42007 Grande Florianópolis                         420090
+      7  42007 Grande Florianópolis                         420110
+      7  42007 Grande Florianópolis                         420120
+      7  42007 Grande Florianópolis                         420230
+      7  42007 Grande Florianópolis                         420370
+      7  42007 Grande Florianópolis                         420540
+      7  42007 Grande Florianópolis                         420570
+      7  42007 Grande Florianópolis                         420600
+      7  42007 Grande Florianópolis                         420980
+      7  42007 Grande Florianópolis                         421020
+      7  42007 Grande Florianópolis                         421150
+      7  42007 Grande Florianópolis                         421190
+      7  42007 Grande Florianópolis                         421230
+      7  42007 Grande Florianópolis                         421430
+      7  42007 Grande Florianópolis                         421570
+      7  42007 Grande Florianópolis                         421590
+      7  42007 Grande Florianópolis                         421630
+      7  42007 Grande Florianópolis                         421660
+      7  42007 Grande Florianópolis                         421725
+      7  42007 Grande Florianópolis                         421800
+      8  42008 Meio Oeste                                   420005
+      8  42008 Meio Oeste                                   420040
+      8  42008 Meio Oeste                                   420287
+      8  42008 Meio Oeste                                   420360
+      8  42008 Meio Oeste                                   420390
+      8  42008 Meio Oeste                                   420400
+      8  42008 Meio Oeste                                   420415
+      8  42008 Meio Oeste                                   420520
+      8  42008 Meio Oeste                                   420670
+      8  42008 Meio Oeste                                   420680
+      8  42008 Meio Oeste                                   420860
+      8  42008 Meio Oeste                                   420900
+      8  42008 Meio Oeste                                   420920
+      8  42008 Meio Oeste                                   421003
+      8  42008 Meio Oeste                                   421105
+      8  42008 Meio Oeste                                   421180
+      8  42008 Meio Oeste                                   421850
+      8  42008 Meio Oeste                                   421915
+      8  42008 Meio Oeste                                   421917
+      8  42008 Meio Oeste                                   421985
+      9  42009 Alto Vale do Rio do Peixe                    420160
+      9  42009 Alto Vale do Rio do Peixe                    420300
+      9  42009 Alto Vale do Rio do Peixe                    420315
+      9  42009 Alto Vale do Rio do Peixe                    420480
+      9  42009 Alto Vale do Rio do Peixe                    420550
+      9  42009 Alto Vale do Rio do Peixe                    420555
+      9  42009 Alto Vale do Rio do Peixe                    420675
+      9  42009 Alto Vale do Rio do Peixe                    420757
+      9  42009 Alto Vale do Rio do Peixe                    420970
+      9  42009 Alto Vale do Rio do Peixe                    421005
+      9  42009 Alto Vale do Rio do Peixe                    421070
+      9  42009 Alto Vale do Rio do Peixe                    421300
+      9  42009 Alto Vale do Rio do Peixe                    421335
+      9  42009 Alto Vale do Rio do Peixe                    421440
+      9  42009 Alto Vale do Rio do Peixe                    421540
+      9  42009 Alto Vale do Rio do Peixe                    421550
+      9  42009 Alto Vale do Rio do Peixe                    421605
+      9  42009 Alto Vale do Rio do Peixe                    421790
+      9  42009 Alto Vale do Rio do Peixe                    421825
+      9  42009 Alto Vale do Rio do Peixe                    421930
+     10  42010 Alto Uruguai Catarinense                     420075
+     10  42010 Alto Uruguai Catarinense                     420127
+     10  42010 Alto Uruguai Catarinense                     420430
+     10  42010 Alto Uruguai Catarinense                     420760
+     10  42010 Alto Uruguai Catarinense                     420770
+     10  42010 Alto Uruguai Catarinense                     420780
+     10  42010 Alto Uruguai Catarinense                     420800
+     10  42010 Alto Uruguai Catarinense                     420985
+     10  42010 Alto Uruguai Catarinense                     421260
+     10  42010 Alto Uruguai Catarinense                     421310
+     10  42010 Alto Uruguai Catarinense                     421390
+     10  42010 Alto Uruguai Catarinense                     421750
+     10  42010 Alto Uruguai Catarinense                     421960
+     11  42011 Nordeste                                     420130
+     11  42011 Nordeste                                     420205
+     11  42011 Nordeste                                     420580
+     11  42011 Nordeste                                     420845
+     11  42011 Nordeste                                     420910
+     11  42011 Nordeste                                     421620
+     12  42012 Planalto Norte                               420213
+     12  42012 Planalto Norte                               420330
+     12  42012 Planalto Norte                               420380
+     12  42012 Planalto Norte                               420790
+     12  42012 Planalto Norte                               420810
+     12  42012 Planalto Norte                               421010
+     12  42012 Planalto Norte                               421030
+     12  42012 Planalto Norte                               421110
+     12  42012 Planalto Norte                               421220
+     12  42012 Planalto Norte                               421360
+     12  42012 Planalto Norte                               421500
+     12  42012 Planalto Norte                               421580
+     12  42012 Planalto Norte                               421830
+     13  42013 Serra Catarinense                            420100
+     13  42013 Serra Catarinense                            420243
+     13  42013 Serra Catarinense                            420250
+     13  42013 Serra Catarinense                            420260
+     13  42013 Serra Catarinense                            420325
+     13  42013 Serra Catarinense                            420340
+     13  42013 Serra Catarinense                            420417
+     13  42013 Serra Catarinense                            420455
+     13  42013 Serra Catarinense                            420930
+     13  42013 Serra Catarinense                            421175
+     13  42013 Serra Catarinense                            421189
+     13  42013 Serra Catarinense                            421205
+     13  42013 Serra Catarinense                            421330
+     13  42013 Serra Catarinense                            421505
+     13  42013 Serra Catarinense                            421650
+     13  42013 Serra Catarinense                            421680
+     13  42013 Serra Catarinense                            421890
+     13  42013 Serra Catarinense                            421895
+     14  42014 Extremo Sul Catarinense                      420140
+     14  42014 Extremo Sul Catarinense                      420195
+     14  42014 Extremo Sul Catarinense                      420207
+     14  42014 Extremo Sul Catarinense                      420519
+     14  42014 Extremo Sul Catarinense                      420870
+     14  42014 Extremo Sul Catarinense                      421040
+     14  42014 Extremo Sul Catarinense                      421080
+     14  42014 Extremo Sul Catarinense                      421125
+     14  42014 Extremo Sul Catarinense                      421225
+     14  42014 Extremo Sul Catarinense                      421380
+     14  42014 Extremo Sul Catarinense                      421565
+     14  42014 Extremo Sul Catarinense                      421640
+     14  42014 Extremo Sul Catarinense                      421770
+     14  42014 Extremo Sul Catarinense                      421810
+     14  42014 Extremo Sul Catarinense                      421880
+     15  42015 Carbonífera                                  420425
+     15  42015 Carbonífera                                  420460
+     15  42015 Carbonífera                                  420545
+     15  42015 Carbonífera                                  420700
+     15  42015 Carbonífera                                  420960
+     15  42015 Carbonífera                                  421120
+     15  42015 Carbonífera                                  421160
+     15  42015 Carbonífera                                  421170
+     15  42015 Carbonífera                                  421760
+     15  42015 Carbonífera                                  421835
+     15  42015 Carbonífera                                  421900
+     15  42015 Carbonífera                                  422000
+     16  42016 Laguna                                       420150
+     16  42016 Laguna                                       420280
+     16  42016 Laguna                                       420395
+     16  42016 Laguna                                       420610
+     16  42016 Laguna                                       420620
+     16  42016 Laguna                                       420720
+     16  42016 Laguna                                       420730
+     16  42016 Laguna                                       420880
+     16  42016 Laguna                                       420940
+     16  42016 Laguna                                       421240
+     16  42016 Laguna                                       421265
+     16  42016 Laguna                                       421490
+     16  42016 Laguna                                       421545
+     16  42016 Laguna                                       421560
+     16  42016 Laguna                                       421700
+     16  42016 Laguna                                       421710
+     16  42016 Laguna                                       421840
+     16  42016 Laguna                                       421870
+     17  42017 Vale do Itapocú                              420210
+     17  42017 Vale do Itapocú                              420450
+     17  42017 Vale do Itapocú                              420650
+     17  42017 Vale do Itapocú                              420890
+     17  42017 Vale do Itapocú                              421060
+     17  42017 Vale do Itapocú                              421635
+     17  42017 Vale do Itapocú                              421740
+     18  Ignorado - SC                                      420000,429999

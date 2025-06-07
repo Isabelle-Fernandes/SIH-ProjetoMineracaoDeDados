@@ -1,0 +1,225 @@
+14  6                                                                                    
+      1  25010 João Pessoa - PB                             250060                            
+      1  25010 João Pessoa - PB                             250180                            
+      1  25010 João Pessoa - PB                             250300                            
+      1  25010 João Pessoa - PB                             250320                            
+      1  25010 João Pessoa - PB                             250460                            
+      1  25010 João Pessoa - PB                             250490                            
+      1  25010 João Pessoa - PB                             250750,257507                     
+      1  25010 João Pessoa - PB                             250860                            
+      1  25010 João Pessoa - PB                             251120                            
+      1  25010 João Pessoa - PB                             251190                            
+      1  25010 João Pessoa - PB                             251290                            
+      1  25010 João Pessoa - PB                             251370                            
+      2  25020 Campina Grande - PB                          250053                            
+      2  25020 Campina Grande - PB                          250130                            
+      2  25020 Campina Grande - PB                          250157                            
+      2  25020 Campina Grande - PB                          250215                            
+      2  25020 Campina Grande - PB                          250250                            
+      2  25020 Campina Grande - PB                          250400,254009                     
+      2  25020 Campina Grande - PB                          250435                            
+      2  25020 Campina Grande - PB                          250610                            
+      2  25020 Campina Grande - PB                          250625                            
+      2  25020 Campina Grande - PB                          250720                            
+      2  25020 Campina Grande - PB                          250830                            
+      2  25020 Campina Grande - PB                          250920                            
+      2  25020 Campina Grande - PB                          250933                            
+      2  25020 Campina Grande - PB                          250990                            
+      2  25020 Campina Grande - PB                          251240                            
+      2  25020 Campina Grande - PB                          251250                            
+      2  25020 Campina Grande - PB                          251315                            
+      2  25020 Campina Grande - PB                          251580                            
+      2  25020 Campina Grande - PB                          251700                            
+      3  25030 Guarabira - PB                               250050,250502                     
+      3  25030 Guarabira - PB                               250080                            
+      3  25030 Guarabira - PB                               250190                            
+      3  25030 Guarabira - PB                               250270                            
+      3  25030 Guarabira - PB                               250360                            
+      3  25030 Guarabira - PB                               250520                            
+      3  25030 Guarabira - PB                               250580                            
+      3  25030 Guarabira - PB                               250630                            
+      3  25030 Guarabira - PB                               250820                            
+      3  25030 Guarabira - PB                               250855                            
+      3  25030 Guarabira - PB                               250980                            
+      3  25030 Guarabira - PB                               251160                            
+      3  25030 Guarabira - PB                               251170                            
+      3  25030 Guarabira - PB                               251180                            
+      3  25030 Guarabira - PB                               251560                            
+      3  25030 Guarabira - PB                               251590                            
+      3  25030 Guarabira - PB                               251593                            
+      4  25040 Patos - PB                                   250115                            
+      4  25040 Patos - PB                                   250340                            
+      4  25040 Patos - PB                                   250355                            
+      4  25040 Patos - PB                                   250450                            
+      4  25040 Patos - PB                                   250540                            
+      4  25040 Patos - PB                                   250550                            
+      4  25040 Patos - PB                                   250590                            
+      4  25040 Patos - PB                                   250780                            
+      4  25040 Patos - PB                                   250870                            
+      4  25040 Patos - PB                                   250880                            
+      4  25040 Patos - PB                                   250939                            
+      4  25040 Patos - PB                                   251070                            
+      4  25040 Patos - PB                                   251080                            
+      4  25040 Patos - PB                                   251260                            
+      4  25040 Patos - PB                                   251300                            
+      4  25040 Patos - PB                                   251340                            
+      4  25040 Patos - PB                                   251380                            
+      4  25040 Patos - PB                                   251440                            
+      4  25040 Patos - PB                                   251460                            
+      4  25040 Patos - PB                                   251470                            
+      4  25040 Patos - PB                                   251490                            
+      4  25040 Patos - PB                                   251670                            
+      4  25040 Patos - PB                                   251710                            
+      5  25050 Esperança - PB                               250040                            
+      5  25050 Esperança - PB                               250057                            
+      5  25050 Esperança - PB                               250110                            
+      5  25050 Esperança - PB                               250120                            
+      5  25050 Esperança - PB                               250600                            
+      5  25050 Esperança - PB                               250950                            
+      5  25050 Esperança - PB                               251200                            
+      5  25050 Esperança - PB                               251270                            
+      5  25050 Esperança - PB                               251510                            
+      6  25060 Cajazeiras - PB                              250070                            
+      6  25060 Cajazeiras - PB                              250205                            
+      6  25060 Cajazeiras - PB                              250220                            
+      6  25060 Cajazeiras - PB                              250240                            
+      6  25060 Cajazeiras - PB                              250330                            
+      6  25060 Cajazeiras - PB                              250370                            
+      6  25060 Cajazeiras - PB                              250410                            
+      6  25060 Cajazeiras - PB                              250960                            
+      6  25060 Cajazeiras - PB                              251203                            
+      6  25060 Cajazeiras - PB                              251207                            
+      6  25060 Cajazeiras - PB                              251330                            
+      6  25060 Cajazeiras - PB                              251365                            
+      6  25060 Cajazeiras - PB                              251450                            
+      6  25060 Cajazeiras - PB                              251680                            
+      6  25060 Cajazeiras - PB                              251690                            
+      7  25070 Vale do Piancó - PB                          250020                            
+      7  25070 Vale do Piancó - PB                          250210                            
+      7  25070 Vale do Piancó - PB                          250260                            
+      7  25070 Vale do Piancó - PB                          250420                            
+      7  25070 Vale do Piancó - PB                          250440                            
+      7  25070 Vale do Piancó - PB                          250480                            
+      7  25070 Vale do Piancó - PB                          250530                            
+      7  25070 Vale do Piancó - PB                          250560                            
+      7  25070 Vale do Piancó - PB                          250660                            
+      7  25070 Vale do Piancó - PB                          250700                            
+      7  25070 Vale do Piancó - PB                          251020                            
+      7  25070 Vale do Piancó - PB                          251130                            
+      7  25070 Vale do Piancó - PB                          251335                            
+      7  25070 Vale do Piancó - PB                          251350                            
+      7  25070 Vale do Piancó - PB                          251360                            
+      7  25070 Vale do Piancó - PB                          251430                            
+      7  25070 Vale do Piancó - PB                          251570                            
+      8  25080 Barra de Santa Rosa - PB                     250153                            
+      8  25080 Barra de Santa Rosa - PB                     250160                            
+      8  25080 Barra de Santa Rosa - PB                     250510                            
+      8  25080 Barra de Santa Rosa - PB                     250620                            
+      8  25080 Barra de Santa Rosa - PB                     251010                            
+      8  25080 Barra de Santa Rosa - PB                     251030                            
+      8  25080 Barra de Santa Rosa - PB                     251140                            
+      8  25080 Barra de Santa Rosa - PB                     251615                            
+      9  25090 Vale do Mamanguape - PB                      250140                            
+      9  25090 Vale do Mamanguape - PB                      250523                            
+      9  25090 Vale do Mamanguape - PB                      250527                            
+      9  25090 Vale do Mamanguape - PB                      250710                            
+      9  25090 Vale do Mamanguape - PB                      250730                            
+      9  25090 Vale do Mamanguape - PB                      250890                            
+      9  25090 Vale do Mamanguape - PB                      250905                            
+      9  25090 Vale do Mamanguape - PB                      250930                            
+      9  25090 Vale do Mamanguape - PB                      251272                            
+     10  25100 Sousa - PB                                   250077                            
+     10  25100 Sousa - PB                                   250840                            
+     10  25100 Sousa - PB                                   250915                            
+     10  25100 Sousa - PB                                   251000                            
+     10  25100 Sousa - PB                                   251320                            
+     10  25100 Sousa - PB                                   251398                            
+     10  25100 Sousa - PB                                   251420                            
+     10  25100 Sousa - PB                                   251620                            
+     10  25100 Sousa - PB                                   251720                            
+     11  25110 Itabaiana - PB                               250380                            
+     11  25110 Itabaiana - PB                               250640                            
+     11  25110 Itabaiana - PB                               250680                            
+     11  25110 Itabaiana - PB                               250690                            
+     11  25110 Itabaiana - PB                               250760                            
+     11  25110 Itabaiana - PB                               250790                            
+     11  25110 Itabaiana - PB                               250940                            
+     11  25110 Itabaiana - PB                               251150                            
+     11  25110 Itabaiana - PB                               251275                            
+     11  25110 Itabaiana - PB                               251310                            
+     11  25110 Itabaiana - PB                               251445                            
+     11  25110 Itabaiana - PB                               251500                            
+     12  25120 Araruna - PB                                 250100                            
+     12  25120 Araruna - PB                                 250350                            
+     12  25120 Araruna - PB                                 250535                            
+     12  25120 Araruna - PB                                 250570                            
+     12  25120 Araruna - PB                                 251274                            
+     12  25120 Araruna - PB                                 251640                            
+     13  25900 Fora de Reg.Metrop. - PB                     250010                            
+     13  25900 Fora de Reg.Metrop. - PB                     250030                            
+     13  25900 Fora de Reg.Metrop. - PB                     250073                            
+     13  25900 Fora de Reg.Metrop. - PB                     250090,250908                     
+     13  25900 Fora de Reg.Metrop. - PB                     250135                            
+     13  25900 Fora de Reg.Metrop. - PB                     250150                            
+     13  25900 Fora de Reg.Metrop. - PB                     250170                            
+     13  25900 Fora de Reg.Metrop. - PB                     250200                            
+     13  25900 Fora de Reg.Metrop. - PB                     250230                            
+     13  25900 Fora de Reg.Metrop. - PB                     250280                            
+     13  25900 Fora de Reg.Metrop. - PB                     250290                            
+     13  25900 Fora de Reg.Metrop. - PB                     250310                            
+     13  25900 Fora de Reg.Metrop. - PB                     250375                            
+     13  25900 Fora de Reg.Metrop. - PB                     250390                            
+     13  25900 Fora de Reg.Metrop. - PB                     250403                            
+     13  25900 Fora de Reg.Metrop. - PB                     250407                            
+     13  25900 Fora de Reg.Metrop. - PB                     250415                            
+     13  25900 Fora de Reg.Metrop. - PB                     250430                            
+     13  25900 Fora de Reg.Metrop. - PB                     250470                            
+     13  25900 Fora de Reg.Metrop. - PB                     250485                            
+     13  25900 Fora de Reg.Metrop. - PB                     250500                            
+     13  25900 Fora de Reg.Metrop. - PB                     250650                            
+     13  25900 Fora de Reg.Metrop. - PB                     250670                            
+     13  25900 Fora de Reg.Metrop. - PB                     250740                            
+     13  25900 Fora de Reg.Metrop. - PB                     250770                            
+     13  25900 Fora de Reg.Metrop. - PB                     250800                            
+     13  25900 Fora de Reg.Metrop. - PB                     250810                            
+     13  25900 Fora de Reg.Metrop. - PB                     250850                            
+     13  25900 Fora de Reg.Metrop. - PB                     250900                            
+     13  25900 Fora de Reg.Metrop. - PB                     250910                            
+     13  25900 Fora de Reg.Metrop. - PB                     250937                            
+     13  25900 Fora de Reg.Metrop. - PB                     250970                            
+     13  25900 Fora de Reg.Metrop. - PB                     251040                            
+     13  25900 Fora de Reg.Metrop. - PB                     251050                            
+     13  25900 Fora de Reg.Metrop. - PB                     251060                            
+     13  25900 Fora de Reg.Metrop. - PB                     251065                            
+     13  25900 Fora de Reg.Metrop. - PB                     251090                            
+     13  25900 Fora de Reg.Metrop. - PB                     251100                            
+     13  25900 Fora de Reg.Metrop. - PB                     251110                            
+     13  25900 Fora de Reg.Metrop. - PB                     251210                            
+     13  25900 Fora de Reg.Metrop. - PB                     251220                            
+     13  25900 Fora de Reg.Metrop. - PB                     251230                            
+     13  25900 Fora de Reg.Metrop. - PB                     251276                            
+     13  25900 Fora de Reg.Metrop. - PB                     251278                            
+     13  25900 Fora de Reg.Metrop. - PB                     251280                            
+     13  25900 Fora de Reg.Metrop. - PB                     251385                            
+     13  25900 Fora de Reg.Metrop. - PB                     251390                            
+     13  25900 Fora de Reg.Metrop. - PB                     251392                            
+     13  25900 Fora de Reg.Metrop. - PB                     251394                            
+     13  25900 Fora de Reg.Metrop. - PB                     251396                            
+     13  25900 Fora de Reg.Metrop. - PB                     251400                            
+     13  25900 Fora de Reg.Metrop. - PB                     251410                            
+     13  25900 Fora de Reg.Metrop. - PB                     251455                            
+     13  25900 Fora de Reg.Metrop. - PB                     251465                            
+     13  25900 Fora de Reg.Metrop. - PB                     251480                            
+     13  25900 Fora de Reg.Metrop. - PB                     251520                            
+     13  25900 Fora de Reg.Metrop. - PB                     251530                            
+     13  25900 Fora de Reg.Metrop. - PB                     251540                            
+     13  25900 Fora de Reg.Metrop. - PB                     251550                            
+     13  25900 Fora de Reg.Metrop. - PB                     251597                            
+     13  25900 Fora de Reg.Metrop. - PB                     251600                            
+     13  25900 Fora de Reg.Metrop. - PB                     251610                            
+     13  25900 Fora de Reg.Metrop. - PB                     251630                            
+     13  25900 Fora de Reg.Metrop. - PB                     251650                            
+     13  25900 Fora de Reg.Metrop. - PB                     251660                            
+     13  25900 Fora de Reg.Metrop. - PB                     251675                            
+     13  25900 Fora de Reg.Metrop. - PB                     251740                            
+     14  25000 Ignorado - PB                                250000,259999                     

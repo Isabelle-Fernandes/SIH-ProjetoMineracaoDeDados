@@ -1,0 +1,113 @@
+112  6                                                                                    
+      1  27010 Maceió - AL                                  270040                            
+  1   2  ..... Atalaia                                      270040                            
+  1   3  ..... Barra de Santo Antônio                       270050                            
+  1   4  ..... Barra de São Miguel                          270060                            
+  1   5  ..... Coqueiro Seco                                270220                            
+  1   6  ..... Maceió                                       270430                            
+  1   7  ..... Marechal Deodoro                             270470                            
+  1   8  ..... Messias                                      270520                            
+  1   9  ..... Paripueira                                   270644                            
+  1  10  ..... Pilar                                        270690                            
+  1  11  ..... Rio Largo                                    270770                            
+  1  12  ..... Santa Luzia do Norte                         270790                            
+  1  13  ..... Satuba                                       270890                            
+     14  27020 Agreste - AL                                 270030                            
+ 14  15  ..... Arapiraca                                    270030                            
+ 14  16  ..... Campo Grande                                 270150                            
+ 14  17  ..... Coité do Nóia                                270200                            
+ 14  18  ..... Craíbas                                      270235                            
+ 14  19  ..... Feira Grande                                 270260                            
+ 14  20  ..... Girau do Ponciano                            270290                            
+ 14  21  ..... Jaramataia                                   270370                            
+ 14  22  ..... Junqueiro                                    270400                            
+ 14  23  ..... Lagoa da Canoa                               270410                            
+ 14  24  ..... Limoeiro de Anadia                           270420                            
+ 14  25  ..... Olho d'Água Grande                           270590                            
+ 14  26  ..... São Brás                                     270820                            
+ 14  27  ..... São Sebastião                                270880                            
+ 14  28  ..... Taquarana                                    270910                            
+ 14  29  ..... Traipu                                       270920                            
+     30  27030 Vale do Paraíba - AL                         270020                            
+ 30  31  ..... Anadia                                       270020                            
+ 30  32  ..... Boca da Mata                                 270100                            
+ 30  33  ..... Cajueiro                                     270130                            
+ 30  34  ..... Capela                                       270170                            
+ 30  35  ..... Chã Preta                                    270190                            
+ 30  36  ..... Mar Vermelho                                 270490                            
+ 30  37  ..... Maribondo                                    270480                            
+ 30  38  ..... Paulo Jacinto                                270660                            
+ 30  39  ..... Pindoba                                      270700                            
+ 30  40  ..... Quebrangulo                                  270760                            
+ 30  41  ..... Tanque d'Arca                                270900                            
+ 30  42  ..... Viçosa                                       270940                            
+     43  27040 Zona da Mata - AL                            270110                            
+ 43  44  ..... Branquinha                                   270110                            
+ 43  45  ..... Campestre                                    270135                            
+ 43  46  ..... Colônia Leopoldina                           270210                            
+ 43  47  ..... Flexeiras                                    270280                            
+ 43  48  ..... Ibateguara                                   270300                            
+ 43  49  ..... Jacuípe                                      270350                            
+ 43  50  ..... Joaquim Gomes                                270380                            
+ 43  51  ..... Jundiá                                       270390                            
+ 43  52  ..... Matriz de Camaragibe                         270510                            
+ 43  53  ..... Murici                                       270550                            
+ 43  54  ..... Novo Lino                                    270560                            
+ 43  55  ..... Porto Calvo                                  270730                            
+ 43  56  ..... Santana do Mundaú                            270810                            
+ 43  57  ..... São José da Laje                             270830                            
+ 43  58  ..... São Luís do Quitunde                         270850                            
+ 43  59  ..... União dos Palmares                           270930                            
+     60  27050 Palmeira dos Índios - AL                     270080                            
+ 60  61  ..... Belém                                        270080                            
+ 60  62  ..... Cacimbinhas                                  270120                            
+ 60  63  ..... Estrela de Alagoas                           270255                            
+ 60  64  ..... Igaci                                        270310                            
+ 60  65  ..... Major Isidoro                                270440                            
+ 60  66  ..... Minador do Negrão                            270530                            
+ 60  67  ..... Palmeira dos Índios                          270630                            
+     68  27060 Caetés - AL                                  270140                            
+ 68  69  ..... Campo Alegre                                 270140                            
+ 68  70  ..... Coruripe                                     270230                            
+ 68  71  ..... Roteiro                                      270780                            
+ 68  72  ..... São Miguel dos Campos                        270860                            
+ 68  73  ..... Teotônio Vilela                              270915                            
+     74  27070 Sertão - AL                                  270010                            
+ 74  75  ..... Água Branca                                  270010                            
+ 74  76  ..... Delmiro Gouveia                              270240                            
+ 74  77  ..... Inhapi                                       270330                            
+ 74  78  ..... Mata Grande                                  270500                            
+ 74  79  ..... Olho d'Água do Casado                        270580                            
+ 74  80  ..... Pariconha                                    270642                            
+ 74  81  ..... Piranhas                                     270710                            
+     82  27080 Médio Sertão - AL                            270180                            
+ 82  83  ..... Carneiros                                    270180                            
+ 82  84  ..... Dois Riachos                                 270250                            
+ 82  85  ..... Maravilha                                    270460                            
+ 82  86  ..... Olho d'Água das Flores                       270570                            
+ 82  87  ..... Olivença                                     270600                            
+ 82  88  ..... Ouro Branco                                  270610                            
+ 82  89  ..... Poço das Trincheiras                         270720                            
+ 82  90  ..... Santana do Ipanema                           270800                            
+ 82  91  ..... Senador Rui Palmeira                         270895                            
+     92  27900 Fora de Reg.Metrop. - AL                     270070                            
+ 92  93  ..... Batalha                                      270070                            
+ 92  94  ..... Belo Monte                                   270090                            
+ 92  95  ..... Canapi                                       270160                            
+ 92  96  ..... Feliz Deserto                                270270                            
+ 92  97  ..... Igreja Nova                                  270320                            
+ 92  98  ..... Jacaré dos Homens                            270340                            
+ 92  99  ..... Japaratinga                                  270360                            
+ 92 100  ..... Jequiá da Praia                              270375                            
+ 92 101  ..... Maragogi                                     270450                            
+ 92 102  ..... Monteirópolis                                270540                            
+ 92 103  ..... Palestina                                    270620                            
+ 92 104  ..... Pão de Açúcar                                270640                            
+ 92 105  ..... Passo de Camaragibe                          270650                            
+ 92 106  ..... Penedo                                       270670                            
+ 92 107  ..... Piaçabuçu                                    270680                            
+ 92 108  ..... Porto de Pedras                              270740                            
+ 92 109  ..... Porto Real do Colégio                        270750                            
+ 92 110  ..... São José da Tapera                           270840                            
+ 92 111  ..... São Miguel dos Milagres                      270870                            
+    112  27000 Ignorado - AL                                270000,279999                     

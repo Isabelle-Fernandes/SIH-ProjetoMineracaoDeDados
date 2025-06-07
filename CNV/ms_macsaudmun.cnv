@@ -1,0 +1,84 @@
+N 83 6
+        1  5009 PANTANAL                                                                                        500320,500520,500560
+   1    2  .....  LADARIO                                                                                       500520
+   1    3  .....  CORUMBA                                                                                       500320
+   1    4  .....  MIRANDA                                                                                       500560
+        5  5010 CENTRO                                                                                          500025,500070,500110,500150,500210,500215,500220,500260,500270,500280,500310,500330,500348,500390,500410,500490,500500,500540,500580,500640,500690,500710,500730,500740,500750,500769,500790,500793,500800
+   5    6  .....  PEDRO GOMES                                                                                   500640
+   5    7  .....  BANDEIRANTES                                                                                  500150
+   5    8  .....  NIOAQUE                                                                                       500580
+   5    9  .....  ANASTACIO                                                                                     500070
+   5   10  .....  JARDIM                                                                                        500500
+   5   11  .....  TERENOS                                                                                       500800
+   5   12  .....  SONORA                                                                                        500793
+   5   13  .....  CAMPO GRANDE                                                                                  500270
+   5   14  .....  COXIM                                                                                         500330
+   5   15  .....  CORGUINHO                                                                                     500310
+   5   16  .....  RIO NEGRO                                                                                     500730
+   5   17  .....  SIDROLANDIA                                                                                   500790
+   5   18  .....  GUIA LOPES DA LAGUNA                                                                          500410
+   5   19  .....  SAO GABRIEL DO OESTE                                                                          500769
+   5   20  .....  FIGUEIRAO                                                                                     500390
+   5   21  .....  CAMAPUA                                                                                       500260
+   5   22  .....  MARACAJU                                                                                      500540
+   5   23  .....  BONITO                                                                                        500220
+   5   24  .....  ALCINOPOLIS                                                                                   500025
+   5   25  .....  AQUIDAUANA                                                                                    500110
+   5   26  .....  JARAGUARI                                                                                     500490
+   5   27  .....  RIO VERDE DE MATO GROSSO                                                                      500740
+   5   28  .....  PORTO MURTINHO                                                                                500690
+   5   29  .....  DOIS IRMAOS DO BURITI                                                                         500348
+   5   30  .....  BODOQUENA                                                                                     500215
+   5   31  .....  BELA VISTA                                                                                    500210
+   5   32  .....  CARACOL                                                                                       500280
+   5   33  .....  ROCHEDO                                                                                       500750
+   5   34  .....  RIBAS DO RIO PARDO                                                                            500710
+       35  5011 CONE SUL                                                                                        500060,500080,500085,500090,500124,500200,500240,500315,500345,500350,500370,500375,500380,500400,500430,500450,500460,500470,500480,500510,500515,500525,500568,500570,500600,500620,500625,500635,500660,500720,500770,500795,500797,500840
+  35   36  .....  ITAPORA                                                                                       500450
+  35   37  .....  FATIMA DO SUL                                                                                 500380
+  35   38  .....  DEODAPOLIS                                                                                    500345
+  35   39  .....  CAARAPO                                                                                       500240
+  35   40  .....  RIO BRILHANTE                                                                                 500720
+  35   41  .....  PARANHOS                                                                                      500635
+  35   42  .....  NOVA ANDRADINA                                                                                500620
+  35   43  .....  MUNDO NOVO                                                                                    500568
+  35   44  .....  ANTONIO JOAO                                                                                  500090
+  35   45  .....  VICENTINA                                                                                     500840
+  35   46  .....  TAQUARUSSU                                                                                    500797
+  35   47  .....  TACURU                                                                                        500795
+  35   48  .....  DOURADINA                                                                                     500350
+  35   49  .....  DOURADOS                                                                                      500370
+  35   50  .....  GLORIA DE DOURADOS                                                                            500400
+  35   51  .....  ELDORADO                                                                                      500375
+  35   52  .....  AMAMBAI                                                                                       500060
+  35   53  .....  ANAURILANDIA                                                                                  500080
+  35   54  .....  ARAL MOREIRA                                                                                  500124
+  35   55  .....  NAVIRAI                                                                                       500570
+  35   56  .....  LAGUNA CARAPA                                                                                 500525
+  35   57  .....  PONTA PORA                                                                                    500660
+  35   58  .....  NOVO HORIZONTE DO SUL                                                                         500625
+  35   59  .....  IVINHEMA                                                                                      500470
+  35   60  .....  IGUATEMI                                                                                      500430
+  35   61  .....  JAPORA                                                                                        500480
+  35   62  .....  BATAYPORA                                                                                     500200
+  35   63  .....  ITAQUIRAI                                                                                     500460
+  35   64  .....  CORONEL SAPUCAIA                                                                              500315
+  35   65  .....  NOVA ALVORADA DO SUL                                                                          500600
+  35   66  .....  JATEI                                                                                         500510
+  35   67  .....  ANGELICA                                                                                      500085
+  35   68  .....  JUTI                                                                                          500515
+  35   69  .....  SETE QUEDAS                                                                                   500770
+       70  5012 COSTA LESTE                                                                                     500020,500100,500190,500230,500290,500295,500325,500440,500627,500630,500755,500780,500830
+  70   71  .....  BATAGUASSU                                                                                    500190
+  70   72  .....  AGUA CLARA                                                                                    500020
+  70   73  .....  APARECIDA DO TABOADO                                                                          500100
+  70   74  .....  INOCENCIA                                                                                     500440
+  70   75  .....  PARAISO DAS AGUAS                                                                             500627
+  70   76  .....  COSTA RICA                                                                                    500325
+  70   77  .....  BRASILANDIA                                                                                   500230
+  70   78  .....  TRES LAGOAS                                                                                   500830
+  70   79  .....  PARANAIBA                                                                                     500630
+  70   80  .....  CHAPADAO DO SUL                                                                               500295
+  70   81  .....  CASSILANDIA                                                                                   500290
+  70   82  .....  SANTA RITA DO PARDO                                                                           500755
+  70   83  .....  SELVIRIA                                                                                      500780

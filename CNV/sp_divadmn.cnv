@@ -1,0 +1,647 @@
+18  6                                                                                    
+      1  3503 SP Araraquara                                 350170                            
+      1  3503 SP Araraquara                                 350320                            
+      1  3503 SP Araraquara                                 350670                            
+      1  3503 SP Araraquara                                 350740                            
+      1  3503 SP Araraquara                                 351010                            
+      1  3503 SP Araraquara                                 351370                            
+      1  3503 SP Araraquara                                 351400                            
+      1  3503 SP Araraquara                                 351430                            
+      1  3503 SP Araraquara                                 351685                            
+      1  3503 SP Araraquara                                 351930                            
+      1  3503 SP Araraquara                                 351960                            
+      1  3503 SP Araraquara                                 352270                            
+      1  3503 SP Araraquara                                 352930                            
+      1  3503 SP Araraquara                                 353205                            
+      1  3503 SP Araraquara                                 353290                            
+      1  3503 SP Araraquara                                 354070                            
+      1  3503 SP Araraquara                                 354290                            
+      1  3503 SP Araraquara                                 354370                            
+      1  3503 SP Araraquara                                 354650                            
+      1  3503 SP Araraquara                                 354690                            
+      1  3503 SP Araraquara                                 354890                            
+      1  3503 SP Araraquara                                 355270                            
+      1  3503 SP Araraquara                                 355370                            
+      1  3503 SP Araraquara                                 355475                            
+      2  3502 SP Araçatuba                                  350110                            
+      2  3502 SP Araçatuba                                  350210                            
+      2  3502 SP Araçatuba                                  350280                            
+      2  3502 SP Araçatuba                                  350420                            
+      2  3502 SP Araçatuba                                  350440                            
+      2  3502 SP Araçatuba                                  350510                            
+      2  3502 SP Araçatuba                                  350620                            
+      2  3502 SP Araçatuba                                  350640                            
+      2  3502 SP Araçatuba                                  350650                            
+      2  3502 SP Araçatuba                                  350770                            
+      2  3502 SP Araçatuba                                  350775                            
+      2  3502 SP Araçatuba                                  350810                            
+      2  3502 SP Araçatuba                                  351100                            
+      2  3502 SP Araçatuba                                  351190                            
+      2  3502 SP Araçatuba                                  351250                            
+      2  3502 SP Araçatuba                                  351650                            
+      2  3502 SP Araçatuba                                  351710                            
+      2  3502 SP Araçatuba                                  351780                            
+      2  3502 SP Araçatuba                                  351820                            
+      2  3502 SP Araçatuba                                  351890                            
+      2  3502 SP Araçatuba                                  352044                            
+      2  3502 SP Araçatuba                                  352300                            
+      2  3502 SP Araçatuba                                  352650                            
+      2  3502 SP Araçatuba                                  352725                            
+      2  3502 SP Araçatuba                                  352770                            
+      2  3502 SP Araçatuba                                  353010                            
+      2  3502 SP Araçatuba                                  353210                            
+      2  3502 SP Araçatuba                                  353286                            
+      2  3502 SP Araçatuba                                  353320                            
+      2  3502 SP Araçatuba                                  353330                            
+      2  3502 SP Araçatuba                                  353730                            
+      2  3502 SP Araçatuba                                  353740                            
+      2  3502 SP Araçatuba                                  353770                            
+      2  3502 SP Araçatuba                                  354440                            
+      2  3502 SP Araçatuba                                  354805                            
+      2  3502 SP Araçatuba                                  354840                            
+      2  3502 SP Araçatuba                                  355230                            
+      2  3502 SP Araçatuba                                  355255                            
+      2  3502 SP Araçatuba                                  355520                            
+      2  3502 SP Araçatuba                                  355630                            
+      3  3504 SP Baixada Santista                           350635                            
+      3  3504 SP Baixada Santista                           351350                            
+      3  3504 SP Baixada Santista                           351870                            
+      3  3504 SP Baixada Santista                           352210                            
+      3  3504 SP Baixada Santista                           353110                            
+      3  3504 SP Baixada Santista                           353760                            
+      3  3504 SP Baixada Santista                           354100                            
+      3  3504 SP Baixada Santista                           354850                            
+      3  3504 SP Baixada Santista                           355100                            
+      4  3505 SP Barretos                                   350090                            
+      4  3505 SP Barretos                                   350550                            
+      4  3505 SP Barretos                                   350610                            
+      4  3505 SP Barretos                                   350930                            
+      4  3505 SP Barretos                                   351200                            
+      4  3505 SP Barretos                                   351210                            
+      4  3505 SP Barretos                                   351740                            
+      4  3505 SP Barretos                                   351790                            
+      4  3505 SP Barretos                                   352420                            
+      4  3505 SP Barretos                                   353150                            
+      4  3505 SP Barretos                                   353390                            
+      4  3505 SP Barretos                                   355190                            
+      4  3505 SP Barretos                                   355310                            
+      4  3505 SP Barretos                                   355320                            
+      4  3505 SP Barretos                                   355365                            
+      4  3505 SP Barretos                                   355440                            
+      4  3505 SP Barretos                                   355680                            
+      4  3505 SP Barretos                                   355690                            
+      5  3506 SP Bauru                                      350055                            
+      5  3506 SP Bauru                                      350070                            
+      5  3506 SP Bauru                                      350230                            
+      5  3506 SP Bauru                                      350310                            
+      5  3506 SP Bauru                                      350340                            
+      5  3506 SP Bauru                                      350360                            
+      5  3506 SP Bauru                                      350430                            
+      5  3506 SP Bauru                                      350450                            
+      5  3506 SP Bauru                                      350470                            
+      5  3506 SP Bauru                                      350500                            
+      5  3506 SP Bauru                                      350520                            
+      5  3506 SP Bauru                                      350530                            
+      5  3506 SP Bauru                                      350600                            
+      5  3506 SP Bauru                                      350680                            
+      5  3506 SP Bauru                                      350690                            
+      5  3506 SP Bauru                                      350730                            
+      5  3506 SP Bauru                                      350745                            
+      5  3506 SP Bauru                                      350750                            
+      5  3506 SP Bauru                                      350790                            
+      5  3506 SP Bauru                                      350830                            
+      5  3506 SP Bauru                                      350880                            
+      5  3506 SP Bauru                                      351140                            
+      5  3506 SP Bauru                                      351230                            
+      5  3506 SP Bauru                                      351260                            
+      5  3506 SP Bauru                                      351410                            
+      5  3506 SP Bauru                                      351450                            
+      5  3506 SP Bauru                                      351540                            
+      5  3506 SP Bauru                                      351700                            
+      5  3506 SP Bauru                                      351720                            
+      5  3506 SP Bauru                                      351910                            
+      5  3506 SP Bauru                                      351925                            
+      5  3506 SP Bauru                                      352000                            
+      5  3506 SP Bauru                                      352180                            
+      5  3506 SP Bauru                                      352200                            
+      5  3506 SP Bauru                                      352280                            
+      5  3506 SP Bauru                                      352290                            
+      5  3506 SP Bauru                                      352350                            
+      5  3506 SP Bauru                                      352530                            
+      5  3506 SP Bauru                                      352640                            
+      5  3506 SP Bauru                                      352680                            
+      5  3506 SP Bauru                                      352710                            
+      5  3506 SP Bauru                                      352750                            
+      5  3506 SP Bauru                                      352800                            
+      5  3506 SP Bauru                                      352860                            
+      5  3506 SP Bauru                                      352980                            
+      5  3506 SP Bauru                                      353580                            
+      5  3506 SP Bauru                                      353610                            
+      5  3506 SP Bauru                                      353657                            
+      5  3506 SP Bauru                                      353670                            
+      5  3506 SP Bauru                                      353750                            
+      5  3506 SP Bauru                                      353880                            
+      5  3506 SP Bauru                                      353890                            
+      5  3506 SP Bauru                                      353940                            
+      5  3506 SP Bauru                                      354010                            
+      5  3506 SP Bauru                                      354050                            
+      5  3506 SP Bauru                                      354105                            
+      5  3506 SP Bauru                                      354110                            
+      5  3506 SP Bauru                                      354160                            
+      5  3506 SP Bauru                                      354250                            
+      5  3506 SP Bauru                                      354460                            
+      5  3506 SP Bauru                                      355010                            
+      5  3506 SP Bauru                                      355120                            
+      5  3506 SP Bauru                                      355300                            
+      5  3506 SP Bauru                                      355380                            
+      5  3506 SP Bauru                                      355420                            
+      5  3506 SP Bauru                                      355465                            
+      5  3506 SP Bauru                                      355470                            
+      5  3506 SP Bauru                                      355590                            
+      6  3507 SP Campinas                                   350050                            
+      6  3507 SP Campinas                                   350160                            
+      6  3507 SP Campinas                                   350190                            
+      6  3507 SP Campinas                                   350380                            
+      6  3507 SP Campinas                                   350410                            
+      6  3507 SP Campinas                                   350710                            
+      6  3507 SP Campinas                                   350760                            
+      6  3507 SP Campinas                                   350840                            
+      6  3507 SP Campinas                                   350950                            
+      6  3507 SP Campinas                                   350960                            
+      6  3507 SP Campinas                                   351280                            
+      6  3507 SP Campinas                                   351905                            
+      6  3507 SP Campinas                                   351907                            
+      6  3507 SP Campinas                                   352050                            
+      6  3507 SP Campinas                                   352340                            
+      6  3507 SP Campinas                                   352400                            
+      6  3507 SP Campinas                                   352470                            
+      6  3507 SP Campinas                                   352520                            
+      6  3507 SP Campinas                                   352550                            
+      6  3507 SP Campinas                                   352590                            
+      6  3507 SP Campinas                                   352700                            
+      6  3507 SP Campinas                                   352730                            
+      6  3507 SP Campinas                                   353120                            
+      6  3507 SP Campinas                                   353180                            
+      6  3507 SP Campinas                                   353200                            
+      6  3507 SP Campinas                                   353240                            
+      6  3507 SP Campinas                                   353340                            
+      6  3507 SP Campinas                                   353650                            
+      6  3507 SP Campinas                                   353680                            
+      6  3507 SP Campinas                                   353710                            
+      6  3507 SP Campinas                                   353820                            
+      6  3507 SP Campinas                                   353860                            
+      6  3507 SP Campinas                                   354580                            
+      6  3507 SP Campinas                                   354800                            
+      6  3507 SP Campinas                                   355160                            
+      6  3507 SP Campinas                                   355210                            
+      6  3507 SP Campinas                                   355240                            
+      6  3507 SP Campinas                                   355495                            
+      6  3507 SP Campinas                                   355620                            
+      6  3507 SP Campinas                                   355635                            
+      6  3507 SP Campinas                                   355650                            
+      6  3507 SP Campinas                                   355670                            
+      7  3508 SP Franca                                     350300                            
+      7  3508 SP Franca                                     350820                            
+      7  3508 SP Franca                                     351320                            
+      7  3508 SP Franca                                     351620                            
+      7  3508 SP Franca                                     351770                            
+      7  3508 SP Franca                                     352010                            
+      7  3508 SP Franca                                     352130                            
+      7  3508 SP Franca                                     352370                            
+      7  3508 SP Franca                                     352410                            
+      7  3508 SP Franca                                     352540                            
+      7  3508 SP Franca                                     352970                            
+      7  3508 SP Franca                                     353190                            
+      7  3508 SP Franca                                     353360                            
+      7  3508 SP Franca                                     353430                            
+      7  3508 SP Franca                                     353630                            
+      7  3508 SP Franca                                     353700                            
+      7  3508 SP Franca                                     354270                            
+      7  3508 SP Franca                                     354310                            
+      7  3508 SP Franca                                     354360                            
+      7  3508 SP Franca                                     354490                            
+      7  3508 SP Franca                                     354940                            
+      7  3508 SP Franca                                     354950                            
+      8  3501 SP Grande São Paulo                           350390                            
+      8  3501 SP Grande São Paulo                           350570                            
+      8  3501 SP Grande São Paulo                           350660                            
+      8  3501 SP Grande São Paulo                           350900                            
+      8  3501 SP Grande São Paulo                           350920                            
+      8  3501 SP Grande São Paulo                           351060                            
+      8  3501 SP Grande São Paulo                           351300                            
+      8  3501 SP Grande São Paulo                           351380                            
+      8  3501 SP Grande São Paulo                           351500                            
+      8  3501 SP Grande São Paulo                           351510                            
+      8  3501 SP Grande São Paulo                           351570                            
+      8  3501 SP Grande São Paulo                           351630                            
+      8  3501 SP Grande São Paulo                           351640                            
+      8  3501 SP Grande São Paulo                           351830                            
+      8  3501 SP Grande São Paulo                           351880                            
+      8  3501 SP Grande São Paulo                           352220                            
+      8  3501 SP Grande São Paulo                           352250                            
+      8  3501 SP Grande São Paulo                           352310                            
+      8  3501 SP Grande São Paulo                           352500                            
+      8  3501 SP Grande São Paulo                           352620                            
+      8  3501 SP Grande São Paulo                           352850                            
+      8  3501 SP Grande São Paulo                           352940                            
+      8  3501 SP Grande São Paulo                           353060                            
+      8  3501 SP Grande São Paulo                           353440                            
+      8  3501 SP Grande São Paulo                           353910                            
+      8  3501 SP Grande São Paulo                           353980                            
+      8  3501 SP Grande São Paulo                           354330                            
+      8  3501 SP Grande São Paulo                           354410                            
+      8  3501 SP Grande São Paulo                           354500                            
+      8  3501 SP Grande São Paulo                           354680                            
+      8  3501 SP Grande São Paulo                           354730                            
+      8  3501 SP Grande São Paulo                           354780                            
+      8  3501 SP Grande São Paulo                           354870                            
+      8  3501 SP Grande São Paulo                           354880                            
+      8  3501 SP Grande São Paulo                           354995                            
+      8  3501 SP Grande São Paulo                           355030,358001-358058              
+      8  3501 SP Grande São Paulo                           355250                            
+      8  3501 SP Grande São Paulo                           355280                            
+      8  3501 SP Grande São Paulo                           355645                            
+      9  3509 SP Marília                                    350010                            
+      9  3509 SP Marília                                    350140                            
+      9  3509 SP Marília                                    350150                            
+      9  3509 SP Marília                                    350335                            
+      9  3509 SP Marília                                    350400                            
+      9  3509 SP Marília                                    350580                            
+      9  3509 SP Marília                                    350630                            
+      9  3509 SP Marília                                    350720                            
+      9  3509 SP Marília                                    350980                            
+      9  3509 SP Marília                                    351000                            
+      9  3509 SP Marília                                    351015                            
+      9  3509 SP Marília                                    351330                            
+      9  3509 SP Marília                                    351470                            
+      9  3509 SP Marília                                    351519                            
+      9  3509 SP Marília                                    351565                            
+      9  3509 SP Marília                                    351600                            
+      9  3509 SP Marília                                    351610                            
+      9  3509 SP Marília                                    351660                            
+      9  3509 SP Marília                                    351670                            
+      9  3509 SP Marília                                    351730                            
+      9  3509 SP Marília                                    351810                            
+      9  3509 SP Marília                                    351900                            
+      9  3509 SP Marília                                    351920                            
+      9  3509 SP Marília                                    351950                            
+      9  3509 SP Marília                                    352080                            
+      9  3509 SP Marília                                    352090                            
+      9  3509 SP Marília                                    352580                            
+      9  3509 SP Marília                                    352740                            
+      9  3509 SP Marília                                    352780                            
+      9  3509 SP Marília                                    352790                            
+      9  3509 SP Marília                                    352880                            
+      9  3509 SP Marília                                    352890                            
+      9  3509 SP Marília                                    352900                            
+      9  3509 SP Marília                                    353370                            
+      9  3509 SP Marília                                    353380                            
+      9  3509 SP Marília                                    353410                            
+      9  3509 SP Marília                                    353450                            
+      9  3509 SP Marília                                    353460                            
+      9  3509 SP Marília                                    353470                            
+      9  3509 SP Marília                                    353490                            
+      9  3509 SP Marília                                    353530                            
+      9  3509 SP Marília                                    353550                            
+      9  3509 SP Marília                                    353600                            
+      9  3509 SP Marília                                    353715                            
+      9  3509 SP Marília                                    353970                            
+      9  3509 SP Marília                                    354000                            
+      9  3509 SP Marília                                    354085                            
+      9  3509 SP Marília                                    354180                            
+      9  3509 SP Marília                                    354200                            
+      9  3509 SP Marília                                    354320                            
+      9  3509 SP Marília                                    354380                            
+      9  3509 SP Marília                                    354470                            
+      9  3509 SP Marília                                    354510                            
+      9  3509 SP Marília                                    354540                            
+      9  3509 SP Marília                                    354640                            
+      9  3509 SP Marília                                    355050                            
+      9  3509 SP Marília                                    355395                            
+      9  3509 SP Marília                                    355460                            
+      9  3509 SP Marília                                    355500                            
+      9  3509 SP Marília                                    355550                            
+      9  3509 SP Marília                                    355660                            
+      9  3509 SP Marília                                    355720                            
+     10  3510 SP Piracicaba                                 350060                            
+     10  3510 SP Piracicaba                                 350200                            
+     10  3510 SP Piracicaba                                 350330                            
+     10  3510 SP Piracicaba                                 351040                            
+     10  3510 SP Piracicaba                                 351170                            
+     10  3510 SP Piracicaba                                 351220                            
+     10  3510 SP Piracicaba                                 351240                            
+     10  3510 SP Piracicaba                                 351270                            
+     10  3510 SP Piracicaba                                 351490                            
+     10  3510 SP Piracicaba                                 351515                            
+     10  3510 SP Piracicaba                                 352110                            
+     10  3510 SP Piracicaba                                 352140                            
+     10  3510 SP Piracicaba                                 352360                            
+     10  3510 SP Piracicaba                                 352670                            
+     10  3510 SP Piracicaba                                 352690                            
+     10  3510 SP Piracicaba                                 353090                            
+     10  3510 SP Piracicaba                                 353870                            
+     10  3510 SP Piracicaba                                 353930                            
+     10  3510 SP Piracicaba                                 354210                            
+     10  3510 SP Piracicaba                                 354390                            
+     10  3510 SP Piracicaba                                 354400                            
+     10  3510 SP Piracicaba                                 354515                            
+     10  3510 SP Piracicaba                                 354620                            
+     10  3510 SP Piracicaba                                 354670                            
+     10  3510 SP Piracicaba                                 354700                            
+     10  3510 SP Piracicaba                                 355040                            
+     11  3511 SP Presidente Prudente                        350080                            
+     11  3511 SP Presidente Prudente                        350130                            
+     11  3511 SP Presidente Prudente                        350240                            
+     11  3511 SP Presidente Prudente                        350890                            
+     11  3511 SP Presidente Prudente                        350910                            
+     11  3511 SP Presidente Prudente                        351440                            
+     11  3511 SP Presidente Prudente                        351512                            
+     11  3511 SP Presidente Prudente                        351530                            
+     11  3511 SP Presidente Prudente                        351535                            
+     11  3511 SP Presidente Prudente                        351580                            
+     11  3511 SP Presidente Prudente                        351990                            
+     11  3511 SP Presidente Prudente                        352060                            
+     11  3511 SP Presidente Prudente                        352160                            
+     11  3511 SP Presidente Prudente                        352560                            
+     11  3511 SP Presidente Prudente                        352600                            
+     11  3511 SP Presidente Prudente                        352870                            
+     11  3511 SP Presidente Prudente                        352920                            
+     11  3511 SP Presidente Prudente                        353020                            
+     11  3511 SP Presidente Prudente                        353160                            
+     11  3511 SP Presidente Prudente                        353215                            
+     11  3511 SP Presidente Prudente                        353220                            
+     11  3511 SP Presidente Prudente                        353310                            
+     11  3511 SP Presidente Prudente                        353480                            
+     11  3511 SP Presidente Prudente                        353540                            
+     11  3511 SP Presidente Prudente                        353640                            
+     11  3511 SP Presidente Prudente                        353830                            
+     11  3511 SP Presidente Prudente                        353920                            
+     11  3511 SP Presidente Prudente                        354120                            
+     11  3511 SP Presidente Prudente                        354130                            
+     11  3511 SP Presidente Prudente                        354140                            
+     11  3511 SP Presidente Prudente                        354150                            
+     11  3511 SP Presidente Prudente                        354170                            
+     11  3511 SP Presidente Prudente                        354220                            
+     11  3511 SP Presidente Prudente                        354240                            
+     11  3511 SP Presidente Prudente                        354323                            
+     11  3511 SP Presidente Prudente                        354425                            
+     11  3511 SP Presidente Prudente                        354550                            
+     11  3511 SP Presidente Prudente                        354710                            
+     11  3511 SP Presidente Prudente                        354770                            
+     11  3511 SP Presidente Prudente                        354830                            
+     11  3511 SP Presidente Prudente                        354930                            
+     11  3511 SP Presidente Prudente                        355290                            
+     11  3511 SP Presidente Prudente                        355390                            
+     11  3511 SP Presidente Prudente                        355430                            
+     11  3511 SP Presidente Prudente                        355510                            
+     12  3512 SP Registro                                   350540                            
+     12  3512 SP Registro                                   350925                            
+     12  3512 SP Registro                                   350990                            
+     12  3512 SP Registro                                   351480                            
+     12  3512 SP Registro                                   352030                            
+     12  3512 SP Registro                                   352042                            
+     12  3512 SP Registro                                   352120                            
+     12  3512 SP Registro                                   352330                            
+     12  3512 SP Registro                                   352460                            
+     12  3512 SP Registro                                   352610                            
+     12  3512 SP Registro                                   352990                            
+     12  3512 SP Registro                                   353620                            
+     12  3512 SP Registro                                   353720                            
+     12  3512 SP Registro                                   354260                            
+     12  3512 SP Registro                                   355180                            
+     13  3513 SP Ribeirão Preto                             350100                            
+     13  3513 SP Ribeirão Preto                             350560                            
+     13  3513 SP Ribeirão Preto                             350590                            
+     13  3513 SP Ribeirão Preto                             350780                            
+     13  3513 SP Ribeirão Preto                             350940                            
+     13  3513 SP Ribeirão Preto                             351090                            
+     13  3513 SP Ribeirão Preto                             351310                            
+     13  3513 SP Ribeirão Preto                             351460                            
+     13  3513 SP Ribeirão Preto                             351860                            
+     13  3513 SP Ribeirão Preto                             351885                            
+     13  3513 SP Ribeirão Preto                             352430                            
+     13  3513 SP Ribeirão Preto                             352510                            
+     13  3513 SP Ribeirão Preto                             352760                            
+     13  3513 SP Ribeirão Preto                             353130                            
+     13  3513 SP Ribeirão Preto                             353950                            
+     13  3513 SP Ribeirão Preto                             354020                            
+     13  3513 SP Ribeirão Preto                             354090                            
+     13  3513 SP Ribeirão Preto                             354340                            
+     13  3513 SP Ribeirão Preto                             354625                            
+     13  3513 SP Ribeirão Preto                             354750                            
+     13  3513 SP Ribeirão Preto                             354760                            
+     13  3513 SP Ribeirão Preto                             354790                            
+     13  3513 SP Ribeirão Preto                             355090                            
+     13  3513 SP Ribeirão Preto                             355140                            
+     13  3513 SP Ribeirão Preto                             355150                            
+     13  3513 SP Ribeirão Preto                             355170                            
+     14  3516 SP Sorocaba                                   350075                            
+     14  3516 SP Sorocaba                                   350115                            
+     14  3516 SP Sorocaba                                   350220                            
+     14  3516 SP Sorocaba                                   350270                            
+     14  3516 SP Sorocaba                                   350275                            
+     14  3516 SP Sorocaba                                   350290                            
+     14  3516 SP Sorocaba                                   350535                            
+     14  3516 SP Sorocaba                                   350700                            
+     14  3516 SP Sorocaba                                   350715                            
+     14  3516 SP Sorocaba                                   350800                            
+     14  3516 SP Sorocaba                                   350945                            
+     14  3516 SP Sorocaba                                   351020                            
+     14  3516 SP Sorocaba                                   351030                            
+     14  3516 SP Sorocaba                                   351150                            
+     14  3516 SP Sorocaba                                   351160                            
+     14  3516 SP Sorocaba                                   351760                            
+     14  3516 SP Sorocaba                                   351850                            
+     14  3516 SP Sorocaba                                   351970                            
+     14  3516 SP Sorocaba                                   352100                            
+     14  3516 SP Sorocaba                                   352170                            
+     14  3516 SP Sorocaba                                   352215                            
+     14  3516 SP Sorocaba                                   352230                            
+     14  3516 SP Sorocaba                                   352240                            
+     14  3516 SP Sorocaba                                   352265                            
+     14  3516 SP Sorocaba                                   352320                            
+     14  3516 SP Sorocaba                                   352390                            
+     14  3516 SP Sorocaba                                   352585                            
+     14  3516 SP Sorocaba                                   352840                            
+     14  3516 SP Sorocaba                                   353282                            
+     14  3516 SP Sorocaba                                   353780                            
+     14  3516 SP Sorocaba                                   353790                            
+     14  3516 SP Sorocaba                                   354060                            
+     14  3516 SP Sorocaba                                   354165                            
+     14  3516 SP Sorocaba                                   354280                            
+     14  3516 SP Sorocaba                                   354300                            
+     14  3516 SP Sorocaba                                   354325                            
+     14  3516 SP Sorocaba                                   354350                            
+     14  3516 SP Sorocaba                                   354520                            
+     14  3516 SP Sorocaba                                   354530                            
+     14  3516 SP Sorocaba                                   355020                            
+     14  3516 SP Sorocaba                                   355060                            
+     14  3516 SP Sorocaba                                   355110                            
+     14  3516 SP Sorocaba                                   355220                            
+     14  3516 SP Sorocaba                                   355350                            
+     14  3516 SP Sorocaba                                   355385                            
+     14  3516 SP Sorocaba                                   355400                            
+     14  3516 SP Sorocaba                                   355450                            
+     14  3516 SP Sorocaba                                   355700                            
+     15  3515 SP São José do Rio Preto                      350020                            
+     15  3515 SP São José do Rio Preto                      350120                            
+     15  3515 SP São José do Rio Preto                      350180                            
+     15  3515 SP São José do Rio Preto                      350260                            
+     15  3515 SP São José do Rio Preto                      350370                            
+     15  3515 SP São José do Rio Preto                      350395                            
+     15  3515 SP São José do Rio Preto                      350460                            
+     15  3515 SP São José do Rio Preto                      350480                            
+     15  3515 SP São José do Rio Preto                      351070                            
+     15  3515 SP São José do Rio Preto                      351110                            
+     15  3515 SP São José do Rio Preto                      351120                            
+     15  3515 SP São José do Rio Preto                      351130                            
+     15  3515 SP São José do Rio Preto                      351290                            
+     15  3515 SP São José do Rio Preto                      351385                            
+     15  3515 SP São José do Rio Preto                      351420                            
+     15  3515 SP São José do Rio Preto                      351492                            
+     15  3515 SP São José do Rio Preto                      351495                            
+     15  3515 SP São José do Rio Preto                      351520                            
+     15  3515 SP São José do Rio Preto                      351550                            
+     15  3515 SP São José do Rio Preto                      351560                            
+     15  3515 SP São José do Rio Preto                      351590                            
+     15  3515 SP São José do Rio Preto                      351680                            
+     15  3515 SP São José do Rio Preto                      351690                            
+     15  3515 SP São José do Rio Preto                      351750                            
+     15  3515 SP São José do Rio Preto                      351800                            
+     15  3515 SP São José do Rio Preto                      351940                            
+     15  3515 SP São José do Rio Preto                      351980                            
+     15  3515 SP São José do Rio Preto                      352070                            
+     15  3515 SP São José do Rio Preto                      352115                            
+     15  3515 SP São José do Rio Preto                      352150                            
+     15  3515 SP São José do Rio Preto                      352190                            
+     15  3515 SP São José do Rio Preto                      352450                            
+     15  3515 SP São José do Rio Preto                      352480                            
+     15  3515 SP São José do Rio Preto                      352570                            
+     15  3515 SP São José do Rio Preto                      352810                            
+     15  3515 SP São José do Rio Preto                      352820                            
+     15  3515 SP São José do Rio Preto                      352830                            
+     15  3515 SP São José do Rio Preto                      352885                            
+     15  3515 SP São José do Rio Preto                      352910                            
+     15  3515 SP São José do Rio Preto                      352950                            
+     15  3515 SP São José do Rio Preto                      352960                            
+     15  3515 SP São José do Rio Preto                      352965                            
+     15  3515 SP São José do Rio Preto                      353000                            
+     15  3515 SP São José do Rio Preto                      353030                            
+     15  3515 SP São José do Rio Preto                      353040                            
+     15  3515 SP São José do Rio Preto                      353100                            
+     15  3515 SP São José do Rio Preto                      353140                            
+     15  3515 SP São José do Rio Preto                      353250                            
+     15  3515 SP São José do Rio Preto                      353260                            
+     15  3515 SP São José do Rio Preto                      353270                            
+     15  3515 SP São José do Rio Preto                      353280                            
+     15  3515 SP São José do Rio Preto                      353284                            
+     15  3515 SP São José do Rio Preto                      353300                            
+     15  3515 SP São José do Rio Preto                      353325                            
+     15  3515 SP São José do Rio Preto                      353350                            
+     15  3515 SP São José do Rio Preto                      353400                            
+     15  3515 SP São José do Rio Preto                      353420                            
+     15  3515 SP São José do Rio Preto                      353475                            
+     15  3515 SP São José do Rio Preto                      353500                            
+     15  3515 SP São José do Rio Preto                      353510                            
+     15  3515 SP São José do Rio Preto                      353520                            
+     15  3515 SP São José do Rio Preto                      353570                            
+     15  3515 SP São José do Rio Preto                      353590                            
+     15  3515 SP São José do Rio Preto                      353625                            
+     15  3515 SP São José do Rio Preto                      353660                            
+     15  3515 SP São José do Rio Preto                      353690                            
+     15  3515 SP São José do Rio Preto                      353810                            
+     15  3515 SP São José do Rio Preto                      353900                            
+     15  3515 SP São José do Rio Preto                      353960                            
+     15  3515 SP São José do Rio Preto                      353990                            
+     15  3515 SP São José do Rio Preto                      354025                            
+     15  3515 SP São José do Rio Preto                      354030                            
+     15  3515 SP São José do Rio Preto                      354040                            
+     15  3515 SP São José do Rio Preto                      354080                            
+     15  3515 SP São José do Rio Preto                      354420                            
+     15  3515 SP São José do Rio Preto                      354450                            
+     15  3515 SP São José do Rio Preto                      354480                            
+     15  3515 SP São José do Rio Preto                      354560                            
+     15  3515 SP São José do Rio Preto                      354570                            
+     15  3515 SP São José do Rio Preto                      354610                            
+     15  3515 SP São José do Rio Preto                      354660                            
+     15  3515 SP São José do Rio Preto                      354720                            
+     15  3515 SP São José do Rio Preto                      354740                            
+     15  3515 SP São José do Rio Preto                      354765                            
+     15  3515 SP São José do Rio Preto                      354900                            
+     15  3515 SP São José do Rio Preto                      354920                            
+     15  3515 SP São José do Rio Preto                      354925                            
+     15  3515 SP São José do Rio Preto                      354980                            
+     15  3515 SP São José do Rio Preto                      355130                            
+     15  3515 SP São José do Rio Preto                      355260                            
+     15  3515 SP São José do Rio Preto                      355340                            
+     15  3515 SP São José do Rio Preto                      355490                            
+     15  3515 SP São José do Rio Preto                      355530                            
+     15  3515 SP São José do Rio Preto                      355535                            
+     15  3515 SP São José do Rio Preto                      355560                            
+     15  3515 SP São José do Rio Preto                      355570                            
+     15  3515 SP São José do Rio Preto                      355580                            
+     15  3515 SP São José do Rio Preto                      355600                            
+     15  3515 SP São José do Rio Preto                      355610                            
+     15  3515 SP São José do Rio Preto                      355695                            
+     15  3515 SP São José do Rio Preto                      355710                            
+     15  3515 SP São José do Rio Preto                      355715                            
+     16  3514 SP São João da Boa Vista                      350030                            
+     16  3514 SP São João da Boa Vista                      350040                            
+     16  3514 SP São João da Boa Vista                      350870                            
+     16  3514 SP São João da Boa Vista                      351080                            
+     16  3514 SP São João da Boa Vista                      351390                            
+     16  3514 SP São João da Boa Vista                      351518                            
+     16  3514 SP São João da Boa Vista                      352260                            
+     16  3514 SP São João da Boa Vista                      352380                            
+     16  3514 SP São João da Boa Vista                      353050                            
+     16  3514 SP São João da Boa Vista                      353070                            
+     16  3514 SP São João da Boa Vista                      353080                            
+     16  3514 SP São João da Boa Vista                      354630                            
+     16  3514 SP São João da Boa Vista                      354810                            
+     16  3514 SP São João da Boa Vista                      354910                            
+     16  3514 SP São João da Boa Vista                      354970                            
+     16  3514 SP São João da Boa Vista                      355080                            
+     16  3514 SP São João da Boa Vista                      355330                            
+     16  3514 SP São João da Boa Vista                      355360                            
+     16  3514 SP São João da Boa Vista                      355640                            
+     16  3514 SP São João da Boa Vista                      355730                            
+     17  3517 SP Taubaté                                    350250                            
+     17  3517 SP Taubaté                                    350315                            
+     17  3517 SP Taubaté                                    350350                            
+     17  3517 SP Taubaté                                    350490                            
+     17  3517 SP Taubaté                                    350850                            
+     17  3517 SP Taubaté                                    350860                            
+     17  3517 SP Taubaté                                    350970                            
+     17  3517 SP Taubaté                                    350995                            
+     17  3517 SP Taubaté                                    351050                            
+     17  3517 SP Taubaté                                    351340                            
+     17  3517 SP Taubaté                                    351360                            
+     17  3517 SP Taubaté                                    351840                            
+     17  3517 SP Taubaté                                    352020                            
+     17  3517 SP Taubaté                                    352040                            
+     17  3517 SP Taubaté                                    352440                            
+     17  3517 SP Taubaté                                    352490                            
+     17  3517 SP Taubaté                                    352630                            
+     17  3517 SP Taubaté                                    352660                            
+     17  3517 SP Taubaté                                    352720                            
+     17  3517 SP Taubaté                                    353170                            
+     17  3517 SP Taubaté                                    353230                            
+     17  3517 SP Taubaté                                    353560                            
+     17  3517 SP Taubaté                                    353800                            
+     17  3517 SP Taubaté                                    353850                            
+     17  3517 SP Taubaté                                    354075                            
+     17  3517 SP Taubaté                                    354190                            
+     17  3517 SP Taubaté                                    354230                            
+     17  3517 SP Taubaté                                    354430                            
+     17  3517 SP Taubaté                                    354600                            
+     17  3517 SP Taubaté                                    354820                            
+     17  3517 SP Taubaté                                    354860                            
+     17  3517 SP Taubaté                                    354960                            
+     17  3517 SP Taubaté                                    354990                            
+     17  3517 SP Taubaté                                    355000                            
+     17  3517 SP Taubaté                                    355070                            
+     17  3517 SP Taubaté                                    355200                            
+     17  3517 SP Taubaté                                    355410                            
+     17  3517 SP Taubaté                                    355480                            
+     17  3517 SP Taubaté                                    355540                            
+     18  3500 SP Município ignorado - SP                    350000,359999                     

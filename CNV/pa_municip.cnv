@@ -1,0 +1,146 @@
+145 6
+      1   MUNICIPIO IGNORADO - PA                           150000,159999 
+      2  150010 ABAETETUBA                                  150010
+      3  150013 ABEL FIGUEIREDO                             150013
+      4  150020 ACARA                                       150020
+      5  150030 AFUA                                        150030
+      6  150034 AGUA AZUL DO NORTE                          150034
+      7  150040 ALENQUER                                    150040
+      8  150050 ALMEIRIM                                    150050
+      9  150060 ALTAMIRA                                    150060
+     10  150070 ANAJAS                                      150070
+     11  150080 ANANINDEUA                                  150080
+     12  150085 ANAPU                                       150085
+     13  150090 AUGUSTO CORREA                              150090
+     14  150095 AURORA DO PARA                              150095
+     15  150100 AVEIRO                                      150100
+     16  150110 BAGRE                                       150110
+     17  150120 BAIAO                                       150120
+     18  150125 BANNACH                                     150125
+     19  150130 BARCARENA                                   150130
+     20  150140 BELEM                                       150140
+     21  150145 BELTERRA                                    150145
+     22  150150 BENEVIDES                                   150150
+     23  150157 BOM JESUS DO TOCANTINS                      150157
+     24  150160 BONITO                                      150160
+     25  150170 BRAGANCA                                    150170
+     26  150172 BRASIL NOVO                                 150172
+     27  150175 BREJO GRANDE DO ARAGUAIA                    150175
+     28  150178 BREU BRANCO                                 150178
+     29  150180 BREVES                                      150180
+     30  150190 BUJARU                                      150190
+     31  150195 CACHOEIRA DO PIRIA                          150195
+     32  150200 CACHOEIRA DO ARARI                          150200
+     33  150210 CAMETA                                      150210
+     34  150215 CANAA DOS CARAJAS                           150215
+     35  150220 CAPANEMA                                    150220
+     36  150230 CAPITAO POCO                                150230
+     37  150240 CASTANHAL                                   150240
+     38  150250 CHAVES                                      150250
+     39  150260 COLARES                                     150260
+     40  150270 CONCEICAO DO ARAGUAIA                       150270
+     41  150275 CONCORDIA DO PARA                           150275
+     42  150276 CUMARU DO NORTE                             150276
+     43  150277 CURIONOPOLIS                                150277
+     44  150280 CURRALINHO                                  150280
+     45  150285 CURUA                                       150285
+     46  150290 CURUCA                                      150290
+     47  150293 DOM ELISEU                                  150293
+     48  150295 ELDORADO DOS CARAJAS                        150295
+     49  150300 FARO                                        150300
+     50  150304 FLORESTA DO ARAGUAIA                        150304
+     51  150307 GARRAFAO DO NORTE                           150307
+     52  150309 GOIANESIA DO PARA                           150309
+     53  150310 GURUPA                                      150310
+     54  150320 IGARAPE-ACU                                 150320
+     55  150330 IGARAPE-MIRI                                150330
+     56  150340 INHANGAPI                                   150340
+     57  150345 IPIXUNA DO PARA                             150345
+     58  150350 IRITUIA                                     150350
+     59  150360 ITAITUBA                                    150360
+     60  150370 ITUPIRANGA                                  150370
+     61  150375 JACAREACANGA                                150375
+     62  150380 JACUNDA                                     150380
+     63  150390 JURUTI                                      150390
+     64  150400 LIMOEIRO DO AJURU                           150400
+     65  150405 MAE DO RIO                                  150405
+     66  150410 MAGALHAES BARATA                            150410
+     67  150420 MARABA                                      150420
+     68  150430 MARACANA                                    150430
+     69  150440 MARAPANIM                                   150440
+     70  150442 MARITUBA                                    150442
+     71  150445 MEDICILANDIA                                150445
+     72  150450 MELGACO                                     150450
+     73  150460 MOCAJUBA                                    150460
+     74  150470 MOJU                                        150470
+     75  150475 MOJUI DOS CAMPOS                            150475
+     76  150480 MONTE ALEGRE                                150480
+     77  150490 MUANA                                       150490
+     78  150495 NOVA ESPERANCA DO PIRIA                     150495
+     79  150497 NOVA IPIXUNA                                150497
+     80  150500 NOVA TIMBOTEUA                              150500
+     81  150503 NOVO PROGRESSO                              150503
+     82  150506 NOVO REPARTIMENTO                           150506
+     83  150510 OBIDOS                                      150510
+     84  150520 OEIRAS DO PARA                              150520
+     85  150530 ORIXIMINA                                   150530
+     86  150540 OUREM                                       150540
+     87  150543 OURILANDIA DO NORTE                         150543
+     88  150548 PACAJA                                      150548
+     89  150549 PALESTINA DO PARA                           150549
+     90  150550 PARAGOMINAS                                 150550
+     91  150553 PARAUAPEBAS                                 150553
+     92  150555 PAU D'ARCO                                  150555
+     93  150560 PEIXE-BOI                                   150560
+     94  150563 PICARRA                                     150563
+     95  150565 PLACAS                                      150565
+     96  150570 PONTA DE PEDRAS                             150570
+     97  150580 PORTEL                                      150580
+     98  150590 PORTO DE MOZ                                150590
+     99  150600 PRAINHA                                     150600
+    100  150610 PRIMAVERA                                   150610
+    101  150611 QUATIPURU                                   150611
+    102  150613 REDENCAO                                    150613
+    103  150616 RIO MARIA                                   150616
+    104  150618 RONDON DO PARA                              150618
+    105  150619 RUROPOLIS                                   150619
+    106  150620 SALINOPOLIS                                 150620
+    107  150630 SALVATERRA                                  150630
+    108  150635 SANTA BARBARA DO PARA                       150635
+    109  150640 SANTA CRUZ DO ARARI                         150640
+    110  150650 SANTA IZABEL DO PARA                        150650
+    111  150655 SANTA LUZIA DO PARA                         150655
+    112  150658 SANTA MARIA DAS BARREIRAS                   150658
+    113  150660 SANTA MARIA DO PARA                         150660
+    114  150670 SANTANA DO ARAGUAIA                         150670
+    115  150680 SANTAREM                                    150680
+    116  150690 SANTAREM NOVO                               150690
+    117  150700 SANTO ANTONIO DO TAUA                       150700
+    118  150710 SAO CAETANO DE ODIVELAS                     150710
+    119  150715 SAO DOMINGOS DO ARAGUAIA                    150715
+    120  150720 SAO DOMINGOS DO CAPIM                       150720
+    121  150730 SAO FELIX DO XINGU                          150730
+    122  150740 SAO FRANCISCO DO PARA                       150740
+    123  150745 SAO GERALDO DO ARAGUAIA                     150745
+    124  150746 SAO JOAO DA PONTA                           150746
+    125  150747 SAO JOAO DE PIRABAS                         150747
+    126  150750 SAO JOAO DO ARAGUAIA                        150750
+    127  150760 SAO MIGUEL DO GUAMA                         150760
+    128  150770 SAO SEBASTIAO DA BOA VISTA                  150770
+    129  150775 SAPUCAIA                                    150775
+    130  150780 SENADOR JOSE PORFIRIO                       150780
+    131  150790 SOURE                                       150790
+    132  150795 TAILANDIA                                   150795
+    133  150796 TERRA ALTA                                  150796
+    134  150797 TERRA SANTA                                 150797
+    135  150800 TOME-ACU                                    150800
+    136  150803 TRACUATEUA                                  150803
+    137  150805 TRAIRAO                                     150805
+    138  150808 TUCUMA                                      150808
+    139  150810 TUCURUI                                     150810
+    140  150812 ULIANOPOLIS                                 150812
+    141  150815 URUARA                                      150815
+    142  150820 VIGIA                                       150820
+    143  150830 VISEU                                       150830
+    144  150835 VITORIA DO XINGU                            150835
+    145  150840 XINGUARA                                    150840

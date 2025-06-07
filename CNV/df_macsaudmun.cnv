@@ -1,0 +1,42 @@
+N 41 6
+   1    3  .....  BRASILIA                                                                                      530010
+        4  5303 MACRORREGIAO DE SAUDE Nº 1                                                                      539901,539902,539904,539915,539918,539924,539934,539938,539942,539944
+   4    5  .....  REGIAO ADMINISTRATIVA DA ARNIQUEIRAS                                                          539938
+   4    6  .....  REGIAO ADMINISTRATIVA DE AGUA QUENTE                                                          539944
+   4    7  .....  REGIAO ADMINISTRATIVA DO SOL NASCENTE/POR DO SOL                                              539942
+   4    8  .....  REGIAO ADMINISTRATIVA DE TAGUATINGA                                                           539924
+   4    9  .....  REGIAO ADMINISTRATIVA DE SAMAMBAIA                                                            539918
+   4   10  .....  REGIAO ADMINISTRATIVA DE RECANTO DA EMAS                                                      539915
+   4   11  .....  REGIAO ADMINISTRATIVA DE CEILANDIA                                                            539904
+   4   12  .....  REGIAO ADMINISTRATIVA DE BRAZLANDIA                                                           539902
+   4   13  .....  REGIAO ADMINISTRATIVA DE AGUAS CLARAS                                                         539901
+   4   14  .....  REGIAO ADMINISTRATIVA DE VICENTE PIRES                                                        539934
+       15  5304 MACRORREGIAO DE SAUDE Nº 2                                                                      539903,539905,539906,539907,539908,539909,539910,539913,539916,539917,539919,539925,539931,539933,539935,539941
+  15   16  .....  REGIAO ADMINISTRATIVA DO CRUZEIRO                                                             539905
+  15   17  .....  REGIAO ADMINISTRATIVA DO NUCLEO BANDEIRANTES                                                  539910
+  15   18  .....  REGIAO ADMINISTRATIVA DO LAGO SUL                                                             539909
+  15   19  .....  REGIAO ADMINISTRATIVA DO LAGO NORTE                                                           539908
+  15   20  .....  REGIAO ADMINISTRATIVA DO GUARA                                                                539907
+  15   21  .....  REGIAO ADMINISTRATIVA DO GAMA                                                                 539906
+  15   22  .....  REGIAO ADMINISTRATIVA DO PARK WAY                                                             539913
+  15   23  .....  REGIAO ADMINISTRATIVA DO RIACHO FUNDO I                                                       539916
+  15   24  .....  REGIAO ADMINISTRATIVA DO RIACHO FUNDO II                                                      539917
+  15   25  .....  REGIAO ADMINISTRATIVA DE SANTA MARIA                                                          539919
+  15   26  .....  REGIAO ADMINISTRATIVA DO SIA                                                                  539935
+  15   27  .....  REGIAO ADMINISTRATIVA DE CANDANGOLANDIA                                                       539903
+  15   28  .....  REGIAO ADMINISTRATIVA DO VARJAO                                                               539925
+  15   29  .....  REGIAO ADMINISTRATIVA DO PLANO PILOTO                                                         539941
+  15   30  .....  REGIAO ADMINISTRATIVA DE SCIA (ESTRUTURAL)                                                    539933
+  15   31  .....  REGIAO ADMINISTRATIVA DO SUDOESTE/OCTOGONAL                                                   539931
+       32  5305 MACRORREGIAO DE SAUDE Nº 3                                                                      539912,539914,539920,539921,539922,539928,539930,539936,539943
+  32   33  .....  REGIAO ADMINISTRATIVA DE PLANALTINA                                                           539914
+  32   34  .....  REGIAO ADMINISTRATIVA DE ARAPOANGA                                                            539943
+  32   35  .....  REGIAO ADMINISTRATIVA DO PARANOA                                                              539912
+  32   36  .....  REGIAO ADMINISTRATIVA DO JARDIM BOTANICO                                                      539930
+  32   37  .....  REGIAO ADMINISTRATIVA DO ITAPOA                                                               539928
+  32   38  .....  REGIAO ADMINISTRATIVA DE SAO SEBASTIAO                                                        539920
+  32   39  .....  REGIAO ADMINISTRATIVA DE SOBRADINHO                                                           539921
+  32   40  .....  REGIAO ADMINISTRATIVA DE SOBRADINHO II                                                        539922
+  32   41  .....  REGIAO ADMINISTRATIVA DA FERCAL                                                               539936
+        1  5302 DISTRITO FEDERAL                                                                                530000,530010
+   1    2  .....  MUNICIPIO IGNORADO - DF                                                                       530000

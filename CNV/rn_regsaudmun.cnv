@@ -1,0 +1,176 @@
+N 175 6
+        1  24001 1ª Região de Saúde - São José de Mipibu                                                        240120,240140,240180,240220,240350,240420,240615,240620,240630,240660,240770,240780,240790,240820,240830,240910,240920,240980,241150,241220,241320,241330,241350,241420,241470,241480,241500
+   1    2  .....  MONTANHAS                                                                                     240770
+   1    3  .....  ARES                                                                                          240120
+   1    4  .....  VERA CRUZ                                                                                     241480
+   1    5  .....  VARZEA                                                                                        241470
+   1    6  .....  VILA FLOR                                                                                     241500
+   1    7  .....  LAGOA SALGADA                                                                                 240660
+   1    8  .....  LAGOA D'ANTA                                                                                  240620
+   1    9  .....  LAGOA DE PEDRAS                                                                               240630
+   1   10  .....  TIBAU DO SUL                                                                                  241420
+   1   11  .....  SERRA DE SAO BENTO                                                                            241330
+   1   12  .....  SANTO ANTONIO                                                                                 241150
+   1   13  .....  BREJINHO                                                                                      240180
+   1   14  .....  MONTE ALEGRE                                                                                  240780
+   1   15  .....  BAIA FORMOSA                                                                                  240140
+   1   16  .....  PASSA E FICA                                                                                  240910
+   1   17  .....  SERRINHA                                                                                      241350
+   1   18  .....  JUNDIA                                                                                        240615
+   1   19  .....  PASSAGEM                                                                                      240920
+   1   20  .....  NISIA FLORESTA                                                                                240820
+   1   21  .....  CANGUARETAMA                                                                                  240220
+   1   22  .....  PEDRO VELHO                                                                                   240980
+   1   23  .....  SAO JOSE DE MIPIBU                                                                            241220
+   1   24  .....  ESPIRITO SANTO                                                                                240350
+   1   25  .....  GOIANINHA                                                                                     240420
+   1   26  .....  SENADOR GEORGINO AVELINO                                                                      241320
+   1   27  .....  NOVA CRUZ                                                                                     240830
+   1   28  .....  MONTE DAS GAMELEIRAS                                                                          240790
+       29  24002 2ª Região de Saúde - Mossoró                                                                   240100,240110,240130,240145,240230,240370,240430,240440,240520,240760,240800,241105,241335,241460
+  29   30  .....  UPANEMA                                                                                       241460
+  29   31  .....  SERRA DO MEL                                                                                  241335
+  29   32  .....  GROSSOS                                                                                       240440
+  29   33  .....  FELIPE GUERRA                                                                                 240370
+  29   34  .....  CARAUBAS                                                                                      240230
+  29   35  .....  TIBAU                                                                                         241105
+  29   36  .....  MOSSORO                                                                                       240800
+  29   37  .....  APODI                                                                                         240100
+  29   38  .....  MESSIAS TARGINO                                                                               240760
+  29   39  .....  GOVERNADOR DIX-SEPT ROSADO                                                                    240430
+  29   40  .....  AUGUSTO SEVERO                                                                                240130
+  29   41  .....  JANDUIS                                                                                       240520
+  29   42  .....  AREIA BRANCA                                                                                  240110
+  29   43  .....  BARAUNA                                                                                       240145
+       44  24003 3ª Região de Saúde - João Câmara                                                               240030,240160,240185,240190,240260,240410,240450,240460,240510,240550,240580,240670,240720,240750,240880,240895,240950,240960,240970,241010,241040,241090,241160,241255,241390,241440
+  44   45  .....  PEDRA GRANDE                                                                                  240950
+  44   46  .....  PEDRO AVELINO                                                                                 240970
+  44   47  .....  PEDRA PRETA                                                                                   240960
+  44   48  .....  PARAZINHO                                                                                     240880
+  44   49  .....  AFONSO BEZERRA                                                                                240030
+  44   50  .....  TOUROS                                                                                        241440
+  44   51  .....  JANDAIRA                                                                                      240510
+  44   52  .....  JOAO CAMARA                                                                                   240580
+  44   53  .....  IELMO MARINHO                                                                                 240460
+  44   54  .....  GALINHOS                                                                                      240410
+  44   55  .....  GUAMARE                                                                                       240450
+  44   56  .....  PUREZA                                                                                        241040
+  44   57  .....  TAIPU                                                                                         241390
+  44   58  .....  LAJES                                                                                         240670
+  44   59  .....  RIACHUELO                                                                                     241090
+  44   60  .....  POCO BRANCO                                                                                   241010
+  44   61  .....  SAO BENTO DO NORTE                                                                            241160
+  44   62  .....  MAXARANGUAPE                                                                                  240750
+  44   63  .....  BENTO FERNANDES                                                                               240160
+  44   64  .....  CEARA-MIRIM                                                                                   240260
+  44   65  .....  JARDIM DE ANGICOS                                                                             240550
+  44   66  .....  MACAU                                                                                         240720
+  44   67  .....  SAO MIGUEL DO GOSTOSO                                                                         241255
+  44   68  .....  CAICARA DO NORTE                                                                              240185
+  44   69  .....  RIO DO FOGO                                                                                   240895
+  44   70  .....  CAICARA DO RIO DO VENTO                                                                       240190
+       71  24004 4ª Região de Saúde - Caicó                                                                     240010,240165,240200,240240,240270,240300,240310,240340,240380,240480,240560,240570,240610,240650,240850,240890,241140,241142,241180,241210,241240,241300,241340,241415,241430
+  71   72  .....  CERRO CORA                                                                                    240270
+  71   73  .....  CARNAUBA DOS DANTAS                                                                           240240
+  71   74  .....  CAICO                                                                                         240200
+  71   75  .....  PARELHAS                                                                                      240890
+  71   76  .....  SERRA NEGRA DO NORTE                                                                          241340
+  71   77  .....  TENENTE LAURENTINO CRUZ                                                                       241415
+  71   78  .....  SAO JOSE DO SERIDO                                                                            241240
+  71   79  .....  SAO JOAO DO SABUGI                                                                            241210
+  71   80  .....  SANTANA DO SERIDO                                                                             241142
+  71   81  .....  FLORANIA                                                                                      240380
+  71   82  .....  TIMBAUBA DOS BATISTAS                                                                         241430
+  71   83  .....  SAO FERNANDO                                                                                  241180
+  71   84  .....  LAGOA NOVA                                                                                    240650
+  71   85  .....  JARDIM DO SERIDO                                                                              240570
+  71   86  .....  OURO BRANCO                                                                                   240850
+  71   87  .....  EQUADOR                                                                                       240340
+  71   88  .....  SAO VICENTE                                                                                   241300
+  71   89  .....  CRUZETA                                                                                       240300
+  71   90  .....  SANTANA DO MATOS                                                                              241140
+  71   91  .....  BODO                                                                                          240165
+  71   92  .....  IPUEIRA                                                                                       240480
+  71   93  .....  ACARI                                                                                         240010
+  71   94  .....  JARDIM DE PIRANHAS                                                                            240560
+  71   95  .....  JUCURUTU                                                                                      240610
+  71   96  .....  CURRAIS NOVOS                                                                                 240310
+       97  24005 5ª Região de Saúde - Santa Cruz                                                                240150,240170,240210,240280,240500,240530,240540,240640,240680,240933,241030,241110,241120,241170,241230,241260,241270,241290,241310,241370,241400
+  97   98  .....  CAMPO REDONDO                                                                                 240210
+  97   99  .....  TANGARA                                                                                       241400
+  97  100  .....  LAGOA DE VELHOS                                                                               240640
+  97  101  .....  SAO TOME                                                                                      241290
+  97  102  .....  JAPI                                                                                          240540
+  97  103  .....  SITIO NOVO                                                                                    241370
+  97  104  .....  SAO JOSE DO CAMPESTRE                                                                         241230
+  97  105  .....  SAO BENTO DO TRAIRI                                                                           241170
+  97  106  .....  RUY BARBOSA                                                                                   241110
+  97  107  .....  SERRA CAIADA                                                                                  241030
+  97  108  .....  JACANA                                                                                        240500
+  97  109  .....  BOM JESUS                                                                                     240170
+  97  110  .....  BARCELONA                                                                                     240150
+  97  111  .....  SAO PEDRO                                                                                     241270
+  97  112  .....  SENADOR ELOI DE SOUZA                                                                         241310
+  97  113  .....  LAJES PINTADAS                                                                                240680
+  97  114  .....  JANUARIO CICCO                                                                                240530
+  97  115  .....  CORONEL EZEQUIEL                                                                              240280
+  97  116  .....  SANTA CRUZ                                                                                    241120
+  97  117  .....  SAO PAULO DO POTENGI                                                                          241260
+  97  118  .....  SANTA MARIA                                                                                   240933
+      119  24006 6ª Região de Saúde - Pau dos Ferros                                                            240040,240050,240060,240090,240290,240320,240330,240390,240400,240490,240590,240600,240690,240700,240725,240730,240740,240840,240860,240930,240940,241000,241020,241050,241060,241070,241080,241100,241190,241250,241355,241360,241380,241410,241450,241475,241490
+ 119  120  .....  MARTINS                                                                                       240740
+ 119  121  .....  ENCANTO                                                                                       240330
+ 119  122  .....  FRUTUOSO GOMES                                                                                240400
+ 119  123  .....  LUIS GOMES                                                                                    240700
+ 119  124  .....  MAJOR SALES                                                                                   240725
+ 119  125  .....  CORONEL JOAO PESSOA                                                                           240290
+ 119  126  .....  SEVERIANO MELO                                                                                241360
+ 119  127  .....  RODOLFO FERNANDES                                                                             241100
+ 119  128  .....  PAU DOS FERROS                                                                                240940
+ 119  129  .....  PARANA                                                                                        240860
+ 119  130  .....  PORTALEGRE                                                                                    241020
+ 119  131  .....  ITAU                                                                                          240490
+ 119  132  .....  JOSE DA PENHA                                                                                 240600
+ 119  133  .....  SERRINHA DOS PINTOS                                                                           241355
+ 119  134  .....  VICOSA                                                                                        241490
+ 119  135  .....  RAFAEL FERNANDES                                                                              241050
+ 119  136  .....  ANTONIO MARTINS                                                                               240090
+ 119  137  .....  ALMINO AFONSO                                                                                 240060
+ 119  138  .....  RIACHO DA CRUZ                                                                                241070
+ 119  139  .....  RAFAEL GODEIRO                                                                                241060
+ 119  140  .....  PILOES                                                                                        241000
+ 119  141  .....  PATU                                                                                          240930
+ 119  142  .....  ALEXANDRIA                                                                                    240050
+ 119  143  .....  VENHA-VER                                                                                     241475
+ 119  144  .....  JOAO DIAS                                                                                     240590
+ 119  145  .....  UMARIZAL                                                                                      241450
+ 119  146  .....  SAO MIGUEL                                                                                    241250
+ 119  147  .....  FRANCISCO DANTAS                                                                              240390
+ 119  148  .....  RIACHO DE SANTANA                                                                             241080
+ 119  149  .....  DOUTOR SEVERIANO                                                                              240320
+ 119  150  .....  OLHO-D'AGUA DO BORGES                                                                         240840
+ 119  151  .....  TABOLEIRO GRANDE                                                                              241380
+ 119  152  .....  TENENTE ANANIAS                                                                               241410
+ 119  153  .....  AGUA NOVA                                                                                     240040
+ 119  154  .....  MARCELINO VIEIRA                                                                              240730
+ 119  155  .....  LUCRECIA                                                                                      240690
+ 119  156  .....  SAO FRANCISCO DO OESTE                                                                        241190
+      157  24007 7ª Região de Saúde - Metropolitana                                                             240325,240360,240710,240810,241200
+ 157  158  .....  EXTREMOZ                                                                                      240360
+ 157  159  .....  MACAIBA                                                                                       240710
+ 157  160  .....  PARNAMIRIM                                                                                    240325
+ 157  161  .....  SAO GONCALO DO AMARANTE                                                                       241200
+ 157  162  .....  NATAL                                                                                         240810
+      163  24008 8ª Região de Saúde - Açu                                                                       240020,240070,240080,240250,240375,240470,240485,240870,240990,241025,241280,241445
+ 163  164  .....  PORTO DO MANGUE                                                                               241025
+ 163  165  .....  ACU                                                                                           240020
+ 163  166  .....  PENDENCIAS                                                                                    240990
+ 163  167  .....  TRIUNFO POTIGUAR                                                                              241445
+ 163  168  .....  ITAJA                                                                                         240485
+ 163  169  .....  FERNANDO PEDROZA                                                                              240375
+ 163  170  .....  PARAU                                                                                         240870
+ 163  171  .....  SAO RAFAEL                                                                                    241280
+ 163  172  .....  CARNAUBAIS                                                                                    240250
+ 163  173  .....  IPANGUACU                                                                                     240470
+ 163  174  .....  ANGICOS                                                                                       240080
+ 163  175  .....  ALTO DO RODRIGUES                                                                             240070

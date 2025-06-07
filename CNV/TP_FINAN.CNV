@@ -1,0 +1,94 @@
+N 93 6 L
+       93  Não discriminado/Não se aplica                                                                       000000-999999,      ,
+        1  Atenção Básica (PAB)                                                                                 010000
+        2  Assistência Farmacêutica                                                                             020000
+        3  Coleta de material                                                                                   040001
+        4  Diagnóstico em laboratório clínico                                                                   040002
+        5  Coleta/exame anátomo-patológico colo uterino                                                         040003
+        6  Diagnóstico em neurologia                                                                            040004
+        7  Diagnóstico em otorrinolaringologia/fonoaudiologia                                                   040005
+        8  Diagnóstico em psicologia/psiquiatria                                                                040006
+        9  Consultas médicas/outros profissionais de nível superior                                             040007
+       10  Atenção domiciliar                                                                                   040008
+       11  Atendimento/acompanhamento em reabilitação física, mental, visual, auditiva e múltiplas deficiências 040009
+       12  Atendimento/acompanhamento psicossocial                                                              040010
+       13  Atendimento/acompanhamento em saúde do idoso                                                         040011
+       14  Atendimento/acompanhamento de queimados                                                              040012
+       15  Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabólicas e nutricionais           040013
+       16  Tratamento de doenças do sistema nervoso central e periférico                                        040014
+       17  Tratamento de doenças do aparelho da visão                                                           040015
+       18  Tratamento em oncologia                                                                              040016
+       19  Nefrologia                                                                                           040017
+       20  Tratamentos odontológicos                                                                            040018
+       21  Cirurgia do sistema nervoso central e periférico                                                     040019
+       22  Cirurgias de ouvido, nariz e garganta                                                                040020
+       23  Deformidade labio-palatal e crânio-facial                                                            040021
+       24  Cirurgia do aparelho da visão                                                                        040022
+       25  Cirurgia do aparelho circulatório                                                                    040023
+       26  Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal(inclui pré e pós operatório)        040024
+       27  Cirurgia do aparelho geniturinário                                                                   040025
+       28  Tratamento de queimados                                                                              040026
+       29  Cirurgia reparadora para lipodistrofia                                                               040027
+       30  Outras cirurgias plásticas/reparadoras                                                               040028
+       31  Cirurgia orofacial                                                                                   040029
+       32  Sequenciais                                                                                          040030
+       33  Cirurgias em nefrologia                                                                              040031
+       34  Transplantes de orgãos, tecidos e células                                                            040032
+       35  Medicamentos para transplante                                                                        040033
+       36  OPM auditivas                                                                                        040034
+       37  OPM em odontologia                                                                                   040035
+       38  OPM em queimados                                                                                     040036
+       39  OPM em nefrologia                                                                                    040037
+       40  OPM para transplantes                                                                                040038
+       41  Incentivos ao pré-natal e nascimento                                                                 040039
+       42  Incentivo ao registro cívil de nascimento                                                            040040
+       43  Central Nacional de Regulação de Alta Complexidade (CNRAC)                                           040041
+       44  Reguladores de Atividade hormonal - Inibidores de prolactina                                         040042
+       45  Política Nacional de Cirurgias Eletivas                                                              040043
+       46  Redesignação e Acompanhamento                                                                        040044
+       47  Projeto Olhar Brasil                                                                                 040045
+       48  Mamografia para Rastreamento                                                                         040046
+       49  Projeto Olhar Brasil - Consulta                                                                      040047
+       50  Projeto Olhar Brasil - Óculos                                                                        040048
+       51  Implementar Cirg. CV Pediátrica                                                                      040049
+       52  Cirurgias Eletivas - Componente I                                                                    040050
+       53  Cirurgias Eletivas - Componente II                                                                   040051
+       54  Cirurgias Eletivas - Componente III                                                                  040052
+       55  Prótese Mamária - Exames                                                                             040053
+       56  Prótese Mamária - Cirurgia                                                                           040054
+       57  Transplante - Histocompatibilidade                                                                   040055
+       58  Triagem Neonatal                                                                                     040056
+       59  Controle de qualidade do exame citopatológico do colo de útero                                       040057
+       60  Exames do Leite Materno                                                                              040058
+       61  Atenção as Pessoas em Situação de Violência Sexual                                                   040059
+       62  Sangue e Hemoderivados                                                                               040060
+       63  Mamografia para rastreamento em faixa etária recomendada                                             040061
+       64  Doenças Raras                                                                                        040062
+       65  Cadeiras de Rodas                                                                                    040063
+       66  Sistema de Frequencia Modulada Pessoal-FM                                                            040064
+       67  Medicamentos em Urgência                                                                             040065
+       68  Cirurgias Eletivas - Componente Único                                                                040066
+       69  Atenção Especializada em Saúde Auditiva                                                              040067
+       70  Terapias Especializadas em Angiologia                                                                040068
+       71  Tratamento de Doença Macular                                                                         040069
+       72  OPME Não Relacionados ao Ato Cirúrgico                                                               040070
+       73  Diagnóstico/tratamento em oncologia                                                                  040071
+       74  Diagnóstico de trombofilia em gestante                                                               040072
+       75  Reabilitação Pós-COVID-19                                                                            040073
+       76  Telemedicina em Urgência                                                                             040074
+       77  Fisioterapia Cardiovascular                                                                          040075
+       78  Hemodinâmica em atendimento de urgência                                                              040076
+       79  Exames Sorológicos e Imunológicos                                                                    040077
+       80  QualiSUS Cardio                                                                                      040078
+       81  Pré-cirúrgico em Cirurgias Prioritárias                                                              040079
+       82  Reduçäo das Filas de Procedimentos Eletivos.                                                         040080
+       83  Síndrome Respiratória Aguda Grave - SRAG                                                             040081
+       84  Alta Complexidade em Cardiologia                                                                     040082
+       85  Cirurgia da Face e do Sistema Estomatognático                                                        040083
+       86  Neurocirurgias                                                                                       040084
+       87  FAEC CNRAC (21012-cód ant à tab unif-vál p/2008-01)                                                  021012
+       88  FAEC Eletiv(21014-cód ant à tab unif-vál p/2008-01)                                                  021014
+       89  Incentivo - MAC                                                                                      050000
+       90  Média e Alta Complexidade (MAC)                                                                      060000
+       91  Vigilância em Saúde                                                                                  070000
+       92  Gestão do SUS                                                                                        080000

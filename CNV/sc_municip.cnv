@@ -1,0 +1,297 @@
+296 6
+      1   MUNICIPIO IGNORADO - SC                           420000,429999 
+      2  420005 ABDON BATISTA                               420005
+      3  420010 ABELARDO LUZ                                420010
+      4  420020 AGROLANDIA                                  420020
+      5  420030 AGRONOMICA                                  420030
+      6  420040 AGUA DOCE                                   420040
+      7  420050 AGUAS DE CHAPECO                            420050
+      8  420055 AGUAS FRIAS                                 420055
+      9  420060 AGUAS MORNAS                                420060
+     10  420070 ALFREDO WAGNER                              420070
+     11  420075 ALTO BELA VISTA                             420075
+     12  420080 ANCHIETA                                    420080
+     13  420090 ANGELINA                                    420090
+     14  420100 ANITA GARIBALDI                             420100
+     15  420110 ANITAPOLIS                                  420110
+     16  420120 ANTONIO CARLOS                              420120
+     17  420125 APIUNA                                      420125
+     18  420127 ARABUTA                                     420127
+     19  420130 ARAQUARI                                    420130
+     20  420140 ARARANGUA                                   420140
+     21  420150 ARMAZEM                                     420150
+     22  420160 ARROIO TRINTA                               420160
+     23  420165 ARVOREDO                                    420165
+     24  420170 ASCURRA                                     420170
+     25  420180 ATALANTA                                    420180
+     26  420190 AURORA                                      420190
+     27  420195 BALNEARIO ARROIO DO SILVA                   420195
+     28  420200 BALNEARIO CAMBORIU                          420200
+     29  420205 BALNEARIO BARRA DO SUL                      420205
+     30  420207 BALNEARIO GAIVOTA                           420207
+     31  420208 BANDEIRANTE                                 420208
+     32  420209 BARRA BONITA                                420209
+     33  420210 BARRA VELHA                                 420210
+     34  420213 BELA VISTA DO TOLDO                         420213
+     35  420215 BELMONTE                                    420215
+     36  420220 BENEDITO NOVO                               420220
+     37  420230 BIGUACU                                     420230
+     38  420240 BLUMENAU                                    420240
+     39  420243 BOCAINA DO SUL                              420243
+     40  420245 BOMBINHAS                                   420245
+     41  420250 BOM JARDIM DA SERRA                         420250
+     42  420253 BOM JESUS                                   420253
+     43  420257 BOM JESUS DO OESTE                          420257
+     44  420260 BOM RETIRO                                  420260
+     45  420270 BOTUVERA                                    420270
+     46  420280 BRACO DO NORTE                              420280
+     47  420285 BRACO DO TROMBUDO                           420285
+     48  420287 BRUNOPOLIS                                  420287
+     49  420290 BRUSQUE                                     420290
+     50  420300 CACADOR                                     420300
+     51  420310 CAIBI                                       420310
+     52  420315 CALMON                                      420315
+     53  420320 CAMBORIU                                    420320
+     54  420325 CAPAO ALTO                                  420325
+     55  420330 CAMPO ALEGRE                                420330
+     56  420340 CAMPO BELO DO SUL                           420340
+     57  420350 CAMPO ERE                                   420350
+     58  420360 CAMPOS NOVOS                                420360
+     59  420370 CANELINHA                                   420370
+     60  420380 CANOINHAS                                   420380
+     61  420390 CAPINZAL                                    420390
+     62  420395 CAPIVARI DE BAIXO                           420395
+     63  420400 CATANDUVAS                                  420400
+     64  420410 CAXAMBU DO SUL                              420410
+     65  420415 CELSO RAMOS                                 420415,420411 
+     66  420417 CERRO NEGRO                                 420417
+     67  420419 CHAPADAO DO LAGEADO                         420419
+     68  420420 CHAPECO                                     420420
+     69  420425 COCAL DO SUL                                420425
+     70  420430 CONCORDIA                                   420430
+     71  420435 CORDILHEIRA ALTA                            420435
+     72  420440 CORONEL FREITAS                             420440
+     73  420445 CORONEL MARTINS                             420445
+     74  420450 CORUPA                                      420450
+     75  420455 CORREIA PINTO                               420455
+     76  420460 CRICIUMA                                    420460
+     77  420470 CUNHA PORA                                  420470
+     78  420475 CUNHATAI                                    420475
+     79  420480 CURITIBANOS                                 420480
+     80  420490 DESCANSO                                    420490
+     81  420500 DIONISIO CERQUEIRA                          420500
+     82  420510 DONA EMMA                                   420510
+     83  420515 DOUTOR PEDRINHO                             420515
+     84  420517 ENTRE RIOS                                  420517
+     85  420519 ERMO                                        420519
+     86  420520 ERVAL VELHO                                 420520
+     87  420530 FAXINAL DOS GUEDES                          420530
+     88  420535 FLOR DO SERTAO                              420535
+     89  420540 FLORIANOPOLIS                               420540
+     90  420543 FORMOSA DO SUL                              420543
+     91  420545 FORQUILHINHA                                420545
+     92  420550 FRAIBURGO                                   420550
+     93  420555 FREI ROGERIO                                420555
+     94  420560 GALVAO                                      420560
+     95  420570 GAROPABA                                    420570
+     96  420580 GARUVA                                      420580
+     97  420590 GASPAR                                      420590
+     98  420600 GOVERNADOR CELSO RAMOS                      420600
+     99  420610 GRAO PARA                                   420610
+    100  420620 GRAVATAL                                    420620
+    101  420630 GUABIRUBA                                   420630
+    102  420640 GUARACIABA                                  420640
+    103  420650 GUARAMIRIM                                  420650
+    104  420660 GUARUJA DO SUL                              420660
+    105  420665 GUATAMBU                                    420665
+    106  420670 HERVAL D'OESTE                              420670
+    107  420675 IBIAM                                       420675
+    108  420680 IBICARE                                     420680
+    109  420690 IBIRAMA                                     420690
+    110  420700 ICARA                                       420700
+    111  420710 ILHOTA                                      420710
+    112  420720 IMARUI                                      420720
+    113  420730 IMBITUBA                                    420730
+    114  420740 IMBUIA                                      420740
+    115  420750 INDAIAL                                     420750
+    116  420757 IOMERE                                      420757
+    117  420760 IPIRA                                       420760
+    118  420765 IPORA DO OESTE                              420765
+    119  420768 IPUACU                                      420768
+    120  420770 IPUMIRIM                                    420770
+    121  420775 IRACEMINHA                                  420775
+    122  420780 IRANI                                       420780
+    123  420785 IRATI                                       420785
+    124  420790 IRINEOPOLIS                                 420790
+    125  420800 ITA                                         420800
+    126  420810 ITAIOPOLIS                                  420810
+    127  420820 ITAJAI                                      420820
+    128  420830 ITAPEMA                                     420830
+    129  420840 ITAPIRANGA                                  420840
+    130  420845 ITAPOA                                      420845
+    131  420850 ITUPORANGA                                  420850
+    132  420860 JABORA                                      420860
+    133  420870 JACINTO MACHADO                             420870
+    134  420880 JAGUARUNA                                   420880
+    135  420890 JARAGUA DO SUL                              420890
+    136  420895 JARDINOPOLIS                                420895
+    137  420900 JOACABA                                     420900
+    138  420910 JOINVILLE                                   420910
+    139  420915 JOSE BOITEUX                                420915
+    140  420917 JUPIA                                       420917
+    141  420920 LACERDOPOLIS                                420920
+    142  420930 LAGES                                       420930
+    143  420940 LAGUNA                                      420940
+    144  420945 LAJEADO GRANDE                              420945
+    145  420950 LAURENTINO                                  420950
+    146  420960 LAURO MULLER                                420960
+    147  420970 LEBON REGIS                                 420970
+    148  420980 LEOBERTO LEAL                               420980
+    149  420985 LINDOIA DO SUL                              420985
+    150  420990 LONTRAS                                     420990
+    151  421000 LUIZ ALVES                                  421000
+    152  421003 LUZERNA                                     421003
+    153  421005 MACIEIRA                                    421005
+    154  421010 MAFRA                                       421010
+    155  421020 MAJOR GERCINO                               421020
+    156  421030 MAJOR VIEIRA                                421030
+    157  421040 MARACAJA                                    421040
+    158  421050 MARAVILHA                                   421050
+    159  421055 MAREMA                                      421055
+    160  421060 MASSARANDUBA                                421060
+    161  421070 MATOS COSTA                                 421070
+    162  421080 MELEIRO                                     421080
+    163  421085 MIRIM DOCE                                  421085
+    164  421090 MODELO                                      421090
+    165  421100 MONDAI                                      421100
+    166  421105 MONTE CARLO                                 421105
+    167  421110 MONTE CASTELO                               421110
+    168  421120 MORRO DA FUMACA                             421120
+    169  421125 MORRO GRANDE                                421125
+    170  421130 NAVEGANTES                                  421130
+    171  421140 NOVA ERECHIM                                421140
+    172  421145 NOVA ITABERABA                              421145
+    173  421150 NOVA TRENTO                                 421150
+    174  421160 NOVA VENEZA                                 421160
+    175  421165 NOVO HORIZONTE                              421165
+    176  421170 ORLEANS                                     421170
+    177  421175 OTACILIO COSTA                              421175
+    178  421180 OURO                                        421180
+    179  421185 OURO VERDE                                  421185
+    180  421187 PAIAL                                       421187
+    181  421189 PAINEL                                      421189
+    182  421190 PALHOCA                                     421190
+    183  421200 PALMA SOLA                                  421200
+    184  421205 PALMEIRA                                    421205
+    185  421210 PALMITOS                                    421210
+    186  421220 PAPANDUVA                                   421220
+    187  421223 PARAISO                                     421223
+    188  421225 PASSO DE TORRES                             421225
+    189  421227 PASSOS MAIA                                 421227
+    190  421230 PAULO LOPES                                 421230
+    191  421240 PEDRAS GRANDES                              421240
+    192  421250 PENHA                                       421250
+    193  421260 PERITIBA                                    421260
+    194  421265 PESCARIA BRAVA                              421265
+    195  421270 PETROLANDIA                                 421270
+    196  421280 BALNEARIO PICARRAS                          421280
+    197  421290 PINHALZINHO                                 421290
+    198  421300 PINHEIRO PRETO                              421300
+    199  421310 PIRATUBA                                    421310
+    200  421315 PLANALTO ALEGRE                             421315
+    201  421320 POMERODE                                    421320
+    202  421330 PONTE ALTA                                  421330
+    203  421335 PONTE ALTA DO NORTE                         421335
+    204  421340 PONTE SERRADA                               421340
+    205  421350 PORTO BELO                                  421350
+    206  421360 PORTO UNIAO                                 421360
+    207  421370 POUSO REDONDO                               421370
+    208  421380 PRAIA GRANDE                                421380
+    209  421390 PRESIDENTE CASTELLO BRANCO                  421390
+    210  421400 PRESIDENTE GETULIO                          421400
+    211  421410 PRESIDENTE NEREU                            421410
+    212  421415 PRINCESA                                    421415
+    213  421420 QUILOMBO                                    421420
+    214  421430 RANCHO QUEIMADO                             421430
+    215  421440 RIO DAS ANTAS                               421440
+    216  421450 RIO DO CAMPO                                421450
+    217  421460 RIO DO OESTE                                421460
+    218  421470 RIO DOS CEDROS                              421470
+    219  421480 RIO DO SUL                                  421480
+    220  421490 RIO FORTUNA                                 421490
+    221  421500 RIO NEGRINHO                                421500
+    222  421505 RIO RUFINO                                  421505
+    223  421507 RIQUEZA                                     421507
+    224  421510 RODEIO                                      421510
+    225  421520 ROMELANDIA                                  421520
+    226  421530 SALETE                                      421530
+    227  421535 SALTINHO                                    421535
+    228  421540 SALTO VELOSO                                421540
+    229  421545 SANGAO                                      421545
+    230  421550 SANTA CECILIA                               421550
+    231  421555 SANTA HELENA                                421555
+    232  421560 SANTA ROSA DE LIMA                          421560
+    233  421565 SANTA ROSA DO SUL                           421565
+    234  421567 SANTA TEREZINHA                             421567
+    235  421568 SANTA TEREZINHA DO PROGRESSO                421568
+    236  421569 SANTIAGO DO SUL                             421569
+    237  421570 SANTO AMARO DA IMPERATRIZ                   421570
+    238  421575 SAO BERNARDINO                              421575
+    239  421580 SAO BENTO DO SUL                            421580
+    240  421590 SAO BONIFACIO                               421590
+    241  421600 SAO CARLOS                                  421600
+    242  421605 SAO CRISTOVAO DO SUL                        421605
+    243  421610 SAO DOMINGOS                                421610
+    244  421620 SAO FRANCISCO DO SUL                        421620
+    245  421625 SAO JOAO DO OESTE                           421625
+    246  421630 SAO JOAO BATISTA                            421630
+    247  421635 SAO JOAO DO ITAPERIU                        421635
+    248  421640 SAO JOAO DO SUL                             421640
+    249  421650 SAO JOAQUIM                                 421650
+    250  421660 SAO JOSE                                    421660
+    251  421670 SAO JOSE DO CEDRO                           421670
+    252  421680 SAO JOSE DO CERRITO                         421680
+    253  421690 SAO LOURENCO DO OESTE                       421690
+    254  421700 SAO LUDGERO                                 421700
+    255  421710 SAO MARTINHO                                421710
+    256  421715 SAO MIGUEL DA BOA VISTA                     421715
+    257  421720 SAO MIGUEL DO OESTE                         421720
+    258  421725 SAO PEDRO DE ALCANTARA                      421725
+    259  421730 SAUDADES                                    421730
+    260  421740 SCHROEDER                                   421740
+    261  421750 SEARA                                       421750
+    262  421755 SERRA ALTA                                  421755
+    263  421760 SIDEROPOLIS                                 421760
+    264  421770 SOMBRIO                                     421770
+    265  421775 SUL BRASIL                                  421775
+    266  421780 TAIO                                        421780
+    267  421790 TANGARA                                     421790
+    268  421795 TIGRINHOS                                   421795
+    269  421800 TIJUCAS                                     421800
+    270  421810 TIMBE DO SUL                                421810
+    271  421820 TIMBO                                       421820
+    272  421825 TIMBO GRANDE                                421825
+    273  421830 TRES BARRAS                                 421830
+    274  421835 TREVISO                                     421835
+    275  421840 TREZE DE MAIO                               421840
+    276  421850 TREZE TILIAS                                421850
+    277  421860 TROMBUDO CENTRAL                            421860
+    278  421870 TUBARAO                                     421870
+    279  421875 TUNAPOLIS                                   421875
+    280  421880 TURVO                                       421880
+    281  421885 UNIAO DO OESTE                              421885
+    282  421890 URUBICI                                     421890
+    283  421895 URUPEMA                                     421895
+    284  421900 URUSSANGA                                   421900
+    285  421910 VARGEAO                                     421910
+    286  421915 VARGEM                                      421915
+    287  421917 VARGEM BONITA                               421917
+    288  421920 VIDAL RAMOS                                 421920
+    289  421930 VIDEIRA                                     421930
+    290  421935 VITOR MEIRELES                              421935
+    291  421940 WITMARSUM                                   421940
+    292  421950 XANXERE                                     421950
+    293  421960 XAVANTINA                                   421960
+    294  421970 XAXIM                                       421970
+    295  421985 ZORTEA                                      421985
+    296  422000 BALNEARIO RINCAO                            422000

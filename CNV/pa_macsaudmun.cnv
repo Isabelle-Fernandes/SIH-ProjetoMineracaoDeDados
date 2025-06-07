@@ -1,0 +1,149 @@
+N 148 6
+        1  1509 MACRORREGIONAL IV                                                                               150013,150034,150125,150157,150175,150178,150215,150270,150276,150277,150293,150295,150304,150309,150370,150380,150420,150497,150506,150543,150549,150553,150555,150563,150613,150616,150618,150658,150670,150715,150730,150745,150750,150775,150808,150810,150840
+   1    2  .....  SANTA MARIA DAS BARREIRAS                                                                     150658
+   1    3  .....  REDENCAO                                                                                      150613
+   1    4  .....  PICARRA                                                                                       150563
+   1    5  .....  ABEL FIGUEIREDO                                                                               150013
+   1    6  .....  BREU BRANCO                                                                                   150178
+   1    7  .....  OURILANDIA DO NORTE                                                                           150543
+   1    8  .....  PALESTINA DO PARA                                                                             150549
+   1    9  .....  MARABA                                                                                        150420
+   1   10  .....  XINGUARA                                                                                      150840
+   1   11  .....  TUCURUI                                                                                       150810
+   1   12  .....  TUCUMA                                                                                        150808
+   1   13  .....  SAPUCAIA                                                                                      150775
+   1   14  .....  SAO JOAO DO ARAGUAIA                                                                          150750
+   1   15  .....  GOIANESIA DO PARA                                                                             150309
+   1   16  .....  SAO FELIX DO XINGU                                                                            150730
+   1   17  .....  FLORESTA DO ARAGUAIA                                                                          150304
+   1   18  .....  ELDORADO DOS CARAJAS                                                                          150295
+   1   19  .....  PARAUAPEBAS                                                                                   150553
+   1   20  .....  AGUA AZUL DO NORTE                                                                            150034
+   1   21  .....  CANAA DOS CARAJAS                                                                             150215
+   1   22  .....  BOM JESUS DO TOCANTINS                                                                        150157
+   1   23  .....  JACUNDA                                                                                       150380
+   1   24  .....  RIO MARIA                                                                                     150616
+   1   25  .....  CONCEICAO DO ARAGUAIA                                                                         150270
+   1   26  .....  RONDON DO PARA                                                                                150618
+   1   27  .....  NOVO REPARTIMENTO                                                                             150506
+   1   28  .....  SANTANA DO ARAGUAIA                                                                           150670
+   1   29  .....  CUMARU DO NORTE                                                                               150276
+   1   30  .....  NOVA IPIXUNA                                                                                  150497
+   1   31  .....  SAO GERALDO DO ARAGUAIA                                                                       150745
+   1   32  .....  ITUPIRANGA                                                                                    150370
+   1   33  .....  DOM ELISEU                                                                                    150293
+   1   34  .....  SAO DOMINGOS DO ARAGUAIA                                                                      150715
+   1   35  .....  BANNACH                                                                                       150125
+   1   36  .....  BREJO GRANDE DO ARAGUAIA                                                                      150175
+   1   37  .....  PAU D'ARCO                                                                                    150555
+   1   38  .....  CURIONOPOLIS                                                                                  150277
+       39  1510 MACRORREGIONAL III                                                                              150040,150050,150060,150085,150100,150145,150172,150285,150300,150360,150375,150390,150445,150475,150480,150503,150510,150530,150548,150565,150590,150600,150619,150680,150780,150797,150805,150815,150835
+  39   40  .....  SANTAREM                                                                                      150680
+  39   41  .....  RUROPOLIS                                                                                     150619
+  39   42  .....  PORTO DE MOZ                                                                                  150590
+  39   43  .....  PRAINHA                                                                                       150600
+  39   44  .....  PLACAS                                                                                        150565
+  39   45  .....  ALMEIRIM                                                                                      150050
+  39   46  .....  BRASIL NOVO                                                                                   150172
+  39   47  .....  BELTERRA                                                                                      150145
+  39   48  .....  NOVO PROGRESSO                                                                                150503
+  39   49  .....  PACAJA                                                                                        150548
+  39   50  .....  AVEIRO                                                                                        150100
+  39   51  .....  ANAPU                                                                                         150085
+  39   52  .....  MEDICILANDIA                                                                                  150445
+  39   53  .....  VITORIA DO XINGU                                                                              150835
+  39   54  .....  JURUTI                                                                                        150390
+  39   55  .....  FARO                                                                                          150300
+  39   56  .....  ALENQUER                                                                                      150040
+  39   57  .....  ORIXIMINA                                                                                     150530
+  39   58  .....  URUARA                                                                                        150815
+  39   59  .....  SENADOR JOSE PORFIRIO                                                                         150780
+  39   60  .....  JACAREACANGA                                                                                  150375
+  39   61  .....  CURUA                                                                                         150285
+  39   62  .....  TERRA SANTA                                                                                   150797
+  39   63  .....  ITAITUBA                                                                                      150360
+  39   64  .....  MONTE ALEGRE                                                                                  150480
+  39   65  .....  OBIDOS                                                                                        150510
+  39   66  .....  TRAIRAO                                                                                       150805
+  39   67  .....  ALTAMIRA                                                                                      150060
+  39   68  .....  MOJUI DOS CAMPOS                                                                              150475
+       69  1511 MACRORREGIONAL II                                                                               150020,150090,150095,150160,150170,150190,150195,150220,150230,150240,150260,150275,150290,150307,150320,150340,150345,150350,150405,150410,150430,150440,150495,150500,150540,150550,150560,150610,150611,150620,150650,150655,150660,150690,150700,150710,150720,150740,150746,150747,150760,150796,150800,150803,150812,150820,150830
+  69   70  .....  SANTA MARIA DO PARA                                                                           150660
+  69   71  .....  CAPANEMA                                                                                      150220
+  69   72  .....  CAPITAO POCO                                                                                  150230
+  69   73  .....  CACHOEIRA DO PIRIA                                                                            150195
+  69   74  .....  PRIMAVERA                                                                                     150610
+  69   75  .....  VIGIA                                                                                         150820
+  69   76  .....  MARACANA                                                                                      150430
+  69   77  .....  MAGALHAES BARATA                                                                              150410
+  69   78  .....  INHANGAPI                                                                                     150340
+  69   79  .....  IGARAPE-ACU                                                                                   150320
+  69   80  .....  SAO CAETANO DE ODIVELAS                                                                       150710
+  69   81  .....  QUATIPURU                                                                                     150611
+  69   82  .....  CURUCA                                                                                        150290
+  69   83  .....  CONCORDIA DO PARA                                                                             150275
+  69   84  .....  SAO MIGUEL DO GUAMA                                                                           150760
+  69   85  .....  SAO JOAO DE PIRABAS                                                                           150747
+  69   86  .....  BUJARU                                                                                        150190
+  69   87  .....  MARAPANIM                                                                                     150440
+  69   88  .....  AUGUSTO CORREA                                                                                150090
+  69   89  .....  ACARA                                                                                         150020
+  69   90  .....  BRAGANCA                                                                                      150170
+  69   91  .....  IPIXUNA DO PARA                                                                               150345
+  69   92  .....  PEIXE-BOI                                                                                     150560
+  69   93  .....  TRACUATEUA                                                                                    150803
+  69   94  .....  NOVA ESPERANCA DO PIRIA                                                                       150495
+  69   95  .....  NOVA TIMBOTEUA                                                                                150500
+  69   96  .....  TERRA ALTA                                                                                    150796
+  69   97  .....  CASTANHAL                                                                                     150240
+  69   98  .....  SANTO ANTONIO DO TAUA                                                                         150700
+  69   99  .....  SANTA LUZIA DO PARA                                                                           150655
+  69  100  .....  SALINOPOLIS                                                                                   150620
+  69  101  .....  VISEU                                                                                         150830
+  69  102  .....  ULIANOPOLIS                                                                                   150812
+  69  103  .....  IRITUIA                                                                                       150350
+  69  104  .....  PARAGOMINAS                                                                                   150550
+  69  105  .....  MAE DO RIO                                                                                    150405
+  69  106  .....  SAO DOMINGOS DO CAPIM                                                                         150720
+  69  107  .....  AURORA DO PARA                                                                                150095
+  69  108  .....  BONITO                                                                                        150160
+  69  109  .....  GARRAFAO DO NORTE                                                                             150307
+  69  110  .....  OUREM                                                                                         150540
+  69  111  .....  SAO FRANCISCO DO PARA                                                                         150740
+  69  112  .....  SAO JOAO DA PONTA                                                                             150746
+  69  113  .....  COLARES                                                                                       150260
+  69  114  .....  TOME-ACU                                                                                      150800
+  69  115  .....  SANTAREM NOVO                                                                                 150690
+  69  116  .....  SANTA IZABEL DO PARA                                                                          150650
+      117  1512 MACRORREGIONAL I                                                                                150010,150030,150070,150080,150110,150120,150130,150140,150150,150180,150200,150210,150250,150280,150310,150330,150400,150442,150450,150460,150470,150490,150520,150570,150580,150630,150635,150640,150770,150790,150795
+ 117  118  .....  PONTA DE PEDRAS                                                                               150570
+ 117  119  .....  PORTEL                                                                                        150580
+ 117  120  .....  CAMETA                                                                                        150210
+ 117  121  .....  OEIRAS DO PARA                                                                                150520
+ 117  122  .....  BELEM                                                                                         150140
+ 117  123  .....  BAGRE                                                                                         150110
+ 117  124  .....  ABAETETUBA                                                                                    150010
+ 117  125  .....  MELGACO                                                                                       150450
+ 117  126  .....  SAO SEBASTIAO DA BOA VISTA                                                                    150770
+ 117  127  .....  IGARAPE-MIRI                                                                                  150330
+ 117  128  .....  SOURE                                                                                         150790
+ 117  129  .....  ANANINDEUA                                                                                    150080
+ 117  130  .....  BENEVIDES                                                                                     150150
+ 117  131  .....  ANAJAS                                                                                        150070
+ 117  132  .....  MARITUBA                                                                                      150442
+ 117  133  .....  MUANA                                                                                         150490
+ 117  134  .....  MOJU                                                                                          150470
+ 117  135  .....  BREVES                                                                                        150180
+ 117  136  .....  TAILANDIA                                                                                     150795
+ 117  137  .....  SANTA BARBARA DO PARA                                                                         150635
+ 117  138  .....  BAIAO                                                                                         150120
+ 117  139  .....  BARCARENA                                                                                     150130
+ 117  140  .....  GURUPA                                                                                        150310
+ 117  141  .....  CHAVES                                                                                        150250
+ 117  142  .....  CACHOEIRA DO ARARI                                                                            150200
+ 117  143  .....  SALVATERRA                                                                                    150630
+ 117  144  .....  LIMOEIRO DO AJURU                                                                             150400
+ 117  145  .....  MOCAJUBA                                                                                      150460
+ 117  146  .....  AFUA                                                                                          150030
+ 117  147  .....  CURRALINHO                                                                                    150280
+ 117  148  .....  SANTA CRUZ DO ARARI                                                                           150640

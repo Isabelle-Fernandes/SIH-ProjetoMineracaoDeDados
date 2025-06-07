@@ -1,0 +1,238 @@
+237  6                                                                                    
+      1  25010 João Pessoa - PB                             250060                            
+  1   2  ..... Alhandra                                     250060                            
+  1   3  ..... Bayeux                                       250180                            
+  1   4  ..... Caaporã                                      250300                            
+  1   5  ..... Cabedelo                                     250320                            
+  1   6  ..... Conde                                        250460                            
+  1   7  ..... Cruz do Espírito Santo                       250490                            
+  1   8  ..... João Pessoa                                  250750,257507                     
+  1   9  ..... Lucena                                       250860                            
+  1  10  ..... Pedras de Fogo                               251120                            
+  1  11  ..... Pitimbu                                      251190                            
+  1  12  ..... Rio Tinto                                    251290                            
+  1  13  ..... Santa Rita                                   251370                            
+     14  25020 Campina Grande - PB                          250053                            
+ 14  15  ..... Alcantil                                     250053                            
+ 14  16  ..... Aroeiras                                     250130                            
+ 14  17  ..... Barra de Santana                             250157                            
+ 14  18  ..... Boa Vista                                    250215                            
+ 14  19  ..... Boqueirão                                    250250                            
+ 14  20  ..... Campina Grande                               250400,254009                     
+ 14  21  ..... Caturité                                     250435                            
+ 14  22  ..... Fagundes                                     250610                            
+ 14  23  ..... Gado Bravo                                   250625                            
+ 14  24  ..... Itatuba                                      250720                            
+ 14  25  ..... Lagoa Seca                                   250830                            
+ 14  26  ..... Massaranduba                                 250920                            
+ 14  27  ..... Matinhas                                     250933                            
+ 14  28  ..... Natuba                                       250990                            
+ 14  29  ..... Puxinanã                                     251240                            
+ 14  30  ..... Queimadas                                    251250                            
+ 14  31  ..... Santa Cecília                                251315                            
+ 14  32  ..... Serra Redonda                                251580                            
+ 14  33  ..... Umbuzeiro                                    251700                            
+     34  25030 Guarabira - PB                               250050,250502                     
+ 34  35  ..... Alagoinha                                    250050,250502                     
+ 34  36  ..... Araçagi                                      250080                            
+ 34  37  ..... Belém                                        250190                            
+ 34  38  ..... Borborema                                    250270                            
+ 34  39  ..... Caiçara                                      250360                            
+ 34  40  ..... Cuitegi                                      250520                            
+ 34  41  ..... Duas Estradas                                250580                            
+ 34  42  ..... Guarabira                                    250630                            
+ 34  43  ..... Lagoa de Dentro                              250820                            
+ 34  44  ..... Logradouro                                   250855                            
+ 34  45  ..... Mulungu                                      250980                            
+ 34  46  ..... Pilões                                       251160                            
+ 34  47  ..... Pilõezinhos                                  251170                            
+ 34  48  ..... Pirpirituba                                  251180                            
+ 34  49  ..... Serra da Raiz                                251560                            
+ 34  50  ..... Serraria                                     251590                            
+ 34  51  ..... Sertãozinho                                  251593                            
+     52  25040 Patos - PB                                   250115                            
+ 52  53  ..... Areia de Baraúnas                            250115                            
+ 52  54  ..... Cacimba de Areia                             250340                            
+ 52  55  ..... Cacimbas                                     250355                            
+ 52  56  ..... Condado                                      250450                            
+ 52  57  ..... Desterro                                     250540                            
+ 52  58  ..... Emas                                         250590                            
+ 52  59  ..... Junco do Seridó                              250780                            
+ 52  60  ..... Mãe d'Água                                   250870                            
+ 52  61  ..... Malta                                        250880                            
+ 52  62  ..... Maturéia                                     250939                            
+ 52  63  ..... Passagem                                     251070                            
+ 52  64  ..... Patos                                        251080                            
+ 52  65  ..... Quixaba                                      251260                            
+ 52  66  ..... Salgadinho                                   251300                            
+ 52  67  ..... Santa Luzia                                  251340                            
+ 52  68  ..... Santa Teresinha                              251380                            
+ 52  69  ..... São José de Espinharas                       251440                            
+ 52  70  ..... São José do Bonfim                           251460                            
+ 52  71  ..... São José do Sabugi                           251470                            
+ 52  72  ..... São Mamede                                   251490                            
+ 52  73  ..... Teixeira                                     251670                            
+ 52  74  ..... Várzea                                       251710                            
+ 52  75  ..... Vista Serrana                                250550                            
+     76  25050 Esperança - PB                               250040                            
+ 76  77  ..... Alagoa Nova                                  250040                            
+ 76  78  ..... Algodão de Jandaíra                          250057                            
+ 76  79  ..... Areia                                        250110                            
+ 76  80  ..... Areial                                       250120                            
+ 76  81  ..... Esperança                                    250600                            
+ 76  82  ..... Montadas                                     250950                            
+ 76  83  ..... Pocinhos                                     251200                            
+ 76  84  ..... Remígio                                      251270                            
+ 76  85  ..... São Sebastião de Lagoa de Roça               251510                            
+     86  25060 Cajazeiras - PB                              250205                            
+ 86  87  ..... Bernardino Batista                           250205                            
+ 86  88  ..... Bom Jesus                                    250220                            
+ 86  89  ..... Bonito de Santa Fé                           250240                            
+ 86  90  ..... Cachoeira dos Índios                         250330                            
+ 86  91  ..... Cajazeiras                                   250370                            
+ 86  92  ..... Carrapateira                                 250410                            
+ 86  93  ..... Joca Claudino                                251365                            
+ 86  94  ..... Monte Horebe                                 250960                            
+ 86  95  ..... Poço Dantas                                  251203                            
+ 86  96  ..... Poço de José de Moura                        251207                            
+ 86  97  ..... Santa Helena                                 251330                            
+ 86  98  ..... São João do Rio do Peixe                     250070                            
+ 86  99  ..... São José de Piranhas                         251450                            
+ 86 100  ..... Triunfo                                      251680                            
+ 86 101  ..... Uiraúna                                      251690                            
+    102  25070 Vale do Piancó - PB                          250020                            
+102 103  ..... Aguiar                                       250020                            
+102 104  ..... Boa Ventura                                  250210                            
+102 105  ..... Catingueira                                  250420                            
+102 106  ..... Conceição                                    250440                            
+102 107  ..... Coremas                                      250480                            
+102 108  ..... Curral Velho                                 250530                            
+102 109  ..... Diamante                                     250560                            
+102 110  ..... Ibiara                                       250660                            
+102 111  ..... Igaracy                                      250260                            
+102 112  ..... Itaporanga                                   250700                            
+102 113  ..... Nova Olinda                                  251020                            
+102 114  ..... Piancó                                       251130                            
+102 115  ..... Santa Inês                                   251335                            
+102 116  ..... Santana de Mangueira                         251350                            
+102 117  ..... Santana dos Garrotes                         251360                            
+102 118  ..... São José de Caiana                           251430                            
+102 119  ..... Serra Grande                                 251570                            
+    120  25080 Barra de Santa Rosa - PB                     250153                            
+120 121  ..... Baraúna                                      250153                            
+120 122  ..... Barra de Santa Rosa                          250160                            
+120 123  ..... Cuité                                        250510                            
+120 124  ..... Frei Martinho                                250620                            
+120 125  ..... Nova Floresta                                251010                            
+120 126  ..... Nova Palmeira                                251030                            
+120 127  ..... Picuí                                        251140                            
+120 128  ..... Sossêgo                                      251615                            
+    129  25090 Vale do Mamanguape - PB                      250140                            
+129 130  ..... Baía da Traição                              250140                            
+129 131  ..... Cuité de Mamanguape                          250523                            
+129 132  ..... Curral de Cima                               250527                            
+129 133  ..... Itapororoca                                  250710                            
+129 134  ..... Jacaraú                                      250730                            
+129 135  ..... Mamanguape                                   250890                            
+129 136  ..... Marcação                                     250905                            
+129 137  ..... Mataraca                                     250930                            
+129 138  ..... Pedro Régis                                  251272                            
+    139  25100 Sousa - PB                                   250077                            
+139 140  ..... Aparecida                                    250077                            
+139 141  ..... Lastro                                       250840                            
+139 142  ..... Marizópolis                                  250915                            
+139 143  ..... Nazarezinho                                  251000                            
+139 144  ..... Santa Cruz                                   251320                            
+139 145  ..... São Francisco                                251398                            
+139 146  ..... São José da Lagoa Tapada                     251420                            
+139 147  ..... Sousa                                        251620                            
+139 148  ..... Vieirópolis                                  251720                            
+    149  25110 Itabaiana - PB                               250380                            
+149 150  ..... Caldas Brandão                               250380                            
+149 151  ..... Gurinhém                                     250640                            
+149 152  ..... Ingá                                         250680                            
+149 153  ..... Itabaiana                                    250690                            
+149 154  ..... Juarez Távora                                250760                            
+149 155  ..... Juripiranga                                  250790                            
+149 156  ..... Mogeiro                                      250940                            
+149 157  ..... Pilar                                        251150                            
+149 158  ..... Riachão do Bacamarte                         251275                            
+149 159  ..... Salgado de São Félix                         251310                            
+149 160  ..... São José dos Ramos                           251445                            
+149 161  ..... São Miguel de Taipu                          251500                            
+    162  25120 Araruna - PB                                 250100                            
+162 163  ..... Araruna                                      250100                            
+162 164  ..... Cacimba de Dentro                            250350                            
+162 165  ..... Damião                                       250535                            
+162 166  ..... Dona Inês                                    250570                            
+162 167  ..... Riachão                                      251274                            
+162 168  ..... Tacima                                       251640                            
+    169  25900 Fora de Reg.Metrop. - PB                     250010                            
+169 170  ..... Água Branca                                  250010                            
+169 171  ..... Alagoa Grande                                250030                            
+169 172  ..... Amparo                                       250073                            
+169 173  ..... Arara                                        250090,250908                     
+169 174  ..... Assunção                                     250135                            
+169 175  ..... Bananeiras                                   250150                            
+169 176  ..... Barra de São Miguel                          250170                            
+169 177  ..... Belém do Brejo do Cruz                       250200                            
+169 178  ..... Bom Sucesso                                  250230                            
+169 179  ..... Brejo do Cruz                                250280                            
+169 180  ..... Brejo dos Santos                             250290                            
+169 181  ..... Cabaceiras                                   250310                            
+169 182  ..... Cajazeirinhas                                250375                            
+169 183  ..... Camalaú                                      250390                            
+169 184  ..... Capim                                        250403                            
+169 185  ..... Caraúbas                                     250407                            
+169 186  ..... Casserengue                                  250415                            
+169 187  ..... Catolé do Rocha                              250430                            
+169 188  ..... Congo                                        250470                            
+169 189  ..... Coxixola                                     250485                            
+169 190  ..... Cubati                                       250500                            
+169 191  ..... Gurjão                                       250650                            
+169 192  ..... Imaculada                                    250670                            
+169 193  ..... Jericó                                       250740                            
+169 194  ..... Juazeirinho                                  250770                            
+169 195  ..... Juru                                         250800                            
+169 196  ..... Lagoa                                        250810                            
+169 197  ..... Livramento                                   250850                            
+169 198  ..... Manaíra                                      250900                            
+169 199  ..... Mari                                         250910                            
+169 200  ..... Mato Grosso                                  250937                            
+169 201  ..... Monteiro                                     250970                            
+169 202  ..... Olho d'Água                                  251040                            
+169 203  ..... Olivedos                                     251050                            
+169 204  ..... Ouro Velho                                   251060                            
+169 205  ..... Parari                                       251065                            
+169 206  ..... Paulista                                     251090                            
+169 207  ..... Pedra Branca                                 251100                            
+169 208  ..... Pedra Lavrada                                251110                            
+169 209  ..... Pombal                                       251210                            
+169 210  ..... Prata                                        251220                            
+169 211  ..... Princesa Isabel                              251230                            
+169 212  ..... Riachão do Poço                              251276                            
+169 213  ..... Riacho de Santo Antônio                      251278                            
+169 214  ..... Riacho dos Cavalos                           251280                            
+169 215  ..... Santo André                                  251385                            
+169 216  ..... São Bentinho                                 251392                            
+169 217  ..... São Bento                                    251390                            
+169 218  ..... São Domingos                                 251396                            
+169 219  ..... São Domingos do Cariri                       251394                            
+169 220  ..... São João do Cariri                           251400                            
+169 221  ..... São João do Tigre                            251410                            
+169 222  ..... São José de Princesa                         251455                            
+169 223  ..... São José do Brejo do Cruz                    251465                            
+169 224  ..... São José dos Cordeiros                       251480                            
+169 225  ..... São Sebastião do Umbuzeiro                   251520                            
+169 226  ..... São Vicente do Seridó                        251540                            
+169 227  ..... Sapé                                         251530                            
+169 228  ..... Serra Branca                                 251550                            
+169 229  ..... Sobrado                                      251597                            
+169 230  ..... Solânea                                      251600                            
+169 231  ..... Soledade                                     251610                            
+169 232  ..... Sumé                                         251630                            
+169 233  ..... Taperoá                                      251650                            
+169 234  ..... Tavares                                      251660                            
+169 235  ..... Tenório                                      251675                            
+169 236  ..... Zabelê                                       251740                            
+    237  25000 Ignorado - PB                                250000,259999                     

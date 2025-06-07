@@ -1,0 +1,424 @@
+423  6                                                                                    
+      1  26020 Petrolina/Juazeiro-PE/BA                     290720                            
+  1   2  ..... Casa Nova                                    290720                            
+  1   3  ..... Curaçá                                       290990                            
+  1   4  ..... Juazeiro                                     291840                            
+  1   5  ..... Sobradinho                                   293077                            
+      6  29010 Salvador - BA                                290570                            
+  6   7  ..... Camaçari                                     290570                            
+  6   8  ..... Candeias                                     290650                            
+  6   9  ..... Dias d'Ávila                                 291005                            
+  6  10  ..... Itaparica                                    291610                            
+  6  11  ..... Lauro de Freitas                             291920                            
+  6  12  ..... Madre de Deus                                291992                            
+  6  13  ..... Mata de São João                             292100                            
+  6  14  ..... Pojuca                                       292520                            
+  6  15  ..... Salvador                                     292740                            
+  6  16  ..... São Francisco do Conde                       292920                            
+  6  17  ..... São Sebastião do Passé                       292950                            
+  6  18  ..... Simões Filho                                 293070                            
+  6  19  ..... Vera Cruz                                    293320                            
+     20  29021 Fde Santana - núc - BA                       290110                            
+ 20  21  ..... Amélia Rodrigues                             290110                            
+ 20  22  ..... Conceição da Feira                           290820                            
+ 20  23  ..... Conceição do Jacuípe                         290850                            
+ 20  24  ..... Feira de Santana                             291080                            
+ 20  25  ..... São Gonçalo dos Campos                       292930                            
+ 20  26  ..... Tanquinho                                    293110                            
+     27  29022 F.de Santana - exp - BA                      290150                            
+ 27  28  ..... Anguera                                      290150                            
+ 27  29  ..... Antônio Cardoso                              290170                            
+ 27  30  ..... Candeal                                      290640                            
+ 27  31  ..... Coração de Maria                             290890                            
+ 27  32  ..... Ipecaetá                                     291380                            
+ 27  33  ..... Irará                                        291450                            
+ 27  34  ..... Riachão do Jacuípe                           292630                            
+ 27  35  ..... Santa Bárbara                                292750                            
+ 27  36  ..... Santanópolis                                 292830                            
+ 27  37  ..... Serra Preta                                  293040                            
+     38  29900 Fora de Reg.Metrop. - BA                     290010                            
+ 38  39  ..... Abaíra                                       290010                            
+ 38  40  ..... Abaré                                        290020                            
+ 38  41  ..... Acajutiba                                    290030                            
+ 38  42  ..... Adustina                                     290035                            
+ 38  43  ..... Água Fria                                    290040                            
+ 38  44  ..... Aiquara                                      290060                            
+ 38  45  ..... Alagoinhas                                   290070                            
+ 38  46  ..... Alcobaça                                     290080                            
+ 38  47  ..... Almadina                                     290090                            
+ 38  48  ..... Amargosa                                     290100                            
+ 38  49  ..... América Dourada                              290115                            
+ 38  50  ..... Anagé                                        290120                            
+ 38  51  ..... Andaraí                                      290130                            
+ 38  52  ..... Andorinha                                    290135                            
+ 38  53  ..... Angical                                      290140                            
+ 38  54  ..... Antas                                        290160                            
+ 38  55  ..... Antônio Gonçalves                            290180                            
+ 38  56  ..... Aporá                                        290190                            
+ 38  57  ..... Apuarema                                     290195                            
+ 38  58  ..... Araças                                       290205                            
+ 38  59  ..... Aracatu                                      290200                            
+ 38  60  ..... Araci                                        290210                            
+ 38  61  ..... Aramari                                      290220                            
+ 38  62  ..... Arataca                                      290225                            
+ 38  63  ..... Aratuípe                                     290230                            
+ 38  64  ..... Aurelino Leal                                290240                            
+ 38  65  ..... Baianópolis                                  290250                            
+ 38  66  ..... Baixa Grande                                 290260                            
+ 38  67  ..... Banzaê                                       290265                            
+ 38  68  ..... Barra                                        290270                            
+ 38  69  ..... Barra da Estiva                              290280                            
+ 38  70  ..... Barra do Choça                               290290                            
+ 38  71  ..... Barra do Mendes                              290300                            
+ 38  72  ..... Barra do Rocha                               290310                            
+ 38  73  ..... Barreiras                                    290320                            
+ 38  74  ..... Barro Alto                                   290323                            
+ 38  75  ..... Barro Preto                                  290330                            
+ 38  76  ..... Barrocas                                     290327                            
+ 38  77  ..... Belmonte                                     290340                            
+ 38  78  ..... Belo Campo                                   290350                            
+ 38  79  ..... Biritinga                                    290360                            
+ 38  80  ..... Boa Nova                                     290370                            
+ 38  81  ..... Boa Vista do Tupim                           290380                            
+ 38  82  ..... Bom Jesus da Lapa                            290390                            
+ 38  83  ..... Bom Jesus da Serra                           290395                            
+ 38  84  ..... Boninal                                      290400                            
+ 38  85  ..... Bonito                                       290405                            
+ 38  86  ..... Boquira                                      290410                            
+ 38  87  ..... Botuporã                                     290420                            
+ 38  88  ..... Brejões                                      290430                            
+ 38  89  ..... Brejolândia                                  290440                            
+ 38  90  ..... Brotas de Macaúbas                           290450                            
+ 38  91  ..... Brumado                                      290460                            
+ 38  92  ..... Buerarema                                    290470                            
+ 38  93  ..... Buritirama                                   290475                            
+ 38  94  ..... Caatiba                                      290480                            
+ 38  95  ..... Cabaceiras do Paraguaçu                      290485                            
+ 38  96  ..... Cachoeira                                    290490                            
+ 38  97  ..... Caculé                                       290500                            
+ 38  98  ..... Caém                                         290510                            
+ 38  99  ..... Caetanos                                     290515                            
+ 38 100  ..... Caetité                                      290520                            
+ 38 101  ..... Cafarnaum                                    290530                            
+ 38 102  ..... Cairu                                        290540                            
+ 38 103  ..... Caldeirão Grande                             290550                            
+ 38 104  ..... Camacan                                      290560                            
+ 38 105  ..... Camamu                                       290580                            
+ 38 106  ..... Campo Alegre de Lourdes                      290590                            
+ 38 107  ..... Campo Formoso                                290600                            
+ 38 108  ..... Canápolis                                    290610                            
+ 38 109  ..... Canarana                                     290620                            
+ 38 110  ..... Canavieiras                                  290630                            
+ 38 111  ..... Candiba                                      290660                            
+ 38 112  ..... Cândido Sales                                290670                            
+ 38 113  ..... Cansanção                                    290680                            
+ 38 114  ..... Canudos                                      290682                            
+ 38 115  ..... Capela do Alto Alegre                        290685                            
+ 38 116  ..... Capim Grosso                                 290687                            
+ 38 117  ..... Caraíbas                                     290689                            
+ 38 118  ..... Caravelas                                    290690                            
+ 38 119  ..... Cardeal da Silva                             290700                            
+ 38 120  ..... Carinhanha                                   290710                            
+ 38 121  ..... Castro Alves                                 290730                            
+ 38 122  ..... Catolândia                                   290740                            
+ 38 123  ..... Catu                                         290750                            
+ 38 124  ..... Caturama                                     290755                            
+ 38 125  ..... Central                                      290760                            
+ 38 126  ..... Chorrochó                                    290770                            
+ 38 127  ..... Cícero Dantas                                290780                            
+ 38 128  ..... Cipó                                         290790                            
+ 38 129  ..... Coaraci                                      290800                            
+ 38 130  ..... Cocos                                        290810                            
+ 38 131  ..... Conceição do Almeida                         290830                            
+ 38 132  ..... Conceição do Coité                           290840                            
+ 38 133  ..... Conde                                        290860                            
+ 38 134  ..... Condeúba                                     290870                            
+ 38 135  ..... Contendas do Sincorá                         290880                            
+ 38 136  ..... Cordeiros                                    290900                            
+ 38 137  ..... Coribe                                       290910                            
+ 38 138  ..... Coronel João Sá                              290920                            
+ 38 139  ..... Correntina                                   290930                            
+ 38 140  ..... Cotegipe                                     290940                            
+ 38 141  ..... Cravolândia                                  290950                            
+ 38 142  ..... Crisópolis                                   290960                            
+ 38 143  ..... Cristópolis                                  290970                            
+ 38 144  ..... Cruz das Almas                               290980                            
+ 38 145  ..... Dário Meira                                  291000                            
+ 38 146  ..... Dom Basílio                                  291010                            
+ 38 147  ..... Dom Macedo Costa                             291020                            
+ 38 148  ..... Elísio Medrado                               291030                            
+ 38 149  ..... Encruzilhada                                 291040                            
+ 38 150  ..... Entre Rios                                   291050                            
+ 38 151  ..... Érico Cardoso                                290050                            
+ 38 152  ..... Esplanada                                    291060                            
+ 38 153  ..... Euclides da Cunha                            291070                            
+ 38 154  ..... Eunápolis                                    291072                            
+ 38 155  ..... Fátima                                       291075                            
+ 38 156  ..... Feira da Mata                                291077                            
+ 38 157  ..... Filadélfia                                   291085                            
+ 38 158  ..... Firmino Alves                                291090                            
+ 38 159  ..... Floresta Azul                                291100                            
+ 38 160  ..... Formosa do Rio Preto                         291110                            
+ 38 161  ..... Gandu                                        291120                            
+ 38 162  ..... Gavião                                       291125                            
+ 38 163  ..... Gentio do Ouro                               291130                            
+ 38 164  ..... Glória                                       291140                            
+ 38 165  ..... Gongogi                                      291150                            
+ 38 166  ..... Governador Mangabeira                        291160                            
+ 38 167  ..... Guajeru                                      291165                            
+ 38 168  ..... Guanambi                                     291170                            
+ 38 169  ..... Guaratinga                                   291180                            
+ 38 170  ..... Heliópolis                                   291185                            
+ 38 171  ..... Iaçu                                         291190                            
+ 38 172  ..... Ibiassucê                                    291200                            
+ 38 173  ..... Ibicaraí                                     291210                            
+ 38 174  ..... Ibicoara                                     291220                            
+ 38 175  ..... Ibicuí                                       291230                            
+ 38 176  ..... Ibipeba                                      291240                            
+ 38 177  ..... Ibipitanga                                   291250                            
+ 38 178  ..... Ibiquera                                     291260                            
+ 38 179  ..... Ibirapitanga                                 291270                            
+ 38 180  ..... Ibirapuã                                     291280                            
+ 38 181  ..... Ibirataia                                    291290                            
+ 38 182  ..... Ibitiara                                     291300                            
+ 38 183  ..... Ibititá                                      291310                            
+ 38 184  ..... Ibotirama                                    291320                            
+ 38 185  ..... Ichu                                         291330                            
+ 38 186  ..... Igaporã                                      291340                            
+ 38 187  ..... Igrapiúna                                    291345                            
+ 38 188  ..... Iguaí                                        291350                            
+ 38 189  ..... Ilhéus                                       291360                            
+ 38 190  ..... Inhambupe                                    291370                            
+ 38 191  ..... Ipiaú                                        291390                            
+ 38 192  ..... Ipirá                                        291400                            
+ 38 193  ..... Ipupiara                                     291410                            
+ 38 194  ..... Irajuba                                      291420                            
+ 38 195  ..... Iramaia                                      291430                            
+ 38 196  ..... Iraquara                                     291440                            
+ 38 197  ..... Irecê                                        291460                            
+ 38 198  ..... Itabela                                      291465                            
+ 38 199  ..... Itaberaba                                    291470                            
+ 38 200  ..... Itabuna                                      291480                            
+ 38 201  ..... Itacaré                                      291490                            
+ 38 202  ..... Itaeté                                       291500                            
+ 38 203  ..... Itagi                                        291510                            
+ 38 204  ..... Itagibá                                      291520                            
+ 38 205  ..... Itagimirim                                   291530                            
+ 38 206  ..... Itaguaçu da Bahia                            291535                            
+ 38 207  ..... Itaju do Colônia                             291540                            
+ 38 208  ..... Itajuípe                                     291550                            
+ 38 209  ..... Itamaraju                                    291560                            
+ 38 210  ..... Itamari                                      291570                            
+ 38 211  ..... Itambé                                       291580                            
+ 38 212  ..... Itanagra                                     291590                            
+ 38 213  ..... Itanhém                                      291600                            
+ 38 214  ..... Itapé                                        291620                            
+ 38 215  ..... Itapebi                                      291630                            
+ 38 216  ..... Itapetinga                                   291640                            
+ 38 217  ..... Itapicuru                                    291650                            
+ 38 218  ..... Itapitanga                                   291660                            
+ 38 219  ..... Itaquara                                     291670                            
+ 38 220  ..... Itarantim                                    291680                            
+ 38 221  ..... Itatim                                       291685                            
+ 38 222  ..... Itiruçu                                      291690                            
+ 38 223  ..... Itiúba                                       291700                            
+ 38 224  ..... Itororó                                      291710                            
+ 38 225  ..... Ituaçu                                       291720                            
+ 38 226  ..... Ituberá                                      291730                            
+ 38 227  ..... Iuiú                                         291733                            
+ 38 228  ..... Jaborandi                                    291735                            
+ 38 229  ..... Jacaraci                                     291740                            
+ 38 230  ..... Jacobina                                     291750                            
+ 38 231  ..... Jaguaquara                                   291760                            
+ 38 232  ..... Jaguarari                                    291770                            
+ 38 233  ..... Jaguaripe                                    291780                            
+ 38 234  ..... Jandaíra                                     291790                            
+ 38 235  ..... Jequié                                       291800                            
+ 38 236  ..... Jeremoabo                                    291810                            
+ 38 237  ..... Jiquiriçá                                    291820                            
+ 38 238  ..... Jitaúna                                      291830                            
+ 38 239  ..... João Dourado                                 291835                            
+ 38 240  ..... Jucuruçu                                     291845                            
+ 38 241  ..... Jussara                                      291850                            
+ 38 242  ..... Jussari                                      291855                            
+ 38 243  ..... Jussiape                                     291860                            
+ 38 244  ..... Lafaiete Coutinho                            291870                            
+ 38 245  ..... Lagoa Real                                   291875                            
+ 38 246  ..... Laje                                         291880                            
+ 38 247  ..... Lajedão                                      291890                            
+ 38 248  ..... Lajedinho                                    291900                            
+ 38 249  ..... Lajedo do Tabocal                            291905                            
+ 38 250  ..... Lamarão                                      291910                            
+ 38 251  ..... Lapão                                        291915                            
+ 38 252  ..... Lençóis                                      291930                            
+ 38 253  ..... Licínio de Almeida                           291940                            
+ 38 254  ..... Livramento de Nossa Senhora                  291950                            
+ 38 255  ..... Luís Eduardo Magalhães                       291955                            
+ 38 256  ..... Macajuba                                     291960                            
+ 38 257  ..... Macarani                                     291970                            
+ 38 258  ..... Macaúbas                                     291980                            
+ 38 259  ..... Macururé                                     291990                            
+ 38 260  ..... Maetinga                                     291995                            
+ 38 261  ..... Maiquinique                                  292000                            
+ 38 262  ..... Mairi                                        292010                            
+ 38 263  ..... Malhada                                      292020                            
+ 38 264  ..... Malhada de Pedras                            292030                            
+ 38 265  ..... Manoel Vitorino                              292040                            
+ 38 266  ..... Mansidão                                     292045                            
+ 38 267  ..... Maracás                                      292050                            
+ 38 268  ..... Maragogipe                                   292060                            
+ 38 269  ..... Maraú                                        292070                            
+ 38 270  ..... Marcionílio Souza                            292080                            
+ 38 271  ..... Mascote                                      292090                            
+ 38 272  ..... Matina                                       292105                            
+ 38 273  ..... Medeiros Neto                                292110                            
+ 38 274  ..... Miguel Calmon                                292120                            
+ 38 275  ..... Milagres                                     292130                            
+ 38 276  ..... Mirangaba                                    292140                            
+ 38 277  ..... Mirante                                      292145                            
+ 38 278  ..... Monte Santo                                  292150                            
+ 38 279  ..... Morpará                                      292160                            
+ 38 280  ..... Morro do Chapéu                              292170                            
+ 38 281  ..... Mortugaba                                    292180                            
+ 38 282  ..... Mucugê                                       292190                            
+ 38 283  ..... Mucuri                                       292200                            
+ 38 284  ..... Mulungu do Morro                             292205                            
+ 38 285  ..... Mundo Novo                                   292210                            
+ 38 286  ..... Muniz Ferreira                               292220                            
+ 38 287  ..... Muquém de São Francisco                      292225                            
+ 38 288  ..... Muritiba                                     292230                            
+ 38 289  ..... Mutuípe                                      292240                            
+ 38 290  ..... Nazaré                                       292250                            
+ 38 291  ..... Nilo Peçanha                                 292260                            
+ 38 292  ..... Nordestina                                   292265                            
+ 38 293  ..... Nova Canaã                                   292270                            
+ 38 294  ..... Nova Fátima                                  292273                            
+ 38 295  ..... Nova Ibiá                                    292275                            
+ 38 296  ..... Nova Itarana                                 292280                            
+ 38 297  ..... Nova Redenção                                292285                            
+ 38 298  ..... Nova Soure                                   292290                            
+ 38 299  ..... Nova Viçosa                                  292300                            
+ 38 300  ..... Novo Horizonte                               292303                            
+ 38 301  ..... Novo Triunfo                                 292305                            
+ 38 302  ..... Olindina                                     292310                            
+ 38 303  ..... Oliveira dos Brejinhos                       292320                            
+ 38 304  ..... Ouriçangas                                   292330                            
+ 38 305  ..... Ourolândia                                   292335                            
+ 38 306  ..... Palmas de Monte Alto                         292340                            
+ 38 307  ..... Palmeiras                                    292350                            
+ 38 308  ..... Paramirim                                    292360                            
+ 38 309  ..... Paratinga                                    292370                            
+ 38 310  ..... Paripiranga                                  292380                            
+ 38 311  ..... Pau Brasil                                   292390                            
+ 38 312  ..... Paulo Afonso                                 292400                            
+ 38 313  ..... Pé de Serra                                  292405                            
+ 38 314  ..... Pedrão                                       292410                            
+ 38 315  ..... Pedro Alexandre                              292420                            
+ 38 316  ..... Piatã                                        292430                            
+ 38 317  ..... Pilão Arcado                                 292440                            
+ 38 318  ..... Pindaí                                       292450                            
+ 38 319  ..... Pindobaçu                                    292460                            
+ 38 320  ..... Pintadas                                     292465                            
+ 38 321  ..... Piraí do Norte                               292467                            
+ 38 322  ..... Piripá                                       292470                            
+ 38 323  ..... Piritiba                                     292480                            
+ 38 324  ..... Planaltino                                   292490                            
+ 38 325  ..... Planalto                                     292500                            
+ 38 326  ..... Poções                                       292510                            
+ 38 327  ..... Ponto Novo                                   292525                            
+ 38 328  ..... Porto Seguro                                 292530                            
+ 38 329  ..... Potiraguá                                    292540                            
+ 38 330  ..... Prado                                        292550                            
+ 38 331  ..... Presidente Dutra                             292560                            
+ 38 332  ..... Presidente Jânio Quadros                     292570                            
+ 38 333  ..... Presidente Tancredo Neves                    292575                            
+ 38 334  ..... Queimadas                                    292580                            
+ 38 335  ..... Quijingue                                    292590                            
+ 38 336  ..... Quixabeira                                   292593                            
+ 38 337  ..... Rafael Jambeiro                              292595                            
+ 38 338  ..... Remanso                                      292600                            
+ 38 339  ..... Retirolândia                                 292610                            
+ 38 340  ..... Riachão das Neves                            292620                            
+ 38 341  ..... Riacho de Santana                            292640                            
+ 38 342  ..... Ribeira do Amparo                            292650                            
+ 38 343  ..... Ribeira do Pombal                            292660                            
+ 38 344  ..... Ribeirão do Largo                            292665                            
+ 38 345  ..... Rio de Contas                                292670                            
+ 38 346  ..... Rio do Antônio                               292680                            
+ 38 347  ..... Rio do Pires                                 292690                            
+ 38 348  ..... Rio Real                                     292700                            
+ 38 349  ..... Rodelas                                      292710                            
+ 38 350  ..... Ruy Barbosa                                  292720                            
+ 38 351  ..... Salinas da Margarida                         292730                            
+ 38 352  ..... Santa Brígida                                292760                            
+ 38 353  ..... Santa Cruz Cabrália                          292770                            
+ 38 354  ..... Santa Cruz da Vitória                        292780                            
+ 38 355  ..... Santa Inês                                   292790                            
+ 38 356  ..... Santa Luzia                                  292805                            
+ 38 357  ..... Santa Maria da Vitória                       292810                            
+ 38 358  ..... Santa Rita de Cássia                         292840                            
+ 38 359  ..... Santa Teresinha                              292850                            
+ 38 360  ..... Santaluz                                     292800                            
+ 38 361  ..... Santana                                      292820                            
+ 38 362  ..... Santo Amaro                                  292860                            
+ 38 363  ..... Santo Antônio de Jesus                       292870                            
+ 38 364  ..... Santo Estêvão                                292880                            
+ 38 365  ..... São Desidério                                292890                            
+ 38 366  ..... São Domingos                                 292895                            
+ 38 367  ..... São Felipe                                   292910                            
+ 38 368  ..... São Félix                                    292900                            
+ 38 369  ..... São Félix do Coribe                          292905                            
+ 38 370  ..... São Gabriel                                  292925                            
+ 38 371  ..... São José da Vitória                          292935                            
+ 38 372  ..... São José do Jacuípe                          292937                            
+ 38 373  ..... São Miguel das Matas                         292940                            
+ 38 374  ..... Sapeaçu                                      292960                            
+ 38 375  ..... Sátiro Dias                                  292970                            
+ 38 376  ..... Saubara                                      292975                            
+ 38 377  ..... Saúde                                        292980                            
+ 38 378  ..... Seabra                                       292990                            
+ 38 379  ..... Sebastião Laranjeiras                        293000                            
+ 38 380  ..... Senhor do Bonfim                             293010                            
+ 38 381  ..... Sento Sé                                     293020                            
+ 38 382  ..... Serra do Ramalho                             293015,293025                     
+ 38 383  ..... Serra Dourada                                293030                            
+ 38 384  ..... Serrinha                                     293050                            
+ 38 385  ..... Serrolândia                                  293060                            
+ 38 386  ..... Sítio do Mato                                293075                            
+ 38 387  ..... Sítio do Quinto                              293076                            
+ 38 388  ..... Souto Soares                                 293080                            
+ 38 389  ..... Tabocas do Brejo Velho                       293090                            
+ 38 390  ..... Tanhaçu                                      293100                            
+ 38 391  ..... Tanque Novo                                  293105                            
+ 38 392  ..... Taperoá                                      293120                            
+ 38 393  ..... Tapiramutá                                   293130                            
+ 38 394  ..... Teixeira de Freitas                          293135                            
+ 38 395  ..... Teodoro Sampaio                              293140                            
+ 38 396  ..... Teofilândia                                  293150                            
+ 38 397  ..... Teolândia                                    293160                            
+ 38 398  ..... Terra Nova                                   293170                            
+ 38 399  ..... Tremedal                                     293180                            
+ 38 400  ..... Tucano                                       293190                            
+ 38 401  ..... Uauá                                         293200                            
+ 38 402  ..... Ubaíra                                       293210                            
+ 38 403  ..... Ubaitaba                                     293220                            
+ 38 404  ..... Ubatã                                        293230                            
+ 38 405  ..... Uibaí                                        293240                            
+ 38 406  ..... Umburanas                                    293245                            
+ 38 407  ..... Una                                          293250                            
+ 38 408  ..... Urandi                                       293260                            
+ 38 409  ..... Uruçuca                                      293270                            
+ 38 410  ..... Utinga                                       293280                            
+ 38 411  ..... Valença                                      293290                            
+ 38 412  ..... Valente                                      293300                            
+ 38 413  ..... Várzea da Roça                               293305                            
+ 38 414  ..... Várzea do Poço                               293310                            
+ 38 415  ..... Várzea Nova                                  293315                            
+ 38 416  ..... Varzedo                                      293317                            
+ 38 417  ..... Vereda                                       293325                            
+ 38 418  ..... Vitória da Conquista                         293330                            
+ 38 419  ..... Wagner                                       293340                            
+ 38 420  ..... Wanderley                                    293345                            
+ 38 421  ..... Wenceslau Guimarães                          293350                            
+ 38 422  ..... Xique-Xique                                  293360                            
+    423  29000 Ignorado - BA                                290000,299999                     

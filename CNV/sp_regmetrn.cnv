@@ -1,0 +1,647 @@
+13  6                                                                                    
+      1  35020 Baixada Santista - SP                        350635                            
+      1  35020 Baixada Santista - SP                        351350                            
+      1  35020 Baixada Santista - SP                        351870                            
+      1  35020 Baixada Santista - SP                        352210                            
+      1  35020 Baixada Santista - SP                        353110                            
+      1  35020 Baixada Santista - SP                        353760                            
+      1  35020 Baixada Santista - SP                        354100                            
+      1  35020 Baixada Santista - SP                        354850                            
+      1  35020 Baixada Santista - SP                        355100                            
+      2  35030 Campinas - SP                                350160                            
+      2  35030 Campinas - SP                                350380                            
+      2  35030 Campinas - SP                                350950                            
+      2  35030 Campinas - SP                                351280                            
+      2  35030 Campinas - SP                                351515                            
+      2  35030 Campinas - SP                                351905                            
+      2  35030 Campinas - SP                                351907                            
+      2  35030 Campinas - SP                                352050                            
+      2  35030 Campinas - SP                                352340                            
+      2  35030 Campinas - SP                                352470                            
+      2  35030 Campinas - SP                                353180                            
+      2  35030 Campinas - SP                                353200                            
+      2  35030 Campinas - SP                                353340                            
+      2  35030 Campinas - SP                                353650                            
+      2  35030 Campinas - SP                                353710                            
+      2  35030 Campinas - SP                                354580                            
+      2  35030 Campinas - SP                                354800                            
+      2  35030 Campinas - SP                                355240                            
+      2  35030 Campinas - SP                                355620                            
+      2  35030 Campinas - SP                                355670                            
+      3  35050 Jundiaí - SP                                 350840                            
+      3  35050 Jundiaí - SP                                 350960                            
+      3  35050 Jundiaí - SP                                 352400                            
+      3  35050 Jundiaí - SP                                 352520                            
+      3  35050 Jundiaí - SP                                 352590                            
+      3  35050 Jundiaí - SP                                 352730                            
+      3  35050 Jundiaí - SP                                 355650                            
+      4  35060 Piracicaba - SP                              350060                            
+      4  35060 Piracicaba - SP                              350200                            
+      4  35060 Piracicaba - SP                              350330                            
+      4  35060 Piracicaba - SP                              351040                            
+      4  35060 Piracicaba - SP                              351170                            
+      4  35060 Piracicaba - SP                              351220                            
+      4  35060 Piracicaba - SP                              351240                            
+      4  35060 Piracicaba - SP                              351270                            
+      4  35060 Piracicaba - SP                              351490                            
+      4  35060 Piracicaba - SP                              352110                            
+      4  35060 Piracicaba - SP                              352140                            
+      4  35060 Piracicaba - SP                              352670                            
+      4  35060 Piracicaba - SP                              352690                            
+      4  35060 Piracicaba - SP                              353090                            
+      4  35060 Piracicaba - SP                              353870                            
+      4  35060 Piracicaba - SP                              354210                            
+      4  35060 Piracicaba - SP                              354390                            
+      4  35060 Piracicaba - SP                              354400                            
+      4  35060 Piracicaba - SP                              354515                            
+      4  35060 Piracicaba - SP                              354670                            
+      4  35060 Piracicaba - SP                              354700                            
+      4  35060 Piracicaba - SP                              355040                            
+      5  35010 São Paulo - SP                               350390                            
+      5  35010 São Paulo - SP                               350570                            
+      5  35010 São Paulo - SP                               350660                            
+      5  35010 São Paulo - SP                               350900                            
+      5  35010 São Paulo - SP                               350920                            
+      5  35010 São Paulo - SP                               351060                            
+      5  35010 São Paulo - SP                               351300                            
+      5  35010 São Paulo - SP                               351380                            
+      5  35010 São Paulo - SP                               351500                            
+      5  35010 São Paulo - SP                               351510                            
+      5  35010 São Paulo - SP                               351570                            
+      5  35010 São Paulo - SP                               351630                            
+      5  35010 São Paulo - SP                               351640                            
+      5  35010 São Paulo - SP                               351830                            
+      5  35010 São Paulo - SP                               351880                            
+      5  35010 São Paulo - SP                               352220                            
+      5  35010 São Paulo - SP                               352250                            
+      5  35010 São Paulo - SP                               352310                            
+      5  35010 São Paulo - SP                               352500                            
+      5  35010 São Paulo - SP                               352620                            
+      5  35010 São Paulo - SP                               352850                            
+      5  35010 São Paulo - SP                               352940                            
+      5  35010 São Paulo - SP                               353060                            
+      5  35010 São Paulo - SP                               353440                            
+      5  35010 São Paulo - SP                               353910                            
+      5  35010 São Paulo - SP                               353980                            
+      5  35010 São Paulo - SP                               354330                            
+      5  35010 São Paulo - SP                               354410                            
+      5  35010 São Paulo - SP                               354500                            
+      5  35010 São Paulo - SP                               354680                            
+      5  35010 São Paulo - SP                               354730                            
+      5  35010 São Paulo - SP                               354780                            
+      5  35010 São Paulo - SP                               354870                            
+      5  35010 São Paulo - SP                               354880                            
+      5  35010 São Paulo - SP                               354995                            
+      5  35010 São Paulo - SP                               355030,358001-358058              
+      5  35010 São Paulo - SP                               355250                            
+      5  35010 São Paulo - SP                               355280                            
+      5  35010 São Paulo - SP                               355645                            
+      6  35070 Sorocaba - SP                                350075                            
+      6  35070 Sorocaba - SP                                350115                            
+      6  35070 Sorocaba - SP                                350275                            
+      6  35070 Sorocaba - SP                                350290                            
+      6  35070 Sorocaba - SP                                350700                            
+      6  35070 Sorocaba - SP                                351030                            
+      6  35070 Sorocaba - SP                                351150                            
+      6  35070 Sorocaba - SP                                351160                            
+      6  35070 Sorocaba - SP                                351970                            
+      6  35070 Sorocaba - SP                                352100                            
+      6  35070 Sorocaba - SP                                352390                            
+      6  35070 Sorocaba - SP                                352585                            
+      6  35070 Sorocaba - SP                                352840                            
+      6  35070 Sorocaba - SP                                353780                            
+      6  35070 Sorocaba - SP                                353790                            
+      6  35070 Sorocaba - SP                                354060                            
+      6  35070 Sorocaba - SP                                354520                            
+      6  35070 Sorocaba - SP                                354530                            
+      6  35070 Sorocaba - SP                                355020                            
+      6  35070 Sorocaba - SP                                355060                            
+      6  35070 Sorocaba - SP                                355110                            
+      6  35070 Sorocaba - SP                                355220                            
+      6  35070 Sorocaba - SP                                355350                            
+      6  35070 Sorocaba - SP                                355400                            
+      6  35070 Sorocaba - SP                                355450                            
+      6  35070 Sorocaba - SP                                355700                            
+      7  35041 V.Paraíba/Lit Nort 1 -SP                     350850                            
+      7  35041 V.Paraíba/Lit Nort 1 -SP                     352020                            
+      7  35041 V.Paraíba/Lit Nort 1 -SP                     352440                            
+      7  35041 V.Paraíba/Lit Nort 1 -SP                     352490                            
+      7  35041 V.Paraíba/Lit Nort 1 -SP                     353170                            
+      7  35041 V.Paraíba/Lit Nort 1 -SP                     353560                            
+      7  35041 V.Paraíba/Lit Nort 1 -SP                     354600                            
+      7  35041 V.Paraíba/Lit Nort 1 -SP                     354990                            
+      8  35042 V.Paraíba/Lit Nort 2 -SP                     350970                            
+      8  35042 V.Paraíba/Lit Nort 2 -SP                     352630                            
+      8  35042 V.Paraíba/Lit Nort 2 -SP                     353230                            
+      8  35042 V.Paraíba/Lit Nort 2 -SP                     353800                            
+      8  35042 V.Paraíba/Lit Nort 2 -SP                     354230                            
+      8  35042 V.Paraíba/Lit Nort 2 -SP                     354820                            
+      8  35042 V.Paraíba/Lit Nort 2 -SP                     354860                            
+      8  35042 V.Paraíba/Lit Nort 2 -SP                     355000                            
+      8  35042 V.Paraíba/Lit Nort 2 -SP                     355410                            
+      8  35042 V.Paraíba/Lit Nort 2 -SP                     355480                            
+      9  35043 V.Paraíba/Lit Nort 3 -SP                     350250                            
+      9  35043 V.Paraíba/Lit Nort 3 -SP                     350860                            
+      9  35043 V.Paraíba/Lit Nort 3 -SP                     350995                            
+      9  35043 V.Paraíba/Lit Nort 3 -SP                     351360                            
+      9  35043 V.Paraíba/Lit Nort 3 -SP                     351840                            
+      9  35043 V.Paraíba/Lit Nort 3 -SP                     352720                            
+      9  35043 V.Paraíba/Lit Nort 3 -SP                     353850                            
+      9  35043 V.Paraíba/Lit Nort 3 -SP                     354075                            
+      9  35043 V.Paraíba/Lit Nort 3 -SP                     354430                            
+     10  35044 V.Paraíba/Lit Nort 4 -SP                     350315                            
+     10  35044 V.Paraíba/Lit Nort 4 -SP                     350350                            
+     10  35044 V.Paraíba/Lit Nort 4 -SP                     350490                            
+     10  35044 V.Paraíba/Lit Nort 4 -SP                     351340                            
+     10  35044 V.Paraíba/Lit Nort 4 -SP                     352660                            
+     10  35044 V.Paraíba/Lit Nort 4 -SP                     354190                            
+     10  35044 V.Paraíba/Lit Nort 4 -SP                     354960                            
+     10  35044 V.Paraíba/Lit Nort 4 -SP                     355200                            
+     11  35045 V.Paraíba/Lit Nort 5 -SP                     351050                            
+     11  35045 V.Paraíba/Lit Nort 5 -SP                     352040                            
+     11  35045 V.Paraíba/Lit Nort 5 -SP                     355070                            
+     11  35045 V.Paraíba/Lit Nort 5 -SP                     355540                            
+     12  35900 Fora de Reg.Metrop. - SP                     350010                            
+     12  35900 Fora de Reg.Metrop. - SP                     350020                            
+     12  35900 Fora de Reg.Metrop. - SP                     350030                            
+     12  35900 Fora de Reg.Metrop. - SP                     350040                            
+     12  35900 Fora de Reg.Metrop. - SP                     350050                            
+     12  35900 Fora de Reg.Metrop. - SP                     350055                            
+     12  35900 Fora de Reg.Metrop. - SP                     350070                            
+     12  35900 Fora de Reg.Metrop. - SP                     350080                            
+     12  35900 Fora de Reg.Metrop. - SP                     350090                            
+     12  35900 Fora de Reg.Metrop. - SP                     350100                            
+     12  35900 Fora de Reg.Metrop. - SP                     350110                            
+     12  35900 Fora de Reg.Metrop. - SP                     350120                            
+     12  35900 Fora de Reg.Metrop. - SP                     350130                            
+     12  35900 Fora de Reg.Metrop. - SP                     350140                            
+     12  35900 Fora de Reg.Metrop. - SP                     350150                            
+     12  35900 Fora de Reg.Metrop. - SP                     350170                            
+     12  35900 Fora de Reg.Metrop. - SP                     350180                            
+     12  35900 Fora de Reg.Metrop. - SP                     350190                            
+     12  35900 Fora de Reg.Metrop. - SP                     350210                            
+     12  35900 Fora de Reg.Metrop. - SP                     350220                            
+     12  35900 Fora de Reg.Metrop. - SP                     350230                            
+     12  35900 Fora de Reg.Metrop. - SP                     350240                            
+     12  35900 Fora de Reg.Metrop. - SP                     350260                            
+     12  35900 Fora de Reg.Metrop. - SP                     350270                            
+     12  35900 Fora de Reg.Metrop. - SP                     350280                            
+     12  35900 Fora de Reg.Metrop. - SP                     350300                            
+     12  35900 Fora de Reg.Metrop. - SP                     350310                            
+     12  35900 Fora de Reg.Metrop. - SP                     350320                            
+     12  35900 Fora de Reg.Metrop. - SP                     350335                            
+     12  35900 Fora de Reg.Metrop. - SP                     350340                            
+     12  35900 Fora de Reg.Metrop. - SP                     350360                            
+     12  35900 Fora de Reg.Metrop. - SP                     350370                            
+     12  35900 Fora de Reg.Metrop. - SP                     350395                            
+     12  35900 Fora de Reg.Metrop. - SP                     350400                            
+     12  35900 Fora de Reg.Metrop. - SP                     350410                            
+     12  35900 Fora de Reg.Metrop. - SP                     350420                            
+     12  35900 Fora de Reg.Metrop. - SP                     350430                            
+     12  35900 Fora de Reg.Metrop. - SP                     350440                            
+     12  35900 Fora de Reg.Metrop. - SP                     350450                            
+     12  35900 Fora de Reg.Metrop. - SP                     350460                            
+     12  35900 Fora de Reg.Metrop. - SP                     350470                            
+     12  35900 Fora de Reg.Metrop. - SP                     350480                            
+     12  35900 Fora de Reg.Metrop. - SP                     350500                            
+     12  35900 Fora de Reg.Metrop. - SP                     350510                            
+     12  35900 Fora de Reg.Metrop. - SP                     350520                            
+     12  35900 Fora de Reg.Metrop. - SP                     350530                            
+     12  35900 Fora de Reg.Metrop. - SP                     350535                            
+     12  35900 Fora de Reg.Metrop. - SP                     350540                            
+     12  35900 Fora de Reg.Metrop. - SP                     350550                            
+     12  35900 Fora de Reg.Metrop. - SP                     350560                            
+     12  35900 Fora de Reg.Metrop. - SP                     350580                            
+     12  35900 Fora de Reg.Metrop. - SP                     350590                            
+     12  35900 Fora de Reg.Metrop. - SP                     350600                            
+     12  35900 Fora de Reg.Metrop. - SP                     350610                            
+     12  35900 Fora de Reg.Metrop. - SP                     350620                            
+     12  35900 Fora de Reg.Metrop. - SP                     350630                            
+     12  35900 Fora de Reg.Metrop. - SP                     350640                            
+     12  35900 Fora de Reg.Metrop. - SP                     350650                            
+     12  35900 Fora de Reg.Metrop. - SP                     350670                            
+     12  35900 Fora de Reg.Metrop. - SP                     350680                            
+     12  35900 Fora de Reg.Metrop. - SP                     350690                            
+     12  35900 Fora de Reg.Metrop. - SP                     350710                            
+     12  35900 Fora de Reg.Metrop. - SP                     350715                            
+     12  35900 Fora de Reg.Metrop. - SP                     350720                            
+     12  35900 Fora de Reg.Metrop. - SP                     350730                            
+     12  35900 Fora de Reg.Metrop. - SP                     350740                            
+     12  35900 Fora de Reg.Metrop. - SP                     350745                            
+     12  35900 Fora de Reg.Metrop. - SP                     350750                            
+     12  35900 Fora de Reg.Metrop. - SP                     350760                            
+     12  35900 Fora de Reg.Metrop. - SP                     350770                            
+     12  35900 Fora de Reg.Metrop. - SP                     350775                            
+     12  35900 Fora de Reg.Metrop. - SP                     350780                            
+     12  35900 Fora de Reg.Metrop. - SP                     350790                            
+     12  35900 Fora de Reg.Metrop. - SP                     350800                            
+     12  35900 Fora de Reg.Metrop. - SP                     350810                            
+     12  35900 Fora de Reg.Metrop. - SP                     350820                            
+     12  35900 Fora de Reg.Metrop. - SP                     350830                            
+     12  35900 Fora de Reg.Metrop. - SP                     350870                            
+     12  35900 Fora de Reg.Metrop. - SP                     350880                            
+     12  35900 Fora de Reg.Metrop. - SP                     350890                            
+     12  35900 Fora de Reg.Metrop. - SP                     350910                            
+     12  35900 Fora de Reg.Metrop. - SP                     350925                            
+     12  35900 Fora de Reg.Metrop. - SP                     350930                            
+     12  35900 Fora de Reg.Metrop. - SP                     350940                            
+     12  35900 Fora de Reg.Metrop. - SP                     350945                            
+     12  35900 Fora de Reg.Metrop. - SP                     350980                            
+     12  35900 Fora de Reg.Metrop. - SP                     350990                            
+     12  35900 Fora de Reg.Metrop. - SP                     351000                            
+     12  35900 Fora de Reg.Metrop. - SP                     351010                            
+     12  35900 Fora de Reg.Metrop. - SP                     351015                            
+     12  35900 Fora de Reg.Metrop. - SP                     351020                            
+     12  35900 Fora de Reg.Metrop. - SP                     351070                            
+     12  35900 Fora de Reg.Metrop. - SP                     351080                            
+     12  35900 Fora de Reg.Metrop. - SP                     351090                            
+     12  35900 Fora de Reg.Metrop. - SP                     351100                            
+     12  35900 Fora de Reg.Metrop. - SP                     351110                            
+     12  35900 Fora de Reg.Metrop. - SP                     351120                            
+     12  35900 Fora de Reg.Metrop. - SP                     351130                            
+     12  35900 Fora de Reg.Metrop. - SP                     351140                            
+     12  35900 Fora de Reg.Metrop. - SP                     351190                            
+     12  35900 Fora de Reg.Metrop. - SP                     351200                            
+     12  35900 Fora de Reg.Metrop. - SP                     351210                            
+     12  35900 Fora de Reg.Metrop. - SP                     351230                            
+     12  35900 Fora de Reg.Metrop. - SP                     351250                            
+     12  35900 Fora de Reg.Metrop. - SP                     351260                            
+     12  35900 Fora de Reg.Metrop. - SP                     351290                            
+     12  35900 Fora de Reg.Metrop. - SP                     351310                            
+     12  35900 Fora de Reg.Metrop. - SP                     351320                            
+     12  35900 Fora de Reg.Metrop. - SP                     351330                            
+     12  35900 Fora de Reg.Metrop. - SP                     351370                            
+     12  35900 Fora de Reg.Metrop. - SP                     351385                            
+     12  35900 Fora de Reg.Metrop. - SP                     351390                            
+     12  35900 Fora de Reg.Metrop. - SP                     351400                            
+     12  35900 Fora de Reg.Metrop. - SP                     351410                            
+     12  35900 Fora de Reg.Metrop. - SP                     351420                            
+     12  35900 Fora de Reg.Metrop. - SP                     351430                            
+     12  35900 Fora de Reg.Metrop. - SP                     351440                            
+     12  35900 Fora de Reg.Metrop. - SP                     351450                            
+     12  35900 Fora de Reg.Metrop. - SP                     351460                            
+     12  35900 Fora de Reg.Metrop. - SP                     351470                            
+     12  35900 Fora de Reg.Metrop. - SP                     351480                            
+     12  35900 Fora de Reg.Metrop. - SP                     351492                            
+     12  35900 Fora de Reg.Metrop. - SP                     351495                            
+     12  35900 Fora de Reg.Metrop. - SP                     351512                            
+     12  35900 Fora de Reg.Metrop. - SP                     351518                            
+     12  35900 Fora de Reg.Metrop. - SP                     351519                            
+     12  35900 Fora de Reg.Metrop. - SP                     351520                            
+     12  35900 Fora de Reg.Metrop. - SP                     351530                            
+     12  35900 Fora de Reg.Metrop. - SP                     351535                            
+     12  35900 Fora de Reg.Metrop. - SP                     351540                            
+     12  35900 Fora de Reg.Metrop. - SP                     351550                            
+     12  35900 Fora de Reg.Metrop. - SP                     351560                            
+     12  35900 Fora de Reg.Metrop. - SP                     351565                            
+     12  35900 Fora de Reg.Metrop. - SP                     351580                            
+     12  35900 Fora de Reg.Metrop. - SP                     351590                            
+     12  35900 Fora de Reg.Metrop. - SP                     351600                            
+     12  35900 Fora de Reg.Metrop. - SP                     351610                            
+     12  35900 Fora de Reg.Metrop. - SP                     351620                            
+     12  35900 Fora de Reg.Metrop. - SP                     351650                            
+     12  35900 Fora de Reg.Metrop. - SP                     351660                            
+     12  35900 Fora de Reg.Metrop. - SP                     351670                            
+     12  35900 Fora de Reg.Metrop. - SP                     351680                            
+     12  35900 Fora de Reg.Metrop. - SP                     351685                            
+     12  35900 Fora de Reg.Metrop. - SP                     351690                            
+     12  35900 Fora de Reg.Metrop. - SP                     351700                            
+     12  35900 Fora de Reg.Metrop. - SP                     351710                            
+     12  35900 Fora de Reg.Metrop. - SP                     351720                            
+     12  35900 Fora de Reg.Metrop. - SP                     351730                            
+     12  35900 Fora de Reg.Metrop. - SP                     351740                            
+     12  35900 Fora de Reg.Metrop. - SP                     351750                            
+     12  35900 Fora de Reg.Metrop. - SP                     351760                            
+     12  35900 Fora de Reg.Metrop. - SP                     351770                            
+     12  35900 Fora de Reg.Metrop. - SP                     351780                            
+     12  35900 Fora de Reg.Metrop. - SP                     351790                            
+     12  35900 Fora de Reg.Metrop. - SP                     351800                            
+     12  35900 Fora de Reg.Metrop. - SP                     351810                            
+     12  35900 Fora de Reg.Metrop. - SP                     351820                            
+     12  35900 Fora de Reg.Metrop. - SP                     351850                            
+     12  35900 Fora de Reg.Metrop. - SP                     351860                            
+     12  35900 Fora de Reg.Metrop. - SP                     351885                            
+     12  35900 Fora de Reg.Metrop. - SP                     351890                            
+     12  35900 Fora de Reg.Metrop. - SP                     351900                            
+     12  35900 Fora de Reg.Metrop. - SP                     351910                            
+     12  35900 Fora de Reg.Metrop. - SP                     351920                            
+     12  35900 Fora de Reg.Metrop. - SP                     351925                            
+     12  35900 Fora de Reg.Metrop. - SP                     351930                            
+     12  35900 Fora de Reg.Metrop. - SP                     351940                            
+     12  35900 Fora de Reg.Metrop. - SP                     351950                            
+     12  35900 Fora de Reg.Metrop. - SP                     351960                            
+     12  35900 Fora de Reg.Metrop. - SP                     351980                            
+     12  35900 Fora de Reg.Metrop. - SP                     351990                            
+     12  35900 Fora de Reg.Metrop. - SP                     352000                            
+     12  35900 Fora de Reg.Metrop. - SP                     352010                            
+     12  35900 Fora de Reg.Metrop. - SP                     352030                            
+     12  35900 Fora de Reg.Metrop. - SP                     352042                            
+     12  35900 Fora de Reg.Metrop. - SP                     352044                            
+     12  35900 Fora de Reg.Metrop. - SP                     352060                            
+     12  35900 Fora de Reg.Metrop. - SP                     352070                            
+     12  35900 Fora de Reg.Metrop. - SP                     352080                            
+     12  35900 Fora de Reg.Metrop. - SP                     352090                            
+     12  35900 Fora de Reg.Metrop. - SP                     352115                            
+     12  35900 Fora de Reg.Metrop. - SP                     352120                            
+     12  35900 Fora de Reg.Metrop. - SP                     352130                            
+     12  35900 Fora de Reg.Metrop. - SP                     352150                            
+     12  35900 Fora de Reg.Metrop. - SP                     352160                            
+     12  35900 Fora de Reg.Metrop. - SP                     352170                            
+     12  35900 Fora de Reg.Metrop. - SP                     352180                            
+     12  35900 Fora de Reg.Metrop. - SP                     352190                            
+     12  35900 Fora de Reg.Metrop. - SP                     352200                            
+     12  35900 Fora de Reg.Metrop. - SP                     352215                            
+     12  35900 Fora de Reg.Metrop. - SP                     352230                            
+     12  35900 Fora de Reg.Metrop. - SP                     352240                            
+     12  35900 Fora de Reg.Metrop. - SP                     352260                            
+     12  35900 Fora de Reg.Metrop. - SP                     352265                            
+     12  35900 Fora de Reg.Metrop. - SP                     352270                            
+     12  35900 Fora de Reg.Metrop. - SP                     352280                            
+     12  35900 Fora de Reg.Metrop. - SP                     352290                            
+     12  35900 Fora de Reg.Metrop. - SP                     352300                            
+     12  35900 Fora de Reg.Metrop. - SP                     352320                            
+     12  35900 Fora de Reg.Metrop. - SP                     352330                            
+     12  35900 Fora de Reg.Metrop. - SP                     352350                            
+     12  35900 Fora de Reg.Metrop. - SP                     352360                            
+     12  35900 Fora de Reg.Metrop. - SP                     352370                            
+     12  35900 Fora de Reg.Metrop. - SP                     352380                            
+     12  35900 Fora de Reg.Metrop. - SP                     352410                            
+     12  35900 Fora de Reg.Metrop. - SP                     352420                            
+     12  35900 Fora de Reg.Metrop. - SP                     352430                            
+     12  35900 Fora de Reg.Metrop. - SP                     352450                            
+     12  35900 Fora de Reg.Metrop. - SP                     352460                            
+     12  35900 Fora de Reg.Metrop. - SP                     352480                            
+     12  35900 Fora de Reg.Metrop. - SP                     352510                            
+     12  35900 Fora de Reg.Metrop. - SP                     352530                            
+     12  35900 Fora de Reg.Metrop. - SP                     352540                            
+     12  35900 Fora de Reg.Metrop. - SP                     352550                            
+     12  35900 Fora de Reg.Metrop. - SP                     352560                            
+     12  35900 Fora de Reg.Metrop. - SP                     352570                            
+     12  35900 Fora de Reg.Metrop. - SP                     352580                            
+     12  35900 Fora de Reg.Metrop. - SP                     352600                            
+     12  35900 Fora de Reg.Metrop. - SP                     352610                            
+     12  35900 Fora de Reg.Metrop. - SP                     352640                            
+     12  35900 Fora de Reg.Metrop. - SP                     352650                            
+     12  35900 Fora de Reg.Metrop. - SP                     352680                            
+     12  35900 Fora de Reg.Metrop. - SP                     352700                            
+     12  35900 Fora de Reg.Metrop. - SP                     352710                            
+     12  35900 Fora de Reg.Metrop. - SP                     352725                            
+     12  35900 Fora de Reg.Metrop. - SP                     352740                            
+     12  35900 Fora de Reg.Metrop. - SP                     352750                            
+     12  35900 Fora de Reg.Metrop. - SP                     352760                            
+     12  35900 Fora de Reg.Metrop. - SP                     352770                            
+     12  35900 Fora de Reg.Metrop. - SP                     352780                            
+     12  35900 Fora de Reg.Metrop. - SP                     352790                            
+     12  35900 Fora de Reg.Metrop. - SP                     352800                            
+     12  35900 Fora de Reg.Metrop. - SP                     352810                            
+     12  35900 Fora de Reg.Metrop. - SP                     352820                            
+     12  35900 Fora de Reg.Metrop. - SP                     352830                            
+     12  35900 Fora de Reg.Metrop. - SP                     352860                            
+     12  35900 Fora de Reg.Metrop. - SP                     352870                            
+     12  35900 Fora de Reg.Metrop. - SP                     352880                            
+     12  35900 Fora de Reg.Metrop. - SP                     352885                            
+     12  35900 Fora de Reg.Metrop. - SP                     352890                            
+     12  35900 Fora de Reg.Metrop. - SP                     352900                            
+     12  35900 Fora de Reg.Metrop. - SP                     352910                            
+     12  35900 Fora de Reg.Metrop. - SP                     352920                            
+     12  35900 Fora de Reg.Metrop. - SP                     352930                            
+     12  35900 Fora de Reg.Metrop. - SP                     352950                            
+     12  35900 Fora de Reg.Metrop. - SP                     352960                            
+     12  35900 Fora de Reg.Metrop. - SP                     352965                            
+     12  35900 Fora de Reg.Metrop. - SP                     352970                            
+     12  35900 Fora de Reg.Metrop. - SP                     352980                            
+     12  35900 Fora de Reg.Metrop. - SP                     352990                            
+     12  35900 Fora de Reg.Metrop. - SP                     353000                            
+     12  35900 Fora de Reg.Metrop. - SP                     353010                            
+     12  35900 Fora de Reg.Metrop. - SP                     353020                            
+     12  35900 Fora de Reg.Metrop. - SP                     353030                            
+     12  35900 Fora de Reg.Metrop. - SP                     353040                            
+     12  35900 Fora de Reg.Metrop. - SP                     353050                            
+     12  35900 Fora de Reg.Metrop. - SP                     353070                            
+     12  35900 Fora de Reg.Metrop. - SP                     353080                            
+     12  35900 Fora de Reg.Metrop. - SP                     353100                            
+     12  35900 Fora de Reg.Metrop. - SP                     353120                            
+     12  35900 Fora de Reg.Metrop. - SP                     353130                            
+     12  35900 Fora de Reg.Metrop. - SP                     353140                            
+     12  35900 Fora de Reg.Metrop. - SP                     353150                            
+     12  35900 Fora de Reg.Metrop. - SP                     353160                            
+     12  35900 Fora de Reg.Metrop. - SP                     353190                            
+     12  35900 Fora de Reg.Metrop. - SP                     353205                            
+     12  35900 Fora de Reg.Metrop. - SP                     353210                            
+     12  35900 Fora de Reg.Metrop. - SP                     353215                            
+     12  35900 Fora de Reg.Metrop. - SP                     353220                            
+     12  35900 Fora de Reg.Metrop. - SP                     353240                            
+     12  35900 Fora de Reg.Metrop. - SP                     353250                            
+     12  35900 Fora de Reg.Metrop. - SP                     353260                            
+     12  35900 Fora de Reg.Metrop. - SP                     353270                            
+     12  35900 Fora de Reg.Metrop. - SP                     353280                            
+     12  35900 Fora de Reg.Metrop. - SP                     353282                            
+     12  35900 Fora de Reg.Metrop. - SP                     353284                            
+     12  35900 Fora de Reg.Metrop. - SP                     353286                            
+     12  35900 Fora de Reg.Metrop. - SP                     353290                            
+     12  35900 Fora de Reg.Metrop. - SP                     353300                            
+     12  35900 Fora de Reg.Metrop. - SP                     353310                            
+     12  35900 Fora de Reg.Metrop. - SP                     353320                            
+     12  35900 Fora de Reg.Metrop. - SP                     353325                            
+     12  35900 Fora de Reg.Metrop. - SP                     353330                            
+     12  35900 Fora de Reg.Metrop. - SP                     353350                            
+     12  35900 Fora de Reg.Metrop. - SP                     353360                            
+     12  35900 Fora de Reg.Metrop. - SP                     353370                            
+     12  35900 Fora de Reg.Metrop. - SP                     353380                            
+     12  35900 Fora de Reg.Metrop. - SP                     353390                            
+     12  35900 Fora de Reg.Metrop. - SP                     353400                            
+     12  35900 Fora de Reg.Metrop. - SP                     353410                            
+     12  35900 Fora de Reg.Metrop. - SP                     353420                            
+     12  35900 Fora de Reg.Metrop. - SP                     353430                            
+     12  35900 Fora de Reg.Metrop. - SP                     353450                            
+     12  35900 Fora de Reg.Metrop. - SP                     353460                            
+     12  35900 Fora de Reg.Metrop. - SP                     353470                            
+     12  35900 Fora de Reg.Metrop. - SP                     353475                            
+     12  35900 Fora de Reg.Metrop. - SP                     353480                            
+     12  35900 Fora de Reg.Metrop. - SP                     353490                            
+     12  35900 Fora de Reg.Metrop. - SP                     353500                            
+     12  35900 Fora de Reg.Metrop. - SP                     353510                            
+     12  35900 Fora de Reg.Metrop. - SP                     353520                            
+     12  35900 Fora de Reg.Metrop. - SP                     353530                            
+     12  35900 Fora de Reg.Metrop. - SP                     353540                            
+     12  35900 Fora de Reg.Metrop. - SP                     353550                            
+     12  35900 Fora de Reg.Metrop. - SP                     353570                            
+     12  35900 Fora de Reg.Metrop. - SP                     353580                            
+     12  35900 Fora de Reg.Metrop. - SP                     353590                            
+     12  35900 Fora de Reg.Metrop. - SP                     353600                            
+     12  35900 Fora de Reg.Metrop. - SP                     353610                            
+     12  35900 Fora de Reg.Metrop. - SP                     353620                            
+     12  35900 Fora de Reg.Metrop. - SP                     353625                            
+     12  35900 Fora de Reg.Metrop. - SP                     353630                            
+     12  35900 Fora de Reg.Metrop. - SP                     353640                            
+     12  35900 Fora de Reg.Metrop. - SP                     353657                            
+     12  35900 Fora de Reg.Metrop. - SP                     353660                            
+     12  35900 Fora de Reg.Metrop. - SP                     353670                            
+     12  35900 Fora de Reg.Metrop. - SP                     353680                            
+     12  35900 Fora de Reg.Metrop. - SP                     353690                            
+     12  35900 Fora de Reg.Metrop. - SP                     353700                            
+     12  35900 Fora de Reg.Metrop. - SP                     353715                            
+     12  35900 Fora de Reg.Metrop. - SP                     353720                            
+     12  35900 Fora de Reg.Metrop. - SP                     353730                            
+     12  35900 Fora de Reg.Metrop. - SP                     353740                            
+     12  35900 Fora de Reg.Metrop. - SP                     353750                            
+     12  35900 Fora de Reg.Metrop. - SP                     353770                            
+     12  35900 Fora de Reg.Metrop. - SP                     353810                            
+     12  35900 Fora de Reg.Metrop. - SP                     353820                            
+     12  35900 Fora de Reg.Metrop. - SP                     353830                            
+     12  35900 Fora de Reg.Metrop. - SP                     353860                            
+     12  35900 Fora de Reg.Metrop. - SP                     353880                            
+     12  35900 Fora de Reg.Metrop. - SP                     353890                            
+     12  35900 Fora de Reg.Metrop. - SP                     353900                            
+     12  35900 Fora de Reg.Metrop. - SP                     353920                            
+     12  35900 Fora de Reg.Metrop. - SP                     353930                            
+     12  35900 Fora de Reg.Metrop. - SP                     353940                            
+     12  35900 Fora de Reg.Metrop. - SP                     353950                            
+     12  35900 Fora de Reg.Metrop. - SP                     353960                            
+     12  35900 Fora de Reg.Metrop. - SP                     353970                            
+     12  35900 Fora de Reg.Metrop. - SP                     353990                            
+     12  35900 Fora de Reg.Metrop. - SP                     354000                            
+     12  35900 Fora de Reg.Metrop. - SP                     354010                            
+     12  35900 Fora de Reg.Metrop. - SP                     354020                            
+     12  35900 Fora de Reg.Metrop. - SP                     354025                            
+     12  35900 Fora de Reg.Metrop. - SP                     354030                            
+     12  35900 Fora de Reg.Metrop. - SP                     354040                            
+     12  35900 Fora de Reg.Metrop. - SP                     354050                            
+     12  35900 Fora de Reg.Metrop. - SP                     354070                            
+     12  35900 Fora de Reg.Metrop. - SP                     354080                            
+     12  35900 Fora de Reg.Metrop. - SP                     354085                            
+     12  35900 Fora de Reg.Metrop. - SP                     354090                            
+     12  35900 Fora de Reg.Metrop. - SP                     354105                            
+     12  35900 Fora de Reg.Metrop. - SP                     354110                            
+     12  35900 Fora de Reg.Metrop. - SP                     354120                            
+     12  35900 Fora de Reg.Metrop. - SP                     354130                            
+     12  35900 Fora de Reg.Metrop. - SP                     354140                            
+     12  35900 Fora de Reg.Metrop. - SP                     354150                            
+     12  35900 Fora de Reg.Metrop. - SP                     354160                            
+     12  35900 Fora de Reg.Metrop. - SP                     354165                            
+     12  35900 Fora de Reg.Metrop. - SP                     354170                            
+     12  35900 Fora de Reg.Metrop. - SP                     354180                            
+     12  35900 Fora de Reg.Metrop. - SP                     354200                            
+     12  35900 Fora de Reg.Metrop. - SP                     354220                            
+     12  35900 Fora de Reg.Metrop. - SP                     354240                            
+     12  35900 Fora de Reg.Metrop. - SP                     354250                            
+     12  35900 Fora de Reg.Metrop. - SP                     354260                            
+     12  35900 Fora de Reg.Metrop. - SP                     354270                            
+     12  35900 Fora de Reg.Metrop. - SP                     354280                            
+     12  35900 Fora de Reg.Metrop. - SP                     354290                            
+     12  35900 Fora de Reg.Metrop. - SP                     354300                            
+     12  35900 Fora de Reg.Metrop. - SP                     354310                            
+     12  35900 Fora de Reg.Metrop. - SP                     354320                            
+     12  35900 Fora de Reg.Metrop. - SP                     354323                            
+     12  35900 Fora de Reg.Metrop. - SP                     354325                            
+     12  35900 Fora de Reg.Metrop. - SP                     354340                            
+     12  35900 Fora de Reg.Metrop. - SP                     354350                            
+     12  35900 Fora de Reg.Metrop. - SP                     354360                            
+     12  35900 Fora de Reg.Metrop. - SP                     354370                            
+     12  35900 Fora de Reg.Metrop. - SP                     354380                            
+     12  35900 Fora de Reg.Metrop. - SP                     354420                            
+     12  35900 Fora de Reg.Metrop. - SP                     354425                            
+     12  35900 Fora de Reg.Metrop. - SP                     354440                            
+     12  35900 Fora de Reg.Metrop. - SP                     354450                            
+     12  35900 Fora de Reg.Metrop. - SP                     354460                            
+     12  35900 Fora de Reg.Metrop. - SP                     354470                            
+     12  35900 Fora de Reg.Metrop. - SP                     354480                            
+     12  35900 Fora de Reg.Metrop. - SP                     354490                            
+     12  35900 Fora de Reg.Metrop. - SP                     354510                            
+     12  35900 Fora de Reg.Metrop. - SP                     354540                            
+     12  35900 Fora de Reg.Metrop. - SP                     354550                            
+     12  35900 Fora de Reg.Metrop. - SP                     354560                            
+     12  35900 Fora de Reg.Metrop. - SP                     354570                            
+     12  35900 Fora de Reg.Metrop. - SP                     354610                            
+     12  35900 Fora de Reg.Metrop. - SP                     354620                            
+     12  35900 Fora de Reg.Metrop. - SP                     354625                            
+     12  35900 Fora de Reg.Metrop. - SP                     354630                            
+     12  35900 Fora de Reg.Metrop. - SP                     354640                            
+     12  35900 Fora de Reg.Metrop. - SP                     354650                            
+     12  35900 Fora de Reg.Metrop. - SP                     354660                            
+     12  35900 Fora de Reg.Metrop. - SP                     354690                            
+     12  35900 Fora de Reg.Metrop. - SP                     354710                            
+     12  35900 Fora de Reg.Metrop. - SP                     354720                            
+     12  35900 Fora de Reg.Metrop. - SP                     354740                            
+     12  35900 Fora de Reg.Metrop. - SP                     354750                            
+     12  35900 Fora de Reg.Metrop. - SP                     354760                            
+     12  35900 Fora de Reg.Metrop. - SP                     354765                            
+     12  35900 Fora de Reg.Metrop. - SP                     354770                            
+     12  35900 Fora de Reg.Metrop. - SP                     354790                            
+     12  35900 Fora de Reg.Metrop. - SP                     354805                            
+     12  35900 Fora de Reg.Metrop. - SP                     354810                            
+     12  35900 Fora de Reg.Metrop. - SP                     354830                            
+     12  35900 Fora de Reg.Metrop. - SP                     354840                            
+     12  35900 Fora de Reg.Metrop. - SP                     354890                            
+     12  35900 Fora de Reg.Metrop. - SP                     354900                            
+     12  35900 Fora de Reg.Metrop. - SP                     354910                            
+     12  35900 Fora de Reg.Metrop. - SP                     354920                            
+     12  35900 Fora de Reg.Metrop. - SP                     354925                            
+     12  35900 Fora de Reg.Metrop. - SP                     354930                            
+     12  35900 Fora de Reg.Metrop. - SP                     354940                            
+     12  35900 Fora de Reg.Metrop. - SP                     354950                            
+     12  35900 Fora de Reg.Metrop. - SP                     354970                            
+     12  35900 Fora de Reg.Metrop. - SP                     354980                            
+     12  35900 Fora de Reg.Metrop. - SP                     355010                            
+     12  35900 Fora de Reg.Metrop. - SP                     355050                            
+     12  35900 Fora de Reg.Metrop. - SP                     355080                            
+     12  35900 Fora de Reg.Metrop. - SP                     355090                            
+     12  35900 Fora de Reg.Metrop. - SP                     355120                            
+     12  35900 Fora de Reg.Metrop. - SP                     355130                            
+     12  35900 Fora de Reg.Metrop. - SP                     355140                            
+     12  35900 Fora de Reg.Metrop. - SP                     355150                            
+     12  35900 Fora de Reg.Metrop. - SP                     355160                            
+     12  35900 Fora de Reg.Metrop. - SP                     355170                            
+     12  35900 Fora de Reg.Metrop. - SP                     355180                            
+     12  35900 Fora de Reg.Metrop. - SP                     355190                            
+     12  35900 Fora de Reg.Metrop. - SP                     355210                            
+     12  35900 Fora de Reg.Metrop. - SP                     355230                            
+     12  35900 Fora de Reg.Metrop. - SP                     355255                            
+     12  35900 Fora de Reg.Metrop. - SP                     355260                            
+     12  35900 Fora de Reg.Metrop. - SP                     355270                            
+     12  35900 Fora de Reg.Metrop. - SP                     355290                            
+     12  35900 Fora de Reg.Metrop. - SP                     355300                            
+     12  35900 Fora de Reg.Metrop. - SP                     355310                            
+     12  35900 Fora de Reg.Metrop. - SP                     355320                            
+     12  35900 Fora de Reg.Metrop. - SP                     355330                            
+     12  35900 Fora de Reg.Metrop. - SP                     355340                            
+     12  35900 Fora de Reg.Metrop. - SP                     355360                            
+     12  35900 Fora de Reg.Metrop. - SP                     355365                            
+     12  35900 Fora de Reg.Metrop. - SP                     355370                            
+     12  35900 Fora de Reg.Metrop. - SP                     355380                            
+     12  35900 Fora de Reg.Metrop. - SP                     355385                            
+     12  35900 Fora de Reg.Metrop. - SP                     355390                            
+     12  35900 Fora de Reg.Metrop. - SP                     355395                            
+     12  35900 Fora de Reg.Metrop. - SP                     355420                            
+     12  35900 Fora de Reg.Metrop. - SP                     355430                            
+     12  35900 Fora de Reg.Metrop. - SP                     355440                            
+     12  35900 Fora de Reg.Metrop. - SP                     355460                            
+     12  35900 Fora de Reg.Metrop. - SP                     355465                            
+     12  35900 Fora de Reg.Metrop. - SP                     355470                            
+     12  35900 Fora de Reg.Metrop. - SP                     355475                            
+     12  35900 Fora de Reg.Metrop. - SP                     355490                            
+     12  35900 Fora de Reg.Metrop. - SP                     355495                            
+     12  35900 Fora de Reg.Metrop. - SP                     355500                            
+     12  35900 Fora de Reg.Metrop. - SP                     355510                            
+     12  35900 Fora de Reg.Metrop. - SP                     355520                            
+     12  35900 Fora de Reg.Metrop. - SP                     355530                            
+     12  35900 Fora de Reg.Metrop. - SP                     355535                            
+     12  35900 Fora de Reg.Metrop. - SP                     355550                            
+     12  35900 Fora de Reg.Metrop. - SP                     355560                            
+     12  35900 Fora de Reg.Metrop. - SP                     355570                            
+     12  35900 Fora de Reg.Metrop. - SP                     355580                            
+     12  35900 Fora de Reg.Metrop. - SP                     355590                            
+     12  35900 Fora de Reg.Metrop. - SP                     355600                            
+     12  35900 Fora de Reg.Metrop. - SP                     355610                            
+     12  35900 Fora de Reg.Metrop. - SP                     355630                            
+     12  35900 Fora de Reg.Metrop. - SP                     355635                            
+     12  35900 Fora de Reg.Metrop. - SP                     355640                            
+     12  35900 Fora de Reg.Metrop. - SP                     355660                            
+     12  35900 Fora de Reg.Metrop. - SP                     355680                            
+     12  35900 Fora de Reg.Metrop. - SP                     355690                            
+     12  35900 Fora de Reg.Metrop. - SP                     355695                            
+     12  35900 Fora de Reg.Metrop. - SP                     355710                            
+     12  35900 Fora de Reg.Metrop. - SP                     355715                            
+     12  35900 Fora de Reg.Metrop. - SP                     355720                            
+     12  35900 Fora de Reg.Metrop. - SP                     355730                            
+     13  35000 Ignorado - SP                                350000,359999                     

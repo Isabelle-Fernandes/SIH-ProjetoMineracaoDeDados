@@ -1,0 +1,1852 @@
+120  6                                                                                    
+      1  039 Agreste - AL                                   270030                            
+      1  039 Agreste - AL                                   270150                            
+      1  039 Agreste - AL                                   270200                            
+      1  039 Agreste - AL                                   270235                            
+      1  039 Agreste - AL                                   270255                            
+      1  039 Agreste - AL                                   270260                            
+      1  039 Agreste - AL                                   270290                            
+      1  039 Agreste - AL                                   270310                            
+      1  039 Agreste - AL                                   270400                            
+      1  039 Agreste - AL                                   270410                            
+      1  039 Agreste - AL                                   270420                            
+      1  039 Agreste - AL                                   270590                            
+      1  039 Agreste - AL                                   270630                            
+      1  039 Agreste - AL                                   270880                            
+      1  039 Agreste - AL                                   270910                            
+      1  039 Agreste - AL                                   270920                            
+      2  002 Agreste Meridional - PE                        260050                            
+      2  002 Agreste Meridional - PE                        260100                            
+      2  002 Agreste Meridional - PE                        260210                            
+      2  002 Agreste Meridional - PE                        260280                            
+      2  002 Agreste Meridional - PE                        260320                            
+      2  002 Agreste Meridional - PE                        260380                            
+      2  002 Agreste Meridional - PE                        260600                            
+      2  002 Agreste Meridional - PE                        260650                            
+      2  002 Agreste Meridional - PE                        260660                            
+      2  002 Agreste Meridional - PE                        260670                            
+      2  002 Agreste Meridional - PE                        260700                            
+      2  002 Agreste Meridional - PE                        260750                            
+      2  002 Agreste Meridional - PE                        260915                            
+      2  002 Agreste Meridional - PE                        261030                            
+      2  002 Agreste Meridional - PE                        261080                            
+      2  002 Agreste Meridional - PE                        261230                            
+      2  002 Agreste Meridional - PE                        261300                            
+      2  002 Agreste Meridional - PE                        261510                            
+      2  002 Agreste Meridional - PE                        261580                            
+      2  002 Agreste Meridional - PE                        261600                            
+      3  004 Alto Acre e Capixaba - AC                      120005                            
+      3  004 Alto Acre e Capixaba - AC                      120010                            
+      3  004 Alto Acre e Capixaba - AC                      120017                            
+      3  004 Alto Acre e Capixaba - AC                      120025                            
+      3  004 Alto Acre e Capixaba - AC                      120070                            
+      4  005 Alto Jequitinhonha - MG                        310445                            
+      4  005 Alto Jequitinhonha - MG                        311230                            
+      4  005 Alto Jequitinhonha - MG                        311350                            
+      4  005 Alto Jequitinhonha - MG                        311680                            
+      4  005 Alto Jequitinhonha - MG                        312010                            
+      4  005 Alto Jequitinhonha - MG                        312100                            
+      4  005 Alto Jequitinhonha - MG                        312160                            
+      4  005 Alto Jequitinhonha - MG                        312540                            
+      4  005 Alto Jequitinhonha - MG                        312550                            
+      4  005 Alto Jequitinhonha - MG                        312760                            
+      4  005 Alto Jequitinhonha - MG                        313250                            
+      4  005 Alto Jequitinhonha - MG                        313835                            
+      4  005 Alto Jequitinhonha - MG                        314180                            
+      4  005 Alto Jequitinhonha - MG                        315330                            
+      4  005 Alto Jequitinhonha - MG                        315600                            
+      4  005 Alto Jequitinhonha - MG                        316590                            
+      4  005 Alto Jequitinhonha - MG                        316650                            
+      4  005 Alto Jequitinhonha - MG                        316710                            
+      4  005 Alto Jequitinhonha - MG                        316970                            
+      4  005 Alto Jequitinhonha - MG                        317107                            
+      5  006 Alto Juruá - AM                                130140                            
+      5  006 Alto Juruá - AM                                130150                            
+      5  006 Alto Juruá - AM                                130165                            
+      5  006 Alto Juruá - AM                                130180                            
+      6  134 Alto Oeste - RN                                240040                            
+      6  134 Alto Oeste - RN                                240050                            
+      6  134 Alto Oeste - RN                                240060                            
+      6  134 Alto Oeste - RN                                240090                            
+      6  134 Alto Oeste - RN                                240290                            
+      6  134 Alto Oeste - RN                                240320                            
+      6  134 Alto Oeste - RN                                240330                            
+      6  134 Alto Oeste - RN                                240390                            
+      6  134 Alto Oeste - RN                                240400                            
+      6  134 Alto Oeste - RN                                240590                            
+      6  134 Alto Oeste - RN                                240600                            
+      6  134 Alto Oeste - RN                                240690                            
+      6  134 Alto Oeste - RN                                240700                            
+      6  134 Alto Oeste - RN                                240725                            
+      6  134 Alto Oeste - RN                                240730                            
+      6  134 Alto Oeste - RN                                240740                            
+      6  134 Alto Oeste - RN                                240860                            
+      6  134 Alto Oeste - RN                                240940                            
+      6  134 Alto Oeste - RN                                241000                            
+      6  134 Alto Oeste - RN                                241020                            
+      6  134 Alto Oeste - RN                                241050                            
+      6  134 Alto Oeste - RN                                241070                            
+      6  134 Alto Oeste - RN                                241080                            
+      6  134 Alto Oeste - RN                                241190                            
+      6  134 Alto Oeste - RN                                241250                            
+      6  134 Alto Oeste - RN                                241355                            
+      6  134 Alto Oeste - RN                                241380                            
+      6  134 Alto Oeste - RN                                241410                            
+      6  134 Alto Oeste - RN                                241475                            
+      6  134 Alto Oeste - RN                                241490                            
+      7  007 Alto Rio Pardo - MG                            310665                            
+      7  007 Alto Rio Pardo - MG                            312087                            
+      7  007 Alto Rio Pardo - MG                            312707                            
+      7  007 Alto Rio Pardo - MG                            313065                            
+      7  007 Alto Rio Pardo - MG                            314345                            
+      7  007 Alto Rio Pardo - MG                            314465                            
+      7  007 Alto Rio Pardo - MG                            314537                            
+      7  007 Alto Rio Pardo - MG                            315560                            
+      7  007 Alto Rio Pardo - MG                            315650                            
+      7  007 Alto Rio Pardo - MG                            315700                            
+      7  007 Alto Rio Pardo - MG                            315737                            
+      7  007 Alto Rio Pardo - MG                            316045                            
+      7  007 Alto Rio Pardo - MG                            316270                            
+      7  007 Alto Rio Pardo - MG                            316800                            
+      7  007 Alto Rio Pardo - MG                            317065                            
+      8  040 Alto Sertão - AL                               270010                            
+      8  040 Alto Sertão - AL                               270160                            
+      8  040 Alto Sertão - AL                               270240                            
+      8  040 Alto Sertão - AL                               270330                            
+      8  040 Alto Sertão - AL                               270500                            
+      8  040 Alto Sertão - AL                               270580                            
+      8  040 Alto Sertão - AL                               270642                            
+      8  040 Alto Sertão - AL                               270710                            
+      9  008 Alto Sertão - SE                               280120                            
+      9  008 Alto Sertão - SE                               280240                            
+      9  008 Alto Sertão - SE                               280420                            
+      9  008 Alto Sertão - SE                               280450                            
+      9  008 Alto Sertão - SE                               280470                            
+      9  008 Alto Sertão - SE                               280540                            
+      9  008 Alto Sertão - SE                               280560                            
+     10  139 Alto Turi e Gurupi - MA                        210055                            
+     10  139 Alto Turi e Gurupi - MA                        210087                            
+     10  139 Alto Turi e Gurupi - MA                        210197                            
+     10  139 Alto Turi e Gurupi - MA                        210260                            
+     10  139 Alto Turi e Gurupi - MA                        210290                            
+     10  139 Alto Turi e Gurupi - MA                        210315                            
+     10  139 Alto Turi e Gurupi - MA                        210317                            
+     10  139 Alto Turi e Gurupi - MA                        210430                            
+     10  139 Alto Turi e Gurupi - MA                        210465                            
+     10  139 Alto Turi e Gurupi - MA                        210467                            
+     10  139 Alto Turi e Gurupi - MA                        210565                            
+     10  139 Alto Turi e Gurupi - MA                        210620                            
+     10  139 Alto Turi e Gurupi - MA                        210632                            
+     10  139 Alto Turi e Gurupi - MA                        210637                            
+     10  139 Alto Turi e Gurupi - MA                        210735                            
+     10  139 Alto Turi e Gurupi - MA                        210923                            
+     10  139 Alto Turi e Gurupi - MA                        211003                            
+     10  139 Alto Turi e Gurupi - MA                        211400                            
+     11  001 Açu-Mossoró - RN                               240020                            
+     11  001 Açu-Mossoró - RN                               240070                            
+     11  001 Açu-Mossoró - RN                               240110                            
+     11  001 Açu-Mossoró - RN                               240145                            
+     11  001 Açu-Mossoró - RN                               240250                            
+     11  001 Açu-Mossoró - RN                               240440                            
+     11  001 Açu-Mossoró - RN                               240470                            
+     11  001 Açu-Mossoró - RN                               240485                            
+     11  001 Açu-Mossoró - RN                               240800                            
+     11  001 Açu-Mossoró - RN                               240990                            
+     11  001 Açu-Mossoró - RN                               241025                            
+     11  001 Açu-Mossoró - RN                               241105                            
+     11  001 Açu-Mossoró - RN                               241280                            
+     11  001 Açu-Mossoró - RN                               241335                            
+     12  114 BR 163 - PA                                    150100                            
+     12  114 BR 163 - PA                                    150360                            
+     12  114 BR 163 - PA                                    150375                            
+     12  114 BR 163 - PA                                    150503                            
+     12  114 BR 163 - PA                                    150619                            
+     12  114 BR 163 - PA                                    150805                            
+     13  036 Bacia Leiteira - AL                            270070                            
+     13  036 Bacia Leiteira - AL                            270090                            
+     13  036 Bacia Leiteira - AL                            270120                            
+     13  036 Bacia Leiteira - AL                            270340                            
+     13  036 Bacia Leiteira - AL                            270370                            
+     13  036 Bacia Leiteira - AL                            270440                            
+     13  036 Bacia Leiteira - AL                            270530                            
+     13  036 Bacia Leiteira - AL                            270540                            
+     13  036 Bacia Leiteira - AL                            270570                            
+     13  036 Bacia Leiteira - AL                            270620                            
+     13  036 Bacia Leiteira - AL                            270640                            
+     14  016 Baixada Cuiabana - MT                          510010                            
+     14  016 Baixada Cuiabana - MT                          510160                            
+     14  016 Baixada Cuiabana - MT                          510267                            
+     14  016 Baixada Cuiabana - MT                          510300                            
+     14  016 Baixada Cuiabana - MT                          510340                            
+     14  016 Baixada Cuiabana - MT                          510490                            
+     14  016 Baixada Cuiabana - MT                          510590                            
+     14  016 Baixada Cuiabana - MT                          510610                            
+     14  016 Baixada Cuiabana - MT                          510620                            
+     14  016 Baixada Cuiabana - MT                          510645                            
+     14  016 Baixada Cuiabana - MT                          510650                            
+     14  016 Baixada Cuiabana - MT                          510770                            
+     14  016 Baixada Cuiabana - MT                          510780                            
+     14  016 Baixada Cuiabana - MT                          510840                            
+     15  115 Baixada Ocidental - MA                         210020                            
+     15  115 Baixada Ocidental - MA                         210083                            
+     15  115 Baixada Ocidental - MA                         210130                            
+     15  115 Baixada Ocidental - MA                         210135                            
+     15  115 Baixada Ocidental - MA                         210190                            
+     15  115 Baixada Ocidental - MA                         210240                            
+     15  115 Baixada Ocidental - MA                         210310                            
+     15  115 Baixada Ocidental - MA                         210312                            
+     15  115 Baixada Ocidental - MA                         210370                            
+     15  115 Baixada Ocidental - MA                         210490                            
+     15  115 Baixada Ocidental - MA                         210680                            
+     15  115 Baixada Ocidental - MA                         210840                            
+     15  115 Baixada Ocidental - MA                         210860                            
+     15  115 Baixada Ocidental - MA                         210905                            
+     15  115 Baixada Ocidental - MA                         210927                            
+     15  115 Baixada Ocidental - MA                         210980                            
+     15  115 Baixada Ocidental - MA                         211178                            
+     15  115 Baixada Ocidental - MA                         211240                            
+     15  115 Baixada Ocidental - MA                         211245                            
+     16  017 Baixo Amazonas - AM                            130050                            
+     16  017 Baixo Amazonas - AM                            130068                            
+     16  017 Baixo Amazonas - AM                            130290                            
+     16  017 Baixo Amazonas - AM                            130300                            
+     16  017 Baixo Amazonas - AM                            130340,133403                     
+     16  017 Baixo Amazonas - AM                            130395                            
+     16  017 Baixo Amazonas - AM                            130430                            
+     17  018 Baixo Amazonas - PA                            150040                            
+     17  018 Baixo Amazonas - PA                            150050                            
+     17  018 Baixo Amazonas - PA                            150145                            
+     17  018 Baixo Amazonas - PA                            150285                            
+     17  018 Baixo Amazonas - PA                            150300                            
+     17  018 Baixo Amazonas - PA                            150390                            
+     17  018 Baixo Amazonas - PA                            150480                            
+     17  018 Baixo Amazonas - PA                            150510                            
+     17  018 Baixo Amazonas - PA                            150530                            
+     17  018 Baixo Amazonas - PA                            150600                            
+     17  018 Baixo Amazonas - PA                            150680                            
+     17  018 Baixo Amazonas - PA                            150797                            
+     18  019 Baixo Araguaia - MT                            510035                            
+     18  019 Baixo Araguaia - MT                            510185                            
+     18  019 Baixo Araguaia - MT                            510269                            
+     18  019 Baixo Araguaia - MT                            510335                            
+     18  019 Baixo Araguaia - MT                            510530                            
+     18  019 Baixo Araguaia - MT                            510631                            
+     18  019 Baixo Araguaia - MT                            510677                            
+     18  019 Baixo Araguaia - MT                            510706                            
+     18  019 Baixo Araguaia - MT                            510718                            
+     18  019 Baixo Araguaia - MT                            510735                            
+     18  019 Baixo Araguaia - MT                            510774                            
+     18  019 Baixo Araguaia - MT                            510777                            
+     18  019 Baixo Araguaia - MT                            510785                            
+     18  019 Baixo Araguaia - MT                            510788                            
+     18  019 Baixo Araguaia - MT                            510860                            
+     19  117 Baixo Jequitinhonha - MG                       310170                            
+     19  117 Baixo Jequitinhonha - MG                       310520                            
+     19  117 Baixo Jequitinhonha - MG                       312245                            
+     19  117 Baixo Jequitinhonha - MG                       312560                            
+     19  117 Baixo Jequitinhonha - MG                       313470                            
+     19  117 Baixo Jequitinhonha - MG                       313580                            
+     19  117 Baixo Jequitinhonha - MG                       313600                            
+     19  117 Baixo Jequitinhonha - MG                       313650                            
+     19  117 Baixo Jequitinhonha - MG                       314055                            
+     19  117 Baixo Jequitinhonha - MG                       314315                            
+     19  117 Baixo Jequitinhonha - MG                       314675                            
+     19  117 Baixo Jequitinhonha - MG                       315510                            
+     19  117 Baixo Jequitinhonha - MG                       315660                            
+     19  117 Baixo Jequitinhonha - MG                       315710                            
+     19  117 Baixo Jequitinhonha - MG                       315810                            
+     19  117 Baixo Jequitinhonha - MG                       316030                            
+     20  020 Baixo Parnaíba - MA                            210015                            
+     20  020 Baixo Parnaíba - MA                            210080                            
+     20  020 Baixo Parnaíba - MA                            210090                            
+     20  020 Baixo Parnaíba - MA                            210173                            
+     20  020 Baixo Parnaíba - MA                            210210                            
+     20  020 Baixo Parnaíba - MA                            210220                            
+     20  020 Baixo Parnaíba - MA                            210320                            
+     20  020 Baixo Parnaíba - MA                            210630                            
+     20  020 Baixo Parnaíba - MA                            210640                            
+     20  020 Baixo Parnaíba - MA                            210667                            
+     20  020 Baixo Parnaíba - MA                            211010                            
+     20  020 Baixo Parnaíba - MA                            211023                            
+     20  020 Baixo Parnaíba - MA                            211040                            
+     20  020 Baixo Parnaíba - MA                            211060                            
+     20  020 Baixo Parnaíba - MA                            211250                            
+     20  020 Baixo Parnaíba - MA                            211260                            
+     21  021 Baixo Sul - BA                                 290230                            
+     21  021 Baixo Sul - BA                                 290540                            
+     21  021 Baixo Sul - BA                                 290580                            
+     21  021 Baixo Sul - BA                                 291120                            
+     21  021 Baixo Sul - BA                                 291345                            
+     21  021 Baixo Sul - BA                                 291730                            
+     21  021 Baixo Sul - BA                                 291780                            
+     21  021 Baixo Sul - BA                                 292260                            
+     21  021 Baixo Sul - BA                                 292467                            
+     21  021 Baixo Sul - BA                                 292575                            
+     21  021 Baixo Sul - BA                                 293120                            
+     21  021 Baixo Sul - BA                                 293160                            
+     21  021 Baixo Sul - BA                                 293290                            
+     21  021 Baixo Sul - BA                                 293350                            
+     22  135 Baixo São Francisco - SE                       280010                            
+     22  135 Baixo São Francisco - SE                       280070                            
+     22  135 Baixo São Francisco - SE                       280110                            
+     22  135 Baixo São Francisco - SE                       280160                            
+     22  135 Baixo São Francisco - SE                       280270                            
+     22  135 Baixo São Francisco - SE                       280340                            
+     22  135 Baixo São Francisco - SE                       280380                            
+     22  135 Baixo São Francisco - SE                       280430                            
+     22  135 Baixo São Francisco - SE                       280440                            
+     22  135 Baixo São Francisco - SE                       280490                            
+     22  135 Baixo São Francisco - SE                       280570                            
+     22  135 Baixo São Francisco - SE                       280640                            
+     22  135 Baixo São Francisco - SE                       280690                            
+     22  135 Baixo São Francisco - SE                       280730                            
+     23  130 Baixo Tocantins - PA                           150010                            
+     23  130 Baixo Tocantins - PA                           150020                            
+     23  130 Baixo Tocantins - PA                           150120                            
+     23  130 Baixo Tocantins - PA                           150130                            
+     23  130 Baixo Tocantins - PA                           150210                            
+     23  130 Baixo Tocantins - PA                           150330                            
+     23  130 Baixo Tocantins - PA                           150400                            
+     23  130 Baixo Tocantins - PA                           150460                            
+     23  130 Baixo Tocantins - PA                           150470                            
+     23  130 Baixo Tocantins - PA                           150520                            
+     23  130 Baixo Tocantins - PA                           150795                            
+     24  022 Bico do Papagaio - TO                          170030                            
+     24  022 Bico do Papagaio - TO                          170100                            
+     24  022 Bico do Papagaio - TO                          170105                            
+     24  022 Bico do Papagaio - TO                          170220                            
+     24  022 Bico do Papagaio - TO                          170255                            
+     24  022 Bico do Papagaio - TO                          170290                            
+     24  022 Bico do Papagaio - TO                          170380                            
+     24  022 Bico do Papagaio - TO                          170382                            
+     24  022 Bico do Papagaio - TO                          170389                            
+     24  022 Bico do Papagaio - TO                          170650                            
+     24  022 Bico do Papagaio - TO                          170740                            
+     24  022 Bico do Papagaio - TO                          171070                            
+     24  022 Bico do Papagaio - TO                          171245                            
+     24  022 Bico do Papagaio - TO                          171280                            
+     24  022 Bico do Papagaio - TO                          171380                            
+     24  022 Bico do Papagaio - TO                          171430                            
+     24  022 Bico do Papagaio - TO                          171830                            
+     24  022 Bico do Papagaio - TO                          171855                            
+     24  022 Bico do Papagaio - TO                          171880                            
+     24  022 Bico do Papagaio - TO                          172000                            
+     24  022 Bico do Papagaio - TO                          172010                            
+     24  022 Bico do Papagaio - TO                          172020                            
+     24  022 Bico do Papagaio - TO                          172030                            
+     24  022 Bico do Papagaio - TO                          172080                            
+     24  022 Bico do Papagaio - TO                          172120                            
+     25  024 Borborema - PB                                 250040                            
+     25  024 Borborema - PB                                 250057                            
+     25  024 Borborema - PB                                 250090,250908                     
+     25  024 Borborema - PB                                 250110                            
+     25  024 Borborema - PB                                 250120                            
+     25  024 Borborema - PB                                 250270                            
+     25  024 Borborema - PB                                 250400,254009                     
+     25  024 Borborema - PB                                 250415                            
+     25  024 Borborema - PB                                 250600                            
+     25  024 Borborema - PB                                 250830                            
+     25  024 Borborema - PB                                 250920                            
+     25  024 Borborema - PB                                 250933                            
+     25  024 Borborema - PB                                 250950                            
+     25  024 Borborema - PB                                 251160                            
+     25  024 Borborema - PB                                 251240                            
+     25  024 Borborema - PB                                 251250                            
+     25  024 Borborema - PB                                 251270                            
+     25  024 Borborema - PB                                 251510                            
+     25  024 Borborema - PB                                 251580                            
+     25  024 Borborema - PB                                 251590                            
+     25  024 Borborema - PB                                 251600                            
+     26  141 Campo e Lagos - MA                             210100                            
+     26  141 Campo e Lagos - MA                             210250                            
+     26  141 Campo e Lagos - MA                             210650                            
+     26  141 Campo e Lagos - MA                             210745                            
+     26  141 Campo e Lagos - MA                             210760                            
+     26  141 Campo e Lagos - MA                             210825                            
+     26  141 Campo e Lagos - MA                             210830                            
+     26  141 Campo e Lagos - MA                             211050                            
+     26  141 Campo e Lagos - MA                             211100                            
+     26  141 Campo e Lagos - MA                             211170                            
+     26  141 Campo e Lagos - MA                             211280                            
+     26  141 Campo e Lagos - MA                             211290                            
+     27  025 Cantuquiriguaçu - PR                           410405                            
+     27  025 Cantuquiriguaçu - PR                           410442                            
+     27  025 Cantuquiriguaçu - PR                           410445                            
+     27  025 Cantuquiriguaçu - PR                           410500                            
+     27  025 Cantuquiriguaçu - PR                           410712                            
+     27  025 Cantuquiriguaçu - PR                           410754                            
+     27  025 Cantuquiriguaçu - PR                           410845                            
+     27  025 Cantuquiriguaçu - PR                           410865                            
+     27  025 Cantuquiriguaçu - PR                           410930                            
+     27  025 Cantuquiriguaçu - PR                           410975                            
+     27  025 Cantuquiriguaçu - PR                           411330                            
+     27  025 Cantuquiriguaçu - PR                           411545                            
+     27  025 Cantuquiriguaçu - PR                           411705                            
+     27  025 Cantuquiriguaçu - PR                           411930                            
+     27  025 Cantuquiriguaçu - PR                           412015                            
+     27  025 Cantuquiriguaçu - PR                           412090                            
+     27  025 Cantuquiriguaçu - PR                           412175                            
+     27  025 Cantuquiriguaçu - PR                           412215                            
+     27  025 Cantuquiriguaçu - PR                           412785                            
+     27  025 Cantuquiriguaçu - PR                           412865                            
+     28  026 Caparaó - ES                                   320020                            
+     28  026 Caparaó - ES                                   320180                            
+     28  026 Caparaó - ES                                   320200                            
+     28  026 Caparaó - ES                                   320230                            
+     28  026 Caparaó - ES                                   320245                            
+     28  026 Caparaó - ES                                   320255                            
+     28  026 Caparaó - ES                                   320265                            
+     28  026 Caparaó - ES                                   320300                            
+     28  026 Caparaó - ES                                   320310                            
+     28  026 Caparaó - ES                                   320370                            
+     28  026 Caparaó - ES                                   320480                            
+     29  027 Cariri Ocidental - PB                          250073                            
+     29  027 Cariri Ocidental - PB                          250135                            
+     29  027 Cariri Ocidental - PB                          250390                            
+     29  027 Cariri Ocidental - PB                          250470                            
+     29  027 Cariri Ocidental - PB                          250485                            
+     29  027 Cariri Ocidental - PB                          250850                            
+     29  027 Cariri Ocidental - PB                          250970                            
+     29  027 Cariri Ocidental - PB                          251060                            
+     29  027 Cariri Ocidental - PB                          251065                            
+     29  027 Cariri Ocidental - PB                          251220                            
+     29  027 Cariri Ocidental - PB                          251410                            
+     29  027 Cariri Ocidental - PB                          251480                            
+     29  027 Cariri Ocidental - PB                          251520                            
+     29  027 Cariri Ocidental - PB                          251550                            
+     29  027 Cariri Ocidental - PB                          251630                            
+     29  027 Cariri Ocidental - PB                          251650                            
+     29  027 Cariri Ocidental - PB                          251740                            
+     30  131 Carirí - CE                                    230010                            
+     30  131 Carirí - CE                                    230060                            
+     30  131 Carirí - CE                                    230080                            
+     30  131 Carirí - CE                                    230130                            
+     30  131 Carirí - CE                                    230160                            
+     30  131 Carirí - CE                                    230170                            
+     30  131 Carirí - CE                                    230190                            
+     30  131 Carirí - CE                                    230200                            
+     30  131 Carirí - CE                                    230250                            
+     30  131 Carirí - CE                                    230270                            
+     30  131 Carirí - CE                                    230320                            
+     30  131 Carirí - CE                                    230420                            
+     30  131 Carirí - CE                                    230430                            
+     30  131 Carirí - CE                                    230480                            
+     30  131 Carirí - CE                                    230710                            
+     30  131 Carirí - CE                                    230720                            
+     30  131 Carirí - CE                                    230730                            
+     30  131 Carirí - CE                                    230810                            
+     30  131 Carirí - CE                                    230830                            
+     30  131 Carirí - CE                                    230840                            
+     30  131 Carirí - CE                                    230920                            
+     30  131 Carirí - CE                                    231060                            
+     30  131 Carirí - CE                                    231110                            
+     30  131 Carirí - CE                                    231120                            
+     30  131 Carirí - CE                                    231195                            
+     30  131 Carirí - CE                                    231210                            
+     30  131 Carirí - CE                                    231325                            
+     31  028 Carnaubais - PI                                220105                            
+     31  028 Carnaubais - PI                                220177                            
+     31  028 Carnaubais - PI                                220194                            
+     31  028 Carnaubais - PI                                220202                            
+     31  028 Carnaubais - PI                                220205                            
+     31  028 Carnaubais - PI                                220220                            
+     31  028 Carnaubais - PI                                220240                            
+     31  028 Carnaubais - PI                                220260                            
+     31  028 Carnaubais - PI                                220271                            
+     31  028 Carnaubais - PI                                220527                            
+     31  028 Carnaubais - PI                                220551                            
+     31  028 Carnaubais - PI                                220675                            
+     31  028 Carnaubais - PI                                220695                            
+     31  028 Carnaubais - PI                                220990                            
+     31  028 Carnaubais - PI                                221040                            
+     31  028 Carnaubais - PI                                221065                            
+     32  029 Central - RO                                   110011                            
+     32  029 Central - RO                                   110012                            
+     32  029 Central - RO                                   110015                            
+     32  029 Central - RO                                   110025                            
+     32  029 Central - RO                                   110034                            
+     32  029 Central - RO                                   110100                            
+     32  029 Central - RO                                   110130                            
+     32  029 Central - RO                                   110143                            
+     32  029 Central - RO                                   110155                            
+     32  029 Central - RO                                   110160                            
+     32  029 Central - RO                                   110170                            
+     32  029 Central - RO                                   110175                            
+     32  029 Central - RO                                   110180                            
+     33  094 Centro Oeste - AP                              160005                            
+     33  094 Centro Oeste - AP                              160015                            
+     33  094 Centro Oeste - AP                              160023                            
+     33  094 Centro Oeste - AP                              160053                            
+     34  031 Chapada Diamantina - BA                        290010                            
+     34  031 Chapada Diamantina - BA                        290130                            
+     34  031 Chapada Diamantina - BA                        290280                            
+     34  031 Chapada Diamantina - BA                        290400                            
+     34  031 Chapada Diamantina - BA                        290405                            
+     34  031 Chapada Diamantina - BA                        291220                            
+     34  031 Chapada Diamantina - BA                        291300                            
+     34  031 Chapada Diamantina - BA                        291440                            
+     34  031 Chapada Diamantina - BA                        291500                            
+     34  031 Chapada Diamantina - BA                        291860                            
+     34  031 Chapada Diamantina - BA                        291930                            
+     34  031 Chapada Diamantina - BA                        292080                            
+     34  031 Chapada Diamantina - BA                        292170                            
+     34  031 Chapada Diamantina - BA                        292190                            
+     34  031 Chapada Diamantina - BA                        292285                            
+     34  031 Chapada Diamantina - BA                        292303                            
+     34  031 Chapada Diamantina - BA                        292350                            
+     34  031 Chapada Diamantina - BA                        292430                            
+     34  031 Chapada Diamantina - BA                        292670                            
+     34  031 Chapada Diamantina - BA                        292990                            
+     34  031 Chapada Diamantina - BA                        293080                            
+     34  031 Chapada Diamantina - BA                        293130                            
+     34  031 Chapada Diamantina - BA                        293280                            
+     34  031 Chapada Diamantina - BA                        293340                            
+     35  121 Chapada dos Veadeiros - GO                     520060                            
+     35  121 Chapada dos Veadeiros - GO                     520490                            
+     35  121 Chapada dos Veadeiros - GO                     520530                            
+     35  121 Chapada dos Veadeiros - GO                     520552                            
+     35  121 Chapada dos Veadeiros - GO                     521350                            
+     35  121 Chapada dos Veadeiros - GO                     521490                            
+     35  121 Chapada dos Veadeiros - GO                     522000                            
+     35  121 Chapada dos Veadeiros - GO                     522108                            
+     36  034 Cocais - MA                                    210010                            
+     36  034 Cocais - MA                                    210030                            
+     36  034 Cocais - MA                                    210230                            
+     36  034 Cocais - MA                                    210300                            
+     36  034 Cocais - MA                                    210330,213307                     
+     36  034 Cocais - MA                                    210340                            
+     36  034 Cocais - MA                                    210360                            
+     36  034 Cocais - MA                                    210390                            
+     36  034 Cocais - MA                                    210420                            
+     36  034 Cocais - MA                                    210592                            
+     36  034 Cocais - MA                                    210660                            
+     36  034 Cocais - MA                                    210780                            
+     36  034 Cocais - MA                                    210845                            
+     36  034 Cocais - MA                                    211107                            
+     36  034 Cocais - MA                                    211174                            
+     36  034 Cocais - MA                                    211210                            
+     36  034 Cocais - MA                                    211220                            
+     37  161 Cocais - PI                                    220120                            
+     37  161 Cocais - PI                                    220150                            
+     37  161 Cocais - PI                                    220196                            
+     37  161 Cocais - PI                                    220217                            
+     37  161 Cocais - PI                                    220342                            
+     37  161 Cocais - PI                                    220370                            
+     37  161 Cocais - PI                                    220540                            
+     37  161 Cocais - PI                                    220545                            
+     37  161 Cocais - PI                                    220557                            
+     37  161 Cocais - PI                                    220580                            
+     37  161 Cocais - PI                                    220585                            
+     37  161 Cocais - PI                                    220610                            
+     37  161 Cocais - PI                                    220635                            
+     37  161 Cocais - PI                                    220667                            
+     37  161 Cocais - PI                                    220680                            
+     37  161 Cocais - PI                                    220790                            
+     37  161 Cocais - PI                                    220830                            
+     37  161 Cocais - PI                                    220840                            
+     37  161 Cocais - PI                                    220850                            
+     37  161 Cocais - PI                                    220987                            
+     37  161 Cocais - PI                                    220997                            
+     37  161 Cocais - PI                                    221005                            
+     38  035 Cone Sul - MS                                  500375                            
+     38  035 Cone Sul - MS                                  500430                            
+     38  035 Cone Sul - MS                                  500460                            
+     38  035 Cone Sul - MS                                  500480                            
+     38  035 Cone Sul - MS                                  500568                            
+     38  035 Cone Sul - MS                                  500570                            
+     38  035 Cone Sul - MS                                  500770                            
+     38  035 Cone Sul - MS                                  500795                            
+     39  160 Curimataú - PB                                 250153                            
+     39  160 Curimataú - PB                                 250160                            
+     39  160 Curimataú - PB                                 250350                            
+     39  160 Curimataú - PB                                 250510                            
+     39  160 Curimataú - PB                                 250535                            
+     39  160 Curimataú - PB                                 250620                            
+     39  160 Curimataú - PB                                 251010                            
+     39  160 Curimataú - PB                                 251030                            
+     39  160 Curimataú - PB                                 251140                            
+     39  160 Curimataú - PB                                 251615                            
+     40  045 Entre Rios - PI                                220010                            
+     40  045 Entre Rios - PI                                220020                            
+     40  045 Entre Rios - PI                                220030                            
+     40  045 Entre Rios - PI                                220040                            
+     40  045 Entre Rios - PI                                220050                            
+     40  045 Entre Rios - PI                                220060                            
+     40  045 Entre Rios - PI                                220140                            
+     40  045 Entre Rios - PI                                220160                            
+     40  045 Entre Rios - PI                                220273                            
+     40  045 Entre Rios - PI                                220325                            
+     40  045 Entre Rios - PI                                220330                            
+     40  045 Entre Rios - PI                                220460                            
+     40  045 Entre Rios - PI                                220525                            
+     40  045 Entre Rios - PI                                220550                            
+     40  045 Entre Rios - PI                                220554                            
+     40  045 Entre Rios - PI                                220555                            
+     40  045 Entre Rios - PI                                220558                            
+     40  045 Entre Rios - PI                                220620                            
+     40  045 Entre Rios - PI                                220630                            
+     40  045 Entre Rios - PI                                220640                            
+     40  045 Entre Rios - PI                                220710                            
+     40  045 Entre Rios - PI                                220750                            
+     40  045 Entre Rios - PI                                220775                            
+     40  045 Entre Rios - PI                                220779                            
+     40  045 Entre Rios - PI                                220880                            
+     40  045 Entre Rios - PI                                220945                            
+     40  045 Entre Rios - PI                                220980                            
+     40  045 Entre Rios - PI                                221050                            
+     40  045 Entre Rios - PI                                221100                            
+     40  045 Entre Rios - PI                                221110                            
+     41  047 Grande Dourados - MS                           500240                            
+     41  047 Grande Dourados - MS                           500345                            
+     41  047 Grande Dourados - MS                           500350                            
+     41  047 Grande Dourados - MS                           500370                            
+     41  047 Grande Dourados - MS                           500380                            
+     41  047 Grande Dourados - MS                           500400                            
+     41  047 Grande Dourados - MS                           500450                            
+     41  047 Grande Dourados - MS                           500510                            
+     41  047 Grande Dourados - MS                           500515                            
+     41  047 Grande Dourados - MS                           500600                            
+     41  047 Grande Dourados - MS                           500720                            
+     41  047 Grande Dourados - MS                           500840                            
+     42  049 Inhamuns Crateús - CE                          230040                            
+     42  049 Inhamuns Crateús - CE                          230125                            
+     42  049 Inhamuns Crateús - CE                          230150                            
+     42  049 Inhamuns Crateús - CE                          230365                            
+     42  049 Inhamuns Crateús - CE                          230410                            
+     42  049 Inhamuns Crateús - CE                          230520                            
+     42  049 Inhamuns Crateús - CE                          230560                            
+     42  049 Inhamuns Crateús - CE                          230565                            
+     42  049 Inhamuns Crateús - CE                          230580                            
+     42  049 Inhamuns Crateús - CE                          230590                            
+     42  049 Inhamuns Crateús - CE                          230860                            
+     42  049 Inhamuns Crateús - CE                          230930                            
+     42  049 Inhamuns Crateús - CE                          230940                            
+     42  049 Inhamuns Crateús - CE                          231030                            
+     42  049 Inhamuns Crateús - CE                          231095                            
+     42  049 Inhamuns Crateús - CE                          231100                            
+     42  049 Inhamuns Crateús - CE                          231126                            
+     42  049 Inhamuns Crateús - CE                          231220                            
+     42  049 Inhamuns Crateús - CE                          231320                            
+     42  049 Inhamuns Crateús - CE                          231330                            
+     43  050 Irecê- BA                                      290115                            
+     43  050 Irecê- BA                                      290300                            
+     43  050 Irecê- BA                                      290323                            
+     43  050 Irecê- BA                                      290530                            
+     43  050 Irecê- BA                                      290620                            
+     43  050 Irecê- BA                                      290760                            
+     43  050 Irecê- BA                                      291130                            
+     43  050 Irecê- BA                                      291240                            
+     43  050 Irecê- BA                                      291310                            
+     43  050 Irecê- BA                                      291410                            
+     43  050 Irecê- BA                                      291460                            
+     43  050 Irecê- BA                                      291535                            
+     43  050 Irecê- BA                                      291835                            
+     43  050 Irecê- BA                                      291850                            
+     43  050 Irecê- BA                                      291915                            
+     43  050 Irecê- BA                                      292205                            
+     43  050 Irecê- BA                                      292560                            
+     43  050 Irecê- BA                                      292925                            
+     43  050 Irecê- BA                                      293240                            
+     43  050 Irecê- BA                                      293360                            
+     44  118 Itaparica - BA/PE                              260160                            
+     44  118 Itaparica - BA/PE                              260392                            
+     44  118 Itaparica - BA/PE                              260570                            
+     44  118 Itaparica - BA/PE                              260740                            
+     44  118 Itaparica - BA/PE                              260805                            
+     44  118 Itaparica - BA/PE                              261100                            
+     44  118 Itaparica - BA/PE                              261480                            
+     44  118 Itaparica - BA/PE                              290020                            
+     44  118 Itaparica - BA/PE                              290770                            
+     44  118 Itaparica - BA/PE                              291140                            
+     44  118 Itaparica - BA/PE                              291990                            
+     44  118 Itaparica - BA/PE                              292400                            
+     44  118 Itaparica - BA/PE                              292710                            
+     45  107 Jalapão - TO                                   171195                            
+     45  107 Jalapão - TO                                   171240                            
+     45  107 Jalapão - TO                                   171270                            
+     45  107 Jalapão - TO                                   171510                            
+     45  107 Jalapão - TO                                   171790                            
+     45  107 Jalapão - TO                                   171875                            
+     45  107 Jalapão - TO                                   171900                            
+     45  107 Jalapão - TO                                   172015                            
+     46  112 Lagos - AP                                     160010                            
+     46  112 Lagos - AP                                     160055                            
+     46  112 Lagos - AP                                     160070                            
+     47  052 Lençóis Maranhenses/Munin - MA                 210110                            
+     47  052 Lençóis Maranhenses/Munin - MA                 210125                            
+     47  052 Lençóis Maranhenses/Munin - MA                 210170,211707                     
+     47  052 Lençóis Maranhenses/Munin - MA                 210237                            
+     47  052 Lençóis Maranhenses/Munin - MA                 210500                            
+     47  052 Lençóis Maranhenses/Munin - MA                 210510                            
+     47  052 Lençóis Maranhenses/Munin - MA                 210710                            
+     47  052 Lençóis Maranhenses/Munin - MA                 210805                            
+     47  052 Lençóis Maranhenses/Munin - MA                 210920                            
+     47  052 Lençóis Maranhenses/Munin - MA                 210940                            
+     47  052 Lençóis Maranhenses/Munin - MA                 210960                            
+     47  052 Lençóis Maranhenses/Munin - MA                 211027                            
+     48  041 Litoral Norte - AL                             270050                            
+     48  041 Litoral Norte - AL                             270135                            
+     48  041 Litoral Norte - AL                             270350                            
+     48  041 Litoral Norte - AL                             270360                            
+     48  041 Litoral Norte - AL                             270390                            
+     48  041 Litoral Norte - AL                             270450                            
+     48  041 Litoral Norte - AL                             270510                            
+     48  041 Litoral Norte - AL                             270650                            
+     48  041 Litoral Norte - AL                             270730                            
+     48  041 Litoral Norte - AL                             270740                            
+     48  041 Litoral Norte - AL                             270850                            
+     48  041 Litoral Norte - AL                             270870                            
+     49  090 Litoral Sul - BA                               290090                            
+     49  090 Litoral Sul - BA                               290225                            
+     49  090 Litoral Sul - BA                               290240                            
+     49  090 Litoral Sul - BA                               290330                            
+     49  090 Litoral Sul - BA                               290470                            
+     49  090 Litoral Sul - BA                               290560                            
+     49  090 Litoral Sul - BA                               290630                            
+     49  090 Litoral Sul - BA                               290800                            
+     49  090 Litoral Sul - BA                               291100                            
+     49  090 Litoral Sul - BA                               291210                            
+     49  090 Litoral Sul - BA                               291360                            
+     49  090 Litoral Sul - BA                               291480                            
+     49  090 Litoral Sul - BA                               291490                            
+     49  090 Litoral Sul - BA                               291540                            
+     49  090 Litoral Sul - BA                               291550                            
+     49  090 Litoral Sul - BA                               291620                            
+     49  090 Litoral Sul - BA                               291660                            
+     49  090 Litoral Sul - BA                               291855                            
+     49  090 Litoral Sul - BA                               292070                            
+     49  090 Litoral Sul - BA                               292090                            
+     49  090 Litoral Sul - BA                               292390                            
+     49  090 Litoral Sul - BA                               292805                            
+     49  090 Litoral Sul - BA                               292935                            
+     49  090 Litoral Sul - BA                               293220                            
+     49  090 Litoral Sul - BA                               293250                            
+     49  090 Litoral Sul - BA                               293270                            
+     50  119 Madeira - AM                                   130014                            
+     50  119 Madeira - AM                                   130080                            
+     50  119 Madeira - AM                                   130170                            
+     50  119 Madeira - AM                                   130270                            
+     50  119 Madeira - AM                                   130330                            
+     51  053 Madeira Mamoré - RO                            110010                            
+     51  053 Madeira Mamoré - RO                            110020                            
+     51  053 Madeira Mamoré - RO                            110033                            
+     51  053 Madeira Mamoré - RO                            110080                            
+     51  053 Madeira Mamoré - RO                            110110                            
+     52  044 Manaus e Entorno - AM                          130030                            
+     52  044 Manaus e Entorno - AM                          130110                            
+     52  044 Manaus e Entorno - AM                          130115                            
+     52  044 Manaus e Entorno - AM                          130185                            
+     52  044 Manaus e Entorno - AM                          130190                            
+     52  044 Manaus e Entorno - AM                          130200                            
+     52  044 Manaus e Entorno - AM                          130255                            
+     52  044 Manaus e Entorno - AM                          130260,132603                     
+     52  044 Manaus e Entorno - AM                          130310                            
+     52  044 Manaus e Entorno - AM                          130353                            
+     52  044 Manaus e Entorno - AM                          130356                            
+     52  044 Manaus e Entorno - AM                          130400                            
+     52  044 Manaus e Entorno - AM                          130440                            
+     53  129 Marajó - PA                                    150030                            
+     53  129 Marajó - PA                                    150070                            
+     53  129 Marajó - PA                                    150110                            
+     53  129 Marajó - PA                                    150180                            
+     53  129 Marajó - PA                                    150200                            
+     53  129 Marajó - PA                                    150250                            
+     53  129 Marajó - PA                                    150280                            
+     53  129 Marajó - PA                                    150310                            
+     53  129 Marajó - PA                                    150450                            
+     53  129 Marajó - PA                                    150490                            
+     53  129 Marajó - PA                                    150570                            
+     53  129 Marajó - PA                                    150580                            
+     53  129 Marajó - PA                                    150630                            
+     53  129 Marajó - PA                                    150640                            
+     53  129 Marajó - PA                                    150770                            
+     53  129 Marajó - PA                                    150790                            
+     54  126 Mata Alagoana - AL                             270040                            
+     54  126 Mata Alagoana - AL                             270110                            
+     54  126 Mata Alagoana - AL                             270130                            
+     54  126 Mata Alagoana - AL                             270170                            
+     54  126 Mata Alagoana - AL                             270190                            
+     54  126 Mata Alagoana - AL                             270300                            
+     54  126 Mata Alagoana - AL                             270490                            
+     54  126 Mata Alagoana - AL                             270550                            
+     54  126 Mata Alagoana - AL                             270660                            
+     54  126 Mata Alagoana - AL                             270690                            
+     54  126 Mata Alagoana - AL                             270700                            
+     54  126 Mata Alagoana - AL                             270760                            
+     54  126 Mata Alagoana - AL                             270810                            
+     54  126 Mata Alagoana - AL                             270830                            
+     54  126 Mata Alagoana - AL                             270930                            
+     54  126 Mata Alagoana - AL                             270940                            
+     55  054 Mata Sul - PE                                  260040                            
+     55  054 Mata Sul - PE                                  260090                            
+     55  054 Mata Sul - PE                                  260140                            
+     55  054 Mata Sul - PE                                  260150                            
+     55  054 Mata Sul - PE                                  260230                            
+     55  054 Mata Sul - PE                                  260420                            
+     55  054 Mata Sul - PE                                  260480                            
+     55  054 Mata Sul - PE                                  260590                            
+     55  054 Mata Sul - PE                                  260795                            
+     55  054 Mata Sul - PE                                  260820                            
+     55  054 Mata Sul - PE                                  260920                            
+     55  054 Mata Sul - PE                                  261000                            
+     55  054 Mata Sul - PE                                  261140                            
+     55  054 Mata Sul - PE                                  261180                            
+     55  054 Mata Sul - PE                                  261190                            
+     55  054 Mata Sul - PE                                  261290                            
+     55  054 Mata Sul - PE                                  261340                            
+     55  054 Mata Sul - PE                                  261485                            
+     55  054 Mata Sul - PE                                  261650                            
+     56  055 Mato Grande - RN                               240160                            
+     56  055 Mato Grande - RN                               240185                            
+     56  055 Mato Grande - RN                               240260                            
+     56  055 Mato Grande - RN                               240510                            
+     56  055 Mato Grande - RN                               240580                            
+     56  055 Mato Grande - RN                               240750                            
+     56  055 Mato Grande - RN                               240880                            
+     56  055 Mato Grande - RN                               240895                            
+     56  055 Mato Grande - RN                               240950                            
+     56  055 Mato Grande - RN                               241010                            
+     56  055 Mato Grande - RN                               241040                            
+     56  055 Mato Grande - RN                               241160                            
+     56  055 Mato Grande - RN                               241255                            
+     56  055 Mato Grande - RN                               241390                            
+     56  055 Mato Grande - RN                               241440                            
+     57  033 Meio Oeste Contestado - SC                     420010                            
+     57  033 Meio Oeste Contestado - SC                     420040                            
+     57  033 Meio Oeste Contestado - SC                     420253                            
+     57  033 Meio Oeste Contestado - SC                     420390                            
+     57  033 Meio Oeste Contestado - SC                     420400                            
+     57  033 Meio Oeste Contestado - SC                     420445                            
+     57  033 Meio Oeste Contestado - SC                     420517                            
+     57  033 Meio Oeste Contestado - SC                     420520                            
+     57  033 Meio Oeste Contestado - SC                     420530                            
+     57  033 Meio Oeste Contestado - SC                     420560                            
+     57  033 Meio Oeste Contestado - SC                     420670                            
+     57  033 Meio Oeste Contestado - SC                     420680                            
+     57  033 Meio Oeste Contestado - SC                     420768                            
+     57  033 Meio Oeste Contestado - SC                     420900                            
+     57  033 Meio Oeste Contestado - SC                     420917                            
+     57  033 Meio Oeste Contestado - SC                     420920                            
+     57  033 Meio Oeste Contestado - SC                     420945                            
+     57  033 Meio Oeste Contestado - SC                     421003                            
+     57  033 Meio Oeste Contestado - SC                     421055                            
+     57  033 Meio Oeste Contestado - SC                     421180                            
+     57  033 Meio Oeste Contestado - SC                     421185                            
+     57  033 Meio Oeste Contestado - SC                     421227                            
+     57  033 Meio Oeste Contestado - SC                     421340                            
+     57  033 Meio Oeste Contestado - SC                     421610                            
+     57  033 Meio Oeste Contestado - SC                     421850                            
+     57  033 Meio Oeste Contestado - SC                     421910                            
+     57  033 Meio Oeste Contestado - SC                     421917                            
+     57  033 Meio Oeste Contestado - SC                     421950                            
+     57  033 Meio Oeste Contestado - SC                     421970                            
+     58  165 Mesorregião Alto Solimôes - AM                 130006                            
+     58  165 Mesorregião Alto Solimôes - AM                 130020                            
+     58  165 Mesorregião Alto Solimôes - AM                 130060                            
+     58  165 Mesorregião Alto Solimôes - AM                 130160                            
+     58  165 Mesorregião Alto Solimôes - AM                 130230                            
+     58  165 Mesorregião Alto Solimôes - AM                 130370                            
+     58  165 Mesorregião Alto Solimôes - AM                 130390                            
+     58  165 Mesorregião Alto Solimôes - AM                 130406                            
+     58  165 Mesorregião Alto Solimôes - AM                 130423                            
+     59  056 Médio Alto Uruguai - RS                        430050                            
+     59  056 Médio Alto Uruguai - RS                        430064                            
+     59  056 Médio Alto Uruguai - RS                        430215                            
+     59  056 Médio Alto Uruguai - RS                        430340                            
+     59  056 Médio Alto Uruguai - RS                        430515                            
+     59  056 Médio Alto Uruguai - RS                        430580                            
+     59  056 Médio Alto Uruguai - RS                        430607                            
+     59  056 Médio Alto Uruguai - RS                        430642                            
+     59  056 Médio Alto Uruguai - RS                        430692                            
+     59  056 Médio Alto Uruguai - RS                        430730                            
+     59  056 Médio Alto Uruguai - RS                        430850                            
+     59  056 Médio Alto Uruguai - RS                        430912                            
+     59  056 Médio Alto Uruguai - RS                        431050                            
+     59  056 Médio Alto Uruguai - RS                        431085                            
+     59  056 Médio Alto Uruguai - RS                        431142                            
+     59  056 Médio Alto Uruguai - RS                        431160                            
+     59  056 Médio Alto Uruguai - RS                        431270                            
+     59  056 Médio Alto Uruguai - RS                        431344                            
+     59  056 Médio Alto Uruguai - RS                        431346                            
+     59  056 Médio Alto Uruguai - RS                        431380                            
+     59  056 Médio Alto Uruguai - RS                        431445                            
+     59  056 Médio Alto Uruguai - RS                        431449                            
+     59  056 Médio Alto Uruguai - RS                        431470                            
+     59  056 Médio Alto Uruguai - RS                        431555                            
+     59  056 Médio Alto Uruguai - RS                        431590                            
+     59  056 Médio Alto Uruguai - RS                        431642                            
+     59  056 Médio Alto Uruguai - RS                        431845                            
+     59  056 Médio Alto Uruguai - RS                        431936                            
+     59  056 Médio Alto Uruguai - RS                        432020                            
+     59  056 Médio Alto Uruguai - RS                        432132                            
+     59  056 Médio Alto Uruguai - RS                        432185                            
+     59  056 Médio Alto Uruguai - RS                        432195                            
+     59  056 Médio Alto Uruguai - RS                        432310                            
+     59  056 Médio Alto Uruguai - RS                        432350                            
+     60  057 Médio Jequitinhonha - MG                       310100                            
+     60  057 Médio Jequitinhonha - MG                       310270                            
+     60  057 Médio Jequitinhonha - MG                       310285                            
+     60  057 Médio Jequitinhonha - MG                       310340                            
+     60  057 Médio Jequitinhonha - MG                       310650                            
+     60  057 Médio Jequitinhonha - MG                       311610                            
+     60  057 Médio Jequitinhonha - MG                       311700                            
+     60  057 Médio Jequitinhonha - MG                       311950                            
+     60  057 Médio Jequitinhonha - MG                       312650                            
+     60  057 Médio Jequitinhonha - MG                       313330                            
+     60  057 Médio Jequitinhonha - MG                       313400                            
+     60  057 Médio Jequitinhonha - MG                       313545                            
+     60  057 Médio Jequitinhonha - MG                       313652                            
+     60  057 Médio Jequitinhonha - MG                       314140                            
+     60  057 Médio Jequitinhonha - MG                       314530                            
+     60  057 Médio Jequitinhonha - MG                       314630                            
+     60  057 Médio Jequitinhonha - MG                       314870                            
+     60  057 Médio Jequitinhonha - MG                       315217                            
+     60  057 Médio Jequitinhonha - MG                       317160                            
+     61  140 Médio Mearim - MA                              210193                            
+     61  140 Médio Mearim - MA                              210275                            
+     61  140 Médio Mearim - MA                              210400                            
+     61  140 Médio Mearim - MA                              210520                            
+     61  140 Médio Mearim - MA                              210560                            
+     61  140 Médio Mearim - MA                              210570                            
+     61  140 Médio Mearim - MA                              210580                            
+     61  140 Médio Mearim - MA                              210594                            
+     61  140 Médio Mearim - MA                              210600                            
+     61  140 Médio Mearim - MA                              210820                            
+     61  140 Médio Mearim - MA                              210890                            
+     61  140 Médio Mearim - MA                              211030                            
+     61  140 Médio Mearim - MA                              211140                            
+     61  140 Médio Mearim - MA                              211163                            
+     61  140 Médio Mearim - MA                              211167                            
+     61  140 Médio Mearim - MA                              211223                            
+     62  042 Médio Sertão - AL                              270180                            
+     62  042 Médio Sertão - AL                              270250                            
+     62  042 Médio Sertão - AL                              270460                            
+     62  042 Médio Sertão - AL                              270600                            
+     62  042 Médio Sertão - AL                              270610                            
+     62  042 Médio Sertão - AL                              270720                            
+     62  042 Médio Sertão - AL                              270800                            
+     62  042 Médio Sertão - AL                              270840                            
+     62  042 Médio Sertão - AL                              270895                            
+     63  059 Médio Sertão - PB                              250115                            
+     63  059 Médio Sertão - PB                              250340                            
+     63  059 Médio Sertão - PB                              250355                            
+     63  059 Médio Sertão - PB                              250420                            
+     63  059 Médio Sertão - PB                              250450                            
+     63  059 Médio Sertão - PB                              250540                            
+     63  059 Médio Sertão - PB                              250550                            
+     63  059 Médio Sertão - PB                              250670                            
+     63  059 Médio Sertão - PB                              250780                            
+     63  059 Médio Sertão - PB                              250870                            
+     63  059 Médio Sertão - PB                              250880                            
+     63  059 Médio Sertão - PB                              250939                            
+     63  059 Médio Sertão - PB                              251070                            
+     63  059 Médio Sertão - PB                              251080                            
+     63  059 Médio Sertão - PB                              251260                            
+     63  059 Médio Sertão - PB                              251300                            
+     63  059 Médio Sertão - PB                              251340                            
+     63  059 Médio Sertão - PB                              251380                            
+     63  059 Médio Sertão - PB                              251440                            
+     63  059 Médio Sertão - PB                              251460                            
+     63  059 Médio Sertão - PB                              251470                            
+     63  059 Médio Sertão - PB                              251490                            
+     63  059 Médio Sertão - PB                              251670                            
+     63  059 Médio Sertão - PB                              251710                            
+     64  061 Nordeste Paraense - PA                         150013                            
+     64  061 Nordeste Paraense - PA                         150095                            
+     64  061 Nordeste Paraense - PA                         150190                            
+     64  061 Nordeste Paraense - PA                         150195                            
+     64  061 Nordeste Paraense - PA                         150230                            
+     64  061 Nordeste Paraense - PA                         150275                            
+     64  061 Nordeste Paraense - PA                         150293                            
+     64  061 Nordeste Paraense - PA                         150307                            
+     64  061 Nordeste Paraense - PA                         150345                            
+     64  061 Nordeste Paraense - PA                         150350                            
+     64  061 Nordeste Paraense - PA                         150405                            
+     64  061 Nordeste Paraense - PA                         150495                            
+     64  061 Nordeste Paraense - PA                         150540                            
+     64  061 Nordeste Paraense - PA                         150550                            
+     64  061 Nordeste Paraense - PA                         150618                            
+     64  061 Nordeste Paraense - PA                         150655                            
+     64  061 Nordeste Paraense - PA                         150720                            
+     64  061 Nordeste Paraense - PA                         150760                            
+     64  061 Nordeste Paraense - PA                         150800                            
+     64  061 Nordeste Paraense - PA                         150812                            
+     65  163 Noroeste - MT                                  510140                            
+     65  163 Noroeste - MT                                  510285                            
+     65  163 Noroeste - MT                                  510325                            
+     65  163 Noroeste - MT                                  510337                            
+     65  163 Noroeste - MT                                  510515                            
+     65  163 Noroeste - MT                                  510517                            
+     65  163 Noroeste - MT                                  510757                            
+     66  062 Noroeste - RJ                                  330015                            
+     66  062 Noroeste - RJ                                  330060                            
+     66  062 Noroeste - RJ                                  330090                            
+     66  062 Noroeste - RJ                                  330205                            
+     66  062 Noroeste - RJ                                  330210                            
+     66  062 Noroeste - RJ                                  330220                            
+     66  062 Noroeste - RJ                                  330230                            
+     66  062 Noroeste - RJ                                  330300                            
+     66  062 Noroeste - RJ                                  330310                            
+     66  062 Noroeste - RJ                                  330410                            
+     66  062 Noroeste - RJ                                  330470                            
+     66  062 Noroeste - RJ                                  330513                            
+     66  062 Noroeste - RJ                                  330615                            
+     67  147 Noroeste Colonial - RS                         430020                            
+     67  147 Noroeste Colonial - RS                         430150                            
+     67  147 Noroeste Colonial - RS                         430185                            
+     67  147 Noroeste Colonial - RS                         430222                            
+     67  147 Noroeste Colonial - RS                         430237                            
+     67  147 Noroeste Colonial - RS                         430258                            
+     67  147 Noroeste Colonial - RS                         430260                            
+     67  147 Noroeste Colonial - RS                         430400                            
+     67  147 Noroeste Colonial - RS                         430500                            
+     67  147 Noroeste Colonial - RS                         430540                            
+     67  147 Noroeste Colonial - RS                         430570                            
+     67  147 Noroeste Colonial - RS                         430587                            
+     67  147 Noroeste Colonial - RS                         430590                            
+     67  147 Noroeste Colonial - RS                         430600                            
+     67  147 Noroeste Colonial - RS                         430610                            
+     67  147 Noroeste Colonial - RS                         430632                            
+     67  147 Noroeste Colonial - RS                         430745                            
+     67  147 Noroeste Colonial - RS                         430970                            
+     67  147 Noroeste Colonial - RS                         431020                            
+     67  147 Noroeste Colonial - RS                         431041                            
+     67  147 Noroeste Colonial - RS                         431115                            
+     67  147 Noroeste Colonial - RS                         431230                            
+     67  147 Noroeste Colonial - RS                         431333                            
+     67  147 Noroeste Colonial - RS                         431390                            
+     67  147 Noroeste Colonial - RS                         431430                            
+     67  147 Noroeste Colonial - RS                         431540                            
+     67  147 Noroeste Colonial - RS                         431780                            
+     67  147 Noroeste Colonial - RS                         431910                            
+     67  147 Noroeste Colonial - RS                         431973                            
+     67  147 Noroeste Colonial - RS                         432023                            
+     67  147 Noroeste Colonial - RS                         432140                            
+     67  147 Noroeste Colonial - RS                         432147                            
+     67  147 Noroeste Colonial - RS                         432190                            
+     67  147 Noroeste Colonial - RS                         432370                            
+     68  063 Noroeste de Minas - MG                         310450                            
+     68  063 Noroeste de Minas - MG                         310820                            
+     68  063 Noroeste de Minas - MG                         310855                            
+     68  063 Noroeste de Minas - MG                         311615                            
+     68  063 Noroeste de Minas - MG                         312247                            
+     68  063 Noroeste de Minas - MG                         312620                            
+     68  063 Noroeste de Minas - MG                         312860                            
+     68  063 Noroeste de Minas - MG                         313630                            
+     68  063 Noroeste de Minas - MG                         313710                            
+     68  063 Noroeste de Minas - MG                         313753                            
+     68  063 Noroeste de Minas - MG                         314437                            
+     68  063 Noroeste de Minas - MG                         314700                            
+     68  063 Noroeste de Minas - MG                         315057                            
+     68  063 Noroeste de Minas - MG                         315340                            
+     68  063 Noroeste de Minas - MG                         315445                            
+     68  063 Noroeste de Minas - MG                         315760                            
+     68  063 Noroeste de Minas - MG                         316170                            
+     68  063 Noroeste de Minas - MG                         316420                            
+     68  063 Noroeste de Minas - MG                         317047                            
+     68  063 Noroeste de Minas - MG                         317052                            
+     68  063 Noroeste de Minas - MG                         317075                            
+     68  063 Noroeste de Minas - MG                         317100                            
+     69  064 Norte - ES                                     320013                            
+     69  064 Norte - ES                                     320016                            
+     69  064 Norte - ES                                     320090                            
+     69  064 Norte - ES                                     320100                            
+     69  064 Norte - ES                                     320160                            
+     69  064 Norte - ES                                     320210                            
+     69  064 Norte - ES                                     320305                            
+     69  064 Norte - ES                                     320350                            
+     69  064 Norte - ES                                     320360                            
+     69  064 Norte - ES                                     320390                            
+     69  064 Norte - ES                                     320405                            
+     69  064 Norte - ES                                     320410                            
+     69  064 Norte - ES                                     320425                            
+     69  064 Norte - ES                                     320470                            
+     69  064 Norte - ES                                     320490                            
+     69  064 Norte - ES                                     320515                            
+     69  064 Norte - ES                                     320517                            
+     70  065 Norte - RJ                                     330093                            
+     70  065 Norte - RJ                                     330100                            
+     70  065 Norte - RJ                                     330115                            
+     70  065 Norte - RJ                                     330140                            
+     70  065 Norte - RJ                                     330240                            
+     70  065 Norte - RJ                                     330415                            
+     70  065 Norte - RJ                                     330475                            
+     70  065 Norte - RJ                                     330480                            
+     70  065 Norte - RJ                                     330500                            
+     71  146 Norte Pioneiro - PR                            410010                            
+     71  146 Norte Pioneiro - PR                            410470                            
+     71  146 Norte Pioneiro - PR                            410600                            
+     71  146 Norte Pioneiro - PR                            410610                            
+     71  146 Norte Pioneiro - PR                            410900                            
+     71  146 Norte Pioneiro - PR                            410970                            
+     71  146 Norte Pioneiro - PR                            411170                            
+     71  146 Norte Pioneiro - PR                            411180                            
+     71  146 Norte Pioneiro - PR                            411230                            
+     71  146 Norte Pioneiro - PR                            411280                            
+     71  146 Norte Pioneiro - PR                            411290                            
+     71  146 Norte Pioneiro - PR                            411700                            
+     71  146 Norte Pioneiro - PR                            411721                            
+     71  146 Norte Pioneiro - PR                            411920                            
+     71  146 Norte Pioneiro - PR                            412070                            
+     71  146 Norte Pioneiro - PR                            412180                            
+     71  146 Norte Pioneiro - PR                            412190                            
+     71  146 Norte Pioneiro - PR                            412290                            
+     71  146 Norte Pioneiro - PR                            412310                            
+     71  146 Norte Pioneiro - PR                            412320                            
+     71  146 Norte Pioneiro - PR                            412400                            
+     71  146 Norte Pioneiro - PR                            412410                            
+     71  146 Norte Pioneiro - PR                            412430                            
+     71  146 Norte Pioneiro - PR                            412470                            
+     71  146 Norte Pioneiro - PR                            412540                            
+     71  146 Norte Pioneiro - PR                            412620                            
+     71  146 Norte Pioneiro - PR                            412660                            
+     71  146 Norte Pioneiro - PR                            412780                            
+     71  146 Norte Pioneiro - PR                            412850                            
+     72  068 Paraná Centro - PR                             410045                            
+     72  068 Paraná Centro - PR                             410304                            
+     72  068 Paraná Centro - PR                             410395                            
+     72  068 Paraná Centro - PR                             410440                            
+     72  068 Paraná Centro - PR                             410940                            
+     72  068 Paraná Centro - PR                             411080                            
+     72  068 Paraná Centro - PR                             411325                            
+     72  068 Paraná Centro - PR                             411450                            
+     72  068 Paraná Centro - PR                             411573                            
+     72  068 Paraná Centro - PR                             411680                            
+     72  068 Paraná Centro - PR                             411727                            
+     72  068 Paraná Centro - PR                             411780                            
+     72  068 Paraná Centro - PR                             411960                            
+     72  068 Paraná Centro - PR                             412217                            
+     72  068 Paraná Centro - PR                             412250                            
+     72  068 Paraná Centro - PR                             412265                            
+     72  068 Paraná Centro - PR                             412385                            
+     72  068 Paraná Centro - PR                             412796                            
+     73  070 Planalto Norte - SC                            420213                            
+     73  070 Planalto Norte - SC                            420330                            
+     73  070 Planalto Norte - SC                            420380                            
+     73  070 Planalto Norte - SC                            420790                            
+     73  070 Planalto Norte - SC                            420810                            
+     73  070 Planalto Norte - SC                            421010                            
+     73  070 Planalto Norte - SC                            421030                            
+     73  070 Planalto Norte - SC                            421070                            
+     73  070 Planalto Norte - SC                            421110                            
+     73  070 Planalto Norte - SC                            421220                            
+     73  070 Planalto Norte - SC                            421360                            
+     73  070 Planalto Norte - SC                            421500                            
+     73  070 Planalto Norte - SC                            421580                            
+     73  070 Planalto Norte - SC                            421830                            
+     74  073 Pontal do Paranapanema - SP                    350080                            
+     74  073 Pontal do Paranapanema - SP                    350130                            
+     74  073 Pontal do Paranapanema - SP                    350240                            
+     74  073 Pontal do Paranapanema - SP                    350890                            
+     74  073 Pontal do Paranapanema - SP                    350910                            
+     74  073 Pontal do Paranapanema - SP                    351512                            
+     74  073 Pontal do Paranapanema - SP                    351530                            
+     74  073 Pontal do Paranapanema - SP                    351535                            
+     74  073 Pontal do Paranapanema - SP                    351990                            
+     74  073 Pontal do Paranapanema - SP                    352060                            
+     74  073 Pontal do Paranapanema - SP                    352560                            
+     74  073 Pontal do Paranapanema - SP                    352870                            
+     74  073 Pontal do Paranapanema - SP                    352920                            
+     74  073 Pontal do Paranapanema - SP                    353020                            
+     74  073 Pontal do Paranapanema - SP                    353215                            
+     74  073 Pontal do Paranapanema - SP                    353220                            
+     74  073 Pontal do Paranapanema - SP                    353830                            
+     74  073 Pontal do Paranapanema - SP                    353920                            
+     74  073 Pontal do Paranapanema - SP                    354120                            
+     74  073 Pontal do Paranapanema - SP                    354130                            
+     74  073 Pontal do Paranapanema - SP                    354140                            
+     74  073 Pontal do Paranapanema - SP                    354150                            
+     74  073 Pontal do Paranapanema - SP                    354220                            
+     74  073 Pontal do Paranapanema - SP                    354240                            
+     74  073 Pontal do Paranapanema - SP                    354323                            
+     74  073 Pontal do Paranapanema - SP                    354425                            
+     74  073 Pontal do Paranapanema - SP                    354550                            
+     74  073 Pontal do Paranapanema - SP                    354770                            
+     74  073 Pontal do Paranapanema - SP                    354830                            
+     74  073 Pontal do Paranapanema - SP                    355290                            
+     74  073 Pontal do Paranapanema - SP                    355390                            
+     74  073 Pontal do Paranapanema - SP                    355430                            
+     75  074 Portal da Amazônia - MT                        510025                            
+     75  074 Portal da Amazônia - MT                        510080                            
+     75  074 Portal da Amazônia - MT                        510279                            
+     75  074 Portal da Amazônia - MT                        510320                            
+     75  074 Portal da Amazônia - MT                        510410                            
+     75  074 Portal da Amazônia - MT                        510558                            
+     75  074 Portal da Amazônia - MT                        510560                            
+     75  074 Portal da Amazônia - MT                        510615                            
+     75  074 Portal da Amazônia - MT                        510619                            
+     75  074 Portal da Amazônia - MT                        510621                            
+     75  074 Portal da Amazônia - MT                        510626                            
+     75  074 Portal da Amazônia - MT                        510629                            
+     75  074 Portal da Amazônia - MT                        510642                            
+     75  074 Portal da Amazônia - MT                        510805                            
+     75  074 Portal da Amazônia - MT                        510880                            
+     75  074 Portal da Amazônia - MT                        510895                            
+     76  123 Potengi - RN                                   240150                            
+     76  123 Potengi - RN                                   240170                            
+     76  123 Potengi - RN                                   240460                            
+     76  123 Potengi - RN                                   240640                            
+     76  123 Potengi - RN                                   240933                            
+     76  123 Potengi - RN                                   241090                            
+     76  123 Potengi - RN                                   241110                            
+     76  123 Potengi - RN                                   241260                            
+     76  123 Potengi - RN                                   241270                            
+     76  123 Potengi - RN                                   241290                            
+     76  123 Potengi - RN                                   241310                            
+     77  037 Reforma - MS                                   500070                            
+     77  037 Reforma - MS                                   500210                            
+     77  037 Reforma - MS                                   500215                            
+     77  037 Reforma - MS                                   500220                            
+     77  037 Reforma - MS                                   500348                            
+     77  037 Reforma - MS                                   500410                            
+     77  037 Reforma - MS                                   500500                            
+     77  037 Reforma - MS                                   500540                            
+     77  037 Reforma - MS                                   500580                            
+     77  037 Reforma - MS                                   500790                            
+     77  037 Reforma - MS                                   500800                            
+     78  075 Região Central - RS                            430010                            
+     78  075 Região Central - RS                            430290                            
+     78  075 Região Central - RS                            430300                            
+     78  075 Região Central - RS                            430465                            
+     78  075 Região Central - RS                            430637                            
+     78  075 Região Central - RS                            430670                            
+     78  075 Região Central - RS                            430800                            
+     78  075 Região Central - RS                            430840                            
+     78  075 Região Central - RS                            431053                            
+     78  075 Região Central - RS                            431075                            
+     78  075 Região Central - RS                            431110                            
+     78  075 Região Central - RS                            431113                            
+     78  075 Região Central - RS                            431120                            
+     78  075 Região Central - RS                            431210                            
+     78  075 Região Central - RS                            431303                            
+     78  075 Região Central - RS                            431310                            
+     78  075 Região Central - RS                            431339                            
+     78  075 Região Central - RS                            431402                            
+     78  075 Região Central - RS                            431447                            
+     78  075 Região Central - RS                            431532                            
+     78  075 Região Central - RS                            431550                            
+     78  075 Região Central - RS                            431690                            
+     78  075 Região Central - RS                            431740                            
+     78  075 Região Central - RS                            431810                            
+     78  075 Região Central - RS                            431843                            
+     78  075 Região Central - RS                            431912                            
+     78  075 Região Central - RS                            431940                            
+     78  075 Região Central - RS                            431960                            
+     78  075 Região Central - RS                            431980                            
+     78  075 Região Central - RS                            432065                            
+     78  075 Região Central - RS                            432149                            
+     78  075 Região Central - RS                            432220                            
+     78  075 Região Central - RS                            432237                            
+     78  075 Região Central - RS                            432345                            
+     79  136 Rio Negro da Cidadania Indígena - AM           130040                            
+     79  136 Rio Negro da Cidadania Indígena - AM           130360                            
+     79  136 Rio Negro da Cidadania Indígena - AM           130380                            
+     80  162 Semiárido Nordeste II - BA                     290035                            
+     80  162 Semiárido Nordeste II - BA                     290160                            
+     80  162 Semiárido Nordeste II - BA                     290265                            
+     80  162 Semiárido Nordeste II - BA                     290780                            
+     80  162 Semiárido Nordeste II - BA                     290790                            
+     80  162 Semiárido Nordeste II - BA                     290920                            
+     80  162 Semiárido Nordeste II - BA                     291070                            
+     80  162 Semiárido Nordeste II - BA                     291075                            
+     80  162 Semiárido Nordeste II - BA                     291185                            
+     80  162 Semiárido Nordeste II - BA                     291810                            
+     80  162 Semiárido Nordeste II - BA                     292290                            
+     80  162 Semiárido Nordeste II - BA                     292305                            
+     80  162 Semiárido Nordeste II - BA                     292380                            
+     80  162 Semiárido Nordeste II - BA                     292420                            
+     80  162 Semiárido Nordeste II - BA                     292650                            
+     80  162 Semiárido Nordeste II - BA                     292660                            
+     80  162 Semiárido Nordeste II - BA                     292760                            
+     80  162 Semiárido Nordeste II - BA                     293076                            
+     81  076 Seridó - RN                                    240010                            
+     81  076 Seridó - RN                                    240165                            
+     81  076 Seridó - RN                                    240200                            
+     81  076 Seridó - RN                                    240240                            
+     81  076 Seridó - RN                                    240270                            
+     81  076 Seridó - RN                                    240300                            
+     81  076 Seridó - RN                                    240310                            
+     81  076 Seridó - RN                                    240340                            
+     81  076 Seridó - RN                                    240380                            
+     81  076 Seridó - RN                                    240480                            
+     81  076 Seridó - RN                                    240560                            
+     81  076 Seridó - RN                                    240570                            
+     81  076 Seridó - RN                                    240610                            
+     81  076 Seridó - RN                                    240650                            
+     81  076 Seridó - RN                                    240850                            
+     81  076 Seridó - RN                                    240890                            
+     81  076 Seridó - RN                                    241140                            
+     81  076 Seridó - RN                                    241142                            
+     81  076 Seridó - RN                                    241180                            
+     81  076 Seridó - RN                                    241210                            
+     81  076 Seridó - RN                                    241240                            
+     81  076 Seridó - RN                                    241300                            
+     81  076 Seridó - RN                                    241340                            
+     81  076 Seridó - RN                                    241415                            
+     81  076 Seridó - RN                                    241430                            
+     82  079 Serra Geral - MG                               311547                            
+     82  079 Serra Geral - MG                               312430                            
+     82  079 Serra Geral - MG                               312733                            
+     82  079 Serra Geral - MG                               313505                            
+     82  079 Serra Geral - MG                               313510                            
+     82  079 Serra Geral - MG                               313925                            
+     82  079 Serra Geral - MG                               313930                            
+     82  079 Serra Geral - MG                               314085                            
+     82  079 Serra Geral - MG                               314100                            
+     82  079 Serra Geral - MG                               314290                            
+     82  079 Serra Geral - MG                               314505                            
+     82  079 Serra Geral - MG                               314655                            
+     82  079 Serra Geral - MG                               315220                            
+     82  079 Serra Geral - MG                               315450                            
+     82  079 Serra Geral - MG                               316695                            
+     82  079 Serra Geral - MG                               317103                            
+     83  077 Serra da Capivara - PI                         220070                            
+     83  077 Serra da Capivara - PI                         220192                            
+     83  077 Serra da Capivara - PI                         220211                            
+     83  077 Serra da Capivara - PI                         220245                            
+     83  077 Serra da Capivara - PI                         220250                            
+     83  077 Serra da Capivara - PI                         220285                            
+     83  077 Serra da Capivara - PI                         220335                            
+     83  077 Serra da Capivara - PI                         220345                            
+     83  077 Serra da Capivara - PI                         220375                            
+     83  077 Serra da Capivara - PI                         220455                            
+     83  077 Serra da Capivara - PI                         220535                            
+     83  077 Serra da Capivara - PI                         220553                            
+     83  077 Serra da Capivara - PI                         220556                            
+     83  077 Serra da Capivara - PI                         220955                            
+     83  077 Serra da Capivara - PI                         221000                            
+     83  077 Serra da Capivara - PI                         221035                            
+     83  077 Serra da Capivara - PI                         221060                            
+     83  077 Serra da Capivara - PI                         221135                            
+     84  080 Sertão Central - CE                            230185                            
+     84  080 Sertão Central - CE                            230393                            
+     84  080 Sertão Central - CE                            230426                            
+     84  080 Sertão Central - CE                            230526                            
+     84  080 Sertão Central - CE                            230835                            
+     84  080 Sertão Central - CE                            230850                            
+     84  080 Sertão Central - CE                            231050                            
+     84  080 Sertão Central - CE                            231090                            
+     84  080 Sertão Central - CE                            231130                            
+     84  080 Sertão Central - CE                            231140                            
+     84  080 Sertão Central - CE                            231270                            
+     84  080 Sertão Central - CE                            231300                            
+     85  084 Sertão Ocidental - SE                          280050                            
+     85  084 Sertão Ocidental - SE                          280100                            
+     85  084 Sertão Ocidental - SE                          280140                            
+     85  084 Sertão Ocidental - SE                          280230                            
+     85  084 Sertão Ocidental - SE                          280290                            
+     85  084 Sertão Ocidental - SE                          280350                            
+     85  084 Sertão Ocidental - SE                          280370                            
+     85  084 Sertão Ocidental - SE                          280390                            
+     85  084 Sertão Ocidental - SE                          280410                            
+     85  084 Sertão Ocidental - SE                          280445                            
+     85  084 Sertão Ocidental - SE                          280500                            
+     85  084 Sertão Ocidental - SE                          280520                            
+     85  084 Sertão Ocidental - SE                          280550                            
+     85  084 Sertão Ocidental - SE                          280580                            
+     85  084 Sertão Ocidental - SE                          280600                            
+     85  084 Sertão Ocidental - SE                          280680                            
+     85  084 Sertão Ocidental - SE                          280700                            
+     85  084 Sertão Ocidental - SE                          280710                            
+     85  084 Sertão Ocidental - SE                          280740                            
+     86  048 Sertão de Minas - MG                           310480                            
+     86  048 Sertão de Minas - MG                           310730                            
+     86  048 Sertão de Minas - MG                           310920                            
+     86  048 Sertão de Minas - MG                           311910                            
+     86  048 Sertão de Minas - MG                           312090                            
+     86  048 Sertão de Minas - MG                           312380                            
+     86  048 Sertão de Minas - MG                           312570                            
+     86  048 Sertão de Minas - MG                           312660                            
+     86  048 Sertão de Minas - MG                           312825                            
+     86  048 Sertão de Minas - MG                           313110                            
+     86  048 Sertão de Minas - MG                           313640                            
+     86  048 Sertão de Minas - MG                           314250                            
+     86  048 Sertão de Minas - MG                           314360                            
+     86  048 Sertão de Minas - MG                           314545                            
+     86  048 Sertão de Minas - MG                           315320                            
+     86  048 Sertão de Minas - MG                           316060                            
+     86  048 Sertão de Minas - MG                           316935                            
+     87  032 Sertão do Apodi - RN                           240100                            
+     87  032 Sertão do Apodi - RN                           240130                            
+     87  032 Sertão do Apodi - RN                           240230                            
+     87  032 Sertão do Apodi - RN                           240370                            
+     87  032 Sertão do Apodi - RN                           240430                            
+     87  032 Sertão do Apodi - RN                           240490                            
+     87  032 Sertão do Apodi - RN                           240520                            
+     87  032 Sertão do Apodi - RN                           240760                            
+     87  032 Sertão do Apodi - RN                           240840                            
+     87  032 Sertão do Apodi - RN                           240870                            
+     87  032 Sertão do Apodi - RN                           240930                            
+     87  032 Sertão do Apodi - RN                           241060                            
+     87  032 Sertão do Apodi - RN                           241100                            
+     87  032 Sertão do Apodi - RN                           241360                            
+     87  032 Sertão do Apodi - RN                           241445                            
+     87  032 Sertão do Apodi - RN                           241450                            
+     87  032 Sertão do Apodi - RN                           241460                            
+     88  081 Sertão do Araripe - PE                         260110                            
+     88  081 Sertão do Araripe - PE                         260200                            
+     88  081 Sertão do Araripe - PE                         260530                            
+     88  081 Sertão do Araripe - PE                         260630                            
+     88  081 Sertão do Araripe - PE                         260730                            
+     88  081 Sertão do Araripe - PE                         260990                            
+     88  081 Sertão do Araripe - PE                         261245                            
+     88  081 Sertão do Araripe - PE                         261255                            
+     88  081 Sertão do Araripe - PE                         261430                            
+     88  081 Sertão do Araripe - PE                         261560                            
+     89  082 Sertão do Pajeú - PE                           260010                            
+     89  082 Sertão do Pajeú - PE                           260250                            
+     89  082 Sertão do Pajeú - PE                           260340                            
+     89  082 Sertão do Pajeú - PE                           260390                            
+     89  082 Sertão do Pajeú - PE                           260560                            
+     89  082 Sertão do Pajeú - PE                           260690                            
+     89  082 Sertão do Pajeú - PE                           260710                            
+     89  082 Sertão do Pajeú - PE                           260770                            
+     89  082 Sertão do Pajeú - PE                           260930                            
+     89  082 Sertão do Pajeú - PE                           261153                            
+     89  082 Sertão do Pajeú - PE                           261247                            
+     89  082 Sertão do Pajeú - PE                           261280                            
+     89  082 Sertão do Pajeú - PE                           261350                            
+     89  082 Sertão do Pajeú - PE                           261360                            
+     89  082 Sertão do Pajeú - PE                           261390                            
+     89  082 Sertão do Pajeú - PE                           261410                            
+     89  082 Sertão do Pajeú - PE                           261440                            
+     89  082 Sertão do Pajeú - PE                           261460                            
+     89  082 Sertão do Pajeú - PE                           261570                            
+     89  082 Sertão do Pajeú - PE                           261590                            
+     90  143 Sertão do São Francisco - BA                   290590                            
+     90  143 Sertão do São Francisco - BA                   290682                            
+     90  143 Sertão do São Francisco - BA                   290720                            
+     90  143 Sertão do São Francisco - BA                   290990                            
+     90  143 Sertão do São Francisco - BA                   291840                            
+     90  143 Sertão do São Francisco - BA                   292440                            
+     90  143 Sertão do São Francisco - BA                   292600                            
+     90  143 Sertão do São Francisco - BA                   293020                            
+     90  143 Sertão do São Francisco - BA                   293077                            
+     90  143 Sertão do São Francisco - BA                   293200                            
+     91  083 Sertão do São Francisco - PE                   260020                            
+     91  083 Sertão do São Francisco - PE                   260300                            
+     91  083 Sertão do São Francisco - PE                   260515                            
+     91  083 Sertão do São Francisco - PE                   260875                            
+     91  083 Sertão do São Francisco - PE                   260980                            
+     91  083 Sertão do São Francisco - PE                   261110                            
+     91  083 Sertão do São Francisco - PE                   261260                            
+     92  085 Sertões de Canindé - CE                        230240                            
+     92  085 Sertões de Canindé - CE                        230280                            
+     92  085 Sertões de Canindé - CE                        230300                            
+     92  085 Sertões de Canindé - CE                        230660                            
+     92  085 Sertões de Canindé - CE                        230763                            
+     92  085 Sertões de Canindé - CE                        231040                            
+     93  043 Sisal - BA                                     290210                            
+     93  043 Sisal - BA                                     290327                            
+     93  043 Sisal - BA                                     290360                            
+     93  043 Sisal - BA                                     290640                            
+     93  043 Sisal - BA                                     290680                            
+     93  043 Sisal - BA                                     290840                            
+     93  043 Sisal - BA                                     291330                            
+     93  043 Sisal - BA                                     291700                            
+     93  043 Sisal - BA                                     291910                            
+     93  043 Sisal - BA                                     292150                            
+     93  043 Sisal - BA                                     292265                            
+     93  043 Sisal - BA                                     292580                            
+     93  043 Sisal - BA                                     292590                            
+     93  043 Sisal - BA                                     292610                            
+     93  043 Sisal - BA                                     292800                            
+     93  043 Sisal - BA                                     292895                            
+     93  043 Sisal - BA                                     293050                            
+     93  043 Sisal - BA                                     293150                            
+     93  043 Sisal - BA                                     293190                            
+     93  043 Sisal - BA                                     293300                            
+     94  086 Sobral - CE                                    230050                            
+     94  086 Sobral - CE                                    230310                            
+     94  086 Sobral - CE                                    230400                            
+     94  086 Sobral - CE                                    230435                            
+     94  086 Sobral - CE                                    230450                            
+     94  086 Sobral - CE                                    230465                            
+     94  086 Sobral - CE                                    230490                            
+     94  086 Sobral - CE                                    230800                            
+     94  086 Sobral - CE                                    230820                            
+     94  086 Sobral - CE                                    230880                            
+     94  086 Sobral - CE                                    230900                            
+     94  086 Sobral - CE                                    230990                            
+     94  086 Sobral - CE                                    231170                            
+     94  086 Sobral - CE                                    231200                            
+     94  086 Sobral - CE                                    231280                            
+     94  086 Sobral - CE                                    231290                            
+     94  086 Sobral - CE                                    231395                            
+     95  124 Sudeste - TO                                   170040                            
+     95  124 Sudeste - TO                                   170240                            
+     95  124 Sudeste - TO                                   170270                            
+     95  124 Sudeste - TO                                   170510                            
+     95  124 Sudeste - TO                                   170555                            
+     95  124 Sudeste - TO                                   170560                            
+     95  124 Sudeste - TO                                   170700                            
+     95  124 Sudeste - TO                                   171215                            
+     95  124 Sudeste - TO                                   171420                            
+     95  124 Sudeste - TO                                   171515                            
+     95  124 Sudeste - TO                                   171525                            
+     95  124 Sudeste - TO                                   171575                            
+     95  124 Sudeste - TO                                   171620                            
+     95  124 Sudeste - TO                                   171700                            
+     95  124 Sudeste - TO                                   171780                            
+     95  124 Sudeste - TO                                   171800                            
+     95  124 Sudeste - TO                                   171865                            
+     95  124 Sudeste - TO                                   172025                            
+     95  124 Sudeste - TO                                   172049                            
+     95  124 Sudeste - TO                                   172090                            
+     95  124 Sudeste - TO                                   172093                            
+     96  087 Sudeste Paraense - PA                          150157                            
+     96  087 Sudeste Paraense - PA                          150175                            
+     96  087 Sudeste Paraense - PA                          150215                            
+     96  087 Sudeste Paraense - PA                          150277                            
+     96  087 Sudeste Paraense - PA                          150295                            
+     96  087 Sudeste Paraense - PA                          150370                            
+     96  087 Sudeste Paraense - PA                          150420                            
+     96  087 Sudeste Paraense - PA                          150497                            
+     96  087 Sudeste Paraense - PA                          150549                            
+     96  087 Sudeste Paraense - PA                          150553                            
+     96  087 Sudeste Paraense - PA                          150563                            
+     96  087 Sudeste Paraense - PA                          150715                            
+     96  087 Sudeste Paraense - PA                          150745                            
+     96  087 Sudeste Paraense - PA                          150750                            
+     97  089 Sudoeste Paulista - SP                         350500                            
+     97  089 Sudoeste Paulista - SP                         350715                            
+     97  089 Sudoeste Paulista - SP                         350800                            
+     97  089 Sudoeste Paulista - SP                         351020                            
+     97  089 Sudoeste Paulista - SP                         351260                            
+     97  089 Sudoeste Paulista - SP                         351760                            
+     97  089 Sudoeste Paulista - SP                         352170                            
+     97  089 Sudoeste Paulista - SP                         352240                            
+     97  089 Sudoeste Paulista - SP                         352280                            
+     97  089 Sudoeste Paulista - SP                         352320                            
+     97  089 Sudoeste Paulista - SP                         353282                            
+     97  089 Sudoeste Paulista - SP                         354325                            
+     97  089 Sudoeste Paulista - SP                         354350                            
+     97  089 Sudoeste Paulista - SP                         355380                            
+     97  089 Sudoeste Paulista - SP                         355385                            
+     98  105 Sul Sergipano - SE                             280040                            
+     98  105 Sul Sergipano - SE                             280067                            
+     98  105 Sul Sergipano - SE                             280170                            
+     98  105 Sul Sergipano - SE                             280210                            
+     98  105 Sul Sergipano - SE                             280280                            
+     98  105 Sul Sergipano - SE                             280300                            
+     98  105 Sul Sergipano - SE                             280320                            
+     98  105 Sul Sergipano - SE                             280510                            
+     98  105 Sul Sergipano - SE                             280620                            
+     98  105 Sul Sergipano - SE                             280630                            
+     98  105 Sul Sergipano - SE                             280750                            
+     98  105 Sul Sergipano - SE                             280760                            
+     99  091 Sul de Roraima - RR                            140020                            
+     99  091 Sul de Roraima - RR                            140023                            
+     99  091 Sul de Roraima - RR                            140047                            
+     99  091 Sul de Roraima - RR                            140050                            
+     99  091 Sul de Roraima - RR                            140060                            
+    100  111 Sul do Amapá - AP                              160027                            
+    100  111 Sul do Amapá - AP                              160040                            
+    100  111 Sul do Amapá - AP                              160080                            
+    101  092 Sul do Pará/Alto Xingu - PA                    150034                            
+    101  092 Sul do Pará/Alto Xingu - PA                    150125                            
+    101  092 Sul do Pará/Alto Xingu - PA                    150270                            
+    101  092 Sul do Pará/Alto Xingu - PA                    150276                            
+    101  092 Sul do Pará/Alto Xingu - PA                    150304                            
+    101  092 Sul do Pará/Alto Xingu - PA                    150543                            
+    101  092 Sul do Pará/Alto Xingu - PA                    150555                            
+    101  092 Sul do Pará/Alto Xingu - PA                    150613                            
+    101  092 Sul do Pará/Alto Xingu - PA                    150616                            
+    101  092 Sul do Pará/Alto Xingu - PA                    150658                            
+    101  092 Sul do Pará/Alto Xingu - PA                    150670                            
+    101  092 Sul do Pará/Alto Xingu - PA                    150730                            
+    101  092 Sul do Pará/Alto Xingu - PA                    150775                            
+    101  092 Sul do Pará/Alto Xingu - PA                    150808                            
+    101  092 Sul do Pará/Alto Xingu - PA                    150840                            
+    102  122 Terra Indíg Raposa S. do Sol S.Marcos - RR     140040                            
+    102  122 Terra Indíg Raposa S. do Sol S.Marcos - RR     140045                            
+    102  122 Terra Indíg Raposa S. do Sol S.Marcos - RR     140070                            
+    103  095 Transamazônica - PA                            150060                            
+    103  095 Transamazônica - PA                            150085                            
+    103  095 Transamazônica - PA                            150172                            
+    103  095 Transamazônica - PA                            150445                            
+    103  095 Transamazônica - PA                            150548                            
+    103  095 Transamazônica - PA                            150565                            
+    103  095 Transamazônica - PA                            150590                            
+    103  095 Transamazônica - PA                            150780                            
+    103  095 Transamazônica - PA                            150815                            
+    103  095 Transamazônica - PA                            150835                            
+    104  133 Vale do Canindé - PI                           220155                            
+    104  133 Vale do Canindé - PI                           220207                            
+    104  133 Vale do Canindé - PI                           220210                            
+    104  133 Vale do Canindé - PI                           220277                            
+    104  133 Vale do Canindé - PI                           220280                            
+    104  133 Vale do Canindé - PI                           220385                            
+    104  133 Vale do Canindé - PI                           220490                            
+    104  133 Vale do Canindé - PI                           220700                            
+    104  133 Vale do Canindé - PI                           220910                            
+    104  133 Vale do Canindé - PI                           220937                            
+    104  133 Vale do Canindé - PI                           220950                            
+    104  133 Vale do Canindé - PI                           220965                            
+    104  133 Vale do Canindé - PI                           220970                            
+    104  133 Vale do Canindé - PI                           220995                            
+    104  133 Vale do Canindé - PI                           221080                            
+    104  133 Vale do Canindé - PI                           221097                            
+    104  133 Vale do Canindé - PI                           221170                            
+    105  096 Vale do Guaribas - PI                          220005                            
+    105  096 Vale do Guaribas - PI                          220025                            
+    105  096 Vale do Guaribas - PI                          220027                            
+    105  096 Vale do Guaribas - PI                          220095                            
+    105  096 Vale do Guaribas - PI                          220157                            
+    105  096 Vale do Guaribas - PI                          220173                            
+    105  096 Vale do Guaribas - PI                          220180                            
+    105  096 Vale do Guaribas - PI                          220209                            
+    105  096 Vale do Guaribas - PI                          220213                            
+    105  096 Vale do Guaribas - PI                          220255                            
+    105  096 Vale do Guaribas - PI                          220327                            
+    105  096 Vale do Guaribas - PI                          220340                            
+    105  096 Vale do Guaribas - PI                          220415                            
+    105  096 Vale do Guaribas - PI                          220420                            
+    105  096 Vale do Guaribas - PI                          220430                            
+    105  096 Vale do Guaribas - PI                          220435                            
+    105  096 Vale do Guaribas - PI                          220500                            
+    105  096 Vale do Guaribas - PI                          220515                            
+    105  096 Vale do Guaribas - PI                          220520                            
+    105  096 Vale do Guaribas - PI                          220595                            
+    105  096 Vale do Guaribas - PI                          220605                            
+    105  096 Vale do Guaribas - PI                          220650                            
+    105  096 Vale do Guaribas - PI                          220720                            
+    105  096 Vale do Guaribas - PI                          220755                            
+    105  096 Vale do Guaribas - PI                          220777                            
+    105  096 Vale do Guaribas - PI                          220780                            
+    105  096 Vale do Guaribas - PI                          220800                            
+    105  096 Vale do Guaribas - PI                          220820                            
+    105  096 Vale do Guaribas - PI                          220865                            
+    105  096 Vale do Guaribas - PI                          220935                            
+    105  096 Vale do Guaribas - PI                          220940                            
+    105  096 Vale do Guaribas - PI                          220985                            
+    105  096 Vale do Guaribas - PI                          221020                            
+    105  096 Vale do Guaribas - PI                          221030                            
+    105  096 Vale do Guaribas - PI                          221037                            
+    105  096 Vale do Guaribas - PI                          221070                            
+    105  096 Vale do Guaribas - PI                          221093                            
+    105  096 Vale do Guaribas - PI                          221150                            
+    105  096 Vale do Guaribas - PI                          221160                            
+    106  097 Vale do Itapecuru - MA                         210070                            
+    106  097 Vale do Itapecuru - MA                         210270                            
+    106  097 Vale do Itapecuru - MA                         210540                            
+    106  097 Vale do Itapecuru - MA                         210663                            
+    106  097 Vale do Itapecuru - MA                         210675                            
+    106  097 Vale do Itapecuru - MA                         210720                            
+    106  097 Vale do Itapecuru - MA                         210880                            
+    106  097 Vale do Itapecuru - MA                         210930                            
+    106  097 Vale do Itapecuru - MA                         211020                            
+    106  097 Vale do Itapecuru - MA                         211270                            
+    107  127 Vale do Ivinhema - MS                          500080                            
+    107  127 Vale do Ivinhema - MS                          500085                            
+    107  127 Vale do Ivinhema - MS                          500190                            
+    107  127 Vale do Ivinhema - MS                          500200                            
+    107  127 Vale do Ivinhema - MS                          500230                            
+    107  127 Vale do Ivinhema - MS                          500470                            
+    107  127 Vale do Ivinhema - MS                          500620                            
+    107  127 Vale do Ivinhema - MS                          500625                            
+    107  127 Vale do Ivinhema - MS                          500755                            
+    107  127 Vale do Ivinhema - MS                          500797                            
+    108  098 Vale do Jamarí - RO                            110002                            
+    108  098 Vale do Jamarí - RO                            110013                            
+    108  098 Vale do Jamarí - RO                            110026                            
+    108  098 Vale do Jamarí - RO                            110040                            
+    108  098 Vale do Jamarí - RO                            110045                            
+    108  098 Vale do Jamarí - RO                            110060                            
+    108  098 Vale do Jamarí - RO                            110070                            
+    108  098 Vale do Jamarí - RO                            110094                            
+    108  098 Vale do Jamarí - RO                            110140                            
+    109  106 Vale do Juruá - AC                             120020                            
+    109  106 Vale do Juruá - AC                             120033                            
+    109  106 Vale do Juruá - AC                             120035                            
+    109  106 Vale do Juruá - AC                             120039                            
+    109  106 Vale do Juruá - AC                             120042                            
+    110  099 Vale do Mucuri - MG                            310090                            
+    110  099 Vale do Mucuri - MG                            310470                            
+    110  099 Vale do Mucuri - MG                            310660                            
+    110  099 Vale do Mucuri - MG                            311080                            
+    110  099 Vale do Mucuri - MG                            311300                            
+    110  099 Vale do Mucuri - MG                            311370                            
+    110  099 Vale do Mucuri - MG                            311545                            
+    110  099 Vale do Mucuri - MG                            312015                            
+    110  099 Vale do Mucuri - MG                            312675                            
+    110  099 Vale do Mucuri - MG                            312680                            
+    110  099 Vale do Mucuri - MG                            312705                            
+    110  099 Vale do Mucuri - MG                            313230                            
+    110  099 Vale do Mucuri - MG                            313270                            
+    110  099 Vale do Mucuri - MG                            313700                            
+    110  099 Vale do Mucuri - MG                            313890                            
+    110  099 Vale do Mucuri - MG                            313920                            
+    110  099 Vale do Mucuri - MG                            314430                            
+    110  099 Vale do Mucuri - MG                            314535                            
+    110  099 Vale do Mucuri - MG                            314620                            
+    110  099 Vale do Mucuri - MG                            314850                            
+    110  099 Vale do Mucuri - MG                            315000                            
+    110  099 Vale do Mucuri - MG                            315240                            
+    110  099 Vale do Mucuri - MG                            315765                            
+    110  099 Vale do Mucuri - MG                            316555                            
+    110  099 Vale do Mucuri - MG                            316670                            
+    110  099 Vale do Mucuri - MG                            316860                            
+    110  099 Vale do Mucuri - MG                            317030                            
+    111  125 Vale do Paranã - GO                            520080                            
+    111  125 Vale do Paranã - GO                            520396                            
+    111  125 Vale do Paranã - GO                            520670                            
+    111  125 Vale do Paranã - GO                            520790                            
+    111  125 Vale do Paranã - GO                            520830                            
+    111  125 Vale do Paranã - GO                            520940                            
+    111  125 Vale do Paranã - GO                            520990                            
+    111  125 Vale do Paranã - GO                            521270                            
+    111  125 Vale do Paranã - GO                            521830                            
+    111  125 Vale do Paranã - GO                            521980                            
+    111  125 Vale do Paranã - GO                            522068                            
+    111  125 Vale do Paranã - GO                            522070                            
+    112  101 Vale do Ribeira - PR                           410020                            
+    112  101 Vale do Ribeira - PR                           410310                            
+    112  101 Vale do Ribeira - PR                           410520                            
+    112  101 Vale do Ribeira - PR                           411125                            
+    112  101 Vale do Ribeira - PR                           412220                            
+    112  101 Vale do Ribeira - PR                           412788                            
+    112  101 Vale do Ribeira - PR                           412863                            
+    113  100 Vale do Ribeira - SP                           350270                            
+    113  100 Vale do Ribeira - SP                           350535                            
+    113  100 Vale do Ribeira - SP                           350540                            
+    113  100 Vale do Ribeira - SP                           350925                            
+    113  100 Vale do Ribeira - SP                           350990                            
+    113  100 Vale do Ribeira - SP                           351480                            
+    113  100 Vale do Ribeira - SP                           352030                            
+    113  100 Vale do Ribeira - SP                           352042                            
+    113  100 Vale do Ribeira - SP                           352120                            
+    113  100 Vale do Ribeira - SP                           352215                            
+    113  100 Vale do Ribeira - SP                           352265                            
+    113  100 Vale do Ribeira - SP                           352330                            
+    113  100 Vale do Ribeira - SP                           352460                            
+    113  100 Vale do Ribeira - SP                           352610                            
+    113  100 Vale do Ribeira - SP                           352620                            
+    113  100 Vale do Ribeira - SP                           352990                            
+    113  100 Vale do Ribeira - SP                           353620                            
+    113  100 Vale do Ribeira - SP                           353720                            
+    113  100 Vale do Ribeira - SP                           353760                            
+    113  100 Vale do Ribeira - SP                           354260                            
+    113  100 Vale do Ribeira - SP                           354280                            
+    113  100 Vale do Ribeira - SP                           354300                            
+    113  100 Vale do Ribeira - SP                           354995                            
+    113  100 Vale do Ribeira - SP                           355180                            
+    113  100 Vale do Ribeira - SP                           355350                            
+    114  067 Vale do Rio Vermelho - GO                      520393                            
+    114  067 Vale do Rio Vermelho - GO                      520500                            
+    114  067 Vale do Rio Vermelho - GO                      520570                            
+    114  067 Vale do Rio Vermelho - GO                      520890                            
+    114  067 Vale do Rio Vermelho - GO                      520929                            
+    114  067 Vale do Rio Vermelho - GO                      520960                            
+    114  067 Vale do Rio Vermelho - GO                      521040                            
+    114  067 Vale do Rio Vermelho - GO                      521056                            
+    114  067 Vale do Rio Vermelho - GO                      521060                            
+    114  067 Vale do Rio Vermelho - GO                      521100                            
+    114  067 Vale do Rio Vermelho - GO                      521120                            
+    114  067 Vale do Rio Vermelho - GO                      521385                            
+    114  067 Vale do Rio Vermelho - GO                      521390                            
+    114  067 Vale do Rio Vermelho - GO                      521900                            
+    114  067 Vale do Rio Vermelho - GO                      522100                            
+    114  067 Vale do Rio Vermelho - GO                      522170                            
+    115  051 Vales do Curu e Aracatiaçu - CE                230075                            
+    115  051 Vales do Curu e Aracatiaçu - CE                230090                            
+    115  051 Vales do Curu e Aracatiaçu - CE                230460                            
+    115  051 Vales do Curu e Aracatiaçu - CE                230610                            
+    115  051 Vales do Curu e Aracatiaçu - CE                230630                            
+    115  051 Vales do Curu e Aracatiaçu - CE                230640                            
+    115  051 Vales do Curu e Aracatiaçu - CE                230655                            
+    115  051 Vales do Curu e Aracatiaçu - CE                230837                            
+    115  051 Vales do Curu e Aracatiaçu - CE                231020                            
+    115  051 Vales do Curu e Aracatiaçu - CE                231025                            
+    115  051 Vales do Curu e Aracatiaçu - CE                231070                            
+    115  051 Vales do Curu e Aracatiaçu - CE                231240                            
+    115  051 Vales do Curu e Aracatiaçu - CE                231260                            
+    115  051 Vales do Curu e Aracatiaçu - CE                231335                            
+    115  051 Vales do Curu e Aracatiaçu - CE                231350                            
+    115  051 Vales do Curu e Aracatiaçu - CE                231355                            
+    115  051 Vales do Curu e Aracatiaçu - CE                231375                            
+    115  051 Vales do Curu e Aracatiaçu - CE                231380                            
+    116  102 Velho Chico - BA                               290270                            
+    116  102 Velho Chico - BA                               290390                            
+    116  102 Velho Chico - BA                               290450                            
+    116  102 Velho Chico - BA                               290710                            
+    116  102 Velho Chico - BA                               291077                            
+    116  102 Velho Chico - BA                               291320                            
+    116  102 Velho Chico - BA                               291340                            
+    116  102 Velho Chico - BA                               292020                            
+    116  102 Velho Chico - BA                               292105                            
+    116  102 Velho Chico - BA                               292160                            
+    116  102 Velho Chico - BA                               292225                            
+    116  102 Velho Chico - BA                               292320                            
+    116  102 Velho Chico - BA                               292370                            
+    116  102 Velho Chico - BA                               292640                            
+    116  102 Velho Chico - BA                               293015,293025                     
+    116  102 Velho Chico - BA                               293075                            
+    117  104 Zona Sul do Estado - RS                        430003                            
+    117  104 Zona Sul do Estado - RS                        430063                            
+    117  104 Zona Sul do Estado - RS                        430107                            
+    117  104 Zona Sul do Estado - RS                        430130                            
+    117  104 Zona Sul do Estado - RS                        430435                            
+    117  104 Zona Sul do Estado - RS                        430450                            
+    117  104 Zona Sul do Estado - RS                        430466                            
+    117  104 Zona Sul do Estado - RS                        430512                            
+    117  104 Zona Sul do Estado - RS                        430543                            
+    117  104 Zona Sul do Estado - RS                        430605                            
+    117  104 Zona Sul do Estado - RS                        430710                            
+    117  104 Zona Sul do Estado - RS                        430965                            
+    117  104 Zona Sul do Estado - RS                        431100                            
+    117  104 Zona Sul do Estado - RS                        431245                            
+    117  104 Zona Sul do Estado - RS                        431417                            
+    117  104 Zona Sul do Estado - RS                        431420                            
+    117  104 Zona Sul do Estado - RS                        431440                            
+    117  104 Zona Sul do Estado - RS                        431450                            
+    117  104 Zona Sul do Estado - RS                        431460                            
+    117  104 Zona Sul do Estado - RS                        431560                            
+    117  104 Zona Sul do Estado - RS                        431700                            
+    117  104 Zona Sul do Estado - RS                        431730                            
+    117  104 Zona Sul do Estado - RS                        431850                            
+    117  104 Zona Sul do Estado - RS                        431880                            
+    117  104 Zona Sul do Estado - RS                        432232                            
+    118  103 Zona da Mata Norte - PB                        250140                            
+    118  103 Zona da Mata Norte - PB                        250320                            
+    118  103 Zona da Mata Norte - PB                        250403                            
+    118  103 Zona da Mata Norte - PB                        250490                            
+    118  103 Zona da Mata Norte - PB                        250523                            
+    118  103 Zona da Mata Norte - PB                        250527                            
+    118  103 Zona da Mata Norte - PB                        250710                            
+    118  103 Zona da Mata Norte - PB                        250730                            
+    118  103 Zona da Mata Norte - PB                        250860                            
+    118  103 Zona da Mata Norte - PB                        250890                            
+    118  103 Zona da Mata Norte - PB                        250905                            
+    118  103 Zona da Mata Norte - PB                        250910                            
+    118  103 Zona da Mata Norte - PB                        250930                            
+    118  103 Zona da Mata Norte - PB                        251272                            
+    118  103 Zona da Mata Norte - PB                        251276                            
+    118  103 Zona da Mata Norte - PB                        251290                            
+    118  103 Zona da Mata Norte - PB                        251370                            
+    118  103 Zona da Mata Norte - PB                        251530                            
+    118  103 Zona da Mata Norte - PB                        251597                            
+    119  120 Zona da Mata Sul - PB                          250060                            
+    119  120 Zona da Mata Sul - PB                          250180                            
+    119  120 Zona da Mata Sul - PB                          250300                            
+    119  120 Zona da Mata Sul - PB                          250380                            
+    119  120 Zona da Mata Sul - PB                          250460                            
+    119  120 Zona da Mata Sul - PB                          250690                            
+    119  120 Zona da Mata Sul - PB                          250750,257507                     
+    119  120 Zona da Mata Sul - PB                          250790                            
+    119  120 Zona da Mata Sul - PB                          251120                            
+    119  120 Zona da Mata Sul - PB                          251150                            
+    119  120 Zona da Mata Sul - PB                          251190                            
+    119  120 Zona da Mata Sul - PB                          251445                            
+    119  120 Zona da Mata Sul - PB                          251500                            
+    120  038 Águas Emendadas - DF/GO/MG                     310930                            
+    120  038 Águas Emendadas - DF/GO/MG                     310945                            
+    120  038 Águas Emendadas - DF/GO/MG                     317040                            
+    120  038 Águas Emendadas - DF/GO/MG                     520017                            
+    120  038 Águas Emendadas - DF/GO/MG                     520400                            
+    120  038 Águas Emendadas - DF/GO/MG                     520800                            
+    120  038 Águas Emendadas - DF/GO/MG                     521305                            
+    120  038 Águas Emendadas - DF/GO/MG                     521560                            
+    120  038 Águas Emendadas - DF/GO/MG                     521760                            
+    120  038 Águas Emendadas - DF/GO/MG                     522220                            
+    120  038 Águas Emendadas - DF/GO/MG                     530010,530000-530009,530011-539999

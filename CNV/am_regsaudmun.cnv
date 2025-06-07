@@ -1,0 +1,72 @@
+N 71 6
+        1  13001 Manaus, Entorno e Alto Rio Negro                                                               130030,130040,130110,130115,130185,130255,130260,130310,130353,130356,130360,130380
+   1    2  .....  CAREIRO DA VARZEA                                                                             130115
+   1    3  .....  MANAQUIRI                                                                                     130255
+   1    4  .....  IRANDUBA                                                                                      130185
+   1    5  .....  MANAUS                                                                                        130260
+   1    6  .....  SANTA ISABEL DO RIO NEGRO                                                                     130360
+   1    7  .....  AUTAZES                                                                                       130030
+   1    8  .....  NOVA OLINDA DO NORTE                                                                          130310
+   1    9  .....  BARCELOS                                                                                      130040
+   1   10  .....  PRESIDENTE FIGUEIREDO                                                                         130353
+   1   11  .....  CAREIRO                                                                                       130110
+   1   12  .....  RIO PRETO DA EVA                                                                              130356
+   1   13  .....  SAO GABRIEL DA CACHOEIRA                                                                      130380
+       14  13002 Rio Negro e Solimões                                                                           130008,130010,130063,130083,130120,130130,130250,130320
+  14   15  .....  NOVO AIRAO                                                                                    130320
+  14   16  .....  CAAPIRANGA                                                                                    130083
+  14   17  .....  CODAJAS                                                                                       130130
+  14   18  .....  BERURI                                                                                        130063
+  14   19  .....  ANORI                                                                                         130010
+  14   20  .....  COARI                                                                                         130120
+  14   21  .....  MANACAPURU                                                                                    130250
+  14   22  .....  ANAMA                                                                                         130008
+       23  13003 Rio Madeira                                                                                    130014,130080,130170,130270,130330
+  23   24  .....  NOVO ARIPUANA                                                                                 130330
+  23   25  .....  MANICORE                                                                                      130270
+  23   26  .....  HUMAITA                                                                                       130170
+  23   27  .....  APUI                                                                                          130014
+  23   28  .....  BORBA                                                                                         130080
+       29  13004 Médio Amazonas                                                                                 130190,130200,130395,130400,130430,130440
+  29   30  .....  ITAPIRANGA                                                                                    130200
+  29   31  .....  SAO SEBASTIAO DO UATUMA                                                                       130395
+  29   32  .....  SILVES                                                                                        130400
+  29   33  .....  URUCURITUBA                                                                                   130440
+  29   34  .....  URUCARA                                                                                       130430
+  29   35  .....  ITACOATIARA                                                                                   130190
+       36  13005 Baixo Amazonas                                                                                 130050,130068,130290,130300,130340
+  36   37  .....  BOA VISTA DO RAMOS                                                                            130068
+  36   38  .....  PARINTINS                                                                                     130340
+  36   39  .....  BARREIRINHA                                                                                   130050
+  36   40  .....  MAUES                                                                                         130290
+  36   41  .....  NHAMUNDA                                                                                      130300
+       42  13006 Regional Purus                                                                                 130070,130090,130240,130350,130410
+  42   43  .....  TAPAUA                                                                                        130410
+  42   44  .....  BOCA DO ACRE                                                                                  130070
+  42   45  .....  CANUTAMA                                                                                      130090
+  42   46  .....  LABREA                                                                                        130240
+  42   47  .....  PAUINI                                                                                        130350
+       48  13007 Regional Juruá                                                                                 130100,130140,130150,130165,130180,130195
+  48   49  .....  IPIXUNA                                                                                       130180
+  48   50  .....  CARAUARI                                                                                      130100
+  48   51  .....  ENVIRA                                                                                        130150
+  48   52  .....  GUAJARA                                                                                       130165
+  48   53  .....  EIRUNEPE                                                                                      130140
+  48   54  .....  ITAMARATI                                                                                     130195
+       55  13008 Triângulo                                                                                      130002,130210,130220,130280,130420,130426
+  55   56  .....  UARINI                                                                                        130426
+  55   57  .....  MARAA                                                                                         130280
+  55   58  .....  JURUA                                                                                         130220
+  55   59  .....  JAPURA                                                                                        130210
+  55   60  .....  TEFE                                                                                          130420
+  55   61  .....  ALVARAES                                                                                      130002
+       62  13009 Alto Solimões                                                                                  130006,130020,130060,130160,130230,130370,130390,130406,130423
+  62   63  .....  JUTAI                                                                                         130230
+  62   64  .....  FONTE BOA                                                                                     130160
+  62   65  .....  ATALAIA DO NORTE                                                                              130020
+  62   66  .....  TABATINGA                                                                                     130406
+  62   67  .....  SAO PAULO DE OLIVENCA                                                                         130390
+  62   68  .....  AMATURA                                                                                       130006
+  62   69  .....  BENJAMIN CONSTANT                                                                             130060
+  62   70  .....  TONANTINS                                                                                     130423
+  62   71  .....  SANTO ANTONIO DO ICA                                                                          130370

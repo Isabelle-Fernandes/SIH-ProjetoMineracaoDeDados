@@ -1,0 +1,265 @@
+N 264 6
+        1  52001 Central                                                                                        520005,520130,520160,520280,520360,520460,520520,520680,520870,520880,520920,521000,521056,521140,521205,521440,521450,521500,521540,521680,521910,521950,521973,521990,522100,522140
+   1    2  .....  NOVA VENEZA                                                                                   521500
+   1    3  .....  ABADIA DE GOIAS                                                                               520005
+   1    4  .....  TRINDADE                                                                                      522140
+   1    5  .....  JESUPOLIS                                                                                     521205
+   1    6  .....  GUAPO                                                                                         520920
+   1    7  .....  SAO FRANCISCO DE GOIAS                                                                        521990
+   1    8  .....  ARACU                                                                                         520160
+   1    9  .....  DAMOLANDIA                                                                                    520680
+   1   10  .....  NAZARIO                                                                                       521440
+   1   11  .....  BRAZABRANTES                                                                                  520360
+   1   12  .....  SANTA ROSA DE GOIAS                                                                           521950
+   1   13  .....  ANICUNS                                                                                       520130
+   1   14  .....  CATURAI                                                                                       520520
+   1   15  .....  OURO VERDE DE GOIAS                                                                           521540
+   1   16  .....  SANTO ANTONIO DE GOIAS                                                                        521973
+   1   17  .....  NEROPOLIS                                                                                     521450
+   1   18  .....  SANTA BARBARA DE GOIAS                                                                        521910
+   1   19  .....  AVELINOPOLIS                                                                                  520280
+   1   20  .....  INHUMAS                                                                                       521000
+   1   21  .....  ITAGUARI                                                                                      521056
+   1   22  .....  TAQUARAL DE GOIAS                                                                             522100
+   1   23  .....  GOIANIA                                                                                       520870
+   1   24  .....  GOIANIRA                                                                                      520880
+   1   25  .....  ITAUCU                                                                                        521140
+   1   26  .....  CAMPESTRE DE GOIAS                                                                            520460
+   1   27  .....  PETROLINA DE GOIAS                                                                            521680
+       28  52002 Centro Sul                                                                                     520140,520180,520330,520355,520455,520545,520630,520650,520735,520740,520970,520995,521170,521230,521260,521530,521710,521770,521839,522026,522045,522060,522190,522200,522205
+  28   29  .....  ARAGOIANIA                                                                                    520180
+  28   30  .....  ORIZONA                                                                                       521530
+  28   31  .....  LEOPOLDO DE BULHOES                                                                           521230
+  28   32  .....  VARJAO                                                                                        522190
+  28   33  .....  INDIARA                                                                                       520995
+  28   34  .....  HIDROLANDIA                                                                                   520970
+  28   35  .....  EDEIA                                                                                         520740
+  28   36  .....  PIRACANJUBA                                                                                   521710
+  28   37  .....  BONFINOPOLIS                                                                                  520355
+  28   38  .....  JANDAIA                                                                                       521170
+  28   39  .....  PONTALINA                                                                                     521770
+  28   40  .....  SILVANIA                                                                                      522060
+  28   41  .....  SENADOR CANEDO                                                                                522045
+  28   42  .....  MAIRIPOTABA                                                                                   521260
+  28   43  .....  BELA VISTA DE GOIAS                                                                           520330
+  28   44  .....  CRISTIANOPOLIS                                                                                520630
+  28   45  .....  CROMINIA                                                                                      520650
+  28   46  .....  VIANOPOLIS                                                                                    522200
+  28   47  .....  VICENTINOPOLIS                                                                                522205
+  28   48  .....  CALDAZINHA                                                                                    520455
+  28   49  .....  SAO MIGUEL DO PASSA QUATRO                                                                    522026
+  28   50  .....  PROFESSOR JAMIL                                                                               521839
+  28   51  .....  APARECIDA DE GOIANIA                                                                          520140
+  28   52  .....  EDEALINA                                                                                      520735
+  28   53  .....  CEZARINA                                                                                      520545
+       54  52003 Entorno Norte                                                                                  520017,520060,520400,520790,520800,521760,522000,522220
+  54   55  .....  PLANALTINA                                                                                    521760
+  54   56  .....  AGUA FRIA DE GOIAS                                                                            520017
+  54   57  .....  ALTO PARAISO DE GOIAS                                                                         520060
+  54   58  .....  FLORES DE GOIAS                                                                               520790
+  54   59  .....  CABECEIRAS                                                                                    520400
+  54   60  .....  SAO JOAO D'ALIANCA                                                                            522000
+  54   61  .....  FORMOSA                                                                                       520800
+  54   62  .....  VILA BOA                                                                                      522220
+       63  52004 Entorno Sul                                                                                    520025,520549,520620,521250,521523,521975,522185
+  63   64  .....  CRISTALINA                                                                                    520620
+  63   65  .....  NOVO GAMA                                                                                     521523
+  63   66  .....  SANTO ANTONIO DO DESCOBERTO                                                                   521975
+  63   67  .....  CIDADE OCIDENTAL                                                                              520549
+  63   68  .....  AGUAS LINDAS DE GOIAS                                                                         520025
+  63   69  .....  VALPARAISO DE GOIAS                                                                           522185
+  63   70  .....  LUZIANIA                                                                                      521250
+       71  52005 Estrada de Ferro                                                                               520120,520450,520480,520510,520590,520660,520690,520850,521010,521290,521480,521550,521580,521740,521878,521920,522130,522180
+  71   72  .....  MARZAGAO                                                                                      521290
+  71   73  .....  IPAMERI                                                                                       521010
+  71   74  .....  GOIANDIRA                                                                                     520850
+  71   75  .....  ANHANGUERA                                                                                    520120
+  71   76  .....  CAMPO ALEGRE DE GOIAS                                                                         520480
+  71   77  .....  PALMELO                                                                                       521580
+  71   78  .....  TRES RANCHOS                                                                                  522130
+  71   79  .....  URUTAI                                                                                        522180
+  71   80  .....  OUVIDOR                                                                                       521550
+  71   81  .....  NOVA AURORA                                                                                   521480
+  71   82  .....  CATALAO                                                                                       520510
+  71   83  .....  CORUMBAIBA                                                                                    520590
+  71   84  .....  SANTA CRUZ DE GOIAS                                                                           521920
+  71   85  .....  PIRES DO RIO                                                                                  521740
+  71   86  .....  CUMARI                                                                                        520660
+  71   87  .....  CALDAS NOVAS                                                                                  520450
+  71   88  .....  DAVINOPOLIS                                                                                   520690
+  71   89  .....  RIO QUENTE                                                                                    521878
+       90  52006 Nordeste I                                                                                     520490,520530,520830,521350,522108
+  90   91  .....  MONTE ALEGRE DE GOIAS                                                                         521350
+  90   92  .....  TERESINA DE GOIAS                                                                             522108
+  90   93  .....  CAVALCANTE                                                                                    520530
+  90   94  .....  DIVINOPOLIS DE GOIAS                                                                          520830
+  90   95  .....  CAMPOS BELOS                                                                                  520490
+       96  52007 Nordeste II                                                                                    520080,520396,520670,520940,520990,521270,521490,521830,521980,522068,522070
+  96   97  .....  MAMBAI                                                                                        521270
+  96   98  .....  IACIARA                                                                                       520990
+  96   99  .....  GUARANI DE GOIAS                                                                              520940
+  96  100  .....  SAO DOMINGOS                                                                                  521980
+  96  101  .....  POSSE                                                                                         521830
+  96  102  .....  SIMOLANDIA                                                                                    522068
+  96  103  .....  SITIO D'ABADIA                                                                                522070
+  96  104  .....  BURITINOPOLIS                                                                                 520396
+  96  105  .....  DAMIANOPOLIS                                                                                  520670
+  96  106  .....  NOVA ROMA                                                                                     521490
+  96  107  .....  ALVORADA DO NORTE                                                                             520080
+      108  52008 Norte                                                                                          520357,520465,520750,520810,521308,521377,521405,521410,521525,521800,521960,522020,522145
+ 108  109  .....  FORMOSO                                                                                       520810
+ 108  110  .....  ESTRELA DO NORTE                                                                              520750
+ 108  111  .....  BONOPOLIS                                                                                     520357
+ 108  112  .....  TROMBAS                                                                                       522145
+ 108  113  .....  PORANGATU                                                                                     521800
+ 108  114  .....  MUTUNOPOLIS                                                                                   521410
+ 108  115  .....  NOVO PLANALTO                                                                                 521525
+ 108  116  .....  MINACU                                                                                        521308
+ 108  117  .....  MUNDO NOVO                                                                                    521405
+ 108  118  .....  SANTA TEREZA DE GOIAS                                                                         521960
+ 108  119  .....  CAMPINACU                                                                                     520465
+ 108  120  .....  SAO MIGUEL DO ARAGUAIA                                                                        522020
+ 108  121  .....  MONTIVIDIU DO NORTE                                                                           521377
+      122  52009 Oeste I                                                                                        520090,520170,520235,520310,520340,520710,520760,521020,521030,521160,521200,521340,521370,521520,521565,521720
+ 122  123  .....  DIORAMA                                                                                       520710
+ 122  124  .....  NOVO BRASIL                                                                                   521520
+ 122  125  .....  AMORINOPOLIS                                                                                  520090
+ 122  126  .....  IVOLANDIA                                                                                     521160
+ 122  127  .....  ARAGARCAS                                                                                     520170
+ 122  128  .....  ARENOPOLIS                                                                                    520235
+ 122  129  .....  BOM JARDIM DE GOIAS                                                                           520340
+ 122  130  .....  PALESTINA DE GOIAS                                                                            521565
+ 122  131  .....  IPORA                                                                                         521020
+ 122  132  .....  JAUPACI                                                                                       521200
+ 122  133  .....  BALIZA                                                                                        520310
+ 122  134  .....  ISRAELANDIA                                                                                   521030
+ 122  135  .....  PIRANHAS                                                                                      521720
+ 122  136  .....  MONTES CLAROS DE GOIAS                                                                        521370
+ 122  137  .....  FAZENDA NOVA                                                                                  520760
+ 122  138  .....  MOIPORA                                                                                       521340
+      139  52010 Oeste II                                                                                       520015,520260,520393,520420,520570,520780,521570,521590,521640,521900,522005,522010,522150
+ 139  140  .....  AURILANDIA                                                                                    520260
+ 139  141  .....  PARAUNA                                                                                       521640
+ 139  142  .....  CACHOEIRA DE GOIAS                                                                            520420
+ 139  143  .....  ADELANDIA                                                                                     520015
+ 139  144  .....  TURVANIA                                                                                      522150
+ 139  145  .....  SAO JOAO DA PARAUNA                                                                           522005
+ 139  146  .....  FIRMINOPOLIS                                                                                  520780
+ 139  147  .....  SANCLERLANDIA                                                                                 521900
+ 139  148  .....  BURITI DE GOIAS                                                                               520393
+ 139  149  .....  PALMINOPOLIS                                                                                  521590
+ 139  150  .....  PALMEIRAS DE GOIAS                                                                            521570
+ 139  151  .....  CORREGO DO OURO                                                                               520570
+ 139  152  .....  SAO LUIS DE MONTES BELOS                                                                      522010
+      153  52011 Pirineus                                                                                       520010,520030,520110,520485,520551,520580,520815,520840,521730,522119
+ 153  154  .....  CAMPO LIMPO DE GOIAS                                                                          520485
+ 153  155  .....  GAMELEIRA DE GOIAS                                                                            520815
+ 153  156  .....  ABADIANIA                                                                                     520010
+ 153  157  .....  GOIANAPOLIS                                                                                   520840
+ 153  158  .....  ANAPOLIS                                                                                      520110
+ 153  159  .....  PIRENOPOLIS                                                                                   521730
+ 153  160  .....  ALEXANIA                                                                                      520030
+ 153  161  .....  CORUMBA DE GOIAS                                                                              520580
+ 153  162  .....  COCALZINHO DE GOIAS                                                                           520551
+ 153  163  .....  TEREZOPOLIS DE GOIAS                                                                          522119
+      164  52012 Rio Vermelho                                                                                   520085,520215,520250,520380,520753,520890,520929,520960,521040,521100,521120,521220,521295,521390,521400,521483,521925
+ 164  165  .....  SANTA FE DE GOIAS                                                                             521925
+ 164  166  .....  BRITANIA                                                                                      520380
+ 164  167  .....  ARUANA                                                                                        520250
+ 164  168  .....  GUARAITA                                                                                      520929
+ 164  169  .....  GOIAS                                                                                         520890
+ 164  170  .....  ARAGUAPAZ                                                                                     520215
+ 164  171  .....  JUSSARA                                                                                       521220
+ 164  172  .....  ITAPURANGA                                                                                    521120
+ 164  173  .....  ITAPIRAPUA                                                                                    521100
+ 164  174  .....  ITABERAI                                                                                      521040
+ 164  175  .....  HEITORAI                                                                                      520960
+ 164  176  .....  AMERICANO DO BRASIL                                                                           520085
+ 164  177  .....  MATRINCHA                                                                                     521295
+ 164  178  .....  NOVA CRIXAS                                                                                   521483
+ 164  179  .....  FAINA                                                                                         520753
+ 164  180  .....  MOZARLANDIA                                                                                   521400
+ 164  181  .....  MOSSAMEDES                                                                                    521390
+      182  52013 São Patrício I                                                                                 520495,520500,520540,520640,520945,521015,521090,521385,521470,521486,521690,521860,521870,521890,521935,521970,522015,522028,522157,522170
+ 182  183  .....  CARMO DO RIO VERDE                                                                            520500
+ 182  184  .....  PILAR DE GOIAS                                                                                521690
+ 182  185  .....  NOVA GLORIA                                                                                   521486
+ 182  186  .....  UIRAPURU                                                                                      522157
+ 182  187  .....  URUANA                                                                                        522170
+ 182  188  .....  ITAPACI                                                                                       521090
+ 182  189  .....  SAO LUIZ DO NORTE                                                                             522015
+ 182  190  .....  NOVA AMERICA                                                                                  521470
+ 182  191  .....  GUARINOS                                                                                      520945
+ 182  192  .....  CRIXAS                                                                                        520640
+ 182  193  .....  CAMPOS VERDES                                                                                 520495
+ 182  194  .....  SANTA TEREZINHA DE GOIAS                                                                      521970
+ 182  195  .....  SANTA ISABEL                                                                                  521935
+ 182  196  .....  IPIRANGA DE GOIAS                                                                             521015
+ 182  197  .....  RIANAPOLIS                                                                                    521870
+ 182  198  .....  SAO PATRICIO                                                                                  522028
+ 182  199  .....  CERES                                                                                         520540
+ 182  200  .....  MORRO AGUDO DE GOIAS                                                                          521385
+ 182  201  .....  RUBIATABA                                                                                     521890
+ 182  202  .....  RIALMA                                                                                        521860
+      203  52014 Serra da Mesa                                                                                  520055,520082,520470,520552,520980,521280,521460,521487,522160
+ 203  204  .....  CAMPINORTE                                                                                    520470
+ 203  205  .....  NIQUELANDIA                                                                                   521460
+ 203  206  .....  MARA ROSA                                                                                     521280
+ 203  207  .....  AMARALINA                                                                                     520082
+ 203  208  .....  NOVA IGUACU DE GOIAS                                                                          521487
+ 203  209  .....  HIDROLINA                                                                                     520980
+ 203  210  .....  ALTO HORIZONTE                                                                                520055
+ 203  211  .....  COLINAS DO SUL                                                                                520552
+ 203  212  .....  URUACU                                                                                        522160
+      213  52015 Sudoeste I                                                                                     520013,520145,520410,520430,520505,521080,521130,521225,521300,521375,521630,521805,521850,521880,521930,521971,522040,522155
+ 213  214  .....  ITARUMA                                                                                       521130
+ 213  215  .....  ITAJA                                                                                         521080
+ 213  216  .....  TURVELANDIA                                                                                   522155
+ 213  217  .....  PORTEIRAO                                                                                     521805
+ 213  218  .....  PARANAIGUARA                                                                                  521630
+ 213  219  .....  MONTIVIDIU                                                                                    521375
+ 213  220  .....  CACHOEIRA ALTA                                                                                520410
+ 213  221  .....  LAGOA SANTA                                                                                   521225
+ 213  222  .....  SANTO ANTONIO DA BARRA                                                                        521971
+ 213  223  .....  QUIRINOPOLIS                                                                                  521850
+ 213  224  .....  ACREUNA                                                                                       520013
+ 213  225  .....  SANTA HELENA DE GOIAS                                                                         521930
+ 213  226  .....  APARECIDA DO RIO DOCE                                                                         520145
+ 213  227  .....  SAO SIMAO                                                                                     522040
+ 213  228  .....  RIO VERDE                                                                                     521880
+ 213  229  .....  CACU                                                                                          520430
+ 213  230  .....  CASTELANDIA                                                                                   520505
+ 213  231  .....  MAURILANDIA                                                                                   521300
+      232  52016 Sudoeste II                                                                                    520150,520440,520547,520725,521190,521310,521645,521810,521940,522050
+ 232  233  .....  CHAPADAO DO CEU                                                                               520547
+ 232  234  .....  MINEIROS                                                                                      521310
+ 232  235  .....  SANTA RITA DO ARAGUAIA                                                                        521940
+ 232  236  .....  SERRANOPOLIS                                                                                  522050
+ 232  237  .....  PEROLANDIA                                                                                    521645
+ 232  238  .....  DOVERLANDIA                                                                                   520725
+ 232  239  .....  JATAI                                                                                         521190
+ 232  240  .....  APORE                                                                                         520150
+ 232  241  .....  CAIAPONIA                                                                                     520440
+ 232  242  .....  PORTELANDIA                                                                                   521810
+      243  52017 Sul                                                                                            520020,520050,520350,520390,520425,520910,520915,520993,521150,521210,521380,521600
+ 243  244  .....  JOVIANIA                                                                                      521210
+ 243  245  .....  INACIOLANDIA                                                                                  520993
+ 243  246  .....  GOIATUBA                                                                                      520910
+ 243  247  .....  GOUVELANDIA                                                                                   520915
+ 243  248  .....  ITUMBIARA                                                                                     521150
+ 243  249  .....  ALOANDIA                                                                                      520050
+ 243  250  .....  MORRINHOS                                                                                     521380
+ 243  251  .....  BURITI ALEGRE                                                                                 520390
+ 243  252  .....  CACHOEIRA DOURADA                                                                             520425
+ 243  253  .....  BOM JESUS DE GOIAS                                                                            520350
+ 243  254  .....  AGUA LIMPA                                                                                    520020
+ 243  255  .....  PANAMA                                                                                        521600
+      256  52018 São Patrício II                                                                                520320,520860,521060,521180,521305,521560,521945,522230
+ 256  257  .....  GOIANESIA                                                                                     520860
+ 256  258  .....  MIMOSO DE GOIAS                                                                               521305
+ 256  259  .....  VILA PROPICIO                                                                                 522230
+ 256  260  .....  JARAGUA                                                                                       521180
+ 256  261  .....  SANTA RITA DO NOVO DESTINO                                                                    521945
+ 256  262  .....  BARRO ALTO                                                                                    520320
+ 256  263  .....  PADRE BERNARDO                                                                                521560
+ 256  264  .....  ITAGUARU                                                                                      521060

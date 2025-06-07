@@ -1,0 +1,401 @@
+40  6                                                                                    
+      1  PR Apucarana                                       410140                            
+      1  PR Apucarana                                       410150                            
+      1  PR Apucarana                                       410350                            
+      1  PR Apucarana                                       410380                            
+      1  PR Apucarana                                       411210                            
+      1  PR Apucarana                                       411490                            
+      1  PR Apucarana                                       411575                            
+      1  PR Apucarana                                       411729                            
+      1  PR Apucarana                                       412270                            
+      2  PR Assaí                                           410190                            
+      2  PR Assaí                                           411270                            
+      2  PR Assaí                                           411721                            
+      2  PR Assaí                                           412130                            
+      2  PR Assaí                                           412320                            
+      2  PR Assaí                                           412470                            
+      2  PR Assaí                                           412600                            
+      2  PR Assaí                                           412840                            
+      3  PR Astorga                                         410115                            
+      3  PR Astorga                                         410210                            
+      3  PR Astorga                                         410220                            
+      3  PR Astorga                                         410340                            
+      3  PR Astorga                                         410510                            
+      3  PR Astorga                                         410590                            
+      3  PR Astorga                                         410810                            
+      3  PR Astorga                                         410920                            
+      3  PR Astorga                                         411000                            
+      3  PR Astorga                                         411090                            
+      3  PR Astorga                                         411190                            
+      3  PR Astorga                                         411360                            
+      3  PR Astorga                                         411380                            
+      3  PR Astorga                                         411410                            
+      3  PR Astorga                                         411630                            
+      3  PR Astorga                                         411640                            
+      3  PR Astorga                                         411690                            
+      3  PR Astorga                                         412040                            
+      3  PR Astorga                                         412340                            
+      3  PR Astorga                                         412360                            
+      3  PR Astorga                                         412450                            
+      3  PR Astorga                                         412830                            
+      4  PR Campo Mourão                                    410170                            
+      4  PR Campo Mourão                                    410250                            
+      4  PR Campo Mourão                                    410430                            
+      4  PR Campo Mourão                                    410655                            
+      4  PR Campo Mourão                                    410750                            
+      4  PR Campo Mourão                                    410755                            
+      4  PR Campo Mourão                                    410770                            
+      4  PR Campo Mourão                                    411080                            
+      4  PR Campo Mourão                                    411373                            
+      4  PR Campo Mourão                                    411400                            
+      4  PR Campo Mourão                                    411880                            
+      4  PR Campo Mourão                                    412110                            
+      4  PR Campo Mourão                                    412250                            
+      4  PR Campo Mourão                                    412720                            
+      5  PR Capanema                                        410100                            
+      5  PR Capanema                                        410275                            
+      5  PR Capanema                                        410450                            
+      5  PR Capanema                                        411900                            
+      5  PR Capanema                                        411980                            
+      5  PR Capanema                                        412035                            
+      5  PR Capanema                                        412140                            
+      5  PR Capanema                                        412380                            
+      6  PR Cascavel                                        410105                            
+      6  PR Cascavel                                        410305                            
+      6  PR Cascavel                                        410335                            
+      6  PR Cascavel                                        410345                            
+      6  PR Cascavel                                        410405                            
+      6  PR Cascavel                                        410460                            
+      6  PR Cascavel                                        410480                            
+      6  PR Cascavel                                        410500                            
+      6  PR Cascavel                                        410630                            
+      6  PR Cascavel                                        410712                            
+      6  PR Cascavel                                        410930                            
+      6  PR Cascavel                                        410975                            
+      6  PR Cascavel                                        411005                            
+      6  PR Cascavel                                        411345                            
+      6  PR Cascavel                                        411670                            
+      6  PR Cascavel                                        412382                            
+      6  PR Cascavel                                        412402                            
+      6  PR Cascavel                                        412785                            
+      7  PR Cerro Azul                                      410020                            
+      7  PR Cerro Azul                                      410520                            
+      7  PR Cerro Azul                                      412863                            
+      8  PR Cianorte                                        410550                            
+      8  PR Cianorte                                        410560                            
+      8  PR Cianorte                                        410910                            
+      8  PR Cianorte                                        411040                            
+      8  PR Cianorte                                        411240                            
+      8  PR Cianorte                                        411300                            
+      8  PR Cianorte                                        412260                            
+      8  PR Cianorte                                        412555                            
+      8  PR Cianorte                                        412610                            
+      8  PR Cianorte                                        412680                            
+      8  PR Cianorte                                        412790                            
+      9  PR Cornélio Procópio                               410010                            
+      9  PR Cornélio Procópio                               410110                            
+      9  PR Cornélio Procópio                               410240                            
+      9  PR Cornélio Procópio                               410600                            
+      9  PR Cornélio Procópio                               410640                            
+      9  PR Cornélio Procópio                               411100                            
+      9  PR Cornélio Procópio                               411340                            
+      9  PR Cornélio Procópio                               411660                            
+      9  PR Cornélio Procópio                               411700                            
+      9  PR Cornélio Procópio                               412190                            
+      9  PR Cornélio Procópio                               412310                            
+      9  PR Cornélio Procópio                               412390                            
+      9  PR Cornélio Procópio                               412430                            
+      9  PR Cornélio Procópio                               412640                            
+     10  PR Curitiba                                        410040                            
+     10  PR Curitiba                                        410180                            
+     10  PR Curitiba                                        410230                            
+     10  PR Curitiba                                        410310                            
+     10  PR Curitiba                                        410400                            
+     10  PR Curitiba                                        410420                            
+     10  PR Curitiba                                        410425                            
+     10  PR Curitiba                                        410580                            
+     10  PR Curitiba                                        410620                            
+     10  PR Curitiba                                        410690                            
+     10  PR Curitiba                                        410765                            
+     10  PR Curitiba                                        411125                            
+     10  PR Curitiba                                        411430                            
+     10  PR Curitiba                                        411915                            
+     10  PR Curitiba                                        411950                            
+     10  PR Curitiba                                        412080                            
+     10  PR Curitiba                                        412220                            
+     10  PR Curitiba                                        412550                            
+     10  PR Curitiba                                        412788                            
+     11  PR Faxinal                                         410320                            
+     11  PR Faxinal                                         410330                            
+     11  PR Faxinal                                         410685                            
+     11  PR Faxinal                                         410760                            
+     11  PR Faxinal                                         411310                            
+     11  PR Faxinal                                         411550                            
+     11  PR Faxinal                                         412210                            
+     12  PR Floraí                                          410730                            
+     12  PR Floraí                                          410780                            
+     12  PR Floraí                                          410790                            
+     12  PR Floraí                                          411110                            
+     12  PR Floraí                                          411160                            
+     12  PR Floraí                                          411740                            
+     12  PR Floraí                                          412530                            
+     13  PR Foz do Iguaçu                                   410530                            
+     13  PR Foz do Iguaçu                                   410830                            
+     13  PR Foz do Iguaçu                                   411095                            
+     13  PR Foz do Iguaçu                                   411560                            
+     13  PR Foz do Iguaçu                                   411580                            
+     13  PR Foz do Iguaçu                                   411605                            
+     13  PR Foz do Iguaçu                                   412125                            
+     13  PR Foz do Iguaçu                                   412405                            
+     13  PR Foz do Iguaçu                                   412570                            
+     13  PR Foz do Iguaçu                                   412635                            
+     13  PR Foz do Iguaçu                                   412855                            
+     14  PR Francisco Beltrão                               410260                            
+     14  PR Francisco Beltrão                               410302                            
+     14  PR Francisco Beltrão                               410315                            
+     14  PR Francisco Beltrão                               410657                            
+     14  PR Francisco Beltrão                               410720                            
+     14  PR Francisco Beltrão                               410740                            
+     14  PR Francisco Beltrão                               410785                            
+     14  PR Francisco Beltrão                               410840                            
+     14  PR Francisco Beltrão                               411435                            
+     14  PR Francisco Beltrão                               411540                            
+     14  PR Francisco Beltrão                               411695                            
+     14  PR Francisco Beltrão                               411725                            
+     14  PR Francisco Beltrão                               411925                            
+     14  PR Francisco Beltrão                               412160                            
+     14  PR Francisco Beltrão                               412280                            
+     14  PR Francisco Beltrão                               412300                            
+     14  PR Francisco Beltrão                               412440                            
+     14  PR Francisco Beltrão                               412520                            
+     14  PR Francisco Beltrão                               412860                            
+     15  PR Goioerê                                         410045                            
+     15  PR Goioerê                                         410300                            
+     15  PR Goioerê                                         410390                            
+     15  PR Goioerê                                         410860                            
+     15  PR Goioerê                                         411220                            
+     15  PR Goioerê                                         411295                            
+     15  PR Goioerê                                         411610                            
+     15  PR Goioerê                                         411680                            
+     15  PR Goioerê                                         412065                            
+     15  PR Goioerê                                         412135                            
+     15  PR Goioerê                                         412800                            
+     16  PR Guarapuava                                      410395                            
+     16  PR Guarapuava                                      410442                            
+     16  PR Guarapuava                                      410445                            
+     16  PR Guarapuava                                      410754                            
+     16  PR Guarapuava                                      410845                            
+     16  PR Guarapuava                                      410865                            
+     16  PR Guarapuava                                      410940                            
+     16  PR Guarapuava                                      411020                            
+     16  PR Guarapuava                                      411330                            
+     16  PR Guarapuava                                      411545                            
+     16  PR Guarapuava                                      411705                            
+     16  PR Guarapuava                                      411930                            
+     16  PR Guarapuava                                      412015                            
+     16  PR Guarapuava                                      412090                            
+     16  PR Guarapuava                                      412175                            
+     16  PR Guarapuava                                      412215                            
+     16  PR Guarapuava                                      412796                            
+     16  PR Guarapuava                                      412865                            
+     17  PR Ibaiti                                          410610                            
+     17  PR Ibaiti                                          410700                            
+     17  PR Ibaiti                                          410775                            
+     17  PR Ibaiti                                          410970                            
+     17  PR Ibaiti                                          411170                            
+     17  PR Ibaiti                                          411230                            
+     17  PR Ibaiti                                          411920                            
+     17  PR Ibaiti                                          412620                            
+     18  PR Irati                                           411070                            
+     18  PR Irati                                           411390                            
+     18  PR Irati                                           412150                            
+     18  PR Irati                                           412200                            
+     19  PR Ivaiporã                                        410165                            
+     19  PR Ivaiporã                                        410185                            
+     19  PR Ivaiporã                                        410440                            
+     19  PR Ivaiporã                                        410855                            
+     19  PR Ivaiporã                                        410870                            
+     19  PR Ivaiporã                                        411150                            
+     19  PR Ivaiporã                                        411250                            
+     19  PR Ivaiporã                                        411342                            
+     19  PR Ivaiporã                                        411375                            
+     19  PR Ivaiporã                                        411450                            
+     19  PR Ivaiporã                                        411727                            
+     19  PR Ivaiporã                                        412217                            
+     19  PR Ivaiporã                                        412265                            
+     19  PR Ivaiporã                                        412500                            
+     19  PR Ivaiporã                                        412580                            
+     20  PR Jacarezinho                                     410270                            
+     20  PR Jacarezinho                                     410360                            
+     20  PR Jacarezinho                                     411180                            
+     20  PR Jacarezinho                                     411290                            
+     20  PR Jacarezinho                                     412180                            
+     20  PR Jacarezinho                                     412410                            
+     21  PR Jaguariaíva                                     410160                            
+     21  PR Jaguariaíva                                     411200                            
+     21  PR Jaguariaíva                                     411940                            
+     21  PR Jaguariaíva                                     412630                            
+     22  PR Lapa                                            411320                            
+     22  PR Lapa                                            412010                            
+     23  PR Londrina                                        410370                            
+     23  PR Londrina                                        410980                            
+     23  PR Londrina                                        411370                            
+     23  PR Londrina                                        411965                            
+     23  PR Londrina                                        412240                            
+     23  PR Londrina                                        412667                            
+     24  PR Maringá                                         411420                            
+     24  PR Maringá                                         411480                            
+     24  PR Maringá                                         411520                            
+     24  PR Maringá                                         411750                            
+     24  PR Maringá                                         412625                            
+     25  PR Palmas                                          410570                            
+     25  PR Palmas                                          410645                            
+     25  PR Palmas                                          410965                            
+     25  PR Palmas                                          411440                            
+     25  PR Palmas                                          411760                            
+     26  PR Paranaguá                                       410120                            
+     26  PR Paranaguá                                       410950                            
+     26  PR Paranaguá                                       410960                            
+     26  PR Paranaguá                                       411570                            
+     26  PR Paranaguá                                       411620                            
+     26  PR Paranaguá                                       411820                            
+     26  PR Paranaguá                                       411995                            
+     27  PR Paranavaí                                       410060                            
+     27  PR Paranavaí                                       410090                            
+     27  PR Paranavaí                                       410670                            
+     27  PR Paranavaí                                       410710                            
+     27  PR Paranavaí                                       410890                            
+     27  PR Paranavaí                                       411030                            
+     27  PR Paranavaí                                       411130                            
+     27  PR Paranavaí                                       411260                            
+     27  PR Paranavaí                                       411350                            
+     27  PR Paranavaí                                       411500                            
+     27  PR Paranavaí                                       411590                            
+     27  PR Paranavaí                                       411650                            
+     27  PR Paranavaí                                       411710                            
+     27  PR Paranavaí                                       411800                            
+     27  PR Paranavaí                                       411810                            
+     27  PR Paranavaí                                       411830                            
+     27  PR Paranavaí                                       411840                            
+     27  PR Paranavaí                                       411970                            
+     27  PR Paranavaí                                       412020                            
+     27  PR Paranavaí                                       412100                            
+     27  PR Paranavaí                                       412330                            
+     27  PR Paranavaí                                       412370                            
+     27  PR Paranavaí                                       412395                            
+     27  PR Paranavaí                                       412420                            
+     27  PR Paranavaí                                       412460                            
+     27  PR Paranavaí                                       412490                            
+     27  PR Paranavaí                                       412590                            
+     27  PR Paranavaí                                       412670                            
+     27  PR Paranavaí                                       412730                            
+     28  PR Pato Branco                                     410322                            
+     28  PR Pato Branco                                     410540                            
+     28  PR Pato Branco                                     410650                            
+     28  PR Pato Branco                                     411120                            
+     28  PR Pato Branco                                     411530                            
+     28  PR Pato Branco                                     411850                            
+     28  PR Pato Branco                                     412480                            
+     28  PR Pato Branco                                     412627                            
+     28  PR Pato Branco                                     412665                            
+     28  PR Pato Branco                                     412870                            
+     29  PR Pitanga                                         410304                            
+     29  PR Pitanga                                         411325                            
+     29  PR Pitanga                                         411573                            
+     29  PR Pitanga                                         411780                            
+     29  PR Pitanga                                         411960                            
+     29  PR Pitanga                                         412385                            
+     30  PR Ponta Grossa                                    410465                            
+     30  PR Ponta Grossa                                    410490                            
+     30  PR Ponta Grossa                                    411770                            
+     30  PR Ponta Grossa                                    411990                            
+     31  PR Porecatu                                        410080                            
+     31  PR Porecatu                                        410280                            
+     31  PR Porecatu                                        410800                            
+     31  PR Porecatu                                        411600                            
+     31  PR Porecatu                                        412000                            
+     31  PR Porecatu                                        412033                            
+     31  PR Porecatu                                        412050                            
+     31  PR Porecatu                                        412650                            
+     32  PR Prudentópolis                                   410773                            
+     32  PR Prudentópolis                                   410895                            
+     32  PR Prudentópolis                                   411010                            
+     32  PR Prudentópolis                                   411050                            
+     32  PR Prudentópolis                                   411140                            
+     32  PR Prudentópolis                                   412060                            
+     32  PR Prudentópolis                                   412700                            
+     33  PR Rio Negro                                       410030                            
+     33  PR Rio Negro                                       410410                            
+     33  PR Rio Negro                                       411910                            
+     33  PR Rio Negro                                       412120                            
+     33  PR Rio Negro                                       412230                            
+     33  PR Rio Negro                                       412760                            
+     34  PR São Mateus do Sul                               410130                            
+     34  PR São Mateus do Sul                               412510                            
+     34  PR São Mateus do Sul                               412560                            
+     35  PR Telêmaco Borba                                  411007                            
+     35  PR Telêmaco Borba                                  411730                            
+     35  PR Telêmaco Borba                                  412170                            
+     35  PR Telêmaco Borba                                  412710                            
+     35  PR Telêmaco Borba                                  412750                            
+     35  PR Telêmaco Borba                                  412853                            
+     36  PR Toledo                                          410200                            
+     36  PR Toledo                                          410715                            
+     36  PR Toledo                                          410753                            
+     36  PR Toledo                                          410820                            
+     36  PR Toledo                                          410880                            
+     36  PR Toledo                                          411065                            
+     36  PR Toledo                                          411275                            
+     36  PR Toledo                                          411460                            
+     36  PR Toledo                                          411535                            
+     36  PR Toledo                                          411585                            
+     36  PR Toledo                                          411722                            
+     36  PR Toledo                                          411745                            
+     36  PR Toledo                                          411790                            
+     36  PR Toledo                                          411845                            
+     36  PR Toledo                                          412085                            
+     36  PR Toledo                                          412350                            
+     36  PR Toledo                                          412545                            
+     36  PR Toledo                                          412575                            
+     36  PR Toledo                                          412740                            
+     36  PR Toledo                                          412770                            
+     36  PR Toledo                                          412795                            
+     37  PR Umuarama                                        410050                            
+     37  PR Umuarama                                        410070                            
+     37  PR Umuarama                                        410337                            
+     37  PR Umuarama                                        410347                            
+     37  PR Umuarama                                        410660                            
+     37  PR Umuarama                                        410725                            
+     37  PR Umuarama                                        410752                            
+     37  PR Umuarama                                        410832                            
+     37  PR Umuarama                                        410990                            
+     37  PR Umuarama                                        411060                            
+     37  PR Umuarama                                        411155                            
+     37  PR Umuarama                                        411470                            
+     37  PR Umuarama                                        411510                            
+     37  PR Umuarama                                        411720                            
+     37  PR Umuarama                                        411885                            
+     37  PR Umuarama                                        411890                            
+     37  PR Umuarama                                        412535                            
+     37  PR Umuarama                                        412690                            
+     37  PR Umuarama                                        412810                            
+     37  PR Umuarama                                        412862                            
+     37  PR Umuarama                                        412880                            
+     38  PR União da Vitória                                410290                            
+     38  PR União da Vitória                                410680                            
+     38  PR União da Vitória                                410850                            
+     38  PR União da Vitória                                411860                            
+     38  PR União da Vitória                                411870                            
+     38  PR União da Vitória                                412030                            
+     38  PR União da Vitória                                412820                            
+     39  PR Wenceslau Braz                                  410470                            
+     39  PR Wenceslau Braz                                  410900                            
+     39  PR Wenceslau Braz                                  411280                            
+     39  PR Wenceslau Braz                                  412070                            
+     39  PR Wenceslau Braz                                  412290                            
+     39  PR Wenceslau Braz                                  412400                            
+     39  PR Wenceslau Braz                                  412540                            
+     39  PR Wenceslau Braz                                  412660                            
+     39  PR Wenceslau Braz                                  412780                            
+     39  PR Wenceslau Braz                                  412850                            
+     40  PR Município ignorado - PR                         410000,419999                     

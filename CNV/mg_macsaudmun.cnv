@@ -1,0 +1,870 @@
+N 869 6
+        1  3101 SUL                                                                                             310120,310130,310490,310710,311070,311090,311390,311410,311460,311480,311550,311770,311870,311900,312050,312080,312280,312360,313040,313050,313080,313300,313310,313430,313450,313590,313780,313820,313870,314190,314260,314460,314550,314760,314990,315260,315470,315830,316080,316200,316370,316490,316520,316640,316700,316780,316930,316940,317070,317170
+   1    2  .....  CORDISLANDIA                                                                                  311900
+   1    3  .....  DOM VICOSO                                                                                    312280
+   1    4  .....  RIBEIRAO VERMELHO                                                                             315470
+   1    5  .....  CARMO DA CACHOEIRA                                                                            311390
+   1    6  .....  CONCEICAO DO RIO VERDE                                                                        311770
+   1    7  .....  CAMPANHA                                                                                      311090
+   1    8  .....  POUSO ALTO                                                                                    315260
+   1    9  .....  ALAGOA                                                                                        310130
+   1   10  .....  PASSA QUATRO                                                                                  314760
+   1   11  .....  OLIMPIO NORONHA                                                                               314550
+   1   12  .....  BAEPENDI                                                                                      310490
+   1   13  .....  NEPOMUCENO                                                                                    314460
+   1   14  .....  BOA ESPERANCA                                                                                 310710
+   1   15  .....  MINDURI                                                                                       314190
+   1   16  .....  MONSENHOR PAULO                                                                               314260
+   1   17  .....  ITUMIRIM                                                                                      313430
+   1   18  .....  TRES CORACOES                                                                                 316930
+   1   19  .....  TRES PONTAS                                                                                   316940
+   1   20  .....  SAO SEBASTIAO DO RIO VERDE                                                                    316490
+   1   21  .....  ITANHANDU                                                                                     313310
+   1   22  .....  SERITINGA                                                                                     316640
+   1   23  .....  SERRANOS                                                                                      316700
+   1   24  .....  ILICINEA                                                                                      313050
+   1   25  .....  IJACI                                                                                         313040
+   1   26  .....  INGAI                                                                                         313080
+   1   27  .....  SAO LOURENCO                                                                                  316370
+   1   28  .....  SANTANA DA VARGEM                                                                             315830
+   1   29  .....  CRUZILIA                                                                                      312080
+   1   30  .....  PERDOES                                                                                       314990
+   1   31  .....  VIRGINIA                                                                                      317170
+   1   32  .....  CARRANCAS                                                                                     311460
+   1   33  .....  CARVALHOS                                                                                     311480
+   1   34  .....  SAO BENTO ABADE                                                                               316080
+   1   35  .....  LAVRAS                                                                                        313820
+   1   36  .....  ITUTINGA                                                                                      313450
+   1   37  .....  AIURUOCA                                                                                      310120
+   1   38  .....  CRISTINA                                                                                      312050
+   1   39  .....  SAO THOME DAS LETRAS                                                                          316520
+   1   40  .....  CARMO DE MINAS                                                                                311410
+   1   41  .....  LUMINARIAS                                                                                    313870
+   1   42  .....  LAMBARI                                                                                       313780
+   1   43  .....  JESUANIA                                                                                      313590
+   1   44  .....  SAO GONCALO DO SAPUCAI                                                                        316200
+   1   45  .....  SOLEDADE DE MINAS                                                                             316780
+   1   46  .....  CAXAMBU                                                                                       311550
+   1   47  .....  ELOI MENDES                                                                                   312360
+   1   48  .....  VARGINHA                                                                                      317070
+   1   49  .....  ITAMONTE                                                                                      313300
+   1   50  .....  CAMBUQUIRA                                                                                    311070
+   1   51  .....  COQUEIRAL                                                                                     311870
+       52  3102 CENTRO SUL                                                                                      310163,310210,310290,310560,310590,310800,311220,311310,311320,311490,311520,311540,311630,311800,311830,311970,312040,312140,312150,312300,312390,312940,313000,313390,313540,313740,313790,313910,314450,314590,314660,315030,315080,315270,315380,315420,315440,315520,315610,315730,315733,315870,315910,315940,316090,316250,316500,316530,316600,316620,316880
+  52   53  .....  ENTRE RIOS DE MINAS                                                                           312390
+  52   54  .....  SANTA BARBARA DO TUGURIO                                                                      315730
+  52   55  .....  SANTA CRUZ DE MINAS                                                                           315733
+  52   56  .....  RIO ESPERA                                                                                    315520
+  52   57  .....  RITAPOLIS                                                                                     315610
+  52   58  .....  CORONEL XAVIER CHAVES                                                                         311970
+  52   59  .....  CRISTIANO OTONI                                                                               312040
+  52   60  .....  QUELUZITO                                                                                     315380
+  52   61  .....  RESENDE COSTA                                                                                 315420
+  52   62  .....  PIRANGA                                                                                       315080
+  52   63  .....  CASA GRANDE                                                                                   311490
+  52   64  .....  PRADOS                                                                                        315270
+  52   65  .....  OURO BRANCO                                                                                   314590
+  52   66  .....  PAIVA                                                                                         314660
+  52   67  .....  NAZARENO                                                                                      314450
+  52   68  .....  ALTO RIO DOCE                                                                                 310210
+  52   69  .....  ANTONIO CARLOS                                                                                310290
+  52   70  .....  SAO VICENTE DE MINAS                                                                          316530
+  52   71  .....  JECEABA                                                                                       313540
+  52   72  .....  ITAVERAVA                                                                                     313390
+  52   73  .....  IBITURUNA                                                                                     313000
+  52   74  .....  RESSAQUINHA                                                                                   315440
+  52   75  .....  CONGONHAS                                                                                     311800
+  52   76  .....  CARANAIBA                                                                                     311310
+  52   77  .....  BOM SUCESSO                                                                                   310800
+  52   78  .....  SENHORA DE OLIVEIRA                                                                           316600
+  52   79  .....  SANTANA DOS MONTES                                                                            315910
+  52   80  .....  ALFREDO VASCONCELOS                                                                           310163
+  52   81  .....  SANTA RITA DE IBITIPOCA                                                                       315940
+  52   82  .....  PIEDADE DO RIO GRANDE                                                                         315030
+  52   83  .....  DORES DE CAMPOS                                                                               312300
+  52   84  .....  DESTERRO DE ENTRE RIOS                                                                        312140
+  52   85  .....  CONCEICAO DA BARRA DE MINAS                                                                   311520
+  52   86  .....  CARANDAI                                                                                      311320
+  52   87  .....  MADRE DE DEUS DE MINAS                                                                        313910
+  52   88  .....  SAO JOAO DEL REI                                                                              316250
+  52   89  .....  SAO BRAS DO SUACUI                                                                            316090
+  52   90  .....  CAPELA NOVA                                                                                   311220
+  52   91  .....  SANTANA DO GARAMBEU                                                                           315870
+  52   92  .....  SAO TIAGO                                                                                     316500
+  52   93  .....  SENHORA DOS REMEDIOS                                                                          316620
+  52   94  .....  BARBACENA                                                                                     310560
+  52   95  .....  TIRADENTES                                                                                    316880
+  52   96  .....  DESTERRO DO MELO                                                                              312150
+  52   97  .....  IBERTIOGA                                                                                     312940
+  52   98  .....  BARROSO                                                                                       310590
+  52   99  .....  CATAS ALTAS DA NORUEGA                                                                        311540
+  52  100  .....  CIPOTANEA                                                                                     311630
+  52  101  .....  LAGOA DOURADA                                                                                 313740
+  52  102  .....  LAMIM                                                                                         313790
+  52  103  .....  CONSELHEIRO LAFAIETE                                                                          311830
+      104  3103 CENTRO                                                                                          310020,310320,310480,310500,310540,310600,310620,310640,310670,310700,310770,310810,310900,310920,310960,310990,311000,311250,311380,311535,311560,311787,311860,311890,311910,312060,312090,312260,312310,312410,312570,312590,312600,312640,312720,312800,312980,313010,313100,313110,313170,313190,313280,313460,313570,313620,313660,313665,313760,313970,314000,314015,314060,314070,314110,314230,314250,314350,314360,314370,314470,314480,314610,314640,314690,314740,314750,314930,314960,315040,315200,315320,315360,315370,315390,315460,315480,315530,315570,315600,315670,315680,315720,315780,315800,315850,315900,316050,316060,316100,316190,316292,316295,316480,316553,316610,316720,316830,316935,317120,317180
+ 104  105  .....  VESPASIANO                                                                                    317120
+ 104  106  .....  VIRGINOPOLIS                                                                                  317180
+ 104  107  .....  TRES MARIAS                                                                                   316935
+ 104  108  .....  MORRO DA GARCA                                                                                314360
+ 104  109  .....  CONFINS                                                                                       311787
+ 104  110  .....  CORINTO                                                                                       311910
+ 104  111  .....  MATOZINHOS                                                                                    314110
+ 104  112  .....  CEDRO DO ABAETE                                                                               311560
+ 104  113  .....  NOVA ERA                                                                                      314470
+ 104  114  .....  IBIRITE                                                                                       312980
+ 104  115  .....  FLORESTAL                                                                                     312600
+ 104  116  .....  DORES DE GUANHAES                                                                             312310
+ 104  117  .....  BELO HORIZONTE                                                                                310620
+ 104  118  .....  CAPIM BRANCO                                                                                  311250
+ 104  119  .....  CACHOEIRA DA PRATA                                                                            310960
+ 104  120  .....  SANTA MARIA DE ITABIRA                                                                        315800
+ 104  121  .....  ITABIRITO                                                                                     313190
+ 104  122  .....  QUARTEL GERAL                                                                                 315370
+ 104  123  .....  RIO VERMELHO                                                                                  315600
+ 104  124  .....  SAO JOSE DA LAPA                                                                              316295
+ 104  125  .....  ARACAI                                                                                        310320
+ 104  126  .....  TAQUARACU DE MINAS                                                                            316830
+ 104  127  .....  MARAVILHAS                                                                                    313970
+ 104  128  .....  SETE LAGOAS                                                                                   316720
+ 104  129  .....  MORADA NOVA DE MINAS                                                                          314350
+ 104  130  .....  MATEUS LEME                                                                                   314070
+ 104  131  .....  CORDISBURGO                                                                                   311890
+ 104  132  .....  INHAUMA                                                                                       313100
+ 104  133  .....  BARAO DE COCAIS                                                                               310540
+ 104  134  .....  OURO PRETO                                                                                    314610
+ 104  135  .....  MARIANA                                                                                       314000
+ 104  136  .....  BUENOPOLIS                                                                                    310920
+ 104  137  .....  CARMESIA                                                                                      311380
+ 104  138  .....  CATAS ALTAS                                                                                   311535
+ 104  139  .....  CURVELO                                                                                       312090
+ 104  140  .....  DOM JOAQUIM                                                                                   312260
+ 104  141  .....  NOVA UNIAO                                                                                    313660
+ 104  142  .....  JUATUBA                                                                                       313665
+ 104  143  .....  SANTANA DE PIRAPAMA                                                                           315850
+ 104  144  .....  SANTA LUZIA                                                                                   315780
+ 104  145  .....  RIO MANSO                                                                                     315530
+ 104  146  .....  RIO PIRACICABA                                                                                315570
+ 104  147  .....  CONTAGEM                                                                                      311860
+ 104  148  .....  RIBEIRAO DAS NEVES                                                                            315460
+ 104  149  .....  CRUCILANDIA                                                                                   312060
+ 104  150  .....  PRESIDENTE JUSCELINO                                                                          315320
+ 104  151  .....  PEDRO LEOPOLDO                                                                                314930
+ 104  152  .....  CAETE                                                                                         311000
+ 104  153  .....  PAPAGAIOS                                                                                     314690
+ 104  154  .....  PASSABEM                                                                                      314750
+ 104  155  .....  ABAETE                                                                                        310020
+ 104  156  .....  PIEDADE DOS GERAIS                                                                            315040
+ 104  157  .....  PARAOPEBA                                                                                     314740
+ 104  158  .....  BOM JESUS DO AMPARO                                                                           310770
+ 104  159  .....  BRUMADINHO                                                                                    310900
+ 104  160  .....  AUGUSTO DE LIMA                                                                               310480
+ 104  161  .....  BALDIM                                                                                        310500
+ 104  162  .....  BELA VISTA DE MINAS                                                                           310600
+ 104  163  .....  NOVA LIMA                                                                                     314480
+ 104  164  .....  MORRO DO PILAR                                                                                314370
+ 104  165  .....  MONJOLOS                                                                                      314250
+ 104  166  .....  MOEDA                                                                                         314230
+ 104  167  .....  MATERLANDIA                                                                                   314060
+ 104  168  .....  JOAO MONLEVADE                                                                                313620
+ 104  169  .....  LAGOA SANTA                                                                                   313760
+ 104  170  .....  JABOTICATUBAS                                                                                 313460
+ 104  171  .....  SARZEDO                                                                                       316553
+ 104  172  .....  INIMUTABA                                                                                     313110
+ 104  173  .....  SAO SEBASTIAO DO RIO PRETO                                                                    316480
+ 104  174  .....  ITABIRA                                                                                       313170
+ 104  175  .....  SAO GONCALO DO RIO ABAIXO                                                                     316190
+ 104  176  .....  IGARAPE                                                                                       313010
+ 104  177  .....  FUNILANDIA                                                                                    312720
+ 104  178  .....  SANTO ANTONIO DO RIO ABAIXO                                                                   316050
+ 104  179  .....  SANTO HIPOLITO                                                                                316060
+ 104  180  .....  FORTUNA DE MINAS                                                                              312640
+ 104  181  .....  ESMERALDAS                                                                                    312410
+ 104  182  .....  FERROS                                                                                        312590
+ 104  183  .....  RIO ACIMA                                                                                     315480
+ 104  184  .....  PRUDENTE DE MORAIS                                                                            315360
+ 104  185  .....  BELO VALE                                                                                     310640
+ 104  186  .....  PAINEIRAS                                                                                     314640
+ 104  187  .....  CAETANOPOLIS                                                                                  310990
+ 104  188  .....  SAO JOAQUIM DE BICAS                                                                          316292
+ 104  189  .....  BONFIM                                                                                        310810
+ 104  190  .....  BETIM                                                                                         310670
+ 104  191  .....  JEQUITIBA                                                                                     313570
+ 104  192  .....  MARIO CAMPOS                                                                                  314015
+ 104  193  .....  SAO DOMINGOS DO PRATA                                                                         316100
+ 104  194  .....  SANTANA DO RIACHO                                                                             315900
+ 104  195  .....  SABARA                                                                                        315670
+ 104  196  .....  SABINOPOLIS                                                                                   315680
+ 104  197  .....  RAPOSOS                                                                                       315390
+ 104  198  .....  ITAMBE DO MATO DENTRO                                                                         313280
+ 104  199  .....  GUANHAES                                                                                      312800
+ 104  200  .....  BIQUINHAS                                                                                     310700
+ 104  201  .....  POMPEU                                                                                        315200
+ 104  202  .....  PEQUI                                                                                         314960
+ 104  203  .....  SENHORA DO PORTO                                                                              316610
+ 104  204  .....  FELIXLANDIA                                                                                   312570
+ 104  205  .....  SANTA BARBARA                                                                                 315720
+      206  3104 JEQUITINHONHA                                                                                   310240,310340,310445,310650,311230,311350,311610,311680,311750,311810,311950,312010,312100,312160,312540,312550,312650,312760,313250,313545,313652,313835,314180,315330,316020,316590,316650,316710,316970,317107,317160
+ 206  207  .....  CONCEICAO DO MATO DENTRO                                                                      311750
+ 206  208  .....  PRESIDENTE KUBITSCHEK                                                                         315330
+ 206  209  .....  MINAS NOVAS                                                                                   314180
+ 206  210  .....  ALVORADA DE MINAS                                                                             310240
+ 206  211  .....  ARACUAI                                                                                       310340
+ 206  212  .....  JOSE GONCALVES DE MINAS                                                                       313652
+ 206  213  .....  SERRO                                                                                         316710
+ 206  214  .....  SENADOR MODESTINO GONCALVES                                                                   316590
+ 206  215  .....  FELICIO DOS SANTOS                                                                            312540
+ 206  216  .....  ARICANDUVA                                                                                    310445
+ 206  217  .....  COLUNA                                                                                        311680
+ 206  218  .....  SERRA AZUL DE MINAS                                                                           316650
+ 206  219  .....  GOUVEIA                                                                                       312760
+ 206  220  .....  TURMALINA                                                                                     316970
+ 206  221  .....  CORONEL MURTA                                                                                 311950
+ 206  222  .....  COUTO DE MAGALHAES DE MINAS                                                                   312010
+ 206  223  .....  CARBONITA                                                                                     311350
+ 206  224  .....  LEME DO PRADO                                                                                 313835
+ 206  225  .....  SANTO ANTONIO DO ITAMBE                                                                       316020
+ 206  226  .....  JENIPAPO DE MINAS                                                                             313545
+ 206  227  .....  ITAMARANDIBA                                                                                  313250
+ 206  228  .....  CHAPADA DO NORTE                                                                              311610
+ 206  229  .....  DATAS                                                                                         312100
+ 206  230  .....  VIRGEM DA LAPA                                                                                317160
+ 206  231  .....  CAPELINHA                                                                                     311230
+ 206  232  .....  CONGONHAS DO NORTE                                                                            311810
+ 206  233  .....  BERILO                                                                                        310650
+ 206  234  .....  VEREDINHA                                                                                     317107
+ 206  235  .....  SAO GONCALO DO RIO PRETO                                                                      312550
+ 206  236  .....  FRANCISCO BADARO                                                                              312650
+ 206  237  .....  DIAMANTINA                                                                                    312160
+      238  3105 OESTE                                                                                           310080,310390,310420,310510,310740,311040,311120,311190,311200,311400,311420,311450,311660,311760,311980,311995,312020,312230,312320,312470,312610,313020,313030,313220,313350,313370,313380,313530,313720,313830,313880,314050,314130,314240,314520,314560,314580,314650,314710,314770,314890,314970,315060,315140,315880,315990,316040,316120,316180,316310,316460,316660,316820
+ 238  239  .....  ESTRELA DO INDAIA                                                                             312470
+ 238  240  .....  SANTO ANTONIO DO AMPARO                                                                       315990
+ 238  241  .....  CRISTAIS                                                                                      312020
+ 238  242  .....  CLAUDIO                                                                                       311660
+ 238  243  .....  DIVINOPOLIS                                                                                   312230
+ 238  244  .....  CORREGO FUNDO                                                                                 311995
+ 238  245  .....  PITANGUI                                                                                      315140
+ 238  246  .....  CAMPO BELO                                                                                    311120
+ 238  247  .....  PEDRA DO INDAIA                                                                               314890
+ 238  248  .....  CARMOPOLIS DE MINAS                                                                           311450
+ 238  249  .....  PERDIGAO                                                                                      314970
+ 238  250  .....  PARA DE MINAS                                                                                 314710
+ 238  251  .....  OLIVEIRA                                                                                      314560
+ 238  252  .....  ONCA DE PITANGUI                                                                              314580
+ 238  253  .....  NOVA SERRANA                                                                                  314520
+ 238  254  .....  LEANDRO FERREIRA                                                                              313830
+ 238  255  .....  LUZ                                                                                           313880
+ 238  256  .....  JAPARAIBA                                                                                     313530
+ 238  257  .....  ITAPECERICA                                                                                   313350
+ 238  258  .....  ITAGUARA                                                                                      313220
+ 238  259  .....  ITAUNA                                                                                        313380
+ 238  260  .....  IGARATINGA                                                                                    313020
+ 238  261  .....  SERRA DA SAUDADE                                                                              316660
+ 238  262  .....  IGUATAMA                                                                                      313030
+ 238  263  .....  SAO JOSE DA VARGINHA                                                                          316310
+ 238  264  .....  SANTO ANTONIO DO MONTE                                                                        316040
+ 238  265  .....  DORES DO INDAIA                                                                               312320
+ 238  266  .....  CORREGO DANTA                                                                                 311980
+ 238  267  .....  PASSA TEMPO                                                                                   314770
+ 238  268  .....  BOM DESPACHO                                                                                  310740
+ 238  269  .....  BAMBUI                                                                                        310510
+ 238  270  .....  CANDEIAS                                                                                      311200
+ 238  271  .....  CAMACHO                                                                                       311040
+ 238  272  .....  MOEMA                                                                                         314240
+ 238  273  .....  SAO FRANCISCO DE PAULA                                                                        316120
+ 238  274  .....  ITATIAIUCU                                                                                    313370
+ 238  275  .....  SAO GONCALO DO PARA                                                                           316180
+ 238  276  .....  FORMIGA                                                                                       312610
+ 238  277  .....  PAINS                                                                                         314650
+ 238  278  .....  MARTINHO CAMPOS                                                                               314050
+ 238  279  .....  SAO SEBASTIAO DO OESTE                                                                        316460
+ 238  280  .....  CONCEICAO DO PARA                                                                             311760
+ 238  281  .....  MEDEIROS                                                                                      314130
+ 238  282  .....  SANTANA DO JACARE                                                                             315880
+ 238  283  .....  CARMO DA MATA                                                                                 311400
+ 238  284  .....  CANA VERDE                                                                                    311190
+ 238  285  .....  AGUANIL                                                                                       310080
+ 238  286  .....  ARCOS                                                                                         310420
+ 238  287  .....  TAPIRAI                                                                                       316820
+ 238  288  .....  ARAUJOS                                                                                       310390
+ 238  289  .....  CARMO DO CAJURU                                                                               311420
+ 238  290  .....  LAGOA DA PRATA                                                                                313720
+ 238  291  .....  PIRACEMA                                                                                      315060
+      292  3106 LESTE                                                                                           310060,310110,310180,310220,311205,311265,311570,311840,311920,312083,312210,312220,312370,312580,312690,312695,312730,312737,312750,312770,313180,313320,313410,313507,313655,313960,314010,314150,314420,314467,314840,314860,315430,315750,315820,315950,316105,316160,316165,316257,316280,316300,316350,316410,316450,316550,316770,316840,316950,317150,317190
+ 292  293  .....  MATHIAS LOBATO                                                                                317150
+ 292  294  .....  CENTRAL DE MINAS                                                                              311570
+ 292  295  .....  MARILAC                                                                                       314010
+ 292  296  .....  JAMPRUCA                                                                                      313507
+ 292  297  .....  SANTA RITA DO ITUETO                                                                          315950
+ 292  298  .....  ITUETA                                                                                        313410
+ 292  299  .....  SANTA MARIA DO SUACUI                                                                         315820
+ 292  300  .....  ALPERCATA                                                                                     310180
+ 292  301  .....  SAO JOSE DA SAFIRA                                                                            316300
+ 292  302  .....  SAO JOSE DO JACURI                                                                            316350
+ 292  303  .....  TARUMIRIM                                                                                     316840
+ 292  304  .....  TUMIRITINGA                                                                                   316950
+ 292  305  .....  COROACI                                                                                       311920
+ 292  306  .....  GONZAGA                                                                                       312750
+ 292  307  .....  MENDES PIMENTEL                                                                               314150
+ 292  308  .....  MANTENA                                                                                       313960
+ 292  309  .....  CONSELHEIRO PENA                                                                              311840
+ 292  310  .....  GOVERNADOR VALADARES                                                                          312770
+ 292  311  .....  SANTA EFIGENIA DE MINAS                                                                       315750
+ 292  312  .....  CAPITAO ANDRADE                                                                               311265
+ 292  313  .....  JOSE RAYDAN                                                                                   313655
+ 292  314  .....  PECANHA                                                                                       314860
+ 292  315  .....  AGUA BOA                                                                                      310060
+ 292  316  .....  ENGENHEIRO CALDAS                                                                             312370
+ 292  317  .....  AIMORES                                                                                       310110
+ 292  318  .....  GALILEIA                                                                                      312730
+ 292  319  .....  SOBRALIA                                                                                      316770
+ 292  320  .....  SARDOA                                                                                        316550
+ 292  321  .....  SAO GERALDO DO BAIXIO                                                                         316165
+ 292  322  .....  GOIABEIRA                                                                                     312737
+ 292  323  .....  SAO JOAO DO MANTENINHA                                                                        316257
+ 292  324  .....  SAO FELIX DE MINAS                                                                            316105
+ 292  325  .....  DIVINO DAS LARANJEIRAS                                                                        312210
+ 292  326  .....  NOVA BELEM                                                                                    314467
+ 292  327  .....  VIRGOLANDIA                                                                                   317190
+ 292  328  .....  ITANHOMI                                                                                      313320
+ 292  329  .....  SAO PEDRO DO SUACUI                                                                           316410
+ 292  330  .....  SAO SEBASTIAO DO MARANHAO                                                                     316450
+ 292  331  .....  ITABIRINHA                                                                                    313180
+ 292  332  .....  SAO GERALDO DA PIEDADE                                                                        316160
+ 292  333  .....  FERNANDES TOURINHO                                                                            312580
+ 292  334  .....  SAO JOAO EVANGELISTA                                                                          316280
+ 292  335  .....  FREI LAGONEGRO                                                                                312695
+ 292  336  .....  CUPARAQUE                                                                                     312083
+ 292  337  .....  ALVARENGA                                                                                     310220
+ 292  338  .....  PAULISTAS                                                                                     314840
+ 292  339  .....  FREI INOCENCIO                                                                                312690
+ 292  340  .....  NACIP RAYDAN                                                                                  314420
+ 292  341  .....  DIVINOLANDIA DE MINAS                                                                         312220
+ 292  342  .....  RESPLENDOR                                                                                    315430
+ 292  343  .....  CANTAGALO                                                                                     311205
+      344  3107 SUDESTE                                                                                         310150,310280,310310,310330,310360,310440,310460,310550,310610,310680,310690,310720,310750,310870,311010,311210,311330,311530,311590,311620,311670,311960,312130,312190,312200,312290,312330,312400,312420,312460,312490,312500,312530,312595,312738,312840,312850,312880,312900,313260,313670,313800,313840,313850,313860,313980,314020,314080,314160,314210,314220,314390,314540,314570,314587,314670,314780,314820,314875,314900,314940,314950,315010,315110,315130,315310,315410,315540,315580,315590,315620,315630,315645,315727,315840,315860,315930,316000,316070,316140,316150,316290,316443,316560,316570,316730,316750,316790,316900,316920,316990,317140,317200,317210
+ 344  345  .....  GUARARA                                                                                       312850
+ 344  346  .....  MATIAS BARBOSA                                                                                314080
+ 344  347  .....  TOCANTINS                                                                                     316900
+ 344  348  .....  MIRADOURO                                                                                     314210
+ 344  349  .....  LARANJAL                                                                                      313800
+ 344  350  .....  MARIPA DE MINAS                                                                               314020
+ 344  351  .....  SAO GERALDO                                                                                   316150
+ 344  352  .....  SANTO ANTONIO DO AVENTUREIRO                                                                  316000
+ 344  353  .....  RIO PRETO                                                                                     315590
+ 344  354  .....  RODEIRO                                                                                       315630
+ 344  355  .....  ALEM PARAIBA                                                                                  310150
+ 344  356  .....  OLIVEIRA FORTES                                                                               314570
+ 344  357  .....  PRESIDENTE BERNARDES                                                                          315310
+ 344  358  .....  SANTANA DE CATAGUASES                                                                         315840
+ 344  359  .....  ARGIRITA                                                                                      310440
+ 344  360  .....  SANTANA DO DESERTO                                                                            315860
+ 344  361  .....  CAIANA                                                                                        311010
+ 344  362  .....  ANDRELANDIA                                                                                   310280
+ 344  363  .....  UBA                                                                                           316990
+ 344  364  .....  SANTA RITA DE JACUTINGA                                                                       315930
+ 344  365  .....  ROCHEDO DE MINAS                                                                              315620
+ 344  366  .....  PIRAPETINGA                                                                                   315110
+ 344  367  .....  PIRAUBA                                                                                       315130
+ 344  368  .....  ERVALIA                                                                                       312400
+ 344  369  .....  BARAO DE MONTE ALTO                                                                           310550
+ 344  370  .....  PEDRO TEIXEIRA                                                                                314940
+ 344  371  .....  PIAU                                                                                          315010
+ 344  372  .....  CATAGUASES                                                                                    311530
+ 344  373  .....  SILVEIRANIA                                                                                   316730
+ 344  374  .....  CAPARAO                                                                                       311210
+ 344  375  .....  SENADOR CORTES                                                                                316560
+ 344  376  .....  SANTOS DUMONT                                                                                 316070
+ 344  377  .....  BICAS                                                                                         310690
+ 344  378  .....  BOM JARDIM DE MINAS                                                                           310750
+ 344  379  .....  COIMBRA                                                                                       311670
+ 344  380  .....  LIMA DUARTE                                                                                   313860
+ 344  381  .....  SANTA BARBARA DO MONTE VERDE                                                                  315727
+ 344  382  .....  RIO NOVO                                                                                      315540
+ 344  383  .....  ARANTINA                                                                                      310360
+ 344  384  .....  DESCOBERTO                                                                                    312130
+ 344  385  .....  MURIAE                                                                                        314390
+ 344  386  .....  GUIRICEMA                                                                                     312900
+ 344  387  .....  PEDRA DOURADA                                                                                 314900
+ 344  388  .....  PASSA-VINTE                                                                                   314780
+ 344  389  .....  ORIZANIA                                                                                      314587
+ 344  390  .....  EWBANK DA CAMARA                                                                              312500
+ 344  391  .....  VISCONDE DO RIO BRANCO                                                                        317200
+ 344  392  .....  LEOPOLDINA                                                                                    313840
+ 344  393  .....  LIBERDADE                                                                                     313850
+ 344  394  .....  ASTOLFO DUTRA                                                                                 310460
+ 344  395  .....  JUIZ DE FORA                                                                                  313670
+ 344  396  .....  TOMBOS                                                                                        316920
+ 344  397  .....  ITAMARATI DE MINAS                                                                            313260
+ 344  398  .....  SAO SEBASTIAO DA VARGEM ALEGRE                                                                316443
+ 344  399  .....  GUARANI                                                                                       312840
+ 344  400  .....  SIMAO PEREIRA                                                                                 316750
+ 344  401  .....  SENADOR FIRMINO                                                                               316570
+ 344  402  .....  GUIDOVAL                                                                                      312880
+ 344  403  .....  SAO JOAO NEPOMUCENO                                                                           316290
+ 344  404  .....  FERVEDOURO                                                                                    312595
+ 344  405  .....  DORES DO TURVO                                                                                312330
+ 344  406  .....  GOIANA                                                                                        312738
+ 344  407  .....  FARIA LEMOS                                                                                   312530
+ 344  408  .....  TABULEIRO                                                                                     316790
+ 344  409  .....  ARACITABA                                                                                     310330
+ 344  410  .....  ESPERA FELIZ                                                                                  312420
+ 344  411  .....  ESTRELA DALVA                                                                                 312460
+ 344  412  .....  EUGENOPOLIS                                                                                   312490
+ 344  413  .....  DIVINO                                                                                        312200
+ 344  414  .....  SAO FRANCISCO DO GLORIA                                                                       316140
+ 344  415  .....  RIO POMBA                                                                                     315580
+ 344  416  .....  ROSARIO DA LIMEIRA                                                                            315645
+ 344  417  .....  CHIADOR                                                                                       311620
+ 344  418  .....  DIVINESIA                                                                                     312190
+ 344  419  .....  DONA EUSEBIA                                                                                  312290
+ 344  420  .....  CORONEL PACHECO                                                                               311960
+ 344  421  .....  RECREIO                                                                                       315410
+ 344  422  .....  CARANGOLA                                                                                     311330
+ 344  423  .....  CHACARA                                                                                       311590
+ 344  424  .....  PEQUERI                                                                                       314950
+ 344  425  .....  PEDRA BONITA                                                                                  314875
+ 344  426  .....  BRAS PIRES                                                                                    310870
+ 344  427  .....  PATROCINIO DO MURIAE                                                                          314820
+ 344  428  .....  BIAS FORTES                                                                                   310680
+ 344  429  .....  PALMA                                                                                         314670
+ 344  430  .....  OLARIA                                                                                        314540
+ 344  431  .....  BOCAINA DE MINAS                                                                              310720
+ 344  432  .....  BELMIRO BRAGA                                                                                 310610
+ 344  433  .....  MERCES                                                                                        314160
+ 344  434  .....  MIRAI                                                                                         314220
+ 344  435  .....  MAR DE ESPANHA                                                                                313980
+ 344  436  .....  ANTONIO PRADO DE MINAS                                                                        310310
+ 344  437  .....  VOLTA GRANDE                                                                                  317210
+ 344  438  .....  VIEIRAS                                                                                       317140
+      439  3108 NORTE                                                                                           310665,310730,310825,310850,310860,310940,311115,311270,311547,311650,311783,311880,312030,312087,312380,312430,312660,312670,312707,312733,312735,312780,312825,312960,312965,313005,313065,313200,313210,313505,313510,313520,313535,313560,313640,313657,313680,313695,313730,313810,313865,313868,313925,313930,314085,314100,314200,314225,314270,314290,314330,314345,314465,314505,314537,314545,314625,314655,314795,314915,315057,315120,315213,315220,315450,315560,315650,315700,315737,315760,316045,316110,316225,316240,316245,316265,316270,316420,316695,316800,317000,317052,317065,317080,317090,317103
+ 439  440  .....  GLAUCILANDIA                                                                                  312735
+ 439  441  .....  PINTOPOLIS                                                                                    315057
+ 439  442  .....  CONEGO MARINHO                                                                                311783
+ 439  443  .....  SAO FRANCISCO                                                                                 316110
+ 439  444  .....  SANTA CRUZ DE SALINAS                                                                         315737
+ 439  445  .....  CORACAO DE JESUS                                                                              311880
+ 439  446  .....  RUBELITA                                                                                      315650
+ 439  447  .....  RIACHO DOS MACHADOS                                                                           315450
+ 439  448  .....  PIRAPORA                                                                                      315120
+ 439  449  .....  PONTO CHIQUE                                                                                  315213
+ 439  450  .....  CATUTI                                                                                        311547
+ 439  451  .....  BOTUMIRIM                                                                                     310850
+ 439  452  .....  MONTES CLAROS                                                                                 314330
+ 439  453  .....  MONTEZUMA                                                                                     314345
+ 439  454  .....  MATO VERDE                                                                                    314100
+ 439  455  .....  BERIZAL                                                                                       310665
+ 439  456  .....  NINHEIRA                                                                                      314465
+ 439  457  .....  MIRAVANIA                                                                                     314225
+ 439  458  .....  MATIAS CARDOSO                                                                                314085
+ 439  459  .....  MANGA                                                                                         313930
+ 439  460  .....  LONTRA                                                                                        313865
+ 439  461  .....  VARGEM GRANDE DO RIO PARDO                                                                    317065
+ 439  462  .....  SANTO ANTONIO DO RETIRO                                                                       316045
+ 439  463  .....  LUISLANDIA                                                                                    313868
+ 439  464  .....  LAGOA DOS PATOS                                                                               313730
+ 439  465  .....  CURRAL DE DENTRO                                                                              312087
+ 439  466  .....  IBIAI                                                                                         312960
+ 439  467  .....  JAPONVAR                                                                                      313535
+ 439  468  .....  MAMONAS                                                                                       313925
+ 439  469  .....  PADRE CARVALHO                                                                                314625
+ 439  470  .....  CRISTALIA                                                                                     312030
+ 439  471  .....  MIRABELA                                                                                      314200
+ 439  472  .....  MONTALVANIA                                                                                   314270
+ 439  473  .....  JANUARIA                                                                                      313520
+ 439  474  .....  SAO JOAO DO PACUI                                                                             316265
+ 439  475  .....  JANAUBA                                                                                       313510
+ 439  476  .....  CAMPO AZUL                                                                                    311115
+ 439  477  .....  IBIRACATU                                                                                     312965
+ 439  478  .....  RIO PARDO DE MINAS                                                                            315560
+ 439  479  .....  FRANCISCO SA                                                                                  312670
+ 439  480  .....  SAO JOAO DA PONTE                                                                             316240
+ 439  481  .....  SAO JOAO DO PARAISO                                                                           316270
+ 439  482  .....  SANTA FE DE MINAS                                                                             315760
+ 439  483  .....  PATIS                                                                                         314795
+ 439  484  .....  ITACAMBIRA                                                                                    313200
+ 439  485  .....  BOCAIUVA                                                                                      310730
+ 439  486  .....  CLARO DOS POCOES                                                                              311650
+ 439  487  .....  NOVORIZONTE                                                                                   314537
+ 439  488  .....  UBAI                                                                                          317000
+ 439  489  .....  NOVA PORTEIRINHA                                                                              314505
+ 439  490  .....  MONTE AZUL                                                                                    314290
+ 439  491  .....  BONITO DE MINAS                                                                               310825
+ 439  492  .....  BRASILIA DE MINAS                                                                             310860
+ 439  493  .....  BURITIZEIRO                                                                                   310940
+ 439  494  .....  PEDRAS DE MARIA DA CRUZ                                                                       314915
+ 439  495  .....  LASSANCE                                                                                      313810
+ 439  496  .....  OLHOS-D'AGUA                                                                                  314545
+ 439  497  .....  GAMELEIRAS                                                                                    312733
+ 439  498  .....  JOSENOPOLIS                                                                                   313657
+ 439  499  .....  SALINAS                                                                                       315700
+ 439  500  .....  PORTEIRINHA                                                                                   315220
+ 439  501  .....  CAPITAO ENEAS                                                                                 311270
+ 439  502  .....  URUCUIA                                                                                       317052
+ 439  503  .....  FRANCISCO DUMONT                                                                              312660
+ 439  504  .....  PAI PEDRO                                                                                     314655
+ 439  505  .....  ESPINOSA                                                                                      312430
+ 439  506  .....  VARZEA DA PALMA                                                                               317080
+ 439  507  .....  VARZELANDIA                                                                                   317090
+ 439  508  .....  VERDELANDIA                                                                                   317103
+ 439  509  .....  JOAQUIM FELICIO                                                                               313640
+ 439  510  .....  JURAMENTO                                                                                     313680
+ 439  511  .....  JUVENILIA                                                                                     313695
+ 439  512  .....  JAIBA                                                                                         313505
+ 439  513  .....  JEQUITAI                                                                                      313560
+ 439  514  .....  SAO ROMAO                                                                                     316420
+ 439  515  .....  TAIOBEIRAS                                                                                    316800
+ 439  516  .....  SERRANOPOLIS DE MINAS                                                                         316695
+ 439  517  .....  INDAIABIRA                                                                                    313065
+ 439  518  .....  ITACARAMBI                                                                                    313210
+ 439  519  .....  GUARACIAMA                                                                                    312825
+ 439  520  .....  ICARAI DE MINAS                                                                               313005
+ 439  521  .....  SAO JOAO DA LAGOA                                                                             316225
+ 439  522  .....  SAO JOAO DAS MISSOES                                                                          316245
+ 439  523  .....  FRUTA DE LEITE                                                                                312707
+ 439  524  .....  GRAO MOGOL                                                                                    312780
+ 439  525  .....  ENGENHEIRO NAVARRO                                                                            312380
+      526  3109 NOROESTE                                                                                        310380,310450,310820,310855,310930,310945,311430,311615,312070,312247,312620,312860,312890,313630,313710,313750,313753,314120,314437,314700,314800,315340,315445,315550,315970,316170,316210,316680,316890,317040,317047,317075,317100
+ 526  527  .....  MATUTINA                                                                                      314120
+ 526  528  .....  JOAO PINHEIRO                                                                                 313630
+ 526  529  .....  BONFINOPOLIS DE MINAS                                                                         310820
+ 526  530  .....  LAGOA GRANDE                                                                                  313753
+ 526  531  .....  TIROS                                                                                         316890
+ 526  532  .....  GUARDA-MOR                                                                                    312860
+ 526  533  .....  RIO PARANAIBA                                                                                 315550
+ 526  534  .....  SAO GONCALO DO ABAETE                                                                         316170
+ 526  535  .....  CRUZEIRO DA FORTALEZA                                                                         312070
+ 526  536  .....  VAZANTE                                                                                       317100
+ 526  537  .....  BURITIS                                                                                       310930
+ 526  538  .....  LAGOA FORMOSA                                                                                 313750
+ 526  539  .....  PARACATU                                                                                      314700
+ 526  540  .....  FORMOSO                                                                                       312620
+ 526  541  .....  VARJAO DE MINAS                                                                               317075
+ 526  542  .....  URUANA DE MINAS                                                                               317047
+ 526  543  .....  UNAI                                                                                          317040
+ 526  544  .....  SERRA DO SALITRE                                                                              316680
+ 526  545  .....  SAO GOTARDO                                                                                   316210
+ 526  546  .....  RIACHINHO                                                                                     315445
+ 526  547  .....  ARAPUA                                                                                        310380
+ 526  548  .....  ARINOS                                                                                        310450
+ 526  549  .....  SANTA ROSA DA SERRA                                                                           315970
+ 526  550  .....  DOM BOSCO                                                                                     312247
+ 526  551  .....  CHAPADA GAUCHA                                                                                311615
+ 526  552  .....  PRESIDENTE OLEGARIO                                                                           315340
+ 526  553  .....  CARMO DO PARANAIBA                                                                            311430
+ 526  554  .....  BRASILANDIA DE MINAS                                                                          310855
+ 526  555  .....  CABECEIRA GRANDE                                                                              310945
+ 526  556  .....  PATOS DE MINAS                                                                                314800
+ 526  557  .....  NATALANDIA                                                                                    314437
+ 526  558  .....  LAGAMAR                                                                                       313710
+ 526  559  .....  GUIMARANIA                                                                                    312890
+      560  3110 LESTE DO SUL                                                                                    310030,310040,310205,310230,310250,310370,310570,311020,311170,311290,311600,311740,312170,312270,312352,312820,313120,313550,313770,313867,313940,313950,314053,314090,314400,314585,314830,314880,315020,315190,315210,315230,315350,315400,315415,315490,315500,315740,315790,315890,316010,316255,316340,316360,316380,316400,316556,316630,316760,316805,316850,317050,317130
+ 560  561  .....  ACAIACA                                                                                       310040
+ 560  562  .....  SAO PEDRO DOS FERROS                                                                          316400
+ 560  563  .....  CHALE                                                                                         311600
+ 560  564  .....  SERICITA                                                                                      316630
+ 560  565  .....  POCRANE                                                                                       315190
+ 560  566  .....  DURANDE                                                                                       312352
+ 560  567  .....  URUCANIA                                                                                      317050
+ 560  568  .....  ORATORIOS                                                                                     314585
+ 560  569  .....  RIO DOCE                                                                                      315500
+ 560  570  .....  RAUL SOARES                                                                                   315400
+ 560  571  .....  PORTO FIRME                                                                                   315230
+ 560  572  .....  TEIXEIRAS                                                                                     316850
+ 560  573  .....  SAO JOSE DO GOIABAL                                                                           316340
+ 560  574  .....  CANAA                                                                                         311170
+ 560  575  .....  LUISBURGO                                                                                     313867
+ 560  576  .....  MANHUACU                                                                                      313940
+ 560  577  .....  SANTO ANTONIO DO GRAMA                                                                        316010
+ 560  578  .....  RIO CASCA                                                                                     315490
+ 560  579  .....  ALTO CAPARAO                                                                                  310205
+ 560  580  .....  PONTE NOVA                                                                                    315210
+ 560  581  .....  PIEDADE DE PONTE NOVA                                                                         315020
+ 560  582  .....  VICOSA                                                                                        317130
+ 560  583  .....  SIMONESIA                                                                                     316760
+ 560  584  .....  MANHUMIRIM                                                                                    313950
+ 560  585  .....  ALTO JEQUITIBA                                                                                315350
+ 560  586  .....  PAULA CANDIDO                                                                                 314830
+ 560  587  .....  ARAPONGA                                                                                      310370
+ 560  588  .....  MUTUM                                                                                         314400
+ 560  589  .....  MATIPO                                                                                        314090
+ 560  590  .....  ALVINOPOLIS                                                                                   310230
+ 560  591  .....  AMPARO DO SERRA                                                                               310250
+ 560  592  .....  MARTINS SOARES                                                                                314053
+ 560  593  .....  LAJINHA                                                                                       313770
+ 560  594  .....  JEQUERI                                                                                       313550
+ 560  595  .....  SEM-PEIXE                                                                                     316556
+ 560  596  .....  TAPARUBA                                                                                      316805
+ 560  597  .....  IPANEMA                                                                                       313120
+ 560  598  .....  GUARACIABA                                                                                    312820
+ 560  599  .....  SAO JOAO DO MANHUACU                                                                          316255
+ 560  600  .....  SANTANA DO MANHUACU                                                                           315890
+ 560  601  .....  SANTA CRUZ DO ESCALVADO                                                                       315740
+ 560  602  .....  SANTA MARGARIDA                                                                               315790
+ 560  603  .....  DIOGO DE VASCONCELOS                                                                          312170
+ 560  604  .....  DOM SILVERIO                                                                                  312270
+ 560  605  .....  REDUTO                                                                                        315415
+ 560  606  .....  CONCEICAO DE IPANEMA                                                                          311740
+ 560  607  .....  CAPUTIRA                                                                                      311290
+ 560  608  .....  PEDRA DO ANTA                                                                                 314880
+ 560  609  .....  CAJURI                                                                                        311020
+ 560  610  .....  BARRA LONGA                                                                                   310570
+ 560  611  .....  ABRE CAMPO                                                                                    310030
+ 560  612  .....  SAO JOSE DO MANTIMENTO                                                                        316360
+ 560  613  .....  SAO MIGUEL DO ANTA                                                                            316380
+      614  3111 NORDESTE                                                                                        310090,310100,310170,310270,310285,310470,310520,310660,311080,311300,311370,311545,311700,312015,312235,312245,312560,312675,312680,312705,313230,313270,313330,313400,313470,313580,313600,313650,313700,313890,313920,314055,314140,314315,314430,314490,314530,314535,314620,314630,314675,314850,314870,315000,315217,315240,315510,315660,315710,315765,315810,316030,316330,316555,316670,316860,317030
+ 614  615  .....  CAMPANARIO                                                                                    311080
+ 614  616  .....  PADRE PARAISO                                                                                 314630
+ 614  617  .....  ITINGA                                                                                        313400
+ 614  618  .....  FREI GASPAR                                                                                   312680
+ 614  619  .....  SAO JOSE DO DIVINO                                                                            316330
+ 614  620  .....  CRISOLITA                                                                                     312015
+ 614  621  .....  ANGELANDIA                                                                                    310285
+ 614  622  .....  BANDEIRA                                                                                      310520
+ 614  623  .....  ITAIPE                                                                                        313230
+ 614  624  .....  JEQUITINHONHA                                                                                 313580
+ 614  625  .....  PEDRA AZUL                                                                                    314870
+ 614  626  .....  PAVAO                                                                                         314850
+ 614  627  .....  TEOFILO OTONI                                                                                 316860
+ 614  628  .....  NOVO CRUZEIRO                                                                                 314530
+ 614  629  .....  SANTO ANTONIO DO JACINTO                                                                      316030
+ 614  630  .....  DIVISA ALEGRE                                                                                 312235
+ 614  631  .....  NANUQUE                                                                                       314430
+ 614  632  .....  LADAINHA                                                                                      313700
+ 614  633  .....  JACINTO                                                                                       313470
+ 614  634  .....  ITAMBACURI                                                                                    313270
+ 614  635  .....  CATUJI                                                                                        311545
+ 614  636  .....  RUBIM                                                                                         315660
+ 614  637  .....  FRANCISCOPOLIS                                                                                312675
+ 614  638  .....  FRONTEIRA DOS VALES                                                                           312705
+ 614  639  .....  FELISBURGO                                                                                    312560
+ 614  640  .....  ALMENARA                                                                                      310170
+ 614  641  .....  CARLOS CHAGAS                                                                                 311370
+ 614  642  .....  PALMOPOLIS                                                                                    314675
+ 614  643  .....  NOVO ORIENTE DE MINAS                                                                         314535
+ 614  644  .....  COMERCINHO                                                                                    311700
+ 614  645  .....  CARAI                                                                                         311300
+ 614  646  .....  ATALEIA                                                                                       310470
+ 614  647  .....  OURO VERDE DE MINAS                                                                           314620
+ 614  648  .....  MONTE FORMOSO                                                                                 314315
+ 614  649  .....  CACHOEIRA DE PAJEU                                                                            310270
+ 614  650  .....  MEDINA                                                                                        314140
+ 614  651  .....  BERTOPOLIS                                                                                    310660
+ 614  652  .....  POTE                                                                                          315240
+ 614  653  .....  SANTA HELENA DE MINAS                                                                         315765
+ 614  654  .....  JORDANIA                                                                                      313650
+ 614  655  .....  UMBURATIBA                                                                                    317030
+ 614  656  .....  AGUAS FORMOSAS                                                                                310090
+ 614  657  .....  AGUAS VERMELHAS                                                                               310100
+ 614  658  .....  NOVA MODICA                                                                                   314490
+ 614  659  .....  MALACACHETA                                                                                   313920
+ 614  660  .....  MATA VERDE                                                                                    314055
+ 614  661  .....  MACHACALIS                                                                                    313890
+ 614  662  .....  JOAIMA                                                                                        313600
+ 614  663  .....  ITAOBIM                                                                                       313330
+ 614  664  .....  SERRA DOS AIMORES                                                                             316670
+ 614  665  .....  SETUBINHA                                                                                     316555
+ 614  666  .....  SANTA MARIA DO SALTO                                                                          315810
+ 614  667  .....  RIO DO PRADO                                                                                  315510
+ 614  668  .....  DIVISOPOLIS                                                                                   312245
+ 614  669  .....  PESCADOR                                                                                      315000
+ 614  670  .....  PONTO DOS VOLANTES                                                                            315217
+ 614  671  .....  SALTO DA DIVISA                                                                               315710
+      672  3112 TRIANGULO DO SUL                                                                                310070,310400,311140,311150,311455,311690,311730,311820,312125,312700,312710,312950,313340,313440,313862,314920,314980,315070,315160,315300,315690,315770,316130,316810,317010,317043,317110
+ 672  673  .....  PRATINHA                                                                                      315300
+ 672  674  .....  DELTA                                                                                         312125
+ 672  675  .....  ITAPAGIPE                                                                                     313340
+ 672  676  .....  PERDIZES                                                                                      314980
+ 672  677  .....  COMENDADOR GOMES                                                                              311690
+ 672  678  .....  SAO FRANCISCO DE SALES                                                                        316130
+ 672  679  .....  SANTA JULIANA                                                                                 315770
+ 672  680  .....  VERISSIMO                                                                                     317110
+ 672  681  .....  TAPIRA                                                                                        316810
+ 672  682  .....  CONQUISTA                                                                                     311820
+ 672  683  .....  CONCEICAO DAS ALAGOAS                                                                         311730
+ 672  684  .....  CARNEIRINHO                                                                                   311455
+ 672  685  .....  FRONTEIRA                                                                                     312700
+ 672  686  .....  ARAXA                                                                                         310400
+ 672  687  .....  PIRAJUBA                                                                                      315070
+ 672  688  .....  AGUA COMPRIDA                                                                                 310070
+ 672  689  .....  LIMEIRA DO OESTE                                                                              313862
+ 672  690  .....  ITURAMA                                                                                       313440
+ 672  691  .....  UNIAO DE MINAS                                                                                317043
+ 672  692  .....  IBIA                                                                                          312950
+ 672  693  .....  FRUTAL                                                                                        312710
+ 672  694  .....  SACRAMENTO                                                                                    315690
+ 672  695  .....  PEDRINOPOLIS                                                                                  314920
+ 672  696  .....  CAMPOS ALTOS                                                                                  311150
+ 672  697  .....  PLANURA                                                                                       315160
+ 672  698  .....  UBERABA                                                                                       317010
+ 672  699  .....  CAMPO FLORIDO                                                                                 311140
+      700  3113 TRIANGULO DO NORTE                                                                              310010,310350,310375,310980,311110,311180,311260,311500,311580,311930,312350,312480,312790,312910,313070,313140,313160,313420,314280,314310,314500,314810,315280,315640,315980,316960,317020
+ 700  701  .....  CAPINOPOLIS                                                                                   311260
+ 700  702  .....  ARAGUARI                                                                                      310350
+ 700  703  .....  IRAI DE MINAS                                                                                 313160
+ 700  704  .....  ESTRELA DO SUL                                                                                312480
+ 700  705  .....  CACHOEIRA DOURADA                                                                             310980
+ 700  706  .....  PATROCINIO                                                                                    314810
+ 700  707  .....  ROMARIA                                                                                       315640
+ 700  708  .....  DOURADOQUARA                                                                                  312350
+ 700  709  .....  ITUIUTABA                                                                                     313420
+ 700  710  .....  CANAPOLIS                                                                                     311180
+ 700  711  .....  CAMPINA VERDE                                                                                 311110
+ 700  712  .....  COROMANDEL                                                                                    311930
+ 700  713  .....  ABADIA DOS DOURADOS                                                                           310010
+ 700  714  .....  SANTA VITORIA                                                                                 315980
+ 700  715  .....  GRUPIARA                                                                                      312790
+ 700  716  .....  TUPACIGUARA                                                                                   316960
+ 700  717  .....  MONTE CARMELO                                                                                 314310
+ 700  718  .....  IPIACU                                                                                        313140
+ 700  719  .....  NOVA PONTE                                                                                    314500
+ 700  720  .....  MONTE ALEGRE DE MINAS                                                                         314280
+ 700  721  .....  ARAPORA                                                                                       310375
+ 700  722  .....  INDIANOPOLIS                                                                                  313070
+ 700  723  .....  CASCALHO RICO                                                                                 311500
+ 700  724  .....  CENTRALINA                                                                                    311580
+ 700  725  .....  PRATA                                                                                         315280
+ 700  726  .....  GURINHATA                                                                                     312910
+ 700  727  .....  UBERLANDIA                                                                                    317020
+      728  3114 VALE DO ACO                                                                                     310050,310300,310630,310780,310880,310925,311340,311940,312000,312180,312250,312385,312930,313055,313090,313115,313130,313500,313610,314030,314170,314435,314995,315015,315053,315725,315895,315935,316095,316260,316447,316870,317005,317057,317115
+ 728  729  .....  IPABA                                                                                         313115
+ 728  730  .....  IAPU                                                                                          312930
+ 728  731  .....  DIONISIO                                                                                      312180
+ 728  732  .....  PINGO-D'AGUA                                                                                  315053
+ 728  733  .....  IMBE DE MINAS                                                                                 313055
+ 728  734  .....  BOM JESUS DO GALHO                                                                            310780
+ 728  735  .....  BRAUNAS                                                                                       310880
+ 728  736  .....  CORONEL FABRICIANO                                                                            311940
+ 728  737  .....  PERIQUITO                                                                                     314995
+ 728  738  .....  UBAPORANGA                                                                                    317005
+ 728  739  .....  VARGEM ALEGRE                                                                                 317057
+ 728  740  .....  SAO SEBASTIAO DO ANTA                                                                         316447
+ 728  741  .....  SANTA RITA DE MINAS                                                                           315935
+ 728  742  .....  BUGRE                                                                                         310925
+ 728  743  .....  BELO ORIENTE                                                                                  310630
+ 728  744  .....  INHAPIM                                                                                       313090
+ 728  745  .....  SANTANA DO PARAISO                                                                            315895
+ 728  746  .....  CORREGO NOVO                                                                                  312000
+ 728  747  .....  TIMOTEO                                                                                       316870
+ 728  748  .....  NAQUE                                                                                         314435
+ 728  749  .....  ANTONIO DIAS                                                                                  310300
+ 728  750  .....  MESQUITA                                                                                      314170
+ 728  751  .....  MARLIERIA                                                                                     314030
+ 728  752  .....  VERMELHO NOVO                                                                                 317115
+ 728  753  .....  JAGUARACU                                                                                     313500
+ 728  754  .....  JOANESIA                                                                                      313610
+ 728  755  .....  IPATINGA                                                                                      313130
+ 728  756  .....  SAO JOAO DO ORIENTE                                                                           316260
+ 728  757  .....  SAO DOMINGOS DAS DORES                                                                        316095
+ 728  758  .....  DOM CAVATI                                                                                    312250
+ 728  759  .....  SANTA BARBARA DO LESTE                                                                        315725
+ 728  760  .....  ENTRE FOLHAS                                                                                  312385
+ 728  761  .....  CARATINGA                                                                                     311340
+ 728  762  .....  PIEDADE DE CARATINGA                                                                          315015
+ 728  763  .....  ACUCENA                                                                                       310050
+      764  3115 EXTREMO SUL                                                                                     310140,310260,310790,310830,310890,310910,310970,311030,311050,311060,311360,311720,311780,311790,311850,311990,312110,312440,312450,312510,312740,312920,312990,313060,313150,313240,313360,313490,313990,314040,314340,314380,314440,314600,314730,314910,315090,315100,315180,315250,315920,315960,316230,316320,316440,316540,316557,316580,316740,316905,316910,316980,317220
+ 764  765  .....  CAMBUI                                                                                        311060
+ 764  766  .....  ESPIRITO SANTO DO DOURADO                                                                     312440
+ 764  767  .....  CAREACU                                                                                       311360
+ 764  768  .....  CORREGO DO BOM JESUS                                                                          311990
+ 764  769  .....  CONSOLACAO                                                                                    311850
+ 764  770  .....  MARMELOPOLIS                                                                                  314040
+ 764  771  .....  JACUTINGA                                                                                     313490
+ 764  772  .....  CACHOEIRA DE MINAS                                                                            310970
+ 764  773  .....  SANTA RITA DE CALDAS                                                                          315920
+ 764  774  .....  CAMANDUCAIA                                                                                   311050
+ 764  775  .....  GONCALVES                                                                                     312740
+ 764  776  .....  ESTIVA                                                                                        312450
+ 764  777  .....  BUENO BRANDAO                                                                                 310910
+ 764  778  .....  PIRANGUCU                                                                                     315090
+ 764  779  .....  WENCESLAU BRAZ                                                                                317220
+ 764  780  .....  CONCEICAO DAS PEDRAS                                                                          311720
+ 764  781  .....  OURO FINO                                                                                     314600
+ 764  782  .....  SILVIANOPOLIS                                                                                 316740
+ 764  783  .....  BRAZOPOLIS                                                                                    310890
+ 764  784  .....  NATERCIA                                                                                      314440
+ 764  785  .....  SAO JOAO DA MATA                                                                              316230
+ 764  786  .....  SANTA RITA DO SAPUCAI                                                                         315960
+ 764  787  .....  ALBERTINA                                                                                     310140
+ 764  788  .....  TOLEDO                                                                                        316910
+ 764  789  .....  IBITIURA DE MINAS                                                                             312990
+ 764  790  .....  PARAISOPOLIS                                                                                  314730
+ 764  791  .....  MONTE SIAO                                                                                    314340
+ 764  792  .....  MUNHOZ                                                                                        314380
+ 764  793  .....  ANDRADAS                                                                                      310260
+ 764  794  .....  MARIA DA FE                                                                                   313990
+ 764  795  .....  TURVOLANDIA                                                                                   316980
+ 764  796  .....  ITAJUBA                                                                                       313240
+ 764  797  .....  SAPUCAI-MIRIM                                                                                 316540
+ 764  798  .....  SENADOR JOSE BENTO                                                                            316580
+ 764  799  .....  SAO JOSE DO ALEGRE                                                                            316320
+ 764  800  .....  TOCOS DO MOJI                                                                                 316905
+ 764  801  .....  ITAPEVA                                                                                       313360
+ 764  802  .....  INCONFIDENTES                                                                                 313060
+ 764  803  .....  SENADOR AMARAL                                                                                316557
+ 764  804  .....  HELIODORA                                                                                     312920
+ 764  805  .....  DELFIM MOREIRA                                                                                312110
+ 764  806  .....  CONGONHAL                                                                                     311790
+ 764  807  .....  EXTREMA                                                                                       312510
+ 764  808  .....  CONCEICAO DOS OUROS                                                                           311780
+ 764  809  .....  POUSO ALEGRE                                                                                  315250
+ 764  810  .....  PIRANGUINHO                                                                                   315100
+ 764  811  .....  PEDRALVA                                                                                      314910
+ 764  812  .....  POCOS DE CALDAS                                                                               315180
+ 764  813  .....  BOM REPOUSO                                                                                   310790
+ 764  814  .....  BORDA DA MATA                                                                                 310830
+ 764  815  .....  CALDAS                                                                                        311030
+ 764  816  .....  IPUIUNA                                                                                       313150
+ 764  817  .....  SAO SEBASTIAO DA BELA VISTA                                                                   316440
+      818  3116 SUDOESTE                                                                                        310160,310190,310200,310410,310430,310530,310760,310840,310950,311100,311130,311160,311240,311280,311440,311470,311510,311640,311710,312120,312240,312340,312520,312630,312810,312830,312870,312970,313290,313375,313480,313690,313900,314300,314320,314410,314510,314720,314790,315050,315150,315170,315290,316220,316294,316390,316430,316470,316510,316690,317060
+ 818  819  .....  PIMENTA                                                                                       315050
+ 818  820  .....  SAO ROQUE DE MINAS                                                                            316430
+ 818  821  .....  DORESOPOLIS                                                                                   312340
+ 818  822  .....  MONTE BELO                                                                                    314300
+ 818  823  .....  VARGEM BONITA                                                                                 317060
+ 818  824  .....  CLARAVAL                                                                                      311640
+ 818  825  .....  IBIRACI                                                                                       312970
+ 818  826  .....  ARCEBURGO                                                                                     310410
+ 818  827  .....  GUAXUPE                                                                                       312870
+ 818  828  .....  GUAPE                                                                                         312810
+ 818  829  .....  DELFINOPOLIS                                                                                  312120
+ 818  830  .....  ITAMOGI                                                                                       313290
+ 818  831  .....  GUARANESIA                                                                                    312830
+ 818  832  .....  CARMO DO RIO CLARO                                                                            311440
+ 818  835  .....  JURUAIA                                                                                       313690
+ 818  836  .....  FAMA                                                                                          312520
+ 818  837  .....  BOM JESUS DA PENHA                                                                            310760
+ 818  838  .....  ITAU DE MINAS                                                                                 313375
+ 818  839  .....  FORTALEZA DE MINAS                                                                            312630
+ 818  840  .....  NOVA RESENDE                                                                                  314510
+ 818  841  .....  SAO SEBASTIAO DO PARAISO                                                                      316470
+ 818  842  .....  SAO TOMAS DE AQUINO                                                                           316510
+ 818  843  .....  MUZAMBINHO                                                                                    314410
+ 818  844  .....  SAO PEDRO DA UNIAO                                                                            316390
+ 818  845  .....  SAO JOSE DA BARRA                                                                             316294
+ 818  846  .....  BANDEIRA DO SUL                                                                               310530
+ 818  847  .....  PARAGUACU                                                                                     314720
+ 818  848  .....  PASSOS                                                                                        314790
+ 818  849  .....  MONTE SANTO DE MINAS                                                                          314320
+ 818  850  .....  ALFENAS                                                                                       310160
+ 818  851  .....  ALTEROSA                                                                                      310200
+ 818  852  .....  ALPINOPOLIS                                                                                   310190
+ 818  853  .....  AREADO                                                                                        310430
+ 818  854  .....  MACHADO                                                                                       313900
+ 818  855  .....  JACUI                                                                                         313480
+ 818  856  .....  SAO JOAO BATISTA DO GLORIA                                                                    316220
+ 818  857  .....  DIVISA NOVA                                                                                   312240
+ 818  858  .....  CONCEICAO DA APARECIDA                                                                        311710
+ 818  859  .....  PRATAPOLIS                                                                                    315290
+ 818  860  .....  CABO VERDE                                                                                    310950
+ 818  861  .....  PIUMHI                                                                                        315150
+ 818  862  .....  POCO FUNDO                                                                                    315170
+ 818  863  .....  CASSIA                                                                                        311510
+ 818  864  .....  CAMPO DO MEIO                                                                                 311130
+ 818  865  .....  CAMPOS GERAIS                                                                                 311160
+ 818  866  .....  BOTELHOS                                                                                      310840
+ 818  867  .....  CAPITOLIO                                                                                     311280
+ 818  868  .....  SERRANIA                                                                                      316690
+ 818  869  .....  CAMPESTRE                                                                                     311100
+ 818  833  .....  CARVALHOPOLIS                                                                                 311470
+ 818  834  .....  CAPETINGA                                                                                     311240

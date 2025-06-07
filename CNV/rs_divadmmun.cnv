@@ -1,0 +1,518 @@
+517  6                                                                                    
+      1  4301 Porto Alegre-01                               430087                            
+  1   2  .... Araricá                                       430087                            
+  1   3  .... Barão                                         430165                            
+  1   4  .... Brochier                                      430265                            
+  1   5  .... Cambará do Sul                                430360                            
+  1   6  .... Campo Bom                                     430390                            
+  1   7  .... Canoas                                        430460                            
+  1   8  .... Capela de Santana                             430468                            
+  1   9  .... Dois Irmãos                                   430640                            
+  1  10  .... Estância Velha                                430760                            
+  1  11  .... Esteio                                        430770                            
+  1  12  .... Harmonia                                      430955                            
+  1  13  .... Igrejinha                                     431010                            
+  1  14  .... Ivoti                                         431080                            
+  1  15  .... Lindolfo Collor                               431162                            
+  1  16  .... Maratá                                        431179                            
+  1  17  .... Montenegro                                    431240                            
+  1  18  .... Morro Reuter                                  431247                            
+  1  19  .... Nova Hartz                                    431306                            
+  1  20  .... Nova Santa Rita                               431337                            
+  1  21  .... Novo Hamburgo                                 431340                            
+  1  22  .... Pareci Novo                                   431403                            
+  1  23  .... Parobé                                        431405                            
+  1  24  .... Portão                                        431480                            
+  1  25  .... Presidente Lucena                             431514                            
+  1  26  .... Riozinho                                      431575                            
+  1  27  .... Rolante                                       431600                            
+  1  28  .... Salvador do Sul                               431650                            
+  1  29  .... Santa Maria do Herval                         431695                            
+  1  30  .... São Francisco de Paula                        431820                            
+  1  31  .... São José do Hortêncio                         431848                            
+  1  32  .... São José do Sul                               431861                            
+  1  33  .... São Leopoldo                                  431870                            
+  1  34  .... São Pedro da Serra                            431935                            
+  1  35  .... São Sebastião do Caí                          431950                            
+  1  36  .... Sapiranga                                     431990                            
+  1  37  .... Sapucaia do Sul                               432000                            
+  1  38  .... Tabaí                                         432085                            
+  1  39  .... Taquara                                       432120                            
+  1  40  .... Três Coroas                                   432170                            
+  1  41  .... Triunfo                                       432200                            
+  1  42  .... Tupandi                                       432225                            
+     43  4302 Porto Alegre-02                               430060                            
+ 43  44  .... Alvorada                                      430060                            
+ 43  45  .... Arambaré                                      430085                            
+ 43  46  .... Arroio dos Ratos                              430110                            
+ 43  47  .... Barão do Triunfo                              430175                            
+ 43  48  .... Barra do Ribeiro                              430190                            
+ 43  49  .... Butiá                                         430270                            
+ 43  50  .... Cachoeirinha                                  430310                            
+ 43  51  .... Camaquã                                       430350                            
+ 43  52  .... Cerro Grande do Sul                           430517                            
+ 43  53  .... Charqueadas                                   430535                            
+ 43  54  .... Chuvisca                                      430544                            
+ 43  55  .... Dom Feliciano                                 430650                            
+ 43  56  .... Eldorado do Sul                               430676                            
+ 43  57  .... General Câmara                                430880                            
+ 43  58  .... Glorinha                                      430905                            
+ 43  59  .... Gravataí                                      430920                            
+ 43  60  .... Guaíba                                        430930                            
+ 43  61  .... Mariana Pimentel                              431198                            
+ 43  62  .... Minas do Leão                                 431225                            
+ 43  63  .... Porto Alegre                                  431490                            
+ 43  64  .... São Jerônimo                                  431840                            
+ 43  65  .... Sentinela do Sul                              432035                            
+ 43  66  .... Sertão Santana                                432055                            
+ 43  67  .... Tapes                                         432110                            
+ 43  68  .... Viamão                                        432300                            
+     69  4303 Pelotas                                       430063                            
+ 69  70  .... Amaral Ferrador                               430063                            
+ 69  71  .... Arroio do Padre                               430107                            
+ 69  72  .... Arroio Grande                                 430130                            
+ 69  73  .... Canguçu                                       430450                            
+ 69  74  .... Capão do Leão                                 430466                            
+ 69  75  .... Cerrito                                       430512                            
+ 69  76  .... Chuí                                          430543                            
+ 69  77  .... Cristal                                       430605                            
+ 69  78  .... Herval                                        430710                            
+ 69  79  .... Jaguarão                                      431100                            
+ 69  80  .... Morro Redondo                                 431245                            
+ 69  81  .... Pedras Altas                                  431417                            
+ 69  82  .... Pedro Osório                                  431420                            
+ 69  83  .... Pelotas                                       431440                            
+ 69  84  .... Pinheiro Machado                              431450                            
+ 69  85  .... Piratini                                      431460                            
+ 69  86  .... Rio Grande                                    431560                            
+ 69  87  .... Santa Vitória do Palmar                       431730                            
+ 69  88  .... Santana da Boa Vista                          431700                            
+ 69  89  .... São José do Norte                             431850                            
+ 69  90  .... São Lourenço do Sul                           431880                            
+ 69  91  .... Turuçu                                        432232                            
+     92  4304 Santa Maria                                   430010                            
+ 92  93  .... Agudo                                         430010                            
+ 92  94  .... Cacequi                                       430290                            
+ 92  95  .... Capão do Cipó                                 430465                            
+ 92  96  .... Dilermando de Aguiar                          430637                            
+ 92  97  .... Dona Francisca                                430670                            
+ 92  98  .... Faxinal do Soturno                            430800                            
+ 92  99  .... Formigueiro                                   430840                            
+ 92 100  .... Itaara                                        431053                            
+ 92 101  .... Itacurubi                                     431055                            
+ 92 102  .... Ivorá                                         431075                            
+ 92 103  .... Jaguari                                       431110                            
+ 92 104  .... Jari                                          431113                            
+ 92 105  .... Júlio de Castilhos                            431120                            
+ 92 106  .... Mata                                          431210                            
+ 92 107  .... Nova Esperança do Sul                         431303                            
+ 92 108  .... Nova Palma                                    431310                            
+ 92 109  .... Paraíso do Sul                                431402                            
+ 92 110  .... Pinhal Grande                                 431447                            
+ 92 111  .... Quevedos                                      431532                            
+ 92 112  .... Restinga Sêca                                 431550                            
+ 92 113  .... Santa Maria                                   431690                            
+ 92 114  .... Santiago                                      431740                            
+ 92 115  .... São Francisco de Assis                        431810                            
+ 92 116  .... São João do Polêsine                          431843                            
+ 92 117  .... São Martinho da Serra                         431912                            
+ 92 118  .... São Pedro do Sul                              431940                            
+ 92 119  .... São Sepé                                      431960                            
+ 92 120  .... São Vicente do Sul                            431980                            
+ 92 121  .... Silveira Martins                              432065                            
+ 92 122  .... Toropi                                        432149                            
+ 92 123  .... Unistalda                                     432237                            
+ 92 124  .... Vila Nova do Sul                              432345                            
+    125  4305 Caxias do Sul                                 430057                            
+125 126  .... Alto Feliz                                    430057                            
+125 127  .... Antônio Prado                                 430080                            
+125 128  .... Bento Gonçalves                               430210                            
+125 129  .... Boa Vista do Sul                              430225                            
+125 130  .... Bom Jesus                                     430230                            
+125 131  .... Bom Princípio                                 430235                            
+125 132  .... Campestre da Serra                            430367                            
+125 133  .... Canela                                        430440                            
+125 134  .... Carlos Barbosa                                430480                            
+125 135  .... Caxias do Sul                                 430510                            
+125 136  .... Coronel Pilar                                 430593                            
+125 137  .... Cotiporã                                      430595                            
+125 138  .... Esmeralda                                     430740                            
+125 139  .... Fagundes Varela                               430786                            
+125 140  .... Farroupilha                                   430790                            
+125 141  .... Feliz                                         430810                            
+125 142  .... Flores da Cunha                               430820                            
+125 143  .... Garibaldi                                     430860                            
+125 144  .... Gramado                                       430910                            
+125 145  .... Guabiju                                       430925                            
+125 146  .... Guaporé                                       430940                            
+125 147  .... Ipê                                           431043                            
+125 148  .... Jaquirana                                     431112                            
+125 149  .... Linha Nova                                    431164                            
+125 150  .... Monte Alegre dos Campos                       431237                            
+125 151  .... Monte Belo do Sul                             431238                            
+125 152  .... Muitos Capões                                 431261                            
+125 153  .... Nova Araçá                                    431280                            
+125 154  .... Nova Bassano                                  431290                            
+125 155  .... Nova Pádua                                    431308                            
+125 156  .... Nova Petrópolis                               431320                            
+125 157  .... Nova Prata                                    431330                            
+125 158  .... Nova Roma do Sul                              431335                            
+125 159  .... Paraí                                         431400                            
+125 160  .... Picada Café                                   431442                            
+125 161  .... Pinhal da Serra                               431446                            
+125 162  .... Pinto Bandeira                                431454,430145,431453              
+125 163  .... Protásio Alves                                431517                            
+125 164  .... Santa Tereza                                  431725                            
+125 165  .... São Jorge                                     431844                            
+125 166  .... São José dos Ausentes                         431862                            
+125 167  .... São Marcos                                    431900                            
+125 168  .... São Vendelino                                 431975                            
+125 169  .... União da Serra                                432235                            
+125 170  .... Vacaria                                       432250                            
+125 171  .... Vale Real                                     432254                            
+125 172  .... Veranópolis                                   432280                            
+125 173  .... Vila Flores                                   432330                            
+125 174  .... Vista Alegre do Prata                         432360                            
+    175  4306 Passo Fundo                                   430005                            
+175 176  .... Água Santa                                    430005                            
+175 177  .... Almirante Tamandaré do Sul                    430047                            
+175 178  .... Alto Alegre                                   430055                            
+175 179  .... André da Rocha                                430066                            
+175 180  .... Arvorezinha                                   430140                            
+175 181  .... Barracão                                      430180                            
+175 182  .... Barros Cassal                                 430200                            
+175 183  .... Cacique Doble                                 430320                            
+175 184  .... Camargo                                       430355                            
+175 185  .... Campos Borges                                 430410                            
+175 186  .... Capão Bonito do Sul                           430462                            
+175 187  .... Carazinho                                     430470                            
+175 188  .... Casca                                         430490                            
+175 189  .... Caseiros                                      430495                            
+175 190  .... Ciríaco                                       430550                            
+175 191  .... Coqueiros do Sul                              430585                            
+175 192  .... Coxilha                                       430597                            
+175 193  .... David Canabarro                               430630                            
+175 194  .... Ernestina                                     430705                            
+175 195  .... Espumoso                                      430750                            
+175 196  .... Fontoura Xavier                               430830                            
+175 197  .... Gentil                                        430885                            
+175 198  .... Ibiaçá                                        430980                            
+175 199  .... Ibiraiaras                                    430990                            
+175 200  .... Ibirapuitã                                    430995                            
+175 201  .... Itapuca                                       431057                            
+175 202  .... Lagoa dos Três Cantos                         431127                            
+175 203  .... Lagoa Vermelha                                431130                            
+175 204  .... Lagoão                                        431125                            
+175 205  .... Machadinho                                    431170                            
+175 206  .... Marau                                         431180                            
+175 207  .... Mato Castelhano                               431213                            
+175 208  .... Maximiliano de Almeida                        431220                            
+175 209  .... Montauri                                      431235                            
+175 210  .... Mormaço                                       431242                            
+175 211  .... Muliterno                                     431262                            
+175 212  .... Não-Me-Toque                                  431265                            
+175 213  .... Nicolau Vergueiro                             431267                            
+175 214  .... Nova Alvorada                                 431275                            
+175 215  .... Paim Filho                                    431360                            
+175 216  .... Passo Fundo                                   431410                            
+175 217  .... Pontão                                        431477                            
+175 218  .... Sananduva                                     431660                            
+175 219  .... Santa Cecília do Sul                          431673                            
+175 220  .... Santo Antônio do Palma                        431755                            
+175 221  .... Santo Antônio do Planalto                     431775                            
+175 222  .... Santo Expedito do Sul                         431795                            
+175 223  .... São Domingos do Sul                           431805                            
+175 224  .... São João da Urtiga                            431842                            
+175 225  .... São José do Ouro                              431860                            
+175 226  .... Serafina Corrêa                               432040                            
+175 227  .... Sertão                                        432050                            
+175 228  .... Soledade                                      432080                            
+175 229  .... Tapejara                                      432090                            
+175 230  .... Tapera                                        432100                            
+175 231  .... Tio Hugo                                      432146                            
+175 232  .... Tunas                                         432215                            
+175 233  .... Tupanci do Sul                                432218                            
+175 234  .... Vanini                                        432255                            
+175 235  .... Victor Graeff                                 432320                            
+175 236  .... Vila Lângaro                                  432335                            
+175 237  .... Vila Maria                                    432340                            
+    238  4307 Bagé                                          430003                            
+238 239  .... Aceguá                                        430003                            
+238 240  .... Bagé                                          430160                            
+238 241  .... Candiota                                      430435                            
+238 242  .... Dom Pedrito                                   430660                            
+238 243  .... Hulha Negra                                   430965                            
+238 244  .... Lavras do Sul                                 431150                            
+    245  4308 Cachoeira do Sul                              430120                            
+245 246  .... Arroio do Tigre                               430120                            
+245 247  .... Caçapava do Sul                               430280                            
+245 248  .... Cachoeira do Sul                              430300                            
+245 249  .... Cerro Branco                                  430513                            
+245 250  .... Encruzilhada do Sul                           430690                            
+245 251  .... Estrela Velha                                 430781                            
+245 252  .... Ibarama                                       430975                            
+245 253  .... Lagoa Bonita do Sul                           431123                            
+245 254  .... Novo Cabrais                                  431339                            
+245 255  .... Passa Sete                                    431406                            
+245 256  .... Segredo                                       432026                            
+245 257  .... Sobradinho                                    432070                            
+    258  4309 Cruz Alta                                     430222                            
+258 259  .... Boa Vista do Cadeado                          430222                            
+258 260  .... Boa Vista do Incra                            430223                            
+258 261  .... Colorado                                      430560                            
+258 262  .... Cruz Alta                                     430610                            
+258 263  .... Fortaleza dos Valos                           430845                            
+258 264  .... Ibirubá                                       431000                            
+258 265  .... Jacuizinho                                    431087                            
+258 266  .... Quinze de Novembro                            431535                            
+258 267  .... Saldanha Marinho                              431643                            
+258 268  .... Salto do Jacuí                                431645                            
+258 269  .... Santa Bárbara do Sul                          431670                            
+258 270  .... Selbach                                       432030                            
+258 271  .... Tupanciretã                                   432220                            
+    272  4310 Alegrete                                      430040                            
+272 273  .... Alegrete                                      430040                            
+272 274  .... Barra do Quaraí                               430187                            
+272 275  .... Itaqui                                        431060                            
+272 276  .... Maçambará                                     431171                            
+272 277  .... Manoel Viana                                  431175                            
+272 278  .... Quaraí                                        431530                            
+272 279  .... Rosário do Sul                                431640                            
+272 280  .... Sant'Ana do Livramento                        431710                            
+272 281  .... Santa Margarida do Sul                        431697                            
+272 282  .... São Gabriel                                   431830                            
+272 283  .... Uruguaiana                                    432240                            
+    284  4311 Erechim                                       430090                            
+284 285  .... Aratiba                                       430090                            
+284 286  .... Áurea                                         430155                            
+284 287  .... Barão de Cotegipe                             430170                            
+284 288  .... Barra do Rio Azul                             430192                            
+284 289  .... Benjamin Constant do Sul                      430205                            
+284 290  .... Campinas do Sul                               430380                            
+284 291  .... Carlos Gomes                                  430485                            
+284 292  .... Centenário                                    430511                            
+284 293  .... Charrua                                       430537                            
+284 294  .... Cruzaltense                                   430613                            
+284 295  .... Entre Rios do Sul                             430695                            
+284 296  .... Erebango                                      430697                            
+284 297  .... Erechim                                       430700                            
+284 298  .... Erval Grande                                  430720                            
+284 299  .... Estação                                       430755                            
+284 300  .... Faxinalzinho                                  430805                            
+284 301  .... Floriano Peixoto                              430825                            
+284 302  .... Gaurama                                       430870                            
+284 303  .... Getúlio Vargas                                430890                            
+284 304  .... Ipiranga do Sul                               431046                            
+284 305  .... Itatiba do Sul                                431070                            
+284 306  .... Jacutinga                                     431090                            
+284 307  .... Marcelino Ramos                               431190                            
+284 308  .... Mariano Moro                                  431200                            
+284 309  .... Nonoai                                        431270                            
+284 310  .... Paulo Bento                                   431413                            
+284 311  .... Ponte Preta                                   431478                            
+284 312  .... Quatro Irmãos                                 431531                            
+284 313  .... Rio dos Índios                                431555                            
+284 314  .... São Valentim                                  431970                            
+284 315  .... Severiano de Almeida                          432060                            
+284 316  .... Três Arroios                                  432163                            
+284 317  .... Viadutos                                      432290                            
+    318  4312 Santo Ângelo                                  430250                            
+318 319  .... Bossoroca                                     430250                            
+318 320  .... Caibaté                                       430330                            
+318 321  .... Cerro Largo                                   430520                            
+318 322  .... Dezesseis de Novembro                         430635                            
+318 323  .... Entre-Ijuís                                   430693                            
+318 324  .... Eugênio de Castro                             430783                            
+318 325  .... Garruchos                                     430865                            
+318 326  .... Guarani das Missões                           430950                            
+318 327  .... Mato Queimado                                 431217                            
+318 328  .... Pirapó                                        431455                            
+318 329  .... Porto Xavier                                  431510                            
+318 330  .... Rolador                                       431595                            
+318 331  .... Roque Gonzales                                431630                            
+318 332  .... Salvador das Missões                          431647                            
+318 333  .... Santo Ângelo                                  431750                            
+318 334  .... Santo Antônio das Missões                     431770                            
+318 335  .... São Borja                                     431800                            
+318 336  .... São Luiz Gonzaga                              431890                            
+318 337  .... São Miguel das Missões                        431915                            
+318 338  .... São Nicolau                                   431920                            
+318 339  .... São Pedro do Butiá                            431937                            
+318 340  .... Sete de Setembro                              432057                            
+318 341  .... Ubiretama                                     432234                            
+318 342  .... Vitória das Missões                           432375                            
+    343  4313 Santa Cruz do Sul                             430420                            
+343 344  .... Candelária                                    430420                            
+343 345  .... Gramado Xavier                                430915                            
+343 346  .... Herveiras                                     430957                            
+343 347  .... Mato Leitão                                   431215                            
+343 348  .... Pantano Grande                                431395                            
+343 349  .... Passo do Sobrado                              431407                            
+343 350  .... Rio Pardo                                     431570                            
+343 351  .... Santa Cruz do Sul                             431680                            
+343 352  .... Sinimbu                                       432067                            
+343 353  .... Vale do Sol                                   432253                            
+343 354  .... Vale Verde                                    432252                            
+343 355  .... Venâncio Aires                                432260                            
+343 356  .... Vera Cruz                                     432270                            
+    357  4314 Santa Rosa                                    430030                            
+357 358  .... Alecrim                                       430030                            
+357 359  .... Alegria                                       430045                            
+357 360  .... Boa Vista do Buricá                           430220                            
+357 361  .... Campina das Missões                           430370                            
+357 362  .... Cândido Godói                                 430430                            
+357 363  .... Doutor Maurício Cardoso                       430673                            
+357 364  .... Giruá                                         430900                            
+357 365  .... Horizontina                                   430960                            
+357 366  .... Independência                                 431040                            
+357 367  .... Nova Candelária                               431301                            
+357 368  .... Novo Machado                                  431342                            
+357 369  .... Porto Lucena                                  431500                            
+357 370  .... Porto Mauá                                    431505                            
+357 371  .... Porto Vera Cruz                               431507                            
+357 372  .... Santa Rosa                                    431720                            
+357 373  .... Santo Cristo                                  431790                            
+357 374  .... São José do Inhacorá                          431849                            
+357 375  .... São Paulo das Missões                         431930                            
+357 376  .... Senador Salgado Filho                         432032                            
+357 377  .... Três de Maio                                  432180                            
+357 378  .... Tucunduva                                     432210                            
+357 379  .... Tuparendi                                     432230                            
+    380  4315 Palmeira das Missões                          430195                            
+380 381  .... Barra Funda                                   430195                            
+380 382  .... Boa Vista das Missões                         430215                            
+380 383  .... Braga                                         430260                            
+380 384  .... Cerro Grande                                  430515                            
+380 385  .... Chapada                                       430530                            
+380 386  .... Constantina                                   430580                            
+380 387  .... Coronel Bicaco                                430590                            
+380 388  .... Dois Irmãos das Missões                       430642                            
+380 389  .... Engenho Velho                                 430692                            
+380 390  .... Gramado dos Loureiros                         430912                            
+380 391  .... Jaboticaba                                    431085                            
+380 392  .... Lajeado do Bugre                              431142                            
+380 393  .... Miraguaí                                      431230                            
+380 394  .... Nova Boa Vista                                431295                            
+380 395  .... Novo Barreiro                                 431349                            
+380 396  .... Novo Xingu                                    431346                            
+380 397  .... Palmeira das Missões                          431370                            
+380 398  .... Redentora                                     431540                            
+380 399  .... Ronda Alta                                    431610                            
+380 400  .... Rondinha                                      431620                            
+380 401  .... Sagrada Família                               431642                            
+380 402  .... São José das Missões                          431845                            
+380 403  .... São Pedro das Missões                         431936                            
+380 404  .... Sarandi                                       432010                            
+380 405  .... Três Palmeiras                                432185                            
+380 406  .... Trindade do Sul                               432195                            
+    407  4316 Lajeado                                       430070                            
+407 408  .... Anta Gorda                                    430070                            
+407 409  .... Arroio do Meio                                430100                            
+407 410  .... Bom Retiro do Sul                             430240                            
+407 411  .... Boqueirão do Leão                             430245                            
+407 412  .... Canudos do Vale                               430461                            
+407 413  .... Capitão                                       430469                            
+407 414  .... Colinas                                       430558                            
+407 415  .... Coqueiro Baixo                                430583                            
+407 416  .... Cruzeiro do Sul                               430620                            
+407 417  .... Dois Lajeados                                 430645                            
+407 418  .... Doutor Ricardo                                430675                            
+407 419  .... Encantado                                     430680                            
+407 420  .... Estrela                                       430780                            
+407 421  .... Fazenda Vilanova                              430807                            
+407 422  .... Forquetinha                                   430843                            
+407 423  .... Ilópolis                                      431030                            
+407 424  .... Imigrante                                     431036                            
+407 425  .... Lajeado                                       431140                            
+407 426  .... Marques de Souza                              431205                            
+407 427  .... Muçum                                         431260                            
+407 428  .... Nova Bréscia                                  431300                            
+407 429  .... Paverama                                      431415                            
+407 430  .... Poço das Antas                                431475                            
+407 431  .... Pouso Novo                                    431513                            
+407 432  .... Progresso                                     431515                            
+407 433  .... Putinga                                       431520                            
+407 434  .... Relvado                                       431545                            
+407 435  .... Roca Sales                                    431580                            
+407 436  .... Santa Clara do Sul                            431675                            
+407 437  .... São José do Herval                            431846                            
+407 438  .... São Valentim do Sul                           431971                            
+407 439  .... Sério                                         432045                            
+407 440  .... Taquari                                       432130                            
+407 441  .... Teutônia                                      432145                            
+407 442  .... Travesseiro                                   432162                            
+407 443  .... Vespasiano Corrêa                             432285                            
+407 444  .... Westfália                                     432377                            
+    445  4317 Ijuí                                          430020                            
+445 446  .... Ajuricaba                                     430020                            
+445 447  .... Augusto Pestana                               430150                            
+445 448  .... Bozano                                        430258                            
+445 449  .... Campo Novo                                    430400                            
+445 450  .... Catuípe                                       430500                            
+445 451  .... Chiapetta                                     430540                            
+445 452  .... Condor                                        430570                            
+445 453  .... Coronel Barros                                430587                            
+445 454  .... Crissiumal                                    430600                            
+445 455  .... Humaitá                                       430970                            
+445 456  .... Ijuí                                          431020                            
+445 457  .... Inhacorá                                      431041                            
+445 458  .... Jóia                                          431115                            
+445 459  .... Nova Ramada                                   431333                            
+445 460  .... Panambi                                       431390                            
+445 461  .... Pejuçara                                      431430                            
+445 462  .... Santo Augusto                                 431780                            
+445 463  .... São Martinho                                  431910                            
+445 464  .... São Valério do Sul                            431973                            
+445 465  .... Sede Nova                                     432023                            
+    466  4318 Osório                                        430105                            
+466 467  .... Arroio do Sal                                 430105                            
+466 468  .... Balneário Pinhal                              430163                            
+466 469  .... Capão da Canoa                                430463                            
+466 470  .... Capivari do Sul                               430467                            
+466 471  .... Caraá                                         430471                            
+466 472  .... Cidreira                                      430545                            
+466 473  .... Dom Pedro de Alcântara                        430655                            
+466 474  .... Imbé                                          431033                            
+466 475  .... Itati                                         431065                            
+466 476  .... Mampituba                                     431173                            
+466 477  .... Maquiné                                       431177                            
+466 478  .... Morrinhos do Sul                              431244                            
+466 479  .... Mostardas                                     431250                            
+466 480  .... Osório                                        431350                            
+466 481  .... Palmares do Sul                               431365                            
+466 482  .... Santo Antônio da Patrulha                     431760                            
+466 483  .... Tavares                                       432135                            
+466 484  .... Terra de Areia                                432143                            
+466 485  .... Torres                                        432150                            
+466 486  .... Tramandaí                                     432160                            
+466 487  .... Três Cachoeiras                               432166                            
+466 488  .... Três Forquilhas                               432183                            
+466 489  .... Xangri-lá                                     432380                            
+    490  4319 Frederico Westphalen                          430050                            
+490 491  .... Alpestre                                      430050                            
+490 492  .... Ametista do Sul                               430064                            
+490 493  .... Barra do Guarita                              430185                            
+490 494  .... Bom Progresso                                 430237                            
+490 495  .... Caiçara                                       430340                            
+490 496  .... Cristal do Sul                                430607                            
+490 497  .... Derrubadas                                    430632                            
+490 498  .... Erval Seco                                    430730                            
+490 499  .... Esperança do Sul                              430745                            
+490 500  .... Frederico Westphalen                          430850                            
+490 501  .... Iraí                                          431050                            
+490 502  .... Liberato Salzano                              431160                            
+490 503  .... Novo Tiradentes                               431344                            
+490 504  .... Palmitinho                                    431380                            
+490 505  .... Pinhal                                        431445                            
+490 506  .... Pinheirinho do Vale                           431449                            
+490 507  .... Planalto                                      431470                            
+490 508  .... Rodeio Bonito                                 431590                            
+490 509  .... Seberi                                        432020                            
+490 510  .... Taquaruçu do Sul                              432132                            
+490 511  .... Tenente Portela                               432140                            
+490 512  .... Tiradentes do Sul                             432147                            
+490 513  .... Três Passos                                   432190                            
+490 514  .... Vicente Dutra                                 432310                            
+490 515  .... Vista Alegre                                  432350                            
+490 516  .... Vista Gaúcha                                  432370                            
+    517  4300 Município ignorado - RS                       430000,439999                     

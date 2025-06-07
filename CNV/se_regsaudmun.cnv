@@ -1,0 +1,83 @@
+N 82 6
+        1  28001 Aracaju                                                                                        280030,280060,280200,280320,280360,280590,280650,280670
+   1    2  .....  BARRA DOS COQUEIROS                                                                           280060
+   1    3  .....  RIACHUELO                                                                                     280590
+   1    4  .....  LARANJEIRAS                                                                                   280360
+   1    5  .....  SANTA ROSA DE LIMA                                                                            280650
+   1    6  .....  SAO CRISTOVAO                                                                                 280670
+   1    7  .....  ARACAJU                                                                                       280030
+   1    8  .....  DIVINA PASTORA                                                                                280200
+   1    9  .....  ITAPORANGA D'AJUDA                                                                            280320
+       10  28002 Estância                                                                                       280040,280067,280170,280210,280280,280300,280510,280630,280750,280760
+  10   11  .....  PEDRINHAS                                                                                     280510
+  10   12  .....  INDIAROBA                                                                                     280280
+  10   13  .....  UMBAUBA                                                                                       280760
+  10   14  .....  BOQUIM                                                                                        280067
+  10   15  .....  TOMAR DO GERU                                                                                 280750
+  10   16  .....  ESTANCIA                                                                                      280210
+  10   17  .....  ITABAIANINHA                                                                                  280300
+  10   18  .....  SANTA LUZIA DO ITANHY                                                                         280630
+  10   19  .....  CRISTINAPOLIS                                                                                 280170
+  10   20  .....  ARAUA                                                                                         280040
+       21  28003 Itabaiana                                                                                      280050,280100,280140,280230,280290,280370,280390,280410,280445,280500,280520,280600,280680,280700
+  21   22  .....  AREIA BRANCA                                                                                  280050
+  21   23  .....  ITABAIANA                                                                                     280290
+  21   24  .....  SAO DOMINGOS                                                                                  280680
+  21   25  .....  FREI PAULO                                                                                    280230
+  21   26  .....  CAMPO DO BRITO                                                                                280100
+  21   27  .....  MALHADOR                                                                                      280390
+  21   28  .....  SAO MIGUEL DO ALEIXO                                                                          280700
+  21   29  .....  RIBEIROPOLIS                                                                                  280600
+  21   30  .....  MACAMBIRA                                                                                     280370
+  21   31  .....  PINHAO                                                                                        280520
+  21   32  .....  CARIRA                                                                                        280140
+  21   33  .....  NOSSA SENHORA APARECIDA                                                                       280445
+  21   34  .....  MOITA BONITA                                                                                  280410
+  21   35  .....  PEDRA MOLE                                                                                    280500
+       36  28004 Lagarto                                                                                        280350,280550,280580,280620,280710,280740
+  36   37  .....  SIMAO DIAS                                                                                    280710
+  36   38  .....  TOBIAS BARRETO                                                                                280740
+  36   39  .....  RIACHAO DO DANTAS                                                                             280580
+  36   40  .....  LAGARTO                                                                                       280350
+  36   41  .....  POCO VERDE                                                                                    280550
+  36   42  .....  SALGADO                                                                                       280620
+       43  28005 Nossa Senhora da Glória                                                                        280120,280220,280240,280260,280310,280420,280450,280540,280560
+  43   44  .....  GRACHO CARDOSO                                                                                280260
+  43   45  .....  FEIRA NOVA                                                                                    280220
+  43   46  .....  GARARU                                                                                        280240
+  43   47  .....  POCO REDONDO                                                                                  280540
+  43   48  .....  CANINDE DE SAO FRANCISCO                                                                      280120
+  43   49  .....  MONTE ALEGRE DE SERGIPE                                                                       280420
+  43   50  .....  NOSSA SENHORA DA GLORIA                                                                       280450
+  43   51  .....  PORTO DA FOLHA                                                                                280560
+  43   52  .....  ITABI                                                                                         280310
+       53  28006 Nossa Senhora do Socorro                                                                       280130,280150,280190,280250,280330,280400,280460,280480,280530,280610,280660,280720
+  53   54  .....  SANTO AMARO DAS BROTAS                                                                        280660
+  53   55  .....  NOSSA SENHORA DO SOCORRO                                                                      280480
+  53   56  .....  NOSSA SENHORA DAS DORES                                                                       280460
+  53   57  .....  GENERAL MAYNARD                                                                               280250
+  53   58  .....  MARUIM                                                                                        280400
+  53   59  .....  PIRAMBU                                                                                       280530
+  53   60  .....  CAPELA                                                                                        280130
+  53   61  .....  ROSARIO DO CATETE                                                                             280610
+  53   62  .....  CARMOPOLIS                                                                                    280150
+  53   63  .....  SIRIRI                                                                                        280720
+  53   64  .....  CUMBE                                                                                         280190
+  53   65  .....  JAPARATUBA                                                                                    280330
+       66  28007 Propriá                                                                                        280010,280020,280070,280110,280160,280270,280340,280380,280430,280440,280470,280490,280570,280640,280690,280730
+  66   67  .....  JAPOATA                                                                                       280340
+  66   68  .....  TELHA                                                                                         280730
+  66   69  .....  ILHA DAS FLORES                                                                               280270
+  66   70  .....  PACATUBA                                                                                      280490
+  66   71  .....  BREJO GRANDE                                                                                  280070
+  66   72  .....  SAO FRANCISCO                                                                                 280690
+  66   73  .....  PROPRIA                                                                                       280570
+  66   74  .....  NOSSA SENHORA DE LOURDES                                                                      280470
+  66   75  .....  NEOPOLIS                                                                                      280440
+  66   76  .....  CANHOBA                                                                                       280110
+  66   77  .....  SANTANA DO SAO FRANCISCO                                                                      280640
+  66   78  .....  MALHADA DOS BOIS                                                                              280380
+  66   79  .....  MURIBECA                                                                                      280430
+  66   80  .....  AQUIDABA                                                                                      280020
+  66   81  .....  CEDRO DE SAO JOAO                                                                             280160
+  66   82  .....  AMPARO DE SAO FRANCISCO                                                                       280010

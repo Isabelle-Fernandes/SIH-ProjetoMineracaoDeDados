@@ -1,0 +1,499 @@
+31  6                                                  43X001                            
+      1  43001 RS Região 01 - Verdes Campos                 430010                            
+      1  43001 RS Região 01 - Verdes Campos                 430637                            
+      1  43001 RS Região 01 - Verdes Campos                 430670                            
+      1  43001 RS Região 01 - Verdes Campos                 430800                            
+      1  43001 RS Região 01 - Verdes Campos                 430840                            
+      1  43001 RS Região 01 - Verdes Campos                 431053                            
+      1  43001 RS Região 01 - Verdes Campos                 431075                            
+      1  43001 RS Região 01 - Verdes Campos                 431120                            
+      1  43001 RS Região 01 - Verdes Campos                 431310                            
+      1  43001 RS Região 01 - Verdes Campos                 431402                            
+      1  43001 RS Região 01 - Verdes Campos                 431447                            
+      1  43001 RS Região 01 - Verdes Campos                 431532                            
+      1  43001 RS Região 01 - Verdes Campos                 431550                            
+      1  43001 RS Região 01 - Verdes Campos                 431690                            
+      1  43001 RS Região 01 - Verdes Campos                 431843                            
+      1  43001 RS Região 01 - Verdes Campos                 431912                            
+      1  43001 RS Região 01 - Verdes Campos                 431940                            
+      1  43001 RS Região 01 - Verdes Campos                 431960                            
+      1  43001 RS Região 01 - Verdes Campos                 432065                            
+      1  43001 RS Região 01 - Verdes Campos                 432149                            
+      2  43002 02 Entre Rios                                43X002                            
+      2  43002 RS Região 02 - Entre Rios                    430290                            
+      2  43002 RS Região 02 - Entre Rios                    430465                            
+      2  43002 RS Região 02 - Entre Rios                    431055                            
+      2  43002 RS Região 02 - Entre Rios                    431110                            
+      2  43002 RS Região 02 - Entre Rios                    431113                            
+      2  43002 RS Região 02 - Entre Rios                    431210                            
+      2  43002 RS Região 02 - Entre Rios                    431303                            
+      2  43002 RS Região 02 - Entre Rios                    431740                            
+      2  43002 RS Região 02 - Entre Rios                    431810                            
+      2  43002 RS Região 02 - Entre Rios                    431980                            
+      3  43003 03 Fronteira Oeste                           43X003                            
+      3  43003 RS Região 03 - Fronteira Oeste               430040                            
+      3  43003 RS Região 03 - Fronteira Oeste               430187                            
+      3  43003 RS Região 03 - Fronteira Oeste               431060                            
+      3  43003 RS Região 03 - Fronteira Oeste               431171                            
+      3  43003 RS Região 03 - Fronteira Oeste               431175                            
+      3  43003 RS Região 03 - Fronteira Oeste               431530                            
+      3  43003 RS Região 03 - Fronteira Oeste               431640                            
+      3  43003 RS Região 03 - Fronteira Oeste               431697                            
+      3  43003 RS Região 03 - Fronteira Oeste               431710                            
+      3  43003 RS Região 03 - Fronteira Oeste               431830                            
+      4  43004 04 Belas Praias                              43X004                            
+      4  43004 RS Região 04 - Belas Praias                  430105                            
+      4  43004 RS Região 04 - Belas Praias                  430463                            
+      4  43004 RS Região 04 - Belas Praias                  430655                            
+      4  43004 RS Região 04 - Belas Praias                  431065                            
+      4  43004 RS Região 04 - Belas Praias                  431173                            
+      4  43004 RS Região 04 - Belas Praias                  431177                            
+      4  43004 RS Região 04 - Belas Praias                  431244                            
+      4  43004 RS Região 04 - Belas Praias                  432143                            
+      4  43004 RS Região 04 - Belas Praias                  432150                            
+      4  43004 RS Região 04 - Belas Praias                  432166                            
+      4  43004 RS Região 04 - Belas Praias                  432183                            
+      5  43005 05 Bons Ventos                               43X005                            
+      5  43005 RS Região 05 - Bons Ventos                   430163                            
+      5  43005 RS Região 05 - Bons Ventos                   430467                            
+      5  43005 RS Região 05 - Bons Ventos                   430471                            
+      5  43005 RS Região 05 - Bons Ventos                   430545                            
+      5  43005 RS Região 05 - Bons Ventos                   431033                            
+      5  43005 RS Região 05 - Bons Ventos                   431250                            
+      5  43005 RS Região 05 - Bons Ventos                   431350                            
+      5  43005 RS Região 05 - Bons Ventos                   431365                            
+      5  43005 RS Região 05 - Bons Ventos                   431760                            
+      5  43005 RS Região 05 - Bons Ventos                   432135                            
+      6  43006 06 V.Paranhana/C. Serra                      43X006                            
+      6  43006 RS Região 06 - Vale do Paranhana e Costa Ser 430360                            
+      6  43006 RS Região 06 - Vale do Paranhana e Costa Ser 431010                            
+      6  43006 RS Região 06 - Vale do Paranhana e Costa Ser 431405                            
+      6  43006 RS Região 06 - Vale do Paranhana e Costa Ser 431575                            
+      6  43006 RS Região 06 - Vale do Paranhana e Costa Ser 431600                            
+      6  43006 RS Região 06 - Vale do Paranhana e Costa Ser 431820                            
+      6  43006 RS Região 06 - Vale do Paranhana e Costa Ser 432120                            
+      7  43007 07 Vale dos Sinos                            43X007                            
+      7  43007 RS Região 07 - Vale dos Sinos                430087                            
+      7  43007 RS Região 07 - Vale dos Sinos                430390                            
+      7  43007 RS Região 07 - Vale dos Sinos                430640                            
+      7  43007 RS Região 07 - Vale dos Sinos                430760                            
+      7  43007 RS Região 07 - Vale dos Sinos                431080                            
+      7  43007 RS Região 07 - Vale dos Sinos                431162                            
+      7  43007 RS Região 07 - Vale dos Sinos                431247                            
+      7  43007 RS Região 07 - Vale dos Sinos                431306                            
+      7  43007 RS Região 07 - Vale dos Sinos                431340                            
+      7  43007 RS Região 07 - Vale dos Sinos                431480                            
+      7  43007 RS Região 07 - Vale dos Sinos                431514                            
+      7  43007 RS Região 07 - Vale dos Sinos                431695                            
+      7  43007 RS Região 07 - Vale dos Sinos                431848                            
+      7  43007 RS Região 07 - Vale dos Sinos                431870                            
+      8  43008 08 Vale Caí/Metropolitan                     43X008                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   430165                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   430265                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   430460                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   430468                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   430770                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   430955                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   431179                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   431240                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   431337                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   431403                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   431650                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   431861                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   431935                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   431950                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   432000                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   432085                            
+      8  43008 RS Região 08 - Vale do Caí e Metropolitana   432200                            
+      9  43009 09 Carbonífera/Costa Doc                     43X009                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        430085                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        430110                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        430175                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        430190                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        430270                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        430350                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        430517                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        430535                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        430544                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        430650                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        430676                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        430880                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        430930                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        431198                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        431225                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        431840                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        432035                            
+      9  43009 RS Região 09 - Carbonífera/Costa Doce        432055                            
+     10  43010 10 Capital/Vale Gravataí                     43X010                            
+     10  43010 RS Região 10 - Capital e Vale do Gravataí    430060                            
+     10  43010 RS Região 10 - Capital e Vale do Gravataí    430310                            
+     10  43010 RS Região 10 - Capital e Vale do Gravataí    430905                            
+     10  43010 RS Região 10 - Capital e Vale do Gravataí    430920                            
+     10  43010 RS Região 10 - Capital e Vale do Gravataí    431490                            
+     11  43011 11 Sete Povos Missões                        43X011                            
+     11  43011 RS Região 11 - Sete Povos das Missões        430250                            
+     11  43011 RS Região 11 - Sete Povos das Missões        430330                            
+     11  43011 RS Região 11 - Sete Povos das Missões        430520                            
+     11  43011 RS Região 11 - Sete Povos das Missões        430635                            
+     11  43011 RS Região 11 - Sete Povos das Missões        430693                            
+     11  43011 RS Região 11 - Sete Povos das Missões        430783                            
+     11  43011 RS Região 11 - Sete Povos das Missões        430865                            
+     11  43011 RS Região 11 - Sete Povos das Missões        430950                            
+     11  43011 RS Região 11 - Sete Povos das Missões        431217                            
+     11  43011 RS Região 11 - Sete Povos das Missões        431455                            
+     11  43011 RS Região 11 - Sete Povos das Missões        431510                            
+     11  43011 RS Região 11 - Sete Povos das Missões        431595                            
+     11  43011 RS Região 11 - Sete Povos das Missões        431630                            
+     11  43011 RS Região 11 - Sete Povos das Missões        431647                            
+     11  43011 RS Região 11 - Sete Povos das Missões        431750                            
+     11  43011 RS Região 11 - Sete Povos das Missões        431770                            
+     11  43011 RS Região 11 - Sete Povos das Missões        431800                            
+     11  43011 RS Região 11 - Sete Povos das Missões        431890                            
+     11  43011 RS Região 11 - Sete Povos das Missões        431915                            
+     11  43011 RS Região 11 - Sete Povos das Missões        431920                            
+     11  43011 RS Região 11 - Sete Povos das Missões        431937                            
+     11  43011 RS Região 11 - Sete Povos das Missões        432057                            
+     11  43011 RS Região 11 - Sete Povos das Missões        432234                            
+     12  43012 12 Portal das Missões                        43X012                            
+     12  43012 RS Região 12 - Portal das Missões            430222                            
+     12  43012 RS Região 12 - Portal das Missões            430223                            
+     12  43012 RS Região 12 - Portal das Missões            430560                            
+     12  43012 RS Região 12 - Portal das Missões            430610                            
+     12  43012 RS Região 12 - Portal das Missões            430845                            
+     12  43012 RS Região 12 - Portal das Missões            431000                            
+     12  43012 RS Região 12 - Portal das Missões            431087                            
+     12  43012 RS Região 12 - Portal das Missões            431535                            
+     12  43012 RS Região 12 - Portal das Missões            431643                            
+     12  43012 RS Região 12 - Portal das Missões            431645                            
+     12  43012 RS Região 12 - Portal das Missões            431670                            
+     12  43012 RS Região 12 - Portal das Missões            432030                            
+     13  43013 13 Diversidade                               43X013                            
+     13  43013 RS Região 13 - Diversidade                   430020                            
+     13  43013 RS Região 13 - Diversidade                   430150                            
+     13  43013 RS Região 13 - Diversidade                   430258                            
+     13  43013 RS Região 13 - Diversidade                   430400                            
+     13  43013 RS Região 13 - Diversidade                   430500                            
+     13  43013 RS Região 13 - Diversidade                   430540                            
+     13  43013 RS Região 13 - Diversidade                   430570                            
+     13  43013 RS Região 13 - Diversidade                   430587                            
+     13  43013 RS Região 13 - Diversidade                   430600                            
+     13  43013 RS Região 13 - Diversidade                   430970                            
+     13  43013 RS Região 13 - Diversidade                   431020                            
+     13  43013 RS Região 13 - Diversidade                   431041                            
+     13  43013 RS Região 13 - Diversidade                   431115                            
+     13  43013 RS Região 13 - Diversidade                   431333                            
+     13  43013 RS Região 13 - Diversidade                   431390                            
+     13  43013 RS Região 13 - Diversidade                   431430                            
+     13  43013 RS Região 13 - Diversidade                   431780                            
+     13  43013 RS Região 13 - Diversidade                   431910                            
+     13  43013 RS Região 13 - Diversidade                   431973                            
+     14  43014 14 Fronteira Noroeste                        43X014                            
+     14  43014 RS Região 14 - Fronteira Noroeste            430030                            
+     14  43014 RS Região 14 - Fronteira Noroeste            430045                            
+     14  43014 RS Região 14 - Fronteira Noroeste            430220                            
+     14  43014 RS Região 14 - Fronteira Noroeste            430370                            
+     14  43014 RS Região 14 - Fronteira Noroeste            430430                            
+     14  43014 RS Região 14 - Fronteira Noroeste            430673                            
+     14  43014 RS Região 14 - Fronteira Noroeste            430900                            
+     14  43014 RS Região 14 - Fronteira Noroeste            430960                            
+     14  43014 RS Região 14 - Fronteira Noroeste            431040                            
+     14  43014 RS Região 14 - Fronteira Noroeste            431301                            
+     14  43014 RS Região 14 - Fronteira Noroeste            431342                            
+     14  43014 RS Região 14 - Fronteira Noroeste            431500                            
+     14  43014 RS Região 14 - Fronteira Noroeste            431505                            
+     14  43014 RS Região 14 - Fronteira Noroeste            431507                            
+     14  43014 RS Região 14 - Fronteira Noroeste            431720                            
+     14  43014 RS Região 14 - Fronteira Noroeste            431790                            
+     14  43014 RS Região 14 - Fronteira Noroeste            431849                            
+     14  43014 RS Região 14 - Fronteira Noroeste            431930                            
+     14  43014 RS Região 14 - Fronteira Noroeste            432032                            
+     14  43014 RS Região 14 - Fronteira Noroeste            432180                            
+     14  43014 RS Região 14 - Fronteira Noroeste            432210                            
+     15  43015 15 Caminho das Águas                         43X015                            
+     15  43015 RS Região 15 - Caminho das Águas             430050                            
+     15  43015 RS Região 15 - Caminho das Águas             430064                            
+     15  43015 RS Região 15 - Caminho das Águas             430185                            
+     15  43015 RS Região 15 - Caminho das Águas             430237                            
+     15  43015 RS Região 15 - Caminho das Águas             430340                            
+     15  43015 RS Região 15 - Caminho das Águas             430607                            
+     15  43015 RS Região 15 - Caminho das Águas             430632                            
+     15  43015 RS Região 15 - Caminho das Águas             430730                            
+     15  43015 RS Região 15 - Caminho das Águas             430745                            
+     15  43015 RS Região 15 - Caminho das Águas             430850                            
+     15  43015 RS Região 15 - Caminho das Águas             431050                            
+     15  43015 RS Região 15 - Caminho das Águas             431160                            
+     15  43015 RS Região 15 - Caminho das Águas             431344                            
+     15  43015 RS Região 15 - Caminho das Águas             431380                            
+     15  43015 RS Região 15 - Caminho das Águas             431445                            
+     15  43015 RS Região 15 - Caminho das Águas             431449                            
+     15  43015 RS Região 15 - Caminho das Águas             431470                            
+     15  43015 RS Região 15 - Caminho das Águas             431590                            
+     15  43015 RS Região 15 - Caminho das Águas             432020                            
+     15  43015 RS Região 15 - Caminho das Águas             432132                            
+     15  43015 RS Região 15 - Caminho das Águas             432140                            
+     15  43015 RS Região 15 - Caminho das Águas             432147                            
+     15  43015 RS Região 15 - Caminho das Águas             432190                            
+     15  43015 RS Região 15 - Caminho das Águas             432310                            
+     15  43015 RS Região 15 - Caminho das Águas             432350                            
+     16  43016 16 Alto Uruguai Gaúcho                       43X016                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430090                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430155                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430170                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430192                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430205                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430380                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430485                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430511                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430537                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430613                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430695                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430697                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430700                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430720                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430755                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430805                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430825                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430870                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           430890                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           431046                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           431070                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           431090                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           431190                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           431200                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           431270                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           431413                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           431478                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           431531                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           431555                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           431970                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           432060                            
+     16  43016 RS Região 16 - Alto Uruguai Gaúcho           432163                            
+     17  43017 17 Planalto                                  43X017                            
+     17  43017 RS Região 17 - Planalto                      430047                            
+     17  43017 RS Região 17 - Planalto                      430355                            
+     17  43017 RS Região 17 - Planalto                      430470                            
+     17  43017 RS Região 17 - Planalto                      430490                            
+     17  43017 RS Região 17 - Planalto                      430550                            
+     17  43017 RS Região 17 - Planalto                      430585                            
+     17  43017 RS Região 17 - Planalto                      430597                            
+     17  43017 RS Região 17 - Planalto                      430630                            
+     17  43017 RS Região 17 - Planalto                      430705                            
+     17  43017 RS Região 17 - Planalto                      430885                            
+     17  43017 RS Região 17 - Planalto                      431127                            
+     17  43017 RS Região 17 - Planalto                      431180                            
+     17  43017 RS Região 17 - Planalto                      431213                            
+     17  43017 RS Região 17 - Planalto                      431235                            
+     17  43017 RS Região 17 - Planalto                      431262                            
+     17  43017 RS Região 17 - Planalto                      431265                            
+     17  43017 RS Região 17 - Planalto                      431267                            
+     17  43017 RS Região 17 - Planalto                      431275                            
+     17  43017 RS Região 17 - Planalto                      431410                            
+     17  43017 RS Região 17 - Planalto                      431477                            
+     17  43017 RS Região 17 - Planalto                      431755                            
+     17  43017 RS Região 17 - Planalto                      431775                            
+     17  43017 RS Região 17 - Planalto                      431805                            
+     17  43017 RS Região 17 - Planalto                      432040                            
+     17  43017 RS Região 17 - Planalto                      432050                            
+     17  43017 RS Região 17 - Planalto                      432255                            
+     17  43017 RS Região 17 - Planalto                      432320                            
+     18  43018 18 Araucárias                                43X018                            
+     18  43018 RS Região 18 - Araucárias                    430005                            
+     18  43018 RS Região 18 - Araucárias                    430066                            
+     18  43018 RS Região 18 - Araucárias                    430180                            
+     18  43018 RS Região 18 - Araucárias                    430320                            
+     18  43018 RS Região 18 - Araucárias                    430462                            
+     18  43018 RS Região 18 - Araucárias                    430495                            
+     18  43018 RS Região 18 - Araucárias                    430980                            
+     18  43018 RS Região 18 - Araucárias                    430990                            
+     18  43018 RS Região 18 - Araucárias                    431130                            
+     18  43018 RS Região 18 - Araucárias                    431170                            
+     18  43018 RS Região 18 - Araucárias                    431220                            
+     18  43018 RS Região 18 - Araucárias                    431360                            
+     18  43018 RS Região 18 - Araucárias                    431660                            
+     18  43018 RS Região 18 - Araucárias                    431673                            
+     18  43018 RS Região 18 - Araucárias                    431795                            
+     18  43018 RS Região 18 - Araucárias                    431842                            
+     18  43018 RS Região 18 - Araucárias                    431860                            
+     18  43018 RS Região 18 - Araucárias                    432090                            
+     18  43018 RS Região 18 - Araucárias                    432218                            
+     19  43019 19 Botucaraí                                 43X019                            
+     19  43019 RS Região 19 - Botucaraí                     430055                            
+     19  43019 RS Região 19 - Botucaraí                     430140                            
+     19  43019 RS Região 19 - Botucaraí                     430200                            
+     19  43019 RS Região 19 - Botucaraí                     430410                            
+     19  43019 RS Região 19 - Botucaraí                     430750                            
+     19  43019 RS Região 19 - Botucaraí                     430830                            
+     19  43019 RS Região 19 - Botucaraí                     430995                            
+     19  43019 RS Região 19 - Botucaraí                     431057                            
+     19  43019 RS Região 19 - Botucaraí                     431125                            
+     19  43019 RS Região 19 - Botucaraí                     431242                            
+     19  43019 RS Região 19 - Botucaraí                     432080                            
+     19  43019 RS Região 19 - Botucaraí                     432100                            
+     19  43019 RS Região 19 - Botucaraí                     432146                            
+     20  43020 20 Rota da Produção                          43X020                            
+     20  43020 RS Região 20 - Rota da Produção              430195                            
+     20  43020 RS Região 20 - Rota da Produção              430215                            
+     20  43020 RS Região 20 - Rota da Produção              430260                            
+     20  43020 RS Região 20 - Rota da Produção              430515                            
+     20  43020 RS Região 20 - Rota da Produção              430530                            
+     20  43020 RS Região 20 - Rota da Produção              430580                            
+     20  43020 RS Região 20 - Rota da Produção              430590                            
+     20  43020 RS Região 20 - Rota da Produção              430642                            
+     20  43020 RS Região 20 - Rota da Produção              430692                            
+     20  43020 RS Região 20 - Rota da Produção              430912                            
+     20  43020 RS Região 20 - Rota da Produção              431085                            
+     20  43020 RS Região 20 - Rota da Produção              431142                            
+     20  43020 RS Região 20 - Rota da Produção              431230                            
+     20  43020 RS Região 20 - Rota da Produção              431295                            
+     20  43020 RS Região 20 - Rota da Produção              431346                            
+     20  43020 RS Região 20 - Rota da Produção              431349                            
+     20  43020 RS Região 20 - Rota da Produção              431370                            
+     20  43020 RS Região 20 - Rota da Produção              431540                            
+     20  43020 RS Região 20 - Rota da Produção              431610                            
+     20  43020 RS Região 20 - Rota da Produção              431620                            
+     20  43020 RS Região 20 - Rota da Produção              431642                            
+     20  43020 RS Região 20 - Rota da Produção              431845                            
+     20  43020 RS Região 20 - Rota da Produção              431936                            
+     20  43020 RS Região 20 - Rota da Produção              432010                            
+     20  43020 RS Região 20 - Rota da Produção              432185                            
+     21  43021 21 Sul                                       43X021                            
+     21  43021 RS Região 21 - Sul                           430063                            
+     21  43021 RS Região 21 - Sul                           430107                            
+     21  43021 RS Região 21 - Sul                           430130                            
+     21  43021 RS Região 21 - Sul                           430450                            
+     21  43021 RS Região 21 - Sul                           430466                            
+     21  43021 RS Região 21 - Sul                           430512                            
+     21  43021 RS Região 21 - Sul                           430543                            
+     21  43021 RS Região 21 - Sul                           430605                            
+     21  43021 RS Região 21 - Sul                           430710                            
+     21  43021 RS Região 21 - Sul                           431100                            
+     21  43021 RS Região 21 - Sul                           431245                            
+     21  43021 RS Região 21 - Sul                           431417                            
+     21  43021 RS Região 21 - Sul                           431420                            
+     21  43021 RS Região 21 - Sul                           431440                            
+     21  43021 RS Região 21 - Sul                           431450                            
+     21  43021 RS Região 21 - Sul                           431460                            
+     21  43021 RS Região 21 - Sul                           431560                            
+     21  43021 RS Região 21 - Sul                           431700                            
+     21  43021 RS Região 21 - Sul                           431730                            
+     21  43021 RS Região 21 - Sul                           431850                            
+     21  43021 RS Região 21 - Sul                           431880                            
+     22  43022 22 Pampa                                     43X022                            
+     22  43022 RS Região 22 - Pampa                         430003                            
+     22  43022 RS Região 22 - Pampa                         430160                            
+     22  43022 RS Região 22 - Pampa                         430435                            
+     22  43022 RS Região 22 - Pampa                         430660                            
+     22  43022 RS Região 22 - Pampa                         430965                            
+     23  43023 23 Caxias e Hortênsias                       43X023                            
+     23  43023 RS Região 23 - Caxias e Hortênsias           430440                            
+     23  43023 RS Região 23 - Caxias e Hortênsias           430510                            
+     23  43023 RS Região 23 - Caxias e Hortênsias           430910                            
+     23  43023 RS Região 23 - Caxias e Hortênsias           431164                            
+     23  43023 RS Região 23 - Caxias e Hortênsias           431320                            
+     24  43024 24 Campos de Cima Serra                      43X024                            
+     24  43024 RS Região 24 - Campos de Cima da Serra       430230                            
+     24  43024 RS Região 24 - Campos de Cima da Serra       430367                            
+     24  43024 RS Região 24 - Campos de Cima da Serra       430740                            
+     24  43024 RS Região 24 - Campos de Cima da Serra       431112                            
+     24  43024 RS Região 24 - Campos de Cima da Serra       431237                            
+     24  43024 RS Região 24 - Campos de Cima da Serra       431261                            
+     24  43024 RS Região 24 - Campos de Cima da Serra       431446                            
+     24  43024 RS Região 24 - Campos de Cima da Serra       431862                            
+     25  43025 25 Vinhedos e Basalto                        43X025                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            430210                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            430225                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            430480                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            430593                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            430595                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            430786                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            430860                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            430925                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            430940                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            431238                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            431280                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            431290                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            431330                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            431400                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            431454,430145,431453              
+     25  43025 RS Região 25 - Vinhedos e Basalto            431517                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            431725                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            431844                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            432235                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            432280                            
+     25  43025 RS Região 25 - Vinhedos e Basalto            432330                            
+     26  43026 26 Uva Vale                                  43X026                            
+     26  43026 RS Região 26 - Uva Vale                      430057                            
+     26  43026 RS Região 26 - Uva Vale                      430080                            
+     26  43026 RS Região 26 - Uva Vale                      430235                            
+     26  43026 RS Região 26 - Uva Vale                      430790                            
+     26  43026 RS Região 26 - Uva Vale                      430810                            
+     26  43026 RS Região 26 - Uva Vale                      430820                            
+     26  43026 RS Região 26 - Uva Vale                      431043                            
+     26  43026 RS Região 26 - Uva Vale                      431308                            
+     26  43026 RS Região 26 - Uva Vale                      431335                            
+     26  43026 RS Região 26 - Uva Vale                      431900                            
+     26  43026 RS Região 26 - Uva Vale                      431975                            
+     27  43027 27 Jacuí Centro                              43X027                            
+     27  43027 RS Região 27 - Jacuí Centro                  430120                            
+     27  43027 RS Região 27 - Jacuí Centro                  430280                            
+     27  43027 RS Região 27 - Jacuí Centro                  430300                            
+     27  43027 RS Região 27 - Jacuí Centro                  430513                            
+     27  43027 RS Região 27 - Jacuí Centro                  430690                            
+     27  43027 RS Região 27 - Jacuí Centro                  430781                            
+     27  43027 RS Região 27 - Jacuí Centro                  430975                            
+     27  43027 RS Região 27 - Jacuí Centro                  431123                            
+     27  43027 RS Região 27 - Jacuí Centro                  431339                            
+     27  43027 RS Região 27 - Jacuí Centro                  431406                            
+     27  43027 RS Região 27 - Jacuí Centro                  432026                            
+     28  43028 28 Vinte e Oito                              43X028                            
+     28  43028 RS Região 28 - Vinte e Oito                  430420                            
+     28  43028 RS Região 28 - Vinte e Oito                  430915                            
+     28  43028 RS Região 28 - Vinte e Oito                  430957                            
+     28  43028 RS Região 28 - Vinte e Oito                  431215                            
+     28  43028 RS Região 28 - Vinte e Oito                  431395                            
+     28  43028 RS Região 28 - Vinte e Oito                  431407                            
+     28  43028 RS Região 28 - Vinte e Oito                  431570                            
+     28  43028 RS Região 28 - Vinte e Oito                  431680                            
+     28  43028 RS Região 28 - Vinte e Oito                  432067                            
+     28  43028 RS Região 28 - Vinte e Oito                  432252                            
+     28  43028 RS Região 28 - Vinte e Oito                  432253                            
+     28  43028 RS Região 28 - Vinte e Oito                  432260                            
+     29  43029 29 Vales e Montanhas                         43X029                            
+     29  43029 RS Região 29 - Vales e Montanhas             430070                            
+     29  43029 RS Região 29 - Vales e Montanhas             430100                            
+     29  43029 RS Região 29 - Vales e Montanhas             430245                            
+     29  43029 RS Região 29 - Vales e Montanhas             430461                            
+     29  43029 RS Região 29 - Vales e Montanhas             430469                            
+     29  43029 RS Região 29 - Vales e Montanhas             430583                            
+     29  43029 RS Região 29 - Vales e Montanhas             430620                            
+     29  43029 RS Região 29 - Vales e Montanhas             430645                            
+     29  43029 RS Região 29 - Vales e Montanhas             430675                            
+     29  43029 RS Região 29 - Vales e Montanhas             430680                            
+     29  43029 RS Região 29 - Vales e Montanhas             430843                            
+     29  43029 RS Região 29 - Vales e Montanhas             431030                            
+     29  43029 RS Região 29 - Vales e Montanhas             431140                            
+     29  43029 RS Região 29 - Vales e Montanhas             431205                            
+     29  43029 RS Região 29 - Vales e Montanhas             431260                            
+     29  43029 RS Região 29 - Vales e Montanhas             431300                            
+     29  43029 RS Região 29 - Vales e Montanhas             431513                            
+     29  43029 RS Região 29 - Vales e Montanhas             431515                            
+     29  43029 RS Região 29 - Vales e Montanhas             431520                            
+     29  43029 RS Região 29 - Vales e Montanhas             431545                            
+     29  43029 RS Região 29 - Vales e Montanhas             431580                            
+     29  43029 RS Região 29 - Vales e Montanhas             431675                            
+     29  43029 RS Região 29 - Vales e Montanhas             431846                            
+     29  43029 RS Região 29 - Vales e Montanhas             431971                            
+     29  43029 RS Região 29 - Vales e Montanhas             432045                            
+     29  43029 RS Região 29 - Vales e Montanhas             432162                            
+     30  43030 30 Vale da Luz                               43X030                            
+     30  43030 RS Região 30 - Vale da Luz                   430240                            
+     30  43030 RS Região 30 - Vale da Luz                   430558                            
+     30  43030 RS Região 30 - Vale da Luz                   430780                            
+     30  43030 RS Região 30 - Vale da Luz                   430807                            
+     30  43030 RS Região 30 - Vale da Luz                   431036                            
+     30  43030 RS Região 30 - Vale da Luz                   431415                            
+     30  43030 RS Região 30 - Vale da Luz                   431475                            
+     30  43030 RS Região 30 - Vale da Luz                   432130                            
+     30  43030 RS Região 30 - Vale da Luz                   432145                            
+     31  43000 Ignorado - RS                                43X000                            
+     31  43000 RS Município ignorado - RS                   430000,439999                     

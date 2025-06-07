@@ -1,0 +1,60 @@
+N 59 6
+   1    3  .....  ALTO PARAISO                                                                                  110040
+   1    4  .....  CAMPO NOVO DE RONDONIA                                                                        110070
+   1    5  .....  BURITIS                                                                                       110045
+   1    6  .....  MONTE NEGRO                                                                                   110140
+   1    7  .....  ARIQUEMES                                                                                     110002
+   1    8  .....  RIO CRESPO                                                                                    110026
+   1    9  .....  CACAULANDIA                                                                                   110060
+   1   10  .....  MACHADINHO D'OESTE                                                                            110013
+       11  11002 Café                                                                                           110004,110009,110018,110120,110147,110148
+  11   12  .....  PRIMAVERA DE RONDONIA                                                                         110147
+  11   13  .....  PIMENTA BUENO                                                                                 110018
+  11   14  .....  SAO FELIPE D'OESTE                                                                            110148
+  11   15  .....  MINISTRO ANDREAZZA                                                                            110120
+  11   16  .....  ESPIGAO D'OESTE                                                                               110009
+  11   17  .....  CACOAL                                                                                        110004
+       18  11003 Central                                                                                        110011,110012,110015,110025,110032,110034,110100,110130,110143,110155,110160,110170,110175,110180
+  18   19  .....  MIRANTE DA SERRA                                                                              110130
+  18   20  .....  URUPA                                                                                         110170
+  18   21  .....  OURO PRETO DO OESTE                                                                           110015
+  18   22  .....  SAO MIGUEL DO GUAPORE                                                                         110032
+  18   23  .....  NOVA UNIAO                                                                                    110143
+  18   24  .....  VALE DO PARAISO                                                                               110180
+  18   25  .....  THEOBROMA                                                                                     110160
+  18   26  .....  PRESIDENTE MEDICI                                                                             110025
+  18   27  .....  TEIXEIROPOLIS                                                                                 110155
+  18   28  .....  JI-PARANA                                                                                     110012
+  18   29  .....  ALVORADA D'OESTE                                                                              110034
+  18   30  .....  VALE DO ANARI                                                                                 110175
+  18   31  .....  JARU                                                                                          110011
+  18   32  .....  GOVERNADOR JORGE TEIXEIRA                                                                     110100
+       33  11004 Madeira-Mamoré                                                                                 110010,110020,110033,110080,110110
+  33   34  .....  PORTO VELHO                                                                                   110020
+  33   35  .....  GUAJARA-MIRIM                                                                                 110010
+  33   36  .....  CANDEIAS DO JAMARI                                                                            110080
+  33   37  .....  ITAPUA DO OESTE                                                                               110110
+  33   38  .....  NOVA MAMORE                                                                                   110033
+       39  11005 Zona da Mata                                                                                   110001,110014,110028,110029,110037,110050,110090,110145
+  39   40  .....  CASTANHEIRAS                                                                                  110090
+  39   41  .....  ALTA FLORESTA D'OESTE                                                                         110001
+  39   42  .....  PARECIS                                                                                       110145
+  39   43  .....  ALTO ALEGRE DOS PARECIS                                                                       110037
+  39   44  .....  SANTA LUZIA D'OESTE                                                                           110029
+  39   45  .....  NOVO HORIZONTE DO OESTE                                                                       110050
+  39   46  .....  ROLIM DE MOURA                                                                                110028
+  39   47  .....  NOVA BRASILANDIA D'OESTE                                                                      110014
+       48  11006 Cone Sul                                                                                       110003,110005,110006,110007,110030,110092,110146
+  48   49  .....  VILHENA                                                                                       110030
+  48   50  .....  CEREJEIRAS                                                                                    110005
+  48   51  .....  CABIXI                                                                                        110003
+  48   52  .....  PIMENTEIRAS DO OESTE                                                                          110146
+  48   53  .....  CORUMBIARA                                                                                    110007
+  48   54  .....  CHUPINGUAIA                                                                                   110092
+  48   55  .....  COLORADO DO OESTE                                                                             110006
+       56  11007 Vale do Guaporé                                                                                110008,110149,110150
+  56   57  .....  SAO FRANCISCO DO GUAPORE                                                                      110149
+  56   58  .....  COSTA MARQUES                                                                                 110008
+  56   59  .....  SERINGUEIRAS                                                                                  110150
+        1  11001 Vale do Jamari                                                                                 110002,110013,110026,110040,110045,110060,110070,110094,110140
+   1    2  .....  CUJUBIM                                                                                       110094

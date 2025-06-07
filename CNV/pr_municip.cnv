@@ -1,0 +1,401 @@
+400 6
+      1   MUNICIPIO IGNORADO - PR                           410000,419999 
+      2  410010 ABATIA                                      410010
+      3  410020 ADRIANOPOLIS                                410020
+      4  410030 AGUDOS DO SUL                               410030
+      5  410040 ALMIRANTE TAMANDARE                         410040
+      6  410045 ALTAMIRA DO PARANA                          410045
+      7  410050 ALTONIA                                     410050
+      8  410060 ALTO PARANA                                 410060
+      9  410070 ALTO PIQUIRI                                410070
+     10  410080 ALVORADA DO SUL                             410080
+     11  410090 AMAPORA                                     410090
+     12  410100 AMPERE                                      410100
+     13  410105 ANAHY                                       410105
+     14  410110 ANDIRA                                      410110
+     15  410115 ANGULO                                      410115
+     16  410120 ANTONINA                                    410120
+     17  410130 ANTONIO OLINTO                              410130
+     18  410140 APUCARANA                                   410140
+     19  410150 ARAPONGAS                                   410150
+     20  410160 ARAPOTI                                     410160
+     21  410165 ARAPUA                                      410165
+     22  410170 ARARUNA                                     410170
+     23  410180 ARAUCARIA                                   410180
+     24  410185 ARIRANHA DO IVAI                            410185
+     25  410190 ASSAI                                       410190
+     26  410200 ASSIS CHATEAUBRIAND                         410200
+     27  410210 ASTORGA                                     410210
+     28  410220 ATALAIA                                     410220
+     29  410230 BALSA NOVA                                  410230
+     30  410240 BANDEIRANTES                                410240
+     31  410250 BARBOSA FERRAZ                              410250
+     32  410260 BARRACAO                                    410260
+     33  410270 BARRA DO JACARE                             410270
+     34  410275 BELA VISTA DA CAROBA                        410275
+     35  410280 BELA VISTA DO PARAISO                       410280
+     36  410290 BITURUNA                                    410290
+     37  410300 BOA ESPERANCA                               410300
+     38  410302 BOA ESPERANCA DO IGUACU                     410302
+     39  410304 BOA VENTURA DE SAO ROQUE                    410304
+     40  410305 BOA VISTA DA APARECIDA                      410305
+     41  410310 BOCAIUVA DO SUL                             410310
+     42  410315 BOM JESUS DO SUL                            410315
+     43  410320 BOM SUCESSO                                 410320
+     44  410322 BOM SUCESSO DO SUL                          410322
+     45  410330 BORRAZOPOLIS                                410330
+     46  410335 BRAGANEY                                    410335
+     47  410337 BRASILANDIA DO SUL                          410337
+     48  410340 CAFEARA                                     410340
+     49  410345 CAFELANDIA                                  410345
+     50  410347 CAFEZAL DO SUL                              410347
+     51  410350 CALIFORNIA                                  410350
+     52  410360 CAMBARA                                     410360
+     53  410370 CAMBE                                       410370
+     54  410380 CAMBIRA                                     410380
+     55  410390 CAMPINA DA LAGOA                            410390
+     56  410395 CAMPINA DO SIMAO                            410395
+     57  410400 CAMPINA GRANDE DO SUL                       410400
+     58  410405 CAMPO BONITO                                410405
+     59  410410 CAMPO DO TENENTE                            410410
+     60  410420 CAMPO LARGO                                 410420
+     61  410425 CAMPO MAGRO                                 410425
+     62  410430 CAMPO MOURAO                                410430
+     63  410440 CANDIDO DE ABREU                            410440
+     64  410442 CANDOI                                      410442
+     65  410445 CANTAGALO                                   410445
+     66  410450 CAPANEMA                                    410450
+     67  410460 CAPITAO LEONIDAS MARQUES                    410460
+     68  410465 CARAMBEI                                    410465
+     69  410470 CARLOPOLIS                                  410470
+     70  410480 CASCAVEL                                    410480
+     71  410490 CASTRO                                      410490
+     72  410500 CATANDUVAS                                  410500
+     73  410510 CENTENARIO DO SUL                           410510
+     74  410520 CERRO AZUL                                  410520
+     75  410530 CEU AZUL                                    410530
+     76  410540 CHOPINZINHO                                 410540
+     77  410550 CIANORTE                                    410550
+     78  410560 CIDADE GAUCHA                               410560
+     79  410570 CLEVELANDIA                                 410570
+     80  410580 COLOMBO                                     410580
+     81  410590 COLORADO                                    410590
+     82  410600 CONGONHINHAS                                410600
+     83  410610 CONSELHEIRO MAIRINCK                        410610
+     84  410620 CONTENDA                                    410620
+     85  410630 CORBELIA                                    410630
+     86  410640 CORNELIO PROCOPIO                           410640
+     87  410645 CORONEL DOMINGOS SOARES                     410645
+     88  410650 CORONEL VIVIDA                              410650
+     89  410655 CORUMBATAI DO SUL                           410655
+     90  410657 CRUZEIRO DO IGUACU                          410657
+     91  410660 CRUZEIRO DO OESTE                           410660
+     92  410670 CRUZEIRO DO SUL                             410670
+     93  410680 CRUZ MACHADO                                410680
+     94  410685 CRUZMALTINA                                 410685
+     95  410690 CURITIBA                                    410690
+     96  410700 CURIUVA                                     410700
+     97  410710 DIAMANTE DO NORTE                           410710
+     98  410712 DIAMANTE DO SUL                             410712
+     99  410715 DIAMANTE D'OESTE                            410715
+    100  410720 DOIS VIZINHOS                               410720
+    101  410725 DOURADINA                                   410725
+    102  410730 DOUTOR CAMARGO                              410730
+    103  410740 ENEAS MARQUES                               410740
+    104  410750 ENGENHEIRO BELTRAO                          410750
+    105  410752 ESPERANCA NOVA                              410752
+    106  410753 ENTRE RIOS DO OESTE                         410753
+    107  410754 ESPIGAO ALTO DO IGUACU                      410754
+    108  410755 FAROL                                       410755
+    109  410760 FAXINAL                                     410760
+    110  410765 FAZENDA RIO GRANDE                          410765
+    111  410770 FENIX                                       410770
+    112  410773 FERNANDES PINHEIRO                          410773
+    113  410775 FIGUEIRA                                    410775
+    114  410780 FLORAI                                      410780
+    115  410785 FLOR DA SERRA DO SUL                        410785
+    116  410790 FLORESTA                                    410790
+    117  410800 FLORESTOPOLIS                               410800
+    118  410810 FLORIDA                                     410810
+    119  410820 FORMOSA DO OESTE                            410820
+    120  410830 FOZ DO IGUACU                               410830
+    121  410832 FRANCISCO ALVES                             410832
+    122  410840 FRANCISCO BELTRAO                           410840
+    123  410845 FOZ DO JORDAO                               410845
+    124  410850 GENERAL CARNEIRO                            410850
+    125  410855 GODOY MOREIRA                               410855
+    126  410860 GOIOERE                                     410860
+    127  410865 GOIOXIM                                     410865
+    128  410870 GRANDES RIOS                                410870
+    129  410880 GUAIRA                                      410880
+    130  410890 GUAIRACA                                    410890
+    131  410895 GUAMIRANGA                                  410895
+    132  410900 GUAPIRAMA                                   410900
+    133  410910 GUAPOREMA                                   410910
+    134  410920 GUARACI                                     410920
+    135  410930 GUARANIACU                                  410930
+    136  410940 GUARAPUAVA                                  410940
+    137  410950 GUARAQUECABA                                410950
+    138  410960 GUARATUBA                                   410960
+    139  410965 HONORIO SERPA                               410965
+    140  410970 IBAITI                                      410970
+    141  410975 IBEMA                                       410975
+    142  410980 IBIPORA                                     410980
+    143  410990 ICARAIMA                                    410990
+    144  411000 IGUARACU                                    411000
+    145  411005 IGUATU                                      411005
+    146  411007 IMBAU                                       411007
+    147  411010 IMBITUVA                                    411010
+    148  411020 INACIO MARTINS                              411020
+    149  411030 INAJA                                       411030
+    150  411040 INDIANOPOLIS                                411040
+    151  411050 IPIRANGA                                    411050
+    152  411060 IPORA                                       411060
+    153  411065 IRACEMA DO OESTE                            411065
+    154  411070 IRATI                                       411070
+    155  411080 IRETAMA                                     411080
+    156  411090 ITAGUAJE                                    411090
+    157  411095 ITAIPULANDIA                                411095
+    158  411100 ITAMBARACA                                  411100
+    159  411110 ITAMBE                                      411110
+    160  411120 ITAPEJARA D'OESTE                           411120
+    161  411125 ITAPERUCU                                   411125
+    162  411130 ITAUNA DO SUL                               411130
+    163  411140 IVAI                                        411140
+    164  411150 IVAIPORA                                    411150
+    165  411155 IVATE                                       411155
+    166  411160 IVATUBA                                     411160
+    167  411170 JABOTI                                      411170
+    168  411180 JACAREZINHO                                 411180
+    169  411190 JAGUAPITA                                   411190
+    170  411200 JAGUARIAIVA                                 411200
+    171  411210 JANDAIA DO SUL                              411210
+    172  411220 JANIOPOLIS                                  411220
+    173  411230 JAPIRA                                      411230
+    174  411240 JAPURA                                      411240
+    175  411250 JARDIM ALEGRE                               411250
+    176  411260 JARDIM OLINDA                               411260
+    177  411270 JATAIZINHO                                  411270
+    178  411275 JESUITAS                                    411275
+    179  411280 JOAQUIM TAVORA                              411280
+    180  411290 JUNDIAI DO SUL                              411290
+    181  411295 JURANDA                                     411295
+    182  411300 JUSSARA                                     411300
+    183  411310 KALORE                                      411310
+    184  411320 LAPA                                        411320
+    185  411325 LARANJAL                                    411325
+    186  411330 LARANJEIRAS DO SUL                          411330
+    187  411340 LEOPOLIS                                    411340
+    188  411342 LIDIANOPOLIS                                411342
+    189  411345 LINDOESTE                                   411345
+    190  411350 LOANDA                                      411350
+    191  411360 LOBATO                                      411360
+    192  411370 LONDRINA                                    411370
+    193  411373 LUIZIANA                                    411373
+    194  411375 LUNARDELLI                                  411375
+    195  411380 LUPIONOPOLIS                                411380
+    196  411390 MALLET                                      411390
+    197  411400 MAMBORE                                     411400
+    198  411410 MANDAGUACU                                  411410
+    199  411420 MANDAGUARI                                  411420
+    200  411430 MANDIRITUBA                                 411430
+    201  411435 MANFRINOPOLIS                               411435
+    202  411440 MANGUEIRINHA                                411440
+    203  411450 MANOEL RIBAS                                411450
+    204  411460 MARECHAL CANDIDO RONDON                     411460
+    205  411470 MARIA HELENA                                411470
+    206  411480 MARIALVA                                    411480
+    207  411490 MARILANDIA DO SUL                           411490
+    208  411500 MARILENA                                    411500
+    209  411510 MARILUZ                                     411510
+    210  411520 MARINGA                                     411520
+    211  411530 MARIOPOLIS                                  411530
+    212  411535 MARIPA                                      411535
+    213  411540 MARMELEIRO                                  411540
+    214  411545 MARQUINHO                                   411545
+    215  411550 MARUMBI                                     411550
+    216  411560 MATELANDIA                                  411560
+    217  411570 MATINHOS                                    411570
+    218  411573 MATO RICO                                   411573
+    219  411575 MAUA DA SERRA                               411575
+    220  411580 MEDIANEIRA                                  411580
+    221  411585 MERCEDES                                    411585
+    222  411590 MIRADOR                                     411590
+    223  411600 MIRASELVA                                   411600
+    224  411605 MISSAL                                      411605
+    225  411610 MOREIRA SALES                               411610
+    226  411620 MORRETES                                    411620
+    227  411630 MUNHOZ DE MELO                              411630
+    228  411640 NOSSA SENHORA DAS GRACAS                    411640
+    229  411650 NOVA ALIANCA DO IVAI                        411650
+    230  411660 NOVA AMERICA DA COLINA                      411660
+    231  411670 NOVA AURORA                                 411670
+    232  411680 NOVA CANTU                                  411680
+    233  411690 NOVA ESPERANCA                              411690
+    234  411695 NOVA ESPERANCA DO SUDOESTE                  411695
+    235  411700 NOVA FATIMA                                 411700
+    236  411705 NOVA LARANJEIRAS                            411705
+    237  411710 NOVA LONDRINA                               411710
+    238  411720 NOVA OLIMPIA                                411720
+    239  411721 NOVA SANTA BARBARA                          411721
+    240  411722 NOVA SANTA ROSA                             411722
+    241  411725 NOVA PRATA DO IGUACU                        411725
+    242  411727 NOVA TEBAS                                  411727
+    243  411729 NOVO ITACOLOMI                              411729
+    244  411730 ORTIGUEIRA                                  411730
+    245  411740 OURIZONA                                    411740
+    246  411745 OURO VERDE DO OESTE                         411745
+    247  411750 PAICANDU                                    411750
+    248  411760 PALMAS                                      411760
+    249  411770 PALMEIRA                                    411770
+    250  411780 PALMITAL                                    411780
+    251  411790 PALOTINA                                    411790
+    252  411800 PARAISO DO NORTE                            411800
+    253  411810 PARANACITY                                  411810
+    254  411820 PARANAGUA                                   411820
+    255  411830 PARANAPOEMA                                 411830
+    256  411840 PARANAVAI                                   411840
+    257  411845 PATO BRAGADO                                411845
+    258  411850 PATO BRANCO                                 411850
+    259  411860 PAULA FREITAS                               411860
+    260  411870 PAULO FRONTIN                               411870
+    261  411880 PEABIRU                                     411880
+    262  411885 PEROBAL                                     411885
+    263  411890 PEROLA                                      411890
+    264  411900 PEROLA D'OESTE                              411900
+    265  411910 PIEN                                        411910
+    266  411915 PINHAIS                                     411915
+    267  411920 PINHALAO                                    411920
+    268  411925 PINHAL DE SAO BENTO                         411925
+    269  411930 PINHAO                                      411930
+    270  411940 PIRAI DO SUL                                411940
+    271  411950 PIRAQUARA                                   411950
+    272  411960 PITANGA                                     411960
+    273  411965 PITANGUEIRAS                                411965
+    274  411970 PLANALTINA DO PARANA                        411970
+    275  411980 PLANALTO                                    411980
+    276  411990 PONTA GROSSA                                411990
+    277  411995 PONTAL DO PARANA                            411995
+    278  412000 PORECATU                                    412000
+    279  412010 PORTO AMAZONAS                              412010
+    280  412015 PORTO BARREIRO                              412015
+    281  412020 PORTO RICO                                  412020
+    282  412030 PORTO VITORIA                               412030
+    283  412033 PRADO FERREIRA                              412033
+    284  412035 PRANCHITA                                   412035
+    285  412040 PRESIDENTE CASTELO BRANCO                   412040
+    286  412050 PRIMEIRO DE MAIO                            412050
+    287  412060 PRUDENTOPOLIS                               412060
+    288  412065 QUARTO CENTENARIO                           412065
+    289  412070 QUATIGUA                                    412070
+    290  412080 QUATRO BARRAS                               412080
+    291  412085 QUATRO PONTES                               412085
+    292  412090 QUEDAS DO IGUACU                            412090
+    293  412100 QUERENCIA DO NORTE                          412100
+    294  412110 QUINTA DO SOL                               412110
+    295  412120 QUITANDINHA                                 412120
+    296  412125 RAMILANDIA                                  412125
+    297  412130 RANCHO ALEGRE                               412130
+    298  412135 RANCHO ALEGRE D'OESTE                       412135
+    299  412140 REALEZA                                     412140
+    300  412150 REBOUCAS                                    412150
+    301  412160 RENASCENCA                                  412160
+    302  412170 RESERVA                                     412170
+    303  412175 RESERVA DO IGUACU                           412175
+    304  412180 RIBEIRAO CLARO                              412180
+    305  412190 RIBEIRAO DO PINHAL                          412190
+    306  412200 RIO AZUL                                    412200
+    307  412210 RIO BOM                                     412210
+    308  412215 RIO BONITO DO IGUACU                        412215
+    309  412217 RIO BRANCO DO IVAI                          412217
+    310  412220 RIO BRANCO DO SUL                           412220
+    311  412230 RIO NEGRO                                   412230
+    312  412240 ROLANDIA                                    412240
+    313  412250 RONCADOR                                    412250
+    314  412260 RONDON                                      412260
+    315  412265 ROSARIO DO IVAI                             412265
+    316  412270 SABAUDIA                                    412270
+    317  412280 SALGADO FILHO                               412280
+    318  412290 SALTO DO ITARARE                            412290
+    319  412300 SALTO DO LONTRA                             412300
+    320  412310 SANTA AMELIA                                412310
+    321  412320 SANTA CECILIA DO PAVAO                      412320
+    322  412330 SANTA CRUZ DE MONTE CASTELO                 412330
+    323  412340 SANTA FE                                    412340
+    324  412350 SANTA HELENA                                412350
+    325  412360 SANTA INES                                  412360
+    326  412370 SANTA ISABEL DO IVAI                        412370
+    327  412380 SANTA IZABEL DO OESTE                       412380
+    328  412382 SANTA LUCIA                                 412382
+    329  412385 SANTA MARIA DO OESTE                        412385
+    330  412390 SANTA MARIANA                               412390
+    331  412395 SANTA MONICA                                412395
+    332  412400 SANTANA DO ITARARE                          412400
+    333  412402 SANTA TEREZA DO OESTE                       412402
+    334  412405 SANTA TEREZINHA DE ITAIPU                   412405
+    335  412410 SANTO ANTONIO DA PLATINA                    412410
+    336  412420 SANTO ANTONIO DO CAIUA                      412420
+    337  412430 SANTO ANTONIO DO PARAISO                    412430
+    338  412440 SANTO ANTONIO DO SUDOESTE                   412440
+    339  412450 SANTO INACIO                                412450
+    340  412460 SAO CARLOS DO IVAI                          412460
+    341  412470 SAO JERONIMO DA SERRA                       412470
+    342  412480 SAO JOAO                                    412480
+    343  412490 SAO JOAO DO CAIUA                           412490
+    344  412500 SAO JOAO DO IVAI                            412500
+    345  412510 SAO JOAO DO TRIUNFO                         412510
+    346  412520 SAO JORGE D'OESTE                           412520
+    347  412530 SAO JORGE DO IVAI                           412530
+    348  412535 SAO JORGE DO PATROCINIO                     412535
+    349  412540 SAO JOSE DA BOA VISTA                       412540
+    350  412545 SAO JOSE DAS PALMEIRAS                      412545
+    351  412550 SAO JOSE DOS PINHAIS                        412550
+    352  412555 SAO MANOEL DO PARANA                        412555
+    353  412560 SAO MATEUS DO SUL                           412560
+    354  412570 SAO MIGUEL DO IGUACU                        412570
+    355  412575 SAO PEDRO DO IGUACU                         412575
+    356  412580 SAO PEDRO DO IVAI                           412580
+    357  412590 SAO PEDRO DO PARANA                         412590
+    358  412600 SAO SEBASTIAO DA AMOREIRA                   412600
+    359  412610 SAO TOME                                    412610
+    360  412620 SAPOPEMA                                    412620
+    361  412625 SARANDI                                     412625
+    362  412627 SAUDADE DO IGUACU                           412627
+    363  412630 SENGES                                      412630
+    364  412635 SERRANOPOLIS DO IGUACU                      412635
+    365  412640 SERTANEJA                                   412640
+    366  412650 SERTANOPOLIS                                412650
+    367  412660 SIQUEIRA CAMPOS                             412660
+    368  412665 SULINA                                      412665
+    369  412667 TAMARANA                                    412667
+    370  412670 TAMBOARA                                    412670
+    371  412680 TAPEJARA                                    412680
+    372  412690 TAPIRA                                      412690
+    373  412700 TEIXEIRA SOARES                             412700
+    374  412710 TELEMACO BORBA                              412710
+    375  412720 TERRA BOA                                   412720
+    376  412730 TERRA RICA                                  412730
+    377  412740 TERRA ROXA                                  412740
+    378  412750 TIBAGI                                      412750
+    379  412760 TIJUCAS DO SUL                              412760
+    380  412770 TOLEDO                                      412770
+    381  412780 TOMAZINA                                    412780
+    382  412785 TRES BARRAS DO PARANA                       412785
+    383  412788 TUNAS DO PARANA                             412788
+    384  412790 TUNEIRAS DO OESTE                           412790
+    385  412795 TUPASSI                                     412795
+    386  412796 TURVO                                       412796
+    387  412800 UBIRATA                                     412800
+    388  412810 UMUARAMA                                    412810
+    389  412820 UNIAO DA VITORIA                            412820
+    390  412830 UNIFLOR                                     412830
+    391  412840 URAI                                        412840
+    392  412850 WENCESLAU BRAZ                              412850
+    393  412853 VENTANIA                                    412853
+    394  412855 VERA CRUZ DO OESTE                          412855
+    395  412860 VERE                                        412860
+    396  412862 ALTO PARAISO                                412862
+    397  412863 DOUTOR ULYSSES                              412863
+    398  412865 VIRMOND                                     412865
+    399  412870 VITORINO                                    412870
+    400  412880 XAMBRE                                      412880

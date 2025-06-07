@@ -1,0 +1,94 @@
+19  6                                                                                    
+      1  33009 RJ Bacia de São João                         330130                            
+      1  33009 RJ Bacia de São João                         330452                            
+      1  33009 RJ Bacia de São João                         330560                            
+      2  33012 RJ Barra do Piraí                            330030                            
+      2  33012 RJ Barra do Piraí                            330450                            
+      2  33012 RJ Barra do Piraí                            330610                            
+      3  33013 RJ Baía da Ilha Grande                       330010                            
+      3  33013 RJ Baía da Ilha Grande                       330380                            
+      4  33003 RJ Campos dos Goytacazes                     330100                            
+      4  33003 RJ Campos dos Goytacazes                     330115                            
+      4  33003 RJ Campos dos Goytacazes                     330475                            
+      4  33003 RJ Campos dos Goytacazes                     330480                            
+      4  33003 RJ Campos dos Goytacazes                     330500                            
+      5  33006 RJ Cantagalo-Cordeiro                        330110                            
+      5  33006 RJ Cantagalo-Cordeiro                        330120                            
+      5  33006 RJ Cantagalo-Cordeiro                        330150                            
+      5  33006 RJ Cantagalo-Cordeiro                        330245                            
+      6  33017 RJ Itaguaí                                   330200                            
+      6  33017 RJ Itaguaí                                   330260                            
+      6  33017 RJ Itaguaí                                   330555                            
+      7  33001 RJ Itaperuna                                 330060                            
+      7  33001 RJ Itaperuna                                 330205                            
+      7  33001 RJ Itaperuna                                 330220                            
+      7  33001 RJ Itaperuna                                 330230                            
+      7  33001 RJ Itaperuna                                 330310                            
+      7  33001 RJ Itaperuna                                 330410                            
+      7  33001 RJ Itaperuna                                 330615                            
+      8  33010 RJ Lagos                                     330020                            
+      8  33010 RJ Lagos                                     330023                            
+      8  33010 RJ Lagos                                     330025                            
+      8  33010 RJ Lagos                                     330070                            
+      8  33010 RJ Lagos                                     330187                            
+      8  33010 RJ Lagos                                     330520                            
+      8  33010 RJ Lagos                                     330550                            
+      9  33016 RJ Macacu-Caceribu                           330080                            
+      9  33016 RJ Macacu-Caceribu                           330430                            
+     10  33004 RJ Macaé                                     330093                            
+     10  33004 RJ Macaé                                     330140                            
+     10  33004 RJ Macaé                                     330240                            
+     10  33004 RJ Macaé                                     330415                            
+     11  33007 RJ Nova Friburgo                             330050                            
+     11  33007 RJ Nova Friburgo                             330160                            
+     11  33007 RJ Nova Friburgo                             330340                            
+     11  33007 RJ Nova Friburgo                             330570                            
+     12  33018 RJ Rio de Janeiro                            330045                            
+     12  33018 RJ Rio de Janeiro                            330170                            
+     12  33018 RJ Rio de Janeiro                            330185                            
+     12  33018 RJ Rio de Janeiro                            330190                            
+     12  33018 RJ Rio de Janeiro                            330227                            
+     12  33018 RJ Rio de Janeiro                            330250                            
+     12  33018 RJ Rio de Janeiro                            330270                            
+     12  33018 RJ Rio de Janeiro                            330285                            
+     12  33018 RJ Rio de Janeiro                            330320                            
+     12  33018 RJ Rio de Janeiro                            330330                            
+     12  33018 RJ Rio de Janeiro                            330350                            
+     12  33018 RJ Rio de Janeiro                            330414                            
+     12  33018 RJ Rio de Janeiro                            330455,334501-334530              
+     12  33018 RJ Rio de Janeiro                            330490                            
+     12  33018 RJ Rio de Janeiro                            330510                            
+     12  33018 RJ Rio de Janeiro                            330575                            
+     13  33008 RJ Santa Maria Madalena                      330460                            
+     13  33008 RJ Santa Maria Madalena                      330530                            
+     13  33008 RJ Santa Maria Madalena                      330590                            
+     14  33002 RJ Santo Antônio de Pádua                    330015                            
+     14  33002 RJ Santo Antônio de Pádua                    330090                            
+     14  33002 RJ Santo Antônio de Pádua                    330210                            
+     14  33002 RJ Santo Antônio de Pádua                    330300                            
+     14  33002 RJ Santo Antônio de Pádua                    330470                            
+     14  33002 RJ Santo Antônio de Pádua                    330513                            
+     15  33015 RJ Serrana                                   330390                            
+     15  33015 RJ Serrana                                   330515                            
+     15  33015 RJ Serrana                                   330580                            
+     16  33005 RJ Três Rios                                 330022                            
+     16  33005 RJ Três Rios                                 330095                            
+     16  33005 RJ Três Rios                                 330370                            
+     16  33005 RJ Três Rios                                 330540                            
+     16  33005 RJ Três Rios                                 330600                            
+     17  33011 RJ Vale do Paraíba Fluminense                330040                            
+     17  33011 RJ Vale do Paraíba Fluminense                330225                            
+     17  33011 RJ Vale do Paraíba Fluminense                330395                            
+     17  33011 RJ Vale do Paraíba Fluminense                330400                            
+     17  33011 RJ Vale do Paraíba Fluminense                330411                            
+     17  33011 RJ Vale do Paraíba Fluminense                330412                            
+     17  33011 RJ Vale do Paraíba Fluminense                330420                            
+     17  33011 RJ Vale do Paraíba Fluminense                330440                            
+     17  33011 RJ Vale do Paraíba Fluminense                330630,336305                     
+     18  33014 RJ Vassouras                                 330180                            
+     18  33014 RJ Vassouras                                 330280                            
+     18  33014 RJ Vassouras                                 330290                            
+     18  33014 RJ Vassouras                                 330360                            
+     18  33014 RJ Vassouras                                 330385                            
+     18  33014 RJ Vassouras                                 330620                            
+     19  33000 RJ Município ignorado - RJ                   330000,339999,330064              

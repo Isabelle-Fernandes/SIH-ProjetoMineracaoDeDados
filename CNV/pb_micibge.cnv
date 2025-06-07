@@ -1,0 +1,225 @@
+24 6
+      1  25001 CATOLE DO ROCHA                              250200
+      1  25001 CATOLE DO ROCHA                              250230
+      1  25001 CATOLE DO ROCHA                              250280
+      1  25001 CATOLE DO ROCHA                              250290
+      1  25001 CATOLE DO ROCHA                              250430
+      1  25001 CATOLE DO ROCHA                              250740
+      1  25001 CATOLE DO ROCHA                              250810
+      1  25001 CATOLE DO ROCHA                              250937
+      1  25001 CATOLE DO ROCHA                              251280
+      1  25001 CATOLE DO ROCHA                              251390
+      1  25001 CATOLE DO ROCHA                              251465
+      2  25002 CAJAZEIRAS                                   250070
+      2  25002 CAJAZEIRAS                                   250205
+      2  25002 CAJAZEIRAS                                   250220
+      2  25002 CAJAZEIRAS                                   250240
+      2  25002 CAJAZEIRAS                                   250330
+      2  25002 CAJAZEIRAS                                   250370
+      2  25002 CAJAZEIRAS                                   250410
+      2  25002 CAJAZEIRAS                                   250960
+      2  25002 CAJAZEIRAS                                   251203
+      2  25002 CAJAZEIRAS                                   251207
+      2  25002 CAJAZEIRAS                                   251330
+      2  25002 CAJAZEIRAS                                   251365
+      2  25002 CAJAZEIRAS                                   251450
+      2  25002 CAJAZEIRAS                                   251680
+      2  25002 CAJAZEIRAS                                   251690
+      3  25003 SOUSA                                        250077
+      3  25003 SOUSA                                        250375
+      3  25003 SOUSA                                        250450
+      3  25003 SOUSA                                        250550
+      3  25003 SOUSA                                        250840
+      3  25003 SOUSA                                        250880
+      3  25003 SOUSA                                        250915
+      3  25003 SOUSA                                        251000
+      3  25003 SOUSA                                        251090
+      3  25003 SOUSA                                        251210
+      3  25003 SOUSA                                        251320
+      3  25003 SOUSA                                        251392
+      3  25003 SOUSA                                        251396
+      3  25003 SOUSA                                        251398
+      3  25003 SOUSA                                        251420
+      3  25003 SOUSA                                        251620
+      3  25003 SOUSA                                        251720
+      4  25004 PATOS                                        250115
+      4  25004 PATOS                                        250340
+      4  25004 PATOS                                        250870
+      4  25004 PATOS                                        251070
+      4  25004 PATOS                                        251080
+      4  25004 PATOS                                        251260
+      4  25004 PATOS                                        251380
+      4  25004 PATOS                                        251440
+      4  25004 PATOS                                        251460
+      5  25005 PIANCO                                       250020
+      5  25005 PIANCO                                       250260
+      5  25005 PIANCO                                       250420
+      5  25005 PIANCO                                       250480
+      5  25005 PIANCO                                       250590
+      5  25005 PIANCO                                       251020
+      5  25005 PIANCO                                       251040
+      5  25005 PIANCO                                       251130
+      5  25005 PIANCO                                       251360
+      6  25006 ITAPORANGA                                   250210
+      6  25006 ITAPORANGA                                   250440
+      6  25006 ITAPORANGA                                   250530
+      6  25006 ITAPORANGA                                   250560
+      6  25006 ITAPORANGA                                   250660
+      6  25006 ITAPORANGA                                   250700
+      6  25006 ITAPORANGA                                   251100
+      6  25006 ITAPORANGA                                   251335
+      6  25006 ITAPORANGA                                   251350
+      6  25006 ITAPORANGA                                   251430
+      6  25006 ITAPORANGA                                   251570
+      7  25007 SERRA DO TEIXEIRA                            250010
+      7  25007 SERRA DO TEIXEIRA                            250355
+      7  25007 SERRA DO TEIXEIRA                            250540
+      7  25007 SERRA DO TEIXEIRA                            250670
+      7  25007 SERRA DO TEIXEIRA                            250800
+      7  25007 SERRA DO TEIXEIRA                            250900
+      7  25007 SERRA DO TEIXEIRA                            250939
+      7  25007 SERRA DO TEIXEIRA                            251230
+      7  25007 SERRA DO TEIXEIRA                            251455
+      7  25007 SERRA DO TEIXEIRA                            251660
+      7  25007 SERRA DO TEIXEIRA                            251670
+      8  25008 SERIDO OCIDENTAL PARAIBANO                   250780
+      8  25008 SERIDO OCIDENTAL PARAIBANO                   251300
+      8  25008 SERIDO OCIDENTAL PARAIBANO                   251340
+      8  25008 SERIDO OCIDENTAL PARAIBANO                   251470
+      8  25008 SERIDO OCIDENTAL PARAIBANO                   251490
+      8  25008 SERIDO OCIDENTAL PARAIBANO                   251710
+      9  25009 SERIDO ORIENTAL PARAIBANO                    250153
+      9  25009 SERIDO ORIENTAL PARAIBANO                    250500
+      9  25009 SERIDO ORIENTAL PARAIBANO                    250620
+      9  25009 SERIDO ORIENTAL PARAIBANO                    250770
+      9  25009 SERIDO ORIENTAL PARAIBANO                    251030
+      9  25009 SERIDO ORIENTAL PARAIBANO                    251110
+      9  25009 SERIDO ORIENTAL PARAIBANO                    251140
+      9  25009 SERIDO ORIENTAL PARAIBANO                    251540
+      9  25009 SERIDO ORIENTAL PARAIBANO                    251675
+     10  25010 CARIRI OCIDENTAL                             250073
+     10  25010 CARIRI OCIDENTAL                             250135
+     10  25010 CARIRI OCIDENTAL                             250390
+     10  25010 CARIRI OCIDENTAL                             250470
+     10  25010 CARIRI OCIDENTAL                             250485
+     10  25010 CARIRI OCIDENTAL                             250850
+     10  25010 CARIRI OCIDENTAL                             250970
+     10  25010 CARIRI OCIDENTAL                             251060
+     10  25010 CARIRI OCIDENTAL                             251065
+     10  25010 CARIRI OCIDENTAL                             251220
+     10  25010 CARIRI OCIDENTAL                             251410
+     10  25010 CARIRI OCIDENTAL                             251480
+     10  25010 CARIRI OCIDENTAL                             251520
+     10  25010 CARIRI OCIDENTAL                             251550
+     10  25010 CARIRI OCIDENTAL                             251630
+     10  25010 CARIRI OCIDENTAL                             251650
+     10  25010 CARIRI OCIDENTAL                             251740
+     11  25011 CARIRI ORIENTAL                              250053
+     11  25011 CARIRI ORIENTAL                              250157
+     11  25011 CARIRI ORIENTAL                              250170
+     11  25011 CARIRI ORIENTAL                              250250
+     11  25011 CARIRI ORIENTAL                              250310
+     11  25011 CARIRI ORIENTAL                              250407
+     11  25011 CARIRI ORIENTAL                              250435
+     11  25011 CARIRI ORIENTAL                              250650
+     11  25011 CARIRI ORIENTAL                              251278
+     11  25011 CARIRI ORIENTAL                              251385
+     11  25011 CARIRI ORIENTAL                              251394
+     11  25011 CARIRI ORIENTAL                              251400
+     12  25012 CURIMATAU OCIDENTAL                          250057
+     12  25012 CURIMATAU OCIDENTAL                          250090
+     12  25012 CURIMATAU OCIDENTAL                          250160
+     12  25012 CURIMATAU OCIDENTAL                          250510
+     12  25012 CURIMATAU OCIDENTAL                          250535
+     12  25012 CURIMATAU OCIDENTAL                          251010
+     12  25012 CURIMATAU OCIDENTAL                          251050
+     12  25012 CURIMATAU OCIDENTAL                          251200
+     12  25012 CURIMATAU OCIDENTAL                          251270
+     12  25012 CURIMATAU OCIDENTAL                          251610
+     12  25012 CURIMATAU OCIDENTAL                          251615
+     13  25013 CURIMATAU ORIENTAL                           250100
+     13  25013 CURIMATAU ORIENTAL                           250350
+     13  25013 CURIMATAU ORIENTAL                           250415
+     13  25013 CURIMATAU ORIENTAL                           250570
+     13  25013 CURIMATAU ORIENTAL                           251274
+     13  25013 CURIMATAU ORIENTAL                           251600
+     13  25013 CURIMATAU ORIENTAL                           251640
+     14  25014 ESPERANCA                                    250120
+     14  25014 ESPERANCA                                    250600
+     14  25014 ESPERANCA                                    250950
+     14  25014 ESPERANCA                                    251510
+     15  25015 BREJO PARAIBANO                              250030
+     15  25015 BREJO PARAIBANO                              250040
+     15  25015 BREJO PARAIBANO                              250110
+     15  25015 BREJO PARAIBANO                              250150
+     15  25015 BREJO PARAIBANO                              250270
+     15  25015 BREJO PARAIBANO                              250933
+     15  25015 BREJO PARAIBANO                              251160
+     15  25015 BREJO PARAIBANO                              251590
+     16  25016 GUARABIRA                                    250050
+     16  25016 GUARABIRA                                    250080
+     16  25016 GUARABIRA                                    250190
+     16  25016 GUARABIRA                                    250360
+     16  25016 GUARABIRA                                    250520
+     16  25016 GUARABIRA                                    250580
+     16  25016 GUARABIRA                                    250630
+     16  25016 GUARABIRA                                    250820
+     16  25016 GUARABIRA                                    250855
+     16  25016 GUARABIRA                                    250980
+     16  25016 GUARABIRA                                    251170
+     16  25016 GUARABIRA                                    251180
+     16  25016 GUARABIRA                                    251560
+     16  25016 GUARABIRA                                    251593
+     17  25017 CAMPINA GRANDE                               250215
+     17  25017 CAMPINA GRANDE                               250400
+     17  25017 CAMPINA GRANDE                               250610
+     17  25017 CAMPINA GRANDE                               250830
+     17  25017 CAMPINA GRANDE                               250920
+     17  25017 CAMPINA GRANDE                               251240
+     17  25017 CAMPINA GRANDE                               251250
+     17  25017 CAMPINA GRANDE                               251580
+     18  25018 ITABAIANA                                    250380
+     18  25018 ITABAIANA                                    250640
+     18  25018 ITABAIANA                                    250680
+     18  25018 ITABAIANA                                    250690
+     18  25018 ITABAIANA                                    250720
+     18  25018 ITABAIANA                                    250760
+     18  25018 ITABAIANA                                    250940
+     18  25018 ITABAIANA                                    251275
+     18  25018 ITABAIANA                                    251310
+     19  25019 UMBUZEIRO                                    250130
+     19  25019 UMBUZEIRO                                    250625
+     19  25019 UMBUZEIRO                                    250990
+     19  25019 UMBUZEIRO                                    251315
+     19  25019 UMBUZEIRO                                    251700
+     20  25020 LITORAL NORTE                                250140
+     20  25020 LITORAL NORTE                                250403
+     20  25020 LITORAL NORTE                                250523
+     20  25020 LITORAL NORTE                                250527
+     20  25020 LITORAL NORTE                                250710
+     20  25020 LITORAL NORTE                                250730
+     20  25020 LITORAL NORTE                                250890
+     20  25020 LITORAL NORTE                                250905
+     20  25020 LITORAL NORTE                                250930
+     20  25020 LITORAL NORTE                                251272
+     20  25020 LITORAL NORTE                                251290
+     21  25021 SAPE                                         250490
+     21  25021 SAPE                                         250790
+     21  25021 SAPE                                         250910
+     21  25021 SAPE                                         251150
+     21  25021 SAPE                                         251276
+     21  25021 SAPE                                         251445
+     21  25021 SAPE                                         251500
+     21  25021 SAPE                                         251530
+     21  25021 SAPE                                         251597
+     22  25022 JOAO PESSOA                                  250180
+     22  25022 JOAO PESSOA                                  250320
+     22  25022 JOAO PESSOA                                  250460
+     22  25022 JOAO PESSOA                                  250750
+     22  25022 JOAO PESSOA                                  250860
+     22  25022 JOAO PESSOA                                  251370
+     23  25023 LITORAL SUL                                  250060
+     23  25023 LITORAL SUL                                  250300
+     23  25023 LITORAL SUL                                  251120
+     23  25023 LITORAL SUL                                  251190
+     24  Ignorado - PB                                      250000,259999

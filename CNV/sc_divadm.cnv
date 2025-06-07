@@ -1,0 +1,297 @@
+37  6                                                                                    
+      1  4201 São Miguel do Oeste                           420208                            
+      1  4201 São Miguel do Oeste                           420209                            
+      1  4201 São Miguel do Oeste                           420215                            
+      1  4201 São Miguel do Oeste                           420490                            
+      1  4201 São Miguel do Oeste                           420640                            
+      1  4201 São Miguel do Oeste                           421223                            
+      1  4201 São Miguel do Oeste                           421720                            
+      2  4202 Maravilha                                     420257                            
+      2  4202 Maravilha                                     420535                            
+      2  4202 Maravilha                                     420775                            
+      2  4202 Maravilha                                     421050                            
+      2  4202 Maravilha                                     421090                            
+      2  4202 Maravilha                                     421290                            
+      2  4202 Maravilha                                     421520                            
+      2  4202 Maravilha                                     421535                            
+      2  4202 Maravilha                                     421568                            
+      2  4202 Maravilha                                     421715                            
+      2  4202 Maravilha                                     421730                            
+      2  4202 Maravilha                                     421755                            
+      2  4202 Maravilha                                     421775                            
+      2  4202 Maravilha                                     421795                            
+      3  4203 São Lourenço do Oeste                         420350                            
+      3  4203 São Lourenço do Oeste                         420445                            
+      3  4203 São Lourenço do Oeste                         420560                            
+      3  4203 São Lourenço do Oeste                         420917                            
+      3  4203 São Lourenço do Oeste                         421165                            
+      3  4203 São Lourenço do Oeste                         421575                            
+      3  4203 São Lourenço do Oeste                         421690                            
+      4  4204 Chapecó                                       420055                            
+      4  4204 Chapecó                                       420410                            
+      4  4204 Chapecó                                       420420                            
+      4  4204 Chapecó                                       420435                            
+      4  4204 Chapecó                                       420440                            
+      4  4204 Chapecó                                       420665                            
+      4  4204 Chapecó                                       421140                            
+      4  4204 Chapecó                                       421145                            
+      4  4204 Chapecó                                       421315                            
+      5  4205 Xanxerê                                       420010                            
+      5  4205 Xanxerê                                       420253                            
+      5  4205 Xanxerê                                       420517                            
+      5  4205 Xanxerê                                       420530                            
+      5  4205 Xanxerê                                       420768                            
+      5  4205 Xanxerê                                       420945                            
+      5  4205 Xanxerê                                       421055                            
+      5  4205 Xanxerê                                       421185                            
+      5  4205 Xanxerê                                       421227                            
+      5  4205 Xanxerê                                       421340                            
+      5  4205 Xanxerê                                       421610                            
+      5  4205 Xanxerê                                       421910                            
+      5  4205 Xanxerê                                       421950                            
+      5  4205 Xanxerê                                       421970                            
+      6  4206 Concórdia                                     420075                            
+      6  4206 Concórdia                                     420430                            
+      6  4206 Concórdia                                     420760                            
+      6  4206 Concórdia                                     420780                            
+      6  4206 Concórdia                                     421260                            
+      6  4206 Concórdia                                     421310                            
+      6  4206 Concórdia                                     421390                            
+      7  4207 Joaçaba                                       420040                            
+      7  4207 Joaçaba                                       420390                            
+      7  4207 Joaçaba                                       420400                            
+      7  4207 Joaçaba                                       420520                            
+      7  4207 Joaçaba                                       420670                            
+      7  4207 Joaçaba                                       420680                            
+      7  4207 Joaçaba                                       420860                            
+      7  4207 Joaçaba                                       420900                            
+      7  4207 Joaçaba                                       420920                            
+      7  4207 Joaçaba                                       421003                            
+      7  4207 Joaçaba                                       421180                            
+      7  4207 Joaçaba                                       421850                            
+      7  4207 Joaçaba                                       421917                            
+      8  4208 Campos Novos                                  420005                            
+      8  4208 Campos Novos                                  420287                            
+      8  4208 Campos Novos                                  420360                            
+      8  4208 Campos Novos                                  420415,420411                     
+      8  4208 Campos Novos                                  420675                            
+      8  4208 Campos Novos                                  421105                            
+      8  4208 Campos Novos                                  421915                            
+      8  4208 Campos Novos                                  421985                            
+      9  4209 Videira                                       420160                            
+      9  4209 Videira                                       420550                            
+      9  4209 Videira                                       420757                            
+      9  4209 Videira                                       421300                            
+      9  4209 Videira                                       421540                            
+      9  4209 Videira                                       421790                            
+      9  4209 Videira                                       421930                            
+     10  4210 Caçador                                       420300                            
+     10  4210 Caçador                                       420315                            
+     10  4210 Caçador                                       420970                            
+     10  4210 Caçador                                       421005                            
+     10  4210 Caçador                                       421070                            
+     10  4210 Caçador                                       421440                            
+     10  4210 Caçador                                       421825                            
+     11  4211 Curitibanos                                   420480                            
+     11  4211 Curitibanos                                   420555                            
+     11  4211 Curitibanos                                   421335                            
+     11  4211 Curitibanos                                   421550                            
+     11  4211 Curitibanos                                   421605                            
+     12  4212 Rio do Sul                                    420020                            
+     12  4212 Rio do Sul                                    420030                            
+     12  4212 Rio do Sul                                    420285                            
+     12  4212 Rio do Sul                                    420950                            
+     12  4212 Rio do Sul                                    421460                            
+     12  4212 Rio do Sul                                    421480                            
+     12  4212 Rio do Sul                                    421860                            
+     13  4213 Ituporanga                                    420070                            
+     13  4213 Ituporanga                                    420180                            
+     13  4213 Ituporanga                                    420190                            
+     13  4213 Ituporanga                                    420419                            
+     13  4213 Ituporanga                                    420740                            
+     13  4213 Ituporanga                                    420850                            
+     13  4213 Ituporanga                                    420980                            
+     13  4213 Ituporanga                                    421270                            
+     13  4213 Ituporanga                                    421920                            
+     14  4214 Ibirama                                       420125                            
+     14  4214 Ibirama                                       420510                            
+     14  4214 Ibirama                                       420690                            
+     14  4214 Ibirama                                       420915                            
+     14  4214 Ibirama                                       420990                            
+     14  4214 Ibirama                                       421400                            
+     14  4214 Ibirama                                       421410                            
+     14  4214 Ibirama                                       421935                            
+     14  4214 Ibirama                                       421940                            
+     15  4215 Blumenau                                      420240                            
+     15  4215 Blumenau                                      420590                            
+     15  4215 Blumenau                                      420710                            
+     15  4215 Blumenau                                      421000                            
+     15  4215 Blumenau                                      421320                            
+     16  4216 Brusque                                       420270                            
+     16  4216 Brusque                                       420290                            
+     16  4216 Brusque                                       420370                            
+     16  4216 Brusque                                       420630                            
+     16  4216 Brusque                                       421020                            
+     16  4216 Brusque                                       421150                            
+     16  4216 Brusque                                       421630                            
+     16  4216 Brusque                                       421800                            
+     17  4217 Itajaí                                        420200                            
+     17  4217 Itajaí                                        420245                            
+     17  4217 Itajaí                                        420320                            
+     17  4217 Itajaí                                        420820                            
+     17  4217 Itajaí                                        420830                            
+     17  4217 Itajaí                                        421130                            
+     17  4217 Itajaí                                        421250                            
+     17  4217 Itajaí                                        421280                            
+     17  4217 Itajaí                                        421350                            
+     18  4218 Grande Florianópolis                          420060                            
+     18  4218 Grande Florianópolis                          420090                            
+     18  4218 Grande Florianópolis                          420110                            
+     18  4218 Grande Florianópolis                          420120                            
+     18  4218 Grande Florianópolis                          420230                            
+     18  4218 Grande Florianópolis                          420540                            
+     18  4218 Grande Florianópolis                          420600                            
+     18  4218 Grande Florianópolis                          421190                            
+     18  4218 Grande Florianópolis                          421430                            
+     18  4218 Grande Florianópolis                          421570                            
+     18  4218 Grande Florianópolis                          421590                            
+     18  4218 Grande Florianópolis                          421660                            
+     18  4218 Grande Florianópolis                          421725                            
+     19  4219 Laguna                                        420570                            
+     19  4219 Laguna                                        420720                            
+     19  4219 Laguna                                        420730                            
+     19  4219 Laguna                                        420940                            
+     19  4219 Laguna                                        421230                            
+     19  4219 Laguna                                        421265                            
+     20  4220 Tubarão                                       420395                            
+     20  4220 Tubarão                                       420620                            
+     20  4220 Tubarão                                       420880                            
+     20  4220 Tubarão                                       421240                            
+     20  4220 Tubarão                                       421545                            
+     20  4220 Tubarão                                       421840                            
+     20  4220 Tubarão                                       421870                            
+     21  4221 Criciúma                                      420425                            
+     21  4221 Criciúma                                      420460                            
+     21  4221 Criciúma                                      420545                            
+     21  4221 Criciúma                                      420700                            
+     21  4221 Criciúma                                      420960                            
+     21  4221 Criciúma                                      421120                            
+     21  4221 Criciúma                                      421160                            
+     21  4221 Criciúma                                      421170                            
+     21  4221 Criciúma                                      421760                            
+     21  4221 Criciúma                                      421835                            
+     21  4221 Criciúma                                      421900                            
+     21  4221 Criciúma                                      422000                            
+     22  4222 Araranguá                                     420140                            
+     22  4222 Araranguá                                     420195                            
+     22  4222 Araranguá                                     420207                            
+     22  4222 Araranguá                                     420519                            
+     22  4222 Araranguá                                     420870                            
+     22  4222 Araranguá                                     421040                            
+     22  4222 Araranguá                                     421080                            
+     22  4222 Araranguá                                     421125                            
+     22  4222 Araranguá                                     421225                            
+     22  4222 Araranguá                                     421380                            
+     22  4222 Araranguá                                     421565                            
+     22  4222 Araranguá                                     421640                            
+     22  4222 Araranguá                                     421770                            
+     22  4222 Araranguá                                     421810                            
+     22  4222 Araranguá                                     421880                            
+     23  4223 Joinville                                     420130                            
+     23  4223 Joinville                                     420205                            
+     23  4223 Joinville                                     420210                            
+     23  4223 Joinville                                     420580                            
+     23  4223 Joinville                                     420845                            
+     23  4223 Joinville                                     420910                            
+     23  4223 Joinville                                     421620                            
+     23  4223 Joinville                                     421635                            
+     24  4224 Jaraguá do Sul                                420450                            
+     24  4224 Jaraguá do Sul                                420650                            
+     24  4224 Jaraguá do Sul                                420890                            
+     24  4224 Jaraguá do Sul                                421060                            
+     24  4224 Jaraguá do Sul                                421740                            
+     25  4225 Mafra                                         420330                            
+     25  4225 Mafra                                         420810                            
+     25  4225 Mafra                                         421010                            
+     25  4225 Mafra                                         421110                            
+     25  4225 Mafra                                         421220                            
+     25  4225 Mafra                                         421500                            
+     25  4225 Mafra                                         421580                            
+     26  4226 Canoinhas                                     420213                            
+     26  4226 Canoinhas                                     420380                            
+     26  4226 Canoinhas                                     420790                            
+     26  4226 Canoinhas                                     421030                            
+     26  4226 Canoinhas                                     421360                            
+     26  4226 Canoinhas                                     421830                            
+     27  4227 Lages                                         420100                            
+     27  4227 Lages                                         420243                            
+     27  4227 Lages                                         420325                            
+     27  4227 Lages                                         420340                            
+     27  4227 Lages                                         420417                            
+     27  4227 Lages                                         420455                            
+     27  4227 Lages                                         420930                            
+     27  4227 Lages                                         421175                            
+     27  4227 Lages                                         421189                            
+     27  4227 Lages                                         421205                            
+     27  4227 Lages                                         421330                            
+     27  4227 Lages                                         421680                            
+     28  4228 São Joaquim                                   420250                            
+     28  4228 São Joaquim                                   420260                            
+     28  4228 São Joaquim                                   421505                            
+     28  4228 São Joaquim                                   421650                            
+     28  4228 São Joaquim                                   421890                            
+     28  4228 São Joaquim                                   421895                            
+     29  4229 Palmitos                                      420050                            
+     29  4229 Palmitos                                      420310                            
+     29  4229 Palmitos                                      420470                            
+     29  4229 Palmitos                                      420475                            
+     29  4229 Palmitos                                      421100                            
+     29  4229 Palmitos                                      421210                            
+     29  4229 Palmitos                                      421507                            
+     29  4229 Palmitos                                      421600                            
+     30  4230 Dionísio Cerqueira                            420080                            
+     30  4230 Dionísio Cerqueira                            420500                            
+     30  4230 Dionísio Cerqueira                            420660                            
+     30  4230 Dionísio Cerqueira                            421200                            
+     30  4230 Dionísio Cerqueira                            421415                            
+     30  4230 Dionísio Cerqueira                            421670                            
+     31  4231 Itapiranga                                    420765                            
+     31  4231 Itapiranga                                    420840                            
+     31  4231 Itapiranga                                    421555                            
+     31  4231 Itapiranga                                    421625                            
+     31  4231 Itapiranga                                    421875                            
+     32  4232 Quilombo                                      420543                            
+     32  4232 Quilombo                                      420785                            
+     32  4232 Quilombo                                      420895                            
+     32  4232 Quilombo                                      421420                            
+     32  4232 Quilombo                                      421569                            
+     32  4232 Quilombo                                      421885                            
+     33  4233 Seara                                         420127                            
+     33  4233 Seara                                         420165                            
+     33  4233 Seara                                         420770                            
+     33  4233 Seara                                         420800                            
+     33  4233 Seara                                         420985                            
+     33  4233 Seara                                         421187                            
+     33  4233 Seara                                         421750                            
+     33  4233 Seara                                         421960                            
+     34  4234 Taió                                          421085                            
+     34  4234 Taió                                          421370                            
+     34  4234 Taió                                          421450                            
+     34  4234 Taió                                          421530                            
+     34  4234 Taió                                          421567                            
+     34  4234 Taió                                          421780                            
+     35  4235 Timbó                                         420170                            
+     35  4235 Timbó                                         420220                            
+     35  4235 Timbó                                         420515                            
+     35  4235 Timbó                                         420750                            
+     35  4235 Timbó                                         421470                            
+     35  4235 Timbó                                         421510                            
+     35  4235 Timbó                                         421820                            
+     36  4236 Braço do Norte                                420150                            
+     36  4236 Braço do Norte                                420280                            
+     36  4236 Braço do Norte                                420610                            
+     36  4236 Braço do Norte                                421490                            
+     36  4236 Braço do Norte                                421560                            
+     36  4236 Braço do Norte                                421700                            
+     36  4236 Braço do Norte                                421710                            
+     37  4200 Município ignorado - SC                       420000,429999                     

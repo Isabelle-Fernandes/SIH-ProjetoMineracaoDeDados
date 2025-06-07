@@ -1,0 +1,297 @@
+37  6                                                                                    
+      1  SC Araranguá                                       420140                            
+      1  SC Araranguá                                       420195                            
+      1  SC Araranguá                                       420207                            
+      1  SC Araranguá                                       420519                            
+      1  SC Araranguá                                       420870                            
+      1  SC Araranguá                                       421040                            
+      1  SC Araranguá                                       421080                            
+      1  SC Araranguá                                       421125                            
+      1  SC Araranguá                                       421225                            
+      1  SC Araranguá                                       421380                            
+      1  SC Araranguá                                       421565                            
+      1  SC Araranguá                                       421640                            
+      1  SC Araranguá                                       421770                            
+      1  SC Araranguá                                       421810                            
+      1  SC Araranguá                                       421880                            
+      2  SC Blumenau                                        420240                            
+      2  SC Blumenau                                        420590                            
+      2  SC Blumenau                                        420710                            
+      2  SC Blumenau                                        421000                            
+      2  SC Blumenau                                        421320                            
+      3  SC Braço do Norte                                  420150                            
+      3  SC Braço do Norte                                  420280                            
+      3  SC Braço do Norte                                  420610                            
+      3  SC Braço do Norte                                  421490                            
+      3  SC Braço do Norte                                  421560                            
+      3  SC Braço do Norte                                  421700                            
+      3  SC Braço do Norte                                  421710                            
+      4  SC Brusque                                         420270                            
+      4  SC Brusque                                         420290                            
+      4  SC Brusque                                         420370                            
+      4  SC Brusque                                         420630                            
+      4  SC Brusque                                         421020                            
+      4  SC Brusque                                         421150                            
+      4  SC Brusque                                         421630                            
+      4  SC Brusque                                         421800                            
+      5  SC Campos Novos                                    420005                            
+      5  SC Campos Novos                                    420287                            
+      5  SC Campos Novos                                    420360                            
+      5  SC Campos Novos                                    420415,420411                     
+      5  SC Campos Novos                                    420675                            
+      5  SC Campos Novos                                    421105                            
+      5  SC Campos Novos                                    421915                            
+      5  SC Campos Novos                                    421985                            
+      6  SC Canoinhas                                       420213                            
+      6  SC Canoinhas                                       420380                            
+      6  SC Canoinhas                                       420790                            
+      6  SC Canoinhas                                       421030                            
+      6  SC Canoinhas                                       421360                            
+      6  SC Canoinhas                                       421830                            
+      7  SC Caçador                                         420300                            
+      7  SC Caçador                                         420315                            
+      7  SC Caçador                                         420970                            
+      7  SC Caçador                                         421005                            
+      7  SC Caçador                                         421070                            
+      7  SC Caçador                                         421440                            
+      7  SC Caçador                                         421825                            
+      8  SC Chapecó                                         420055                            
+      8  SC Chapecó                                         420410                            
+      8  SC Chapecó                                         420420                            
+      8  SC Chapecó                                         420435                            
+      8  SC Chapecó                                         420440                            
+      8  SC Chapecó                                         420665                            
+      8  SC Chapecó                                         421140                            
+      8  SC Chapecó                                         421145                            
+      8  SC Chapecó                                         421315                            
+      9  SC Concórdia                                       420075                            
+      9  SC Concórdia                                       420430                            
+      9  SC Concórdia                                       420760                            
+      9  SC Concórdia                                       420780                            
+      9  SC Concórdia                                       421260                            
+      9  SC Concórdia                                       421310                            
+      9  SC Concórdia                                       421390                            
+     10  SC Criciúma                                        420425                            
+     10  SC Criciúma                                        420460                            
+     10  SC Criciúma                                        420545                            
+     10  SC Criciúma                                        420700                            
+     10  SC Criciúma                                        420960                            
+     10  SC Criciúma                                        421120                            
+     10  SC Criciúma                                        421160                            
+     10  SC Criciúma                                        421170                            
+     10  SC Criciúma                                        421760                            
+     10  SC Criciúma                                        421835                            
+     10  SC Criciúma                                        421900                            
+     10  SC Criciúma                                        422000                            
+     11  SC Curitibanos                                     420480                            
+     11  SC Curitibanos                                     420555                            
+     11  SC Curitibanos                                     421335                            
+     11  SC Curitibanos                                     421550                            
+     11  SC Curitibanos                                     421605                            
+     12  SC Dionísio Cerqueira                              420080                            
+     12  SC Dionísio Cerqueira                              420500                            
+     12  SC Dionísio Cerqueira                              420660                            
+     12  SC Dionísio Cerqueira                              421200                            
+     12  SC Dionísio Cerqueira                              421415                            
+     12  SC Dionísio Cerqueira                              421670                            
+     13  SC Grande Florianópolis                            420060                            
+     13  SC Grande Florianópolis                            420090                            
+     13  SC Grande Florianópolis                            420110                            
+     13  SC Grande Florianópolis                            420120                            
+     13  SC Grande Florianópolis                            420230                            
+     13  SC Grande Florianópolis                            420540                            
+     13  SC Grande Florianópolis                            420600                            
+     13  SC Grande Florianópolis                            421190                            
+     13  SC Grande Florianópolis                            421430                            
+     13  SC Grande Florianópolis                            421570                            
+     13  SC Grande Florianópolis                            421590                            
+     13  SC Grande Florianópolis                            421660                            
+     13  SC Grande Florianópolis                            421725                            
+     14  SC Ibirama                                         420125                            
+     14  SC Ibirama                                         420510                            
+     14  SC Ibirama                                         420690                            
+     14  SC Ibirama                                         420915                            
+     14  SC Ibirama                                         420990                            
+     14  SC Ibirama                                         421400                            
+     14  SC Ibirama                                         421410                            
+     14  SC Ibirama                                         421935                            
+     14  SC Ibirama                                         421940                            
+     15  SC Itajaí                                          420200                            
+     15  SC Itajaí                                          420245                            
+     15  SC Itajaí                                          420320                            
+     15  SC Itajaí                                          420820                            
+     15  SC Itajaí                                          420830                            
+     15  SC Itajaí                                          421130                            
+     15  SC Itajaí                                          421250                            
+     15  SC Itajaí                                          421280                            
+     15  SC Itajaí                                          421350                            
+     16  SC Itapiranga                                      420765                            
+     16  SC Itapiranga                                      420840                            
+     16  SC Itapiranga                                      421555                            
+     16  SC Itapiranga                                      421625                            
+     16  SC Itapiranga                                      421875                            
+     17  SC Ituporanga                                      420070                            
+     17  SC Ituporanga                                      420180                            
+     17  SC Ituporanga                                      420190                            
+     17  SC Ituporanga                                      420419                            
+     17  SC Ituporanga                                      420740                            
+     17  SC Ituporanga                                      420850                            
+     17  SC Ituporanga                                      420980                            
+     17  SC Ituporanga                                      421270                            
+     17  SC Ituporanga                                      421920                            
+     18  SC Jaraguá do Sul                                  420450                            
+     18  SC Jaraguá do Sul                                  420650                            
+     18  SC Jaraguá do Sul                                  420890                            
+     18  SC Jaraguá do Sul                                  421060                            
+     18  SC Jaraguá do Sul                                  421740                            
+     19  SC Joaçaba                                         420040                            
+     19  SC Joaçaba                                         420390                            
+     19  SC Joaçaba                                         420400                            
+     19  SC Joaçaba                                         420520                            
+     19  SC Joaçaba                                         420670                            
+     19  SC Joaçaba                                         420680                            
+     19  SC Joaçaba                                         420860                            
+     19  SC Joaçaba                                         420900                            
+     19  SC Joaçaba                                         420920                            
+     19  SC Joaçaba                                         421003                            
+     19  SC Joaçaba                                         421180                            
+     19  SC Joaçaba                                         421850                            
+     19  SC Joaçaba                                         421917                            
+     20  SC Joinville                                       420130                            
+     20  SC Joinville                                       420205                            
+     20  SC Joinville                                       420210                            
+     20  SC Joinville                                       420580                            
+     20  SC Joinville                                       420845                            
+     20  SC Joinville                                       420910                            
+     20  SC Joinville                                       421620                            
+     20  SC Joinville                                       421635                            
+     21  SC Lages                                           420100                            
+     21  SC Lages                                           420243                            
+     21  SC Lages                                           420325                            
+     21  SC Lages                                           420340                            
+     21  SC Lages                                           420417                            
+     21  SC Lages                                           420455                            
+     21  SC Lages                                           420930                            
+     21  SC Lages                                           421175                            
+     21  SC Lages                                           421189                            
+     21  SC Lages                                           421205                            
+     21  SC Lages                                           421330                            
+     21  SC Lages                                           421680                            
+     22  SC Laguna                                          420570                            
+     22  SC Laguna                                          420720                            
+     22  SC Laguna                                          420730                            
+     22  SC Laguna                                          420940                            
+     22  SC Laguna                                          421230                            
+     22  SC Laguna                                          421265                            
+     23  SC Mafra                                           420330                            
+     23  SC Mafra                                           420810                            
+     23  SC Mafra                                           421010                            
+     23  SC Mafra                                           421110                            
+     23  SC Mafra                                           421220                            
+     23  SC Mafra                                           421500                            
+     23  SC Mafra                                           421580                            
+     24  SC Maravilha                                       420257                            
+     24  SC Maravilha                                       420535                            
+     24  SC Maravilha                                       420775                            
+     24  SC Maravilha                                       421050                            
+     24  SC Maravilha                                       421090                            
+     24  SC Maravilha                                       421290                            
+     24  SC Maravilha                                       421520                            
+     24  SC Maravilha                                       421535                            
+     24  SC Maravilha                                       421568                            
+     24  SC Maravilha                                       421715                            
+     24  SC Maravilha                                       421730                            
+     24  SC Maravilha                                       421755                            
+     24  SC Maravilha                                       421775                            
+     24  SC Maravilha                                       421795                            
+     25  SC Palmitos                                        420050                            
+     25  SC Palmitos                                        420310                            
+     25  SC Palmitos                                        420470                            
+     25  SC Palmitos                                        420475                            
+     25  SC Palmitos                                        421100                            
+     25  SC Palmitos                                        421210                            
+     25  SC Palmitos                                        421507                            
+     25  SC Palmitos                                        421600                            
+     26  SC Quilombo                                        420543                            
+     26  SC Quilombo                                        420785                            
+     26  SC Quilombo                                        420895                            
+     26  SC Quilombo                                        421420                            
+     26  SC Quilombo                                        421569                            
+     26  SC Quilombo                                        421885                            
+     27  SC Rio do Sul                                      420020                            
+     27  SC Rio do Sul                                      420030                            
+     27  SC Rio do Sul                                      420285                            
+     27  SC Rio do Sul                                      420950                            
+     27  SC Rio do Sul                                      421460                            
+     27  SC Rio do Sul                                      421480                            
+     27  SC Rio do Sul                                      421860                            
+     28  SC Seara                                           420127                            
+     28  SC Seara                                           420165                            
+     28  SC Seara                                           420770                            
+     28  SC Seara                                           420800                            
+     28  SC Seara                                           420985                            
+     28  SC Seara                                           421187                            
+     28  SC Seara                                           421750                            
+     28  SC Seara                                           421960                            
+     29  SC São Joaquim                                     420250                            
+     29  SC São Joaquim                                     420260                            
+     29  SC São Joaquim                                     421505                            
+     29  SC São Joaquim                                     421650                            
+     29  SC São Joaquim                                     421890                            
+     29  SC São Joaquim                                     421895                            
+     30  SC São Lourenço do Oeste                           420350                            
+     30  SC São Lourenço do Oeste                           420445                            
+     30  SC São Lourenço do Oeste                           420560                            
+     30  SC São Lourenço do Oeste                           420917                            
+     30  SC São Lourenço do Oeste                           421165                            
+     30  SC São Lourenço do Oeste                           421575                            
+     30  SC São Lourenço do Oeste                           421690                            
+     31  SC São Miguel do Oeste                             420208                            
+     31  SC São Miguel do Oeste                             420209                            
+     31  SC São Miguel do Oeste                             420215                            
+     31  SC São Miguel do Oeste                             420490                            
+     31  SC São Miguel do Oeste                             420640                            
+     31  SC São Miguel do Oeste                             421223                            
+     31  SC São Miguel do Oeste                             421720                            
+     32  SC Taió                                            421085                            
+     32  SC Taió                                            421370                            
+     32  SC Taió                                            421450                            
+     32  SC Taió                                            421530                            
+     32  SC Taió                                            421567                            
+     32  SC Taió                                            421780                            
+     33  SC Timbó                                           420170                            
+     33  SC Timbó                                           420220                            
+     33  SC Timbó                                           420515                            
+     33  SC Timbó                                           420750                            
+     33  SC Timbó                                           421470                            
+     33  SC Timbó                                           421510                            
+     33  SC Timbó                                           421820                            
+     34  SC Tubarão                                         420395                            
+     34  SC Tubarão                                         420620                            
+     34  SC Tubarão                                         420880                            
+     34  SC Tubarão                                         421240                            
+     34  SC Tubarão                                         421545                            
+     34  SC Tubarão                                         421840                            
+     34  SC Tubarão                                         421870                            
+     35  SC Videira                                         420160                            
+     35  SC Videira                                         420550                            
+     35  SC Videira                                         420757                            
+     35  SC Videira                                         421300                            
+     35  SC Videira                                         421540                            
+     35  SC Videira                                         421790                            
+     35  SC Videira                                         421930                            
+     36  SC Xanxerê                                         420010                            
+     36  SC Xanxerê                                         420253                            
+     36  SC Xanxerê                                         420517                            
+     36  SC Xanxerê                                         420530                            
+     36  SC Xanxerê                                         420768                            
+     36  SC Xanxerê                                         420945                            
+     36  SC Xanxerê                                         421055                            
+     36  SC Xanxerê                                         421185                            
+     36  SC Xanxerê                                         421227                            
+     36  SC Xanxerê                                         421340                            
+     36  SC Xanxerê                                         421610                            
+     36  SC Xanxerê                                         421910                            
+     36  SC Xanxerê                                         421950                            
+     36  SC Xanxerê                                         421970                            
+     37  SC Município ignorado - SC                         420000,429999                     

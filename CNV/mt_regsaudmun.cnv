@@ -1,0 +1,159 @@
+N 158 6
+        1  51001 Alto Tapajós                                                                                   510025,510080,510279,510615,510629,510895
+   1    2  .....  PARANAITA                                                                                     510629
+   1    3  .....  ALTA FLORESTA                                                                                 510025
+   1    4  .....  CARLINDA                                                                                      510279
+   1    5  .....  NOVA BANDEIRANTES                                                                             510615
+   1    6  .....  NOVA MONTE VERDE                                                                              510895
+   1    7  .....  APIACAS                                                                                       510080
+        8  51002 Baixada Cuiabana                                                                               510010,510160,510300,510340,510490,510610,510620,510645,510650,510780,510840
+   8    9  .....  NOSSA SENHORA DO LIVRAMENTO                                                                   510610
+   8   10  .....  CUIABA                                                                                        510340
+   8   11  .....  CHAPADA DOS GUIMARAES                                                                         510300
+   8   12  .....  NOVA BRASILANDIA                                                                              510620
+   8   13  .....  BARAO DE MELGACO                                                                              510160
+   8   14  .....  POCONE                                                                                        510650
+   8   15  .....  SANTO ANTONIO DO LEVERGER                                                                     510780
+   8   16  .....  VARZEA GRANDE                                                                                 510840
+   8   17  .....  PLANALTO DA SERRA                                                                             510645
+   8   18  .....  ACORIZAL                                                                                      510010
+   8   19  .....  JANGADA                                                                                       510490
+       20  51003 Araguaia Xingu                                                                                 510269,510335,510677,510735,510774,510777,510860
+  20   21  .....  SANTA TEREZINHA                                                                               510777
+  20   22  .....  PORTO ALEGRE DO NORTE                                                                         510677
+  20   23  .....  CONFRESA                                                                                      510335
+  20   24  .....  SANTA CRUZ DO XINGU                                                                           510774
+  20   25  .....  CANABRAVA DO NORTE                                                                            510269
+  20   26  .....  SAO JOSE DO XINGU                                                                             510735
+  20   27  .....  VILA RICA                                                                                     510860
+       28  51004 Centro Norte                                                                                   510050,510350,510590,510600,510730,510770,510890
+  28   29  .....  NOVA MARINGA                                                                                  510890
+  28   30  .....  ROSARIO OESTE                                                                                 510770
+  28   31  .....  DIAMANTINO                                                                                    510350
+  28   32  .....  SAO JOSE DO RIO CLARO                                                                         510730
+  28   33  .....  NOBRES                                                                                        510590
+  28   34  .....  ALTO PARAGUAI                                                                                 510050
+  28   35  .....  NORTELANDIA                                                                                   510600
+       36  51005 Garças Araguaia                                                                                510100,510180,510260,510390,510625,510628,510665,510670,510719,510820
+  36   37  .....  ARAGUAIANA                                                                                    510100
+  36   38  .....  BARRA DO GARCAS                                                                               510180
+  36   39  .....  CAMPINAPOLIS                                                                                  510260
+  36   40  .....  RIBEIRAOZINHO                                                                                 510719
+  36   41  .....  TORIXOREU                                                                                     510820
+  36   42  .....  NOVA XAVANTINA                                                                                510625
+  36   43  .....  PONTE BRANCA                                                                                  510670
+  36   44  .....  PONTAL DO ARAGUAIA                                                                            510665
+  36   45  .....  NOVO SAO JOAQUIM                                                                              510628
+  36   46  .....  GENERAL CARNEIRO                                                                              510390
+       47  51006 Médio Araguaia                                                                                 510020,510185,510270,510310,510385,510617,510706,510718
+  47   48  .....  AGUA BOA                                                                                      510020
+  47   49  .....  CANARANA                                                                                      510270
+  47   50  .....  NOVA NAZARE                                                                                   510617
+  47   51  .....  GAUCHA DO NORTE                                                                               510385
+  47   52  .....  BOM JESUS DO ARAGUAIA                                                                         510185
+  47   53  .....  QUERENCIA                                                                                     510706
+  47   54  .....  COCALINHO                                                                                     510310
+  47   55  .....  RIBEIRAO CASCALHEIRA                                                                          510718
+       56  51007 Médio Norte Matogrossense                                                                      510130,510170,510263,510345,510623,510685,510726,510787,510795,510885
+  56   57  .....  CAMPO NOVO DO PARECIS                                                                         510263
+  56   58  .....  SAPEZAL                                                                                       510787
+  56   59  .....  ARENAPOLIS                                                                                    510130
+  56   60  .....  TANGARA DA SERRA                                                                              510795
+  56   61  .....  NOVA MARILANDIA                                                                               510885
+  56   62  .....  BARRA DO BUGRES                                                                               510170
+  56   63  .....  PORTO ESTRELA                                                                                 510685
+  56   64  .....  DENISE                                                                                        510345
+  56   65  .....  NOVA OLIMPIA                                                                                  510623
+  56   66  .....  SANTO AFONSO                                                                                  510726
+       67  51008 Noroeste Matogrossense                                                                         510140,510190,510285,510325,510337,510515,510517
+  67   68  .....  ARIPUANA                                                                                      510140
+  67   69  .....  COTRIGUACU                                                                                    510337
+  67   70  .....  COLNIZA                                                                                       510325
+  67   71  .....  JUINA                                                                                         510515
+  67   72  .....  BRASNORTE                                                                                     510190
+  67   73  .....  CASTANHEIRA                                                                                   510285
+  67   74  .....  JURUENA                                                                                       510517
+       75  51009 Norte Araguaia Karajá                                                                          510035,510530,510631,510785,510788
+  75   76  .....  SAO FELIX DO ARAGUAIA                                                                         510785
+  75   77  .....  NOVO SANTO ANTONIO                                                                            510631
+  75   78  .....  SERRA NOVA DOURADA                                                                            510788
+  75   79  .....  LUCIARA                                                                                       510530
+  75   80  .....  ALTO BOA VISTA                                                                                510035
+       81  51010 Norte Matogrossense                                                                            510320,510455,510558,510619,510621,510880
+  81   82  .....  NOVA GUARITA                                                                                  510880
+  81   83  .....  MARCELANDIA                                                                                   510558
+  81   84  .....  NOVA CANAA DO NORTE                                                                           510621
+  81   85  .....  NOVA SANTA HELENA                                                                             510619
+  81   86  .....  COLIDER                                                                                       510320
+  81   87  .....  ITAUBA                                                                                        510455
+       88  51011 Oeste Matogrossense                                                                            510125,510250,510343,510395,510450,510523,510562,510682,510710,510715,510720,510775
+  88   89  .....  SAO JOSE DOS QUATRO MARCOS                                                                    510710
+  88   90  .....  ARAPUTANGA                                                                                    510125
+  88   91  .....  MIRASSOL D'OESTE                                                                              510562
+  88   92  .....  GLORIA D'OESTE                                                                                510395
+  88   93  .....  INDIAVAI                                                                                      510450
+  88   94  .....  RIO BRANCO                                                                                    510720
+  88   95  .....  CURVELANDIA                                                                                   510343
+  88   96  .....  CACERES                                                                                       510250
+  88   97  .....  RESERVA DO CABACAL                                                                            510715
+  88   98  .....  LAMBARI D'OESTE                                                                               510523
+  88   99  .....  PORTO ESPERIDIAO                                                                              510682
+  88  100  .....  SALTO DO CEU                                                                                  510775
+      101  51012 Sudoeste Matogrossense                                                                         510268,510330,510336,510380,510500,510550,510618,510675,510757,510835
+ 101  102  .....  COMODORO                                                                                      510330
+ 101  103  .....  PONTES E LACERDA                                                                              510675
+ 101  104  .....  FIGUEIROPOLIS D'OESTE                                                                         510380
+ 101  105  .....  JAURU                                                                                         510500
+ 101  106  .....  RONDOLANDIA                                                                                   510757
+ 101  107  .....  CAMPOS DE JULIO                                                                               510268
+ 101  108  .....  NOVA LACERDA                                                                                  510618
+ 101  109  .....  VILA BELA DA SANTISSIMA TRINDADE                                                              510550
+ 101  110  .....  CONQUISTA D'OESTE                                                                             510336
+ 101  111  .....  VALE DE SAO DOMINGOS                                                                          510835
+      112  51013 Sul Matogrossense                                                                              510030,510040,510060,510120,510267,510360,510420,510460,510480,510520,510630,510637,510700,510704,510729,510740,510760,510779,510810
+ 112  113  .....  CAMPO VERDE                                                                                   510267
+ 112  114  .....  POXOREO                                                                                       510700
+ 112  115  .....  PRIMAVERA DO LESTE                                                                            510704
+ 112  116  .....  ALTO TAQUARI                                                                                  510060
+ 112  117  .....  ALTO ARAGUAIA                                                                                 510030
+ 112  118  .....  ALTO GARCAS                                                                                   510040
+ 112  119  .....  ITIQUIRA                                                                                      510460
+ 112  120  .....  GUIRATINGA                                                                                    510420
+ 112  121  .....  SAO JOSE DO POVO                                                                              510729
+ 112  122  .....  SAO PEDRO DA CIPA                                                                             510740
+ 112  123  .....  PARANATINGA                                                                                   510630
+ 112  124  .....  TESOURO                                                                                       510810
+ 112  125  .....  SANTO ANTONIO DO LESTE                                                                        510779
+ 112  126  .....  ARAGUAINHA                                                                                    510120
+ 112  127  .....  RONDONOPOLIS                                                                                  510760
+ 112  128  .....  DOM AQUINO                                                                                    510360
+ 112  129  .....  JACIARA                                                                                       510480
+ 112  130  .....  PEDRA PRETA                                                                                   510637
+ 112  131  .....  JUSCIMEIRA                                                                                    510520
+      132  51014 Teles Pires                                                                                    510183,510305,510370,510452,510454,510525,510622,510624,510724,510776,510790,510792,510800,510830,510850
+ 132  133  .....  ITANHANGA                                                                                     510454
+ 132  134  .....  BOA ESPERANCA DO NORTE                                                                        510183
+ 132  135  .....  CLAUDIA                                                                                       510305
+ 132  136  .....  NOVA UBIRATA                                                                                  510624
+ 132  137  .....  LUCAS DO RIO VERDE                                                                            510525
+ 132  138  .....  VERA                                                                                          510850
+ 132  139  .....  TAPURAH                                                                                       510800
+ 132  140  .....  UNIAO DO SUL                                                                                  510830
+ 132  141  .....  SINOP                                                                                         510790
+ 132  142  .....  SORRISO                                                                                       510792
+ 132  143  .....  NOVA MUTUM                                                                                    510622
+ 132  144  .....  SANTA RITA DO TRIVELATO                                                                       510776
+ 132  145  .....  SANTA CARMEM                                                                                  510724
+ 132  146  .....  FELIZ NATAL                                                                                   510370
+ 132  147  .....  IPIRANGA DO NORTE                                                                             510452
+      148  51015 Vale do Peixoto                                                                                510410,510560,510626,510642,510805
+ 148  149  .....  NOVO MUNDO                                                                                    510626
+ 148  150  .....  TERRA NOVA DO NORTE                                                                           510805
+ 148  151  .....  GUARANTA DO NORTE                                                                             510410
+ 148  152  .....  PEIXOTO DE AZEVEDO                                                                            510642
+ 148  153  .....  MATUPA                                                                                        510560
+      154  51016 Vale dos Arinos                                                                                510510,510627,510680,510794
+ 154  155  .....  TABAPORA                                                                                      510794
+ 154  156  .....  NOVO HORIZONTE DO NORTE                                                                       510627
+ 154  157  .....  PORTO DOS GAUCHOS                                                                             510680
+ 154  158  .....  JUARA                                                                                         510510

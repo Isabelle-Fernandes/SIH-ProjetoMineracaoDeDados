@@ -1,0 +1,861 @@
+860  6                                                                                    
+      1  31011 B.Horizonte - núcl - MG                      310500                            
+  1   2  ..... Baldim                                       310500                            
+  1   3  ..... Belo Horizonte                               310620                            
+  1   4  ..... Betim                                        310670                            
+  1   5  ..... Brumadinho                                   310900                            
+  1   6  ..... Caeté                                        311000                            
+  1   7  ..... Capim Branco                                 311250                            
+  1   8  ..... Confins                                      311787                            
+  1   9  ..... Contagem                                     311860                            
+  1  10  ..... Esmeraldas                                   312410                            
+  1  11  ..... Florestal                                    312600                            
+  1  12  ..... Ibirité                                      312980                            
+  1  13  ..... Igarapé                                      313010                            
+  1  14  ..... Itaguara                                     313220                            
+  1  15  ..... Itatiaiuçu                                   313370                            
+  1  16  ..... Jaboticatubas                                313460                            
+  1  17  ..... Juatuba                                      313665                            
+  1  18  ..... Lagoa Santa                                  313760                            
+  1  19  ..... Mário Campos                                 314015                            
+  1  20  ..... Mateus Leme                                  314070                            
+  1  21  ..... Matozinhos                                   314110                            
+  1  22  ..... Nova Lima                                    314480                            
+  1  23  ..... Nova União                                   313660                            
+  1  24  ..... Pedro Leopoldo                               314930                            
+  1  25  ..... Raposos                                      315390                            
+  1  26  ..... Ribeirão das Neves                           315460                            
+  1  27  ..... Rio Acima                                    315480                            
+  1  28  ..... Rio Manso                                    315530                            
+  1  29  ..... Sabará                                       315670                            
+  1  30  ..... Santa Luzia                                  315780                            
+  1  31  ..... São Joaquim de Bicas                         316292                            
+  1  32  ..... São José da Lapa                             316295                            
+  1  33  ..... Sarzedo                                      316553                            
+  1  34  ..... Taquaraçu de Minas                           316830                            
+  1  35  ..... Vespasiano                                   317120                            
+     36  31012 BHorizonte - colar - MG                      310540                            
+ 36  37  ..... Barão de Cocais                              310540                            
+ 36  38  ..... Belo Vale                                    310640                            
+ 36  39  ..... Bom Jesus do Amparo                          310770                            
+ 36  40  ..... Bonfim                                       310810                            
+ 36  41  ..... Fortuna de Minas                             312640                            
+ 36  42  ..... Funilândia                                   312720                            
+ 36  43  ..... Inhaúma                                      313100                            
+ 36  44  ..... Itabirito                                    313190                            
+ 36  45  ..... Itaúna                                       313380                            
+ 36  46  ..... Moeda                                        314230                            
+ 36  47  ..... Pará de Minas                                314710                            
+ 36  48  ..... Prudente de Morais                           315360                            
+ 36  49  ..... Santa Bárbara                                315720                            
+ 36  50  ..... São Gonçalo do Rio Abaixo                    316190                            
+ 36  51  ..... São José da Varginha                         316310                            
+ 36  52  ..... Sete Lagoas                                  316720                            
+     53  31021 Vale do Aço - núcl - MG                      311940                            
+ 53  54  ..... Coronel Fabriciano                           311940                            
+ 53  55  ..... Ipatinga                                     313130                            
+ 53  56  ..... Santana do Paraíso                           315895                            
+ 53  57  ..... Timóteo                                      316870                            
+     58  31022 Vale do Aço - colar - MG                     310050                            
+ 58  59  ..... Açucena                                      310050                            
+ 58  60  ..... Antônio Dias                                 310300                            
+ 58  61  ..... Belo Oriente                                 310630                            
+ 58  62  ..... Bom Jesus do Galho                           310780                            
+ 58  63  ..... Braúnas                                      310880                            
+ 58  64  ..... Bugre                                        310925                            
+ 58  65  ..... Caratinga                                    311340                            
+ 58  66  ..... Córrego Novo                                 312000                            
+ 58  67  ..... Dionísio                                     312180                            
+ 58  68  ..... Dom Cavati                                   312250                            
+ 58  69  ..... Entre Folhas                                 312385                            
+ 58  70  ..... Iapu                                         312930                            
+ 58  71  ..... Ipaba                                        313115                            
+ 58  72  ..... Jaguaraçu                                    313500                            
+ 58  73  ..... Joanésia                                     313610                            
+ 58  74  ..... Marliéria                                    314030                            
+ 58  75  ..... Mesquita                                     314170                            
+ 58  76  ..... Naque                                        314435                            
+ 58  77  ..... Periquito                                    314995                            
+ 58  78  ..... Pingo-d'Água                                 315053                            
+ 58  79  ..... São João do Oriente                          316260                            
+ 58  80  ..... São José do Goiabal                          316340                            
+ 58  81  ..... Sobrália                                     316770                            
+ 58  82  ..... Vargem Alegre                                317057                            
+     83  53010 DF e Entorno - DF/GO/MG                      310930                            
+ 83  84  ..... Buritis                                      310930                            
+ 83  85  ..... Unaí                                         317040                            
+     86  31900 Fora de Reg.Metrop. - MG                     310010                            
+ 86  87  ..... Abadia dos Dourados                          310010                            
+ 86  88  ..... Abaeté                                       310020                            
+ 86  89  ..... Abre Campo                                   310030                            
+ 86  90  ..... Acaiaca                                      310040                            
+ 86  91  ..... Água Boa                                     310060                            
+ 86  92  ..... Água Comprida                                310070                            
+ 86  93  ..... Aguanil                                      310080                            
+ 86  94  ..... Águas Formosas                               310090                            
+ 86  95  ..... Águas Vermelhas                              310100                            
+ 86  96  ..... Aimorés                                      310110                            
+ 86  97  ..... Aiuruoca                                     310120                            
+ 86  98  ..... Alagoa                                       310130                            
+ 86  99  ..... Albertina                                    310140                            
+ 86 100  ..... Além Paraíba                                 310150                            
+ 86 101  ..... Alfenas                                      310160                            
+ 86 102  ..... Alfredo Vasconcelos                          310163                            
+ 86 103  ..... Almenara                                     310170                            
+ 86 104  ..... Alpercata                                    310180                            
+ 86 105  ..... Alpinópolis                                  310190                            
+ 86 106  ..... Alterosa                                     310200                            
+ 86 107  ..... Alto Caparaó                                 310205                            
+ 86 108  ..... Alto Jequitibá                               315350                            
+ 86 109  ..... Alto Rio Doce                                310210                            
+ 86 110  ..... Alvarenga                                    310220                            
+ 86 111  ..... Alvinópolis                                  310230                            
+ 86 112  ..... Alvorada de Minas                            310240                            
+ 86 113  ..... Amparo do Serra                              310250                            
+ 86 114  ..... Andradas                                     310260                            
+ 86 115  ..... Andrelândia                                  310280                            
+ 86 116  ..... Angelândia                                   310285                            
+ 86 117  ..... Antônio Carlos                               310290                            
+ 86 118  ..... Antônio Prado de Minas                       310310                            
+ 86 119  ..... Araçaí                                       310320                            
+ 86 120  ..... Aracitaba                                    310330                            
+ 86 121  ..... Araçuaí                                      310340                            
+ 86 122  ..... Araguari                                     310350                            
+ 86 123  ..... Arantina                                     310360                            
+ 86 124  ..... Araponga                                     310370                            
+ 86 125  ..... Araporã                                      310375                            
+ 86 126  ..... Arapuá                                       310380                            
+ 86 127  ..... Araújos                                      310390                            
+ 86 128  ..... Araxá                                        310400                            
+ 86 129  ..... Arceburgo                                    310410                            
+ 86 130  ..... Arcos                                        310420                            
+ 86 131  ..... Areado                                       310430                            
+ 86 132  ..... Argirita                                     310440                            
+ 86 133  ..... Aricanduva                                   310445                            
+ 86 134  ..... Arinos                                       310450                            
+ 86 135  ..... Astolfo Dutra                                310460                            
+ 86 136  ..... Ataléia                                      310470                            
+ 86 137  ..... Augusto de Lima                              310480                            
+ 86 138  ..... Baependi                                     310490                            
+ 86 139  ..... Bambuí                                       310510                            
+ 86 140  ..... Bandeira                                     310520                            
+ 86 141  ..... Bandeira do Sul                              310530                            
+ 86 142  ..... Barão de Monte Alto                          310550                            
+ 86 143  ..... Barbacena                                    310560                            
+ 86 144  ..... Barra Longa                                  310570                            
+ 86 145  ..... Barroso                                      310590                            
+ 86 146  ..... Bela Vista de Minas                          310600                            
+ 86 147  ..... Belmiro Braga                                310610                            
+ 86 148  ..... Berilo                                       310650                            
+ 86 149  ..... Berizal                                      310665                            
+ 86 150  ..... Bertópolis                                   310660                            
+ 86 151  ..... Bias Fortes                                  310680                            
+ 86 152  ..... Bicas                                        310690                            
+ 86 153  ..... Biquinhas                                    310700                            
+ 86 154  ..... Boa Esperança                                310710                            
+ 86 155  ..... Bocaina de Minas                             310720                            
+ 86 156  ..... Bocaiúva                                     310730                            
+ 86 157  ..... Bom Despacho                                 310740                            
+ 86 158  ..... Bom Jardim de Minas                          310750                            
+ 86 159  ..... Bom Jesus da Penha                           310760                            
+ 86 160  ..... Bom Repouso                                  310790                            
+ 86 161  ..... Bom Sucesso                                  310800                            
+ 86 162  ..... Bonfinópolis de Minas                        310820                            
+ 86 163  ..... Bonito de Minas                              310825                            
+ 86 164  ..... Borda da Mata                                310830                            
+ 86 165  ..... Botelhos                                     310840                            
+ 86 166  ..... Botumirim                                    310850                            
+ 86 167  ..... Brás Pires                                   310870                            
+ 86 168  ..... Brasilândia de Minas                         310855                            
+ 86 169  ..... Brasília de Minas                            310860                            
+ 86 170  ..... Brazópolis                                   310890                            
+ 86 171  ..... Bueno Brandão                                310910                            
+ 86 172  ..... Buenópolis                                   310920                            
+ 86 173  ..... Buritizeiro                                  310940                            
+ 86 174  ..... Cabeceira Grande                             310945                            
+ 86 175  ..... Cabo Verde                                   310950                            
+ 86 176  ..... Cachoeira da Prata                           310960                            
+ 86 177  ..... Cachoeira de Minas                           310970                            
+ 86 178  ..... Cachoeira de Pajeú                           310270                            
+ 86 179  ..... Cachoeira Dourada                            310980                            
+ 86 180  ..... Caetanópolis                                 310990                            
+ 86 181  ..... Caiana                                       311010                            
+ 86 182  ..... Cajuri                                       311020                            
+ 86 183  ..... Caldas                                       311030                            
+ 86 184  ..... Camacho                                      311040                            
+ 86 185  ..... Camanducaia                                  311050                            
+ 86 186  ..... Cambuí                                       311060                            
+ 86 187  ..... Cambuquira                                   311070                            
+ 86 188  ..... Campanário                                   311080                            
+ 86 189  ..... Campanha                                     311090                            
+ 86 190  ..... Campestre                                    311100                            
+ 86 191  ..... Campina Verde                                311110                            
+ 86 192  ..... Campo Azul                                   311115                            
+ 86 193  ..... Campo Belo                                   311120                            
+ 86 194  ..... Campo do Meio                                311130                            
+ 86 195  ..... Campo Florido                                311140                            
+ 86 196  ..... Campos Altos                                 311150                            
+ 86 197  ..... Campos Gerais                                311160                            
+ 86 198  ..... Cana Verde                                   311190                            
+ 86 199  ..... Canaã                                        311170                            
+ 86 200  ..... Canápolis                                    311180                            
+ 86 201  ..... Candeias                                     311200                            
+ 86 202  ..... Cantagalo                                    311205                            
+ 86 203  ..... Caparaó                                      311210                            
+ 86 204  ..... Capela Nova                                  311220                            
+ 86 205  ..... Capelinha                                    311230                            
+ 86 206  ..... Capetinga                                    311240                            
+ 86 207  ..... Capinópolis                                  311260                            
+ 86 208  ..... Capitão Andrade                              311265                            
+ 86 209  ..... Capitão Enéas                                311270                            
+ 86 210  ..... Capitólio                                    311280                            
+ 86 211  ..... Caputira                                     311290                            
+ 86 212  ..... Caraí                                        311300                            
+ 86 213  ..... Caranaíba                                    311310                            
+ 86 214  ..... Carandaí                                     311320                            
+ 86 215  ..... Carangola                                    311330                            
+ 86 216  ..... Carbonita                                    311350                            
+ 86 217  ..... Careaçu                                      311360                            
+ 86 218  ..... Carlos Chagas                                311370                            
+ 86 219  ..... Carmésia                                     311380                            
+ 86 220  ..... Carmo da Cachoeira                           311390                            
+ 86 221  ..... Carmo da Mata                                311400                            
+ 86 222  ..... Carmo de Minas                               311410                            
+ 86 223  ..... Carmo do Cajuru                              311420                            
+ 86 224  ..... Carmo do Paranaíba                           311430                            
+ 86 225  ..... Carmo do Rio Claro                           311440                            
+ 86 226  ..... Carmópolis de Minas                          311450                            
+ 86 227  ..... Carneirinho                                  311455                            
+ 86 228  ..... Carrancas                                    311460                            
+ 86 229  ..... Carvalhópolis                                311470                            
+ 86 230  ..... Carvalhos                                    311480                            
+ 86 231  ..... Casa Grande                                  311490                            
+ 86 232  ..... Cascalho Rico                                311500                            
+ 86 233  ..... Cássia                                       311510                            
+ 86 234  ..... Cataguases                                   311530                            
+ 86 235  ..... Catas Altas                                  311535                            
+ 86 236  ..... Catas Altas da Noruega                       311540                            
+ 86 237  ..... Catuji                                       311545                            
+ 86 238  ..... Catuti                                       311547                            
+ 86 239  ..... Caxambu                                      311550                            
+ 86 240  ..... Cedro do Abaeté                              311560                            
+ 86 241  ..... Central de Minas                             311570                            
+ 86 242  ..... Centralina                                   311580                            
+ 86 243  ..... Chácara                                      311590                            
+ 86 244  ..... Chalé                                        311600                            
+ 86 245  ..... Chapada do Norte                             311610                            
+ 86 246  ..... Chapada Gaúcha                               311615                            
+ 86 247  ..... Chiador                                      311620                            
+ 86 248  ..... Cipotânea                                    311630                            
+ 86 249  ..... Claraval                                     311640                            
+ 86 250  ..... Claro dos Poções                             311650                            
+ 86 251  ..... Cláudio                                      311660                            
+ 86 252  ..... Coimbra                                      311670                            
+ 86 253  ..... Coluna                                       311680                            
+ 86 254  ..... Comendador Gomes                             311690                            
+ 86 255  ..... Comercinho                                   311700                            
+ 86 256  ..... Conceição da Aparecida                       311710                            
+ 86 257  ..... Conceição da Barra de Minas                  311520                            
+ 86 258  ..... Conceição das Alagoas                        311730                            
+ 86 259  ..... Conceição das Pedras                         311720                            
+ 86 260  ..... Conceição de Ipanema                         311740                            
+ 86 261  ..... Conceição do Mato Dentro                     311750                            
+ 86 262  ..... Conceição do Pará                            311760                            
+ 86 263  ..... Conceição do Rio Verde                       311770                            
+ 86 264  ..... Conceição dos Ouros                          311780                            
+ 86 265  ..... Cônego Marinho                               311783                            
+ 86 266  ..... Congonhal                                    311790                            
+ 86 267  ..... Congonhas                                    311800                            
+ 86 268  ..... Congonhas do Norte                           311810                            
+ 86 269  ..... Conquista                                    311820                            
+ 86 270  ..... Conselheiro Lafaiete                         311830                            
+ 86 271  ..... Conselheiro Pena                             311840                            
+ 86 272  ..... Consolação                                   311850                            
+ 86 273  ..... Coqueiral                                    311870                            
+ 86 274  ..... Coração de Jesus                             311880                            
+ 86 275  ..... Cordisburgo                                  311890                            
+ 86 276  ..... Cordislândia                                 311900                            
+ 86 277  ..... Corinto                                      311910                            
+ 86 278  ..... Coroaci                                      311920                            
+ 86 279  ..... Coromandel                                   311930                            
+ 86 280  ..... Coronel Murta                                311950                            
+ 86 281  ..... Coronel Pacheco                              311960                            
+ 86 282  ..... Coronel Xavier Chaves                        311970                            
+ 86 283  ..... Córrego Danta                                311980                            
+ 86 284  ..... Córrego do Bom Jesus                         311990                            
+ 86 285  ..... Córrego Fundo                                311995                            
+ 86 286  ..... Couto de Magalhães de Minas                  312010                            
+ 86 287  ..... Crisólita                                    312015                            
+ 86 288  ..... Cristais                                     312020                            
+ 86 289  ..... Cristália                                    312030                            
+ 86 290  ..... Cristiano Otoni                              312040                            
+ 86 291  ..... Cristina                                     312050                            
+ 86 292  ..... Crucilândia                                  312060                            
+ 86 293  ..... Cruzeiro da Fortaleza                        312070                            
+ 86 294  ..... Cruzília                                     312080                            
+ 86 295  ..... Cuparaque                                    312083                            
+ 86 296  ..... Curral de Dentro                             312087                            
+ 86 297  ..... Curvelo                                      312090                            
+ 86 298  ..... Datas                                        312100                            
+ 86 299  ..... Delfim Moreira                               312110                            
+ 86 300  ..... Delfinópolis                                 312120                            
+ 86 301  ..... Delta                                        312125                            
+ 86 302  ..... Descoberto                                   312130                            
+ 86 303  ..... Desterro de Entre Rios                       312140                            
+ 86 304  ..... Desterro do Melo                             312150                            
+ 86 305  ..... Diamantina                                   312160                            
+ 86 306  ..... Diogo de Vasconcelos                         312170                            
+ 86 307  ..... Divinésia                                    312190                            
+ 86 308  ..... Divino                                       312200                            
+ 86 309  ..... Divino das Laranjeiras                       312210                            
+ 86 310  ..... Divinolândia de Minas                        312220                            
+ 86 311  ..... Divinópolis                                  312230                            
+ 86 312  ..... Divisa Alegre                                312235                            
+ 86 313  ..... Divisa Nova                                  312240                            
+ 86 314  ..... Divisópolis                                  312245                            
+ 86 315  ..... Dom Bosco                                    312247                            
+ 86 316  ..... Dom Joaquim                                  312260                            
+ 86 317  ..... Dom Silvério                                 312270                            
+ 86 318  ..... Dom Viçoso                                   312280                            
+ 86 319  ..... Dona Eusébia                                 312290                            
+ 86 320  ..... Dores de Campos                              312300                            
+ 86 321  ..... Dores de Guanhães                            312310                            
+ 86 322  ..... Dores do Indaiá                              312320                            
+ 86 323  ..... Dores do Turvo                               312330                            
+ 86 324  ..... Doresópolis                                  312340                            
+ 86 325  ..... Douradoquara                                 312350                            
+ 86 326  ..... Durandé                                      312352                            
+ 86 327  ..... Elói Mendes                                  312360                            
+ 86 328  ..... Engenheiro Caldas                            312370                            
+ 86 329  ..... Engenheiro Navarro                           312380                            
+ 86 330  ..... Entre Rios de Minas                          312390                            
+ 86 331  ..... Ervália                                      312400                            
+ 86 332  ..... Espera Feliz                                 312420                            
+ 86 333  ..... Espinosa                                     312430                            
+ 86 334  ..... Espírito Santo do Dourado                    312440                            
+ 86 335  ..... Estiva                                       312450                            
+ 86 336  ..... Estrela Dalva                                312460                            
+ 86 337  ..... Estrela do Indaiá                            312470                            
+ 86 338  ..... Estrela do Sul                               312480                            
+ 86 339  ..... Eugenópolis                                  312490                            
+ 86 340  ..... Ewbank da Câmara                             312500                            
+ 86 341  ..... Extrema                                      312510                            
+ 86 342  ..... Fama                                         312520                            
+ 86 343  ..... Faria Lemos                                  312530                            
+ 86 344  ..... Felício dos Santos                           312540                            
+ 86 345  ..... Felisburgo                                   312560                            
+ 86 346  ..... Felixlândia                                  312570                            
+ 86 347  ..... Fernandes Tourinho                           312580                            
+ 86 348  ..... Ferros                                       312590                            
+ 86 349  ..... Fervedouro                                   312595                            
+ 86 350  ..... Formiga                                      312610                            
+ 86 351  ..... Formoso                                      312620                            
+ 86 352  ..... Fortaleza de Minas                           312630                            
+ 86 353  ..... Francisco Badaró                             312650                            
+ 86 354  ..... Francisco Dumont                             312660                            
+ 86 355  ..... Francisco Sá                                 312670                            
+ 86 356  ..... Franciscópolis                               312675                            
+ 86 357  ..... Frei Gaspar                                  312680                            
+ 86 358  ..... Frei Inocêncio                               312690                            
+ 86 359  ..... Frei Lagonegro                               312695                            
+ 86 360  ..... Fronteira                                    312700                            
+ 86 361  ..... Fronteira dos Vales                          312705                            
+ 86 362  ..... Fruta de Leite                               312707                            
+ 86 363  ..... Frutal                                       312710                            
+ 86 364  ..... Galiléia                                     312730                            
+ 86 365  ..... Gameleiras                                   312733                            
+ 86 366  ..... Glaucilândia                                 312735                            
+ 86 367  ..... Goiabeira                                    312737                            
+ 86 368  ..... Goianá                                       312738                            
+ 86 369  ..... Gonçalves                                    312740                            
+ 86 370  ..... Gonzaga                                      312750                            
+ 86 371  ..... Gouveia                                      312760                            
+ 86 372  ..... Governador Valadares                         312770                            
+ 86 373  ..... Grão Mogol                                   312780                            
+ 86 374  ..... Grupiara                                     312790                            
+ 86 375  ..... Guanhães                                     312800                            
+ 86 376  ..... Guapé                                        312810                            
+ 86 377  ..... Guaraciaba                                   312820                            
+ 86 378  ..... Guaraciama                                   312825                            
+ 86 379  ..... Guaranésia                                   312830                            
+ 86 380  ..... Guarani                                      312840                            
+ 86 381  ..... Guarará                                      312850                            
+ 86 382  ..... Guarda-Mor                                   312860                            
+ 86 383  ..... Guaxupé                                      312870                            
+ 86 384  ..... Guidoval                                     312880                            
+ 86 385  ..... Guimarânia                                   312890                            
+ 86 386  ..... Guiricema                                    312900                            
+ 86 387  ..... Gurinhatã                                    312910                            
+ 86 388  ..... Heliodora                                    312920                            
+ 86 389  ..... Ibertioga                                    312940                            
+ 86 390  ..... Ibiá                                         312950                            
+ 86 391  ..... Ibiaí                                        312960                            
+ 86 392  ..... Ibiracatu                                    312965                            
+ 86 393  ..... Ibiraci                                      312970                            
+ 86 394  ..... Ibitiúra de Minas                            312990                            
+ 86 395  ..... Ibituruna                                    313000                            
+ 86 396  ..... Icaraí de Minas                              313005                            
+ 86 397  ..... Igaratinga                                   313020                            
+ 86 398  ..... Iguatama                                     313030                            
+ 86 399  ..... Ijaci                                        313040                            
+ 86 400  ..... Ilicínea                                     313050                            
+ 86 401  ..... Imbé de Minas                                313055                            
+ 86 402  ..... Inconfidentes                                313060                            
+ 86 403  ..... Indaiabira                                   313065                            
+ 86 404  ..... Indianópolis                                 313070                            
+ 86 405  ..... Ingaí                                        313080                            
+ 86 406  ..... Inhapim                                      313090                            
+ 86 407  ..... Inimutaba                                    313110                            
+ 86 408  ..... Ipanema                                      313120                            
+ 86 409  ..... Ipiaçu                                       313140                            
+ 86 410  ..... Ipuiúna                                      313150                            
+ 86 411  ..... Iraí de Minas                                313160                            
+ 86 412  ..... Itabira                                      313170                            
+ 86 413  ..... Itabirinha                                   313180                            
+ 86 414  ..... Itacambira                                   313200                            
+ 86 415  ..... Itacarambi                                   313210                            
+ 86 416  ..... Itaipé                                       313230                            
+ 86 417  ..... Itajubá                                      313240                            
+ 86 418  ..... Itamarandiba                                 313250                            
+ 86 419  ..... Itamarati de Minas                           313260                            
+ 86 420  ..... Itambacuri                                   313270                            
+ 86 421  ..... Itambé do Mato Dentro                        313280                            
+ 86 422  ..... Itamogi                                      313290                            
+ 86 423  ..... Itamonte                                     313300                            
+ 86 424  ..... Itanhandu                                    313310                            
+ 86 425  ..... Itanhomi                                     313320                            
+ 86 426  ..... Itaobim                                      313330                            
+ 86 427  ..... Itapagipe                                    313340                            
+ 86 428  ..... Itapecerica                                  313350                            
+ 86 429  ..... Itapeva                                      313360                            
+ 86 430  ..... Itaú de Minas                                313375                            
+ 86 431  ..... Itaverava                                    313390                            
+ 86 432  ..... Itinga                                       313400                            
+ 86 433  ..... Itueta                                       313410                            
+ 86 434  ..... Ituiutaba                                    313420                            
+ 86 435  ..... Itumirim                                     313430                            
+ 86 436  ..... Iturama                                      313440                            
+ 86 437  ..... Itutinga                                     313450                            
+ 86 438  ..... Jacinto                                      313470                            
+ 86 439  ..... Jacuí                                        313480                            
+ 86 440  ..... Jacutinga                                    313490                            
+ 86 441  ..... Jaíba                                        313505                            
+ 86 442  ..... Jampruca                                     313507                            
+ 86 443  ..... Janaúba                                      313510                            
+ 86 444  ..... Januária                                     313520                            
+ 86 445  ..... Japaraíba                                    313530                            
+ 86 446  ..... Japonvar                                     313535                            
+ 86 447  ..... Jeceaba                                      313540                            
+ 86 448  ..... Jenipapo de Minas                            313545                            
+ 86 449  ..... Jequeri                                      313550                            
+ 86 450  ..... Jequitaí                                     313560                            
+ 86 451  ..... Jequitibá                                    313570                            
+ 86 452  ..... Jequitinhonha                                313580                            
+ 86 453  ..... Jesuânia                                     313590                            
+ 86 454  ..... Joaíma                                       313600                            
+ 86 455  ..... João Monlevade                               313620                            
+ 86 456  ..... João Pinheiro                                313630                            
+ 86 457  ..... Joaquim Felício                              313640                            
+ 86 458  ..... Jordânia                                     313650                            
+ 86 459  ..... José Gonçalves de Minas                      313652                            
+ 86 460  ..... José Raydan                                  313655                            
+ 86 461  ..... Josenópolis                                  313657                            
+ 86 462  ..... Juiz de Fora                                 313670                            
+ 86 463  ..... Juramento                                    313680                            
+ 86 464  ..... Juruaia                                      313690                            
+ 86 465  ..... Juvenília                                    313695                            
+ 86 466  ..... Ladainha                                     313700                            
+ 86 467  ..... Lagamar                                      313710                            
+ 86 468  ..... Lagoa da Prata                               313720                            
+ 86 469  ..... Lagoa dos Patos                              313730                            
+ 86 470  ..... Lagoa Dourada                                313740                            
+ 86 471  ..... Lagoa Formosa                                313750                            
+ 86 472  ..... Lagoa Grande                                 313753                            
+ 86 473  ..... Lajinha                                      313770                            
+ 86 474  ..... Lambari                                      313780                            
+ 86 475  ..... Lamim                                        313790                            
+ 86 476  ..... Laranjal                                     313800                            
+ 86 477  ..... Lassance                                     313810                            
+ 86 478  ..... Lavras                                       313820                            
+ 86 479  ..... Leandro Ferreira                             313830                            
+ 86 480  ..... Leme do Prado                                313835                            
+ 86 481  ..... Leopoldina                                   313840                            
+ 86 482  ..... Liberdade                                    313850                            
+ 86 483  ..... Lima Duarte                                  313860                            
+ 86 484  ..... Limeira do Oeste                             313862                            
+ 86 485  ..... Lontra                                       313865                            
+ 86 486  ..... Luisburgo                                    313867                            
+ 86 487  ..... Luislândia                                   313868                            
+ 86 488  ..... Luminárias                                   313870                            
+ 86 489  ..... Luz                                          313880                            
+ 86 490  ..... Machacalis                                   313890                            
+ 86 491  ..... Machado                                      313900                            
+ 86 492  ..... Madre de Deus de Minas                       313910                            
+ 86 493  ..... Malacacheta                                  313920                            
+ 86 494  ..... Mamonas                                      313925                            
+ 86 495  ..... Manga                                        313930                            
+ 86 496  ..... Manhuaçu                                     313940                            
+ 86 497  ..... Manhumirim                                   313950                            
+ 86 498  ..... Mantena                                      313960                            
+ 86 499  ..... Mar de Espanha                               313980                            
+ 86 500  ..... Maravilhas                                   313970                            
+ 86 501  ..... Maria da Fé                                  313990                            
+ 86 502  ..... Mariana                                      314000                            
+ 86 503  ..... Marilac                                      314010                            
+ 86 504  ..... Maripá de Minas                              314020                            
+ 86 505  ..... Marmelópolis                                 314040                            
+ 86 506  ..... Martinho Campos                              314050                            
+ 86 507  ..... Martins Soares                               314053                            
+ 86 508  ..... Mata Verde                                   314055                            
+ 86 509  ..... Materlândia                                  314060                            
+ 86 510  ..... Mathias Lobato                               317150                            
+ 86 511  ..... Matias Barbosa                               314080                            
+ 86 512  ..... Matias Cardoso                               314085                            
+ 86 513  ..... Matipó                                       314090                            
+ 86 514  ..... Mato Verde                                   314100                            
+ 86 515  ..... Matutina                                     314120                            
+ 86 516  ..... Medeiros                                     314130                            
+ 86 517  ..... Medina                                       314140                            
+ 86 518  ..... Mendes Pimentel                              314150                            
+ 86 519  ..... Mercês                                       314160                            
+ 86 520  ..... Minas Novas                                  314180                            
+ 86 521  ..... Minduri                                      314190                            
+ 86 522  ..... Mirabela                                     314200                            
+ 86 523  ..... Miradouro                                    314210                            
+ 86 524  ..... Miraí                                        314220                            
+ 86 525  ..... Miravânia                                    314225                            
+ 86 526  ..... Moema                                        314240                            
+ 86 527  ..... Monjolos                                     314250                            
+ 86 528  ..... Monsenhor Paulo                              314260                            
+ 86 529  ..... Montalvânia                                  314270                            
+ 86 530  ..... Monte Alegre de Minas                        314280                            
+ 86 531  ..... Monte Azul                                   314290                            
+ 86 532  ..... Monte Belo                                   314300                            
+ 86 533  ..... Monte Carmelo                                314310                            
+ 86 534  ..... Monte Formoso                                314315                            
+ 86 535  ..... Monte Santo de Minas                         314320                            
+ 86 536  ..... Monte Sião                                   314340                            
+ 86 537  ..... Montes Claros                                314330                            
+ 86 538  ..... Montezuma                                    314345                            
+ 86 539  ..... Morada Nova de Minas                         314350                            
+ 86 540  ..... Morro da Garça                               314360                            
+ 86 541  ..... Morro do Pilar                               314370                            
+ 86 542  ..... Munhoz                                       314380                            
+ 86 543  ..... Muriaé                                       314390                            
+ 86 544  ..... Mutum                                        314400                            
+ 86 545  ..... Muzambinho                                   314410                            
+ 86 546  ..... Nacip Raydan                                 314420                            
+ 86 547  ..... Nanuque                                      314430                            
+ 86 548  ..... Natalândia                                   314437                            
+ 86 549  ..... Natércia                                     314440                            
+ 86 550  ..... Nazareno                                     314450                            
+ 86 551  ..... Nepomuceno                                   314460                            
+ 86 552  ..... Ninheira                                     314465                            
+ 86 553  ..... Nova Belém                                   314467                            
+ 86 554  ..... Nova Era                                     314470                            
+ 86 555  ..... Nova Módica                                  314490                            
+ 86 556  ..... Nova Ponte                                   314500                            
+ 86 557  ..... Nova Porteirinha                             314505                            
+ 86 558  ..... Nova Resende                                 314510                            
+ 86 559  ..... Nova Serrana                                 314520                            
+ 86 560  ..... Novo Cruzeiro                                314530                            
+ 86 561  ..... Novo Oriente de Minas                        314535                            
+ 86 562  ..... Novorizonte                                  314537                            
+ 86 563  ..... Olaria                                       314540                            
+ 86 564  ..... Olhos-d'Água                                 314545                            
+ 86 565  ..... Olímpio Noronha                              314550                            
+ 86 566  ..... Oliveira                                     314560                            
+ 86 567  ..... Oliveira Fortes                              314570                            
+ 86 568  ..... Onça de Pitangui                             314580                            
+ 86 569  ..... Oratórios                                    314585                            
+ 86 570  ..... Orizânia                                     314587                            
+ 86 571  ..... Ouro Branco                                  314590                            
+ 86 572  ..... Ouro Fino                                    314600                            
+ 86 573  ..... Ouro Preto                                   314610                            
+ 86 574  ..... Ouro Verde de Minas                          314620                            
+ 86 575  ..... Padre Carvalho                               314625                            
+ 86 576  ..... Padre Paraíso                                314630                            
+ 86 577  ..... Pai Pedro                                    314655                            
+ 86 578  ..... Paineiras                                    314640                            
+ 86 579  ..... Pains                                        314650                            
+ 86 580  ..... Paiva                                        314660                            
+ 86 581  ..... Palma                                        314670                            
+ 86 582  ..... Palmópolis                                   314675                            
+ 86 583  ..... Papagaios                                    314690                            
+ 86 584  ..... Paracatu                                     314700                            
+ 86 585  ..... Paraguaçu                                    314720                            
+ 86 586  ..... Paraisópolis                                 314730                            
+ 86 587  ..... Paraopeba                                    314740                            
+ 86 588  ..... Passa Quatro                                 314760                            
+ 86 589  ..... Passa Tempo                                  314770                            
+ 86 590  ..... Passa-Vinte                                  314780                            
+ 86 591  ..... Passabém                                     314750                            
+ 86 592  ..... Passos                                       314790                            
+ 86 593  ..... Patis                                        314795                            
+ 86 594  ..... Patos de Minas                               314800                            
+ 86 595  ..... Patrocínio                                   314810                            
+ 86 596  ..... Patrocínio do Muriaé                         314820                            
+ 86 597  ..... Paula Cândido                                314830                            
+ 86 598  ..... Paulistas                                    314840                            
+ 86 599  ..... Pavão                                        314850                            
+ 86 600  ..... Peçanha                                      314860                            
+ 86 601  ..... Pedra Azul                                   314870                            
+ 86 602  ..... Pedra Bonita                                 314875                            
+ 86 603  ..... Pedra do Anta                                314880                            
+ 86 604  ..... Pedra do Indaiá                              314890                            
+ 86 605  ..... Pedra Dourada                                314900                            
+ 86 606  ..... Pedralva                                     314910                            
+ 86 607  ..... Pedras de Maria da Cruz                      314915                            
+ 86 608  ..... Pedrinópolis                                 314920                            
+ 86 609  ..... Pedro Teixeira                               314940                            
+ 86 610  ..... Pequeri                                      314950                            
+ 86 611  ..... Pequi                                        314960                            
+ 86 612  ..... Perdigão                                     314970                            
+ 86 613  ..... Perdizes                                     314980                            
+ 86 614  ..... Perdões                                      314990                            
+ 86 615  ..... Pescador                                     315000                            
+ 86 616  ..... Piau                                         315010                            
+ 86 617  ..... Piedade de Caratinga                         315015                            
+ 86 618  ..... Piedade de Ponte Nova                        315020                            
+ 86 619  ..... Piedade do Rio Grande                        315030                            
+ 86 620  ..... Piedade dos Gerais                           315040                            
+ 86 621  ..... Pimenta                                      315050                            
+ 86 622  ..... Pintópolis                                   315057                            
+ 86 623  ..... Piracema                                     315060                            
+ 86 624  ..... Pirajuba                                     315070                            
+ 86 625  ..... Piranga                                      315080                            
+ 86 626  ..... Piranguçu                                    315090                            
+ 86 627  ..... Piranguinho                                  315100                            
+ 86 628  ..... Pirapetinga                                  315110                            
+ 86 629  ..... Pirapora                                     315120                            
+ 86 630  ..... Piraúba                                      315130                            
+ 86 631  ..... Pitangui                                     315140                            
+ 86 632  ..... Piumhi                                       315150                            
+ 86 633  ..... Planura                                      315160                            
+ 86 634  ..... Poço Fundo                                   315170                            
+ 86 635  ..... Poços de Caldas                              315180                            
+ 86 636  ..... Pocrane                                      315190                            
+ 86 637  ..... Pompéu                                       315200                            
+ 86 638  ..... Ponte Nova                                   315210                            
+ 86 639  ..... Ponto Chique                                 315213                            
+ 86 640  ..... Ponto dos Volantes                           315217                            
+ 86 641  ..... Porteirinha                                  315220                            
+ 86 642  ..... Porto Firme                                  315230                            
+ 86 643  ..... Poté                                         315240                            
+ 86 644  ..... Pouso Alegre                                 315250                            
+ 86 645  ..... Pouso Alto                                   315260                            
+ 86 646  ..... Prados                                       315270                            
+ 86 647  ..... Prata                                        315280                            
+ 86 648  ..... Pratápolis                                   315290                            
+ 86 649  ..... Pratinha                                     315300                            
+ 86 650  ..... Presidente Bernardes                         315310                            
+ 86 651  ..... Presidente Juscelino                         315320                            
+ 86 652  ..... Presidente Kubitschek                        315330                            
+ 86 653  ..... Presidente Olegário                          315340                            
+ 86 654  ..... Quartel Geral                                315370                            
+ 86 655  ..... Queluzito                                    315380                            
+ 86 656  ..... Raul Soares                                  315400                            
+ 86 657  ..... Recreio                                      315410                            
+ 86 658  ..... Reduto                                       315415                            
+ 86 659  ..... Resende Costa                                315420                            
+ 86 660  ..... Resplendor                                   315430                            
+ 86 661  ..... Ressaquinha                                  315440                            
+ 86 662  ..... Riachinho                                    315445                            
+ 86 663  ..... Riacho dos Machados                          315450                            
+ 86 664  ..... Ribeirão Vermelho                            315470                            
+ 86 665  ..... Rio Casca                                    315490                            
+ 86 666  ..... Rio do Prado                                 315510                            
+ 86 667  ..... Rio Doce                                     315500                            
+ 86 668  ..... Rio Espera                                   315520                            
+ 86 669  ..... Rio Novo                                     315540                            
+ 86 670  ..... Rio Paranaíba                                315550                            
+ 86 671  ..... Rio Pardo de Minas                           315560                            
+ 86 672  ..... Rio Piracicaba                               315570                            
+ 86 673  ..... Rio Pomba                                    315580                            
+ 86 674  ..... Rio Preto                                    315590                            
+ 86 675  ..... Rio Vermelho                                 315600                            
+ 86 676  ..... Ritápolis                                    315610                            
+ 86 677  ..... Rochedo de Minas                             315620                            
+ 86 678  ..... Rodeiro                                      315630                            
+ 86 679  ..... Romaria                                      315640                            
+ 86 680  ..... Rosário da Limeira                           315645                            
+ 86 681  ..... Rubelita                                     315650                            
+ 86 682  ..... Rubim                                        315660                            
+ 86 683  ..... Sabinópolis                                  315680                            
+ 86 684  ..... Sacramento                                   315690                            
+ 86 685  ..... Salinas                                      315700                            
+ 86 686  ..... Salto da Divisa                              315710                            
+ 86 687  ..... Santa Bárbara do Leste                       315725                            
+ 86 688  ..... Santa Bárbara do Monte Verde                 315727                            
+ 86 689  ..... Santa Bárbara do Tugúrio                     315730                            
+ 86 690  ..... Santa Cruz de Minas                          315733                            
+ 86 691  ..... Santa Cruz de Salinas                        315737                            
+ 86 692  ..... Santa Cruz do Escalvado                      315740                            
+ 86 693  ..... Santa Efigênia de Minas                      315750                            
+ 86 694  ..... Santa Fé de Minas                            315760                            
+ 86 695  ..... Santa Helena de Minas                        315765                            
+ 86 696  ..... Santa Juliana                                315770                            
+ 86 697  ..... Santa Margarida                              315790                            
+ 86 698  ..... Santa Maria de Itabira                       315800                            
+ 86 699  ..... Santa Maria do Salto                         315810                            
+ 86 700  ..... Santa Maria do Suaçuí                        315820                            
+ 86 701  ..... Santa Rita de Caldas                         315920                            
+ 86 702  ..... Santa Rita de Ibitipoca                      315940                            
+ 86 703  ..... Santa Rita de Jacutinga                      315930                            
+ 86 704  ..... Santa Rita de Minas                          315935                            
+ 86 705  ..... Santa Rita do Itueto                         315950                            
+ 86 706  ..... Santa Rita do Sapucaí                        315960                            
+ 86 707  ..... Santa Rosa da Serra                          315970                            
+ 86 708  ..... Santa Vitória                                315980                            
+ 86 709  ..... Santana da Vargem                            315830                            
+ 86 710  ..... Santana de Cataguases                        315840                            
+ 86 711  ..... Santana de Pirapama                          315850                            
+ 86 712  ..... Santana do Deserto                           315860                            
+ 86 713  ..... Santana do Garambéu                          315870                            
+ 86 714  ..... Santana do Jacaré                            315880                            
+ 86 715  ..... Santana do Manhuaçu                          315890                            
+ 86 716  ..... Santana do Riacho                            315900                            
+ 86 717  ..... Santana dos Montes                           315910                            
+ 86 718  ..... Santo Antônio do Amparo                      315990                            
+ 86 719  ..... Santo Antônio do Aventureiro                 316000                            
+ 86 720  ..... Santo Antônio do Grama                       316010                            
+ 86 721  ..... Santo Antônio do Itambé                      316020                            
+ 86 722  ..... Santo Antônio do Jacinto                     316030                            
+ 86 723  ..... Santo Antônio do Monte                       316040                            
+ 86 724  ..... Santo Antônio do Retiro                      316045                            
+ 86 725  ..... Santo Antônio do Rio Abaixo                  316050                            
+ 86 726  ..... Santo Hipólito                               316060                            
+ 86 727  ..... Santos Dumont                                316070                            
+ 86 728  ..... São Bento Abade                              316080                            
+ 86 729  ..... São Brás do Suaçuí                           316090                            
+ 86 730  ..... São Domingos das Dores                       316095                            
+ 86 731  ..... São Domingos do Prata                        316100                            
+ 86 732  ..... São Félix de Minas                           316105                            
+ 86 733  ..... São Francisco                                316110                            
+ 86 734  ..... São Francisco de Paula                       316120                            
+ 86 735  ..... São Francisco de Sales                       316130                            
+ 86 736  ..... São Francisco do Glória                      316140                            
+ 86 737  ..... São Geraldo                                  316150                            
+ 86 738  ..... São Geraldo da Piedade                       316160                            
+ 86 739  ..... São Geraldo do Baixio                        316165                            
+ 86 740  ..... São Gonçalo do Abaeté                        316170                            
+ 86 741  ..... São Gonçalo do Pará                          316180                            
+ 86 742  ..... São Gonçalo do Rio Preto                     312550                            
+ 86 743  ..... São Gonçalo do Sapucaí                       316200                            
+ 86 744  ..... São Gotardo                                  316210                            
+ 86 745  ..... São João Batista do Glória                   316220                            
+ 86 746  ..... São João da Lagoa                            316225                            
+ 86 747  ..... São João da Mata                             316230                            
+ 86 748  ..... São João da Ponte                            316240                            
+ 86 749  ..... São João das Missões                         316245                            
+ 86 750  ..... São João del Rei                             316250                            
+ 86 751  ..... São João do Manhuaçu                         316255                            
+ 86 752  ..... São João do Manteninha                       316257                            
+ 86 753  ..... São João do Pacuí                            316265                            
+ 86 754  ..... São João do Paraíso                          316270                            
+ 86 755  ..... São João Evangelista                         316280                            
+ 86 756  ..... São João Nepomuceno                          316290                            
+ 86 757  ..... São José da Barra                            316294                            
+ 86 758  ..... São José da Safira                           316300                            
+ 86 759  ..... São José do Alegre                           316320                            
+ 86 760  ..... São José do Divino                           316330                            
+ 86 761  ..... São José do Jacuri                           316350                            
+ 86 762  ..... São José do Mantimento                       316360                            
+ 86 763  ..... São Lourenço                                 316370                            
+ 86 764  ..... São Miguel do Anta                           316380                            
+ 86 765  ..... São Pedro da União                           316390                            
+ 86 766  ..... São Pedro do Suaçuí                          316410                            
+ 86 767  ..... São Pedro dos Ferros                         316400                            
+ 86 768  ..... São Romão                                    316420                            
+ 86 769  ..... São Roque de Minas                           316430                            
+ 86 770  ..... São Sebastião da Bela Vista                  316440                            
+ 86 771  ..... São Sebastião da Vargem Alegre               316443                            
+ 86 772  ..... São Sebastião do Anta                        316447                            
+ 86 773  ..... São Sebastião do Maranhão                    316450                            
+ 86 774  ..... São Sebastião do Oeste                       316460                            
+ 86 775  ..... São Sebastião do Paraíso                     316470                            
+ 86 776  ..... São Sebastião do Rio Preto                   316480                            
+ 86 777  ..... São Sebastião do Rio Verde                   316490                            
+ 86 778  ..... São Thomé das Letras                         316520                            
+ 86 779  ..... São Tiago                                    316500                            
+ 86 780  ..... São Tomás de Aquino                          316510                            
+ 86 781  ..... São Vicente de Minas                         316530                            
+ 86 782  ..... Sapucaí-Mirim                                316540                            
+ 86 783  ..... Sardoá                                       316550                            
+ 86 784  ..... Sem-Peixe                                    316556                            
+ 86 785  ..... Senador Amaral                               316557                            
+ 86 786  ..... Senador Cortes                               316560                            
+ 86 787  ..... Senador Firmino                              316570                            
+ 86 788  ..... Senador José Bento                           316580                            
+ 86 789  ..... Senador Modestino Gonçalves                  316590                            
+ 86 790  ..... Senhora de Oliveira                          316600                            
+ 86 791  ..... Senhora do Porto                             316610                            
+ 86 792  ..... Senhora dos Remédios                         316620                            
+ 86 793  ..... Sericita                                     316630                            
+ 86 794  ..... Seritinga                                    316640                            
+ 86 795  ..... Serra Azul de Minas                          316650                            
+ 86 796  ..... Serra da Saudade                             316660                            
+ 86 797  ..... Serra do Salitre                             316680                            
+ 86 798  ..... Serra dos Aimorés                            316670                            
+ 86 799  ..... Serrania                                     316690                            
+ 86 800  ..... Serranópolis de Minas                        316695                            
+ 86 801  ..... Serranos                                     316700                            
+ 86 802  ..... Serro                                        316710                            
+ 86 803  ..... Setubinha                                    316555                            
+ 86 804  ..... Silveirânia                                  316730                            
+ 86 805  ..... Silvianópolis                                316740                            
+ 86 806  ..... Simão Pereira                                316750                            
+ 86 807  ..... Simonésia                                    316760                            
+ 86 808  ..... Soledade de Minas                            316780                            
+ 86 809  ..... Tabuleiro                                    316790                            
+ 86 810  ..... Taiobeiras                                   316800                            
+ 86 811  ..... Taparuba                                     316805                            
+ 86 812  ..... Tapira                                       316810                            
+ 86 813  ..... Tapiraí                                      316820                            
+ 86 814  ..... Tarumirim                                    316840                            
+ 86 815  ..... Teixeiras                                    316850                            
+ 86 816  ..... Teófilo Otoni                                316860                            
+ 86 817  ..... Tiradentes                                   316880                            
+ 86 818  ..... Tiros                                        316890                            
+ 86 819  ..... Tocantins                                    316900                            
+ 86 820  ..... Tocos do Moji                                316905                            
+ 86 821  ..... Toledo                                       316910                            
+ 86 822  ..... Tombos                                       316920                            
+ 86 823  ..... Três Corações                                316930                            
+ 86 824  ..... Três Marias                                  316935                            
+ 86 825  ..... Três Pontas                                  316940                            
+ 86 826  ..... Tumiritinga                                  316950                            
+ 86 827  ..... Tupaciguara                                  316960                            
+ 86 828  ..... Turmalina                                    316970                            
+ 86 829  ..... Turvolândia                                  316980                            
+ 86 830  ..... Ubá                                          316990                            
+ 86 831  ..... Ubaí                                         317000                            
+ 86 832  ..... Ubaporanga                                   317005                            
+ 86 833  ..... Uberaba                                      317010                            
+ 86 834  ..... Uberlândia                                   317020                            
+ 86 835  ..... Umburatiba                                   317030                            
+ 86 836  ..... União de Minas                               317043                            
+ 86 837  ..... Uruana de Minas                              317047                            
+ 86 838  ..... Urucânia                                     317050                            
+ 86 839  ..... Urucuia                                      317052                            
+ 86 840  ..... Vargem Bonita                                317060                            
+ 86 841  ..... Vargem Grande do Rio Pardo                   317065                            
+ 86 842  ..... Varginha                                     317070                            
+ 86 843  ..... Varjão de Minas                              317075                            
+ 86 844  ..... Várzea da Palma                              317080                            
+ 86 845  ..... Varzelândia                                  317090                            
+ 86 846  ..... Vazante                                      317100                            
+ 86 847  ..... Verdelândia                                  317103                            
+ 86 848  ..... Veredinha                                    317107                            
+ 86 849  ..... Veríssimo                                    317110                            
+ 86 850  ..... Vermelho Novo                                317115                            
+ 86 851  ..... Viçosa                                       317130                            
+ 86 852  ..... Vieiras                                      317140                            
+ 86 853  ..... Virgem da Lapa                               317160                            
+ 86 854  ..... Virgínia                                     317170                            
+ 86 855  ..... Virginópolis                                 317180                            
+ 86 856  ..... Virgolândia                                  317190                            
+ 86 857  ..... Visconde do Rio Branco                       317200                            
+ 86 858  ..... Volta Grande                                 317210                            
+ 86 859  ..... Wenceslau Braz                               317220                            
+    860  31000 Ignorado - MG                                310000,319999                     

@@ -1,0 +1,1165 @@
+14  6                                                                                    
+      1  Alto Solimões                                      130006                            
+      1  Alto Solimões                                      130020                            
+      1  Alto Solimões                                      130060                            
+      1  Alto Solimões                                      130160                            
+      1  Alto Solimões                                      130230                            
+      1  Alto Solimões                                      130370                            
+      1  Alto Solimões                                      130390                            
+      1  Alto Solimões                                      130406                            
+      1  Alto Solimões                                      130423                            
+      2  Bico do Papagaio                                   150013                            
+      2  Bico do Papagaio                                   150034                            
+      2  Bico do Papagaio                                   150157                            
+      2  Bico do Papagaio                                   150175                            
+      2  Bico do Papagaio                                   150215                            
+      2  Bico do Papagaio                                   150270                            
+      2  Bico do Papagaio                                   150277                            
+      2  Bico do Papagaio                                   150295                            
+      2  Bico do Papagaio                                   150304                            
+      2  Bico do Papagaio                                   150370                            
+      2  Bico do Papagaio                                   150380                            
+      2  Bico do Papagaio                                   150420                            
+      2  Bico do Papagaio                                   150497                            
+      2  Bico do Papagaio                                   150549                            
+      2  Bico do Papagaio                                   150553                            
+      2  Bico do Papagaio                                   150555                            
+      2  Bico do Papagaio                                   150563                            
+      2  Bico do Papagaio                                   150613                            
+      2  Bico do Papagaio                                   150616                            
+      2  Bico do Papagaio                                   150618                            
+      2  Bico do Papagaio                                   150715                            
+      2  Bico do Papagaio                                   150745                            
+      2  Bico do Papagaio                                   150750                            
+      2  Bico do Papagaio                                   150775                            
+      2  Bico do Papagaio                                   150840                            
+      2  Bico do Papagaio                                   170030                            
+      2  Bico do Papagaio                                   170100                            
+      2  Bico do Papagaio                                   170105                            
+      2  Bico do Papagaio                                   170220                            
+      2  Bico do Papagaio                                   170255                            
+      2  Bico do Papagaio                                   170290                            
+      2  Bico do Papagaio                                   170380                            
+      2  Bico do Papagaio                                   170382                            
+      2  Bico do Papagaio                                   170389                            
+      2  Bico do Papagaio                                   170650                            
+      2  Bico do Papagaio                                   170740                            
+      2  Bico do Papagaio                                   171070                            
+      2  Bico do Papagaio                                   171245                            
+      2  Bico do Papagaio                                   171280                            
+      2  Bico do Papagaio                                   171380                            
+      2  Bico do Papagaio                                   171430                            
+      2  Bico do Papagaio                                   171830                            
+      2  Bico do Papagaio                                   171855                            
+      2  Bico do Papagaio                                   171880                            
+      2  Bico do Papagaio                                   172000                            
+      2  Bico do Papagaio                                   172010                            
+      2  Bico do Papagaio                                   172020                            
+      2  Bico do Papagaio                                   172030                            
+      2  Bico do Papagaio                                   172080                            
+      2  Bico do Papagaio                                   172120                            
+      2  Bico do Papagaio                                   210005                            
+      2  Bico do Papagaio                                   210060                            
+      2  Bico do Papagaio                                   210235                            
+      2  Bico do Papagaio                                   210325                            
+      2  Bico do Papagaio                                   210375                            
+      2  Bico do Papagaio                                   210455                            
+      2  Bico do Papagaio                                   210530                            
+      2  Bico do Papagaio                                   210542                            
+      2  Bico do Papagaio                                   210550                            
+      2  Bico do Papagaio                                   210598                            
+      2  Bico do Papagaio                                   210700                            
+      2  Bico do Papagaio                                   210955                            
+      2  Bico do Papagaio                                   211085                            
+      2  Bico do Papagaio                                   211153                            
+      2  Bico do Papagaio                                   211176                            
+      2  Bico do Papagaio                                   211285                            
+      3  Chapada das Mangabeiras                            171195                            
+      3  Chapada das Mangabeiras                            171240                            
+      3  Chapada das Mangabeiras                            171270                            
+      3  Chapada das Mangabeiras                            171510                            
+      3  Chapada das Mangabeiras                            171790                            
+      3  Chapada das Mangabeiras                            171875                            
+      3  Chapada das Mangabeiras                            171900                            
+      3  Chapada das Mangabeiras                            172015                            
+      3  Chapada das Mangabeiras                            210050                            
+      3  Chapada das Mangabeiras                            210180                            
+      3  Chapada das Mangabeiras                            210610                            
+      3  Chapada das Mangabeiras                            210970                            
+      3  Chapada das Mangabeiras                            211065                            
+      3  Chapada das Mangabeiras                            211080                            
+      3  Chapada das Mangabeiras                            211200                            
+      3  Chapada das Mangabeiras                            220045                            
+      3  Chapada das Mangabeiras                            220080                            
+      3  Chapada das Mangabeiras                            220110                            
+      3  Chapada das Mangabeiras                            220115                            
+      3  Chapada das Mangabeiras                            220130                            
+      3  Chapada das Mangabeiras                            220170                            
+      3  Chapada das Mangabeiras                            220190                            
+      3  Chapada das Mangabeiras                            220225                            
+      3  Chapada das Mangabeiras                            220275                            
+      3  Chapada das Mangabeiras                            220290                            
+      3  Chapada das Mangabeiras                            220300                            
+      3  Chapada das Mangabeiras                            220310                            
+      3  Chapada das Mangabeiras                            220320                            
+      3  Chapada das Mangabeiras                            220323                            
+      3  Chapada das Mangabeiras                            220360                            
+      3  Chapada das Mangabeiras                            220390                            
+      3  Chapada das Mangabeiras                            220440                            
+      3  Chapada das Mangabeiras                            220450                            
+      3  Chapada das Mangabeiras                            220510                            
+      3  Chapada das Mangabeiras                            220530                            
+      3  Chapada das Mangabeiras                            220552                            
+      3  Chapada das Mangabeiras                            220560                            
+      3  Chapada das Mangabeiras                            220590                            
+      3  Chapada das Mangabeiras                            220600                            
+      3  Chapada das Mangabeiras                            220660                            
+      3  Chapada das Mangabeiras                            220665                            
+      3  Chapada das Mangabeiras                            220740                            
+      3  Chapada das Mangabeiras                            220760                            
+      3  Chapada das Mangabeiras                            220785                            
+      3  Chapada das Mangabeiras                            220855                            
+      3  Chapada das Mangabeiras                            220870                            
+      3  Chapada das Mangabeiras                            220885                            
+      3  Chapada das Mangabeiras                            220890                            
+      3  Chapada das Mangabeiras                            220920                            
+      3  Chapada das Mangabeiras                            220930                            
+      3  Chapada das Mangabeiras                            220975                            
+      3  Chapada das Mangabeiras                            221062                            
+      3  Chapada das Mangabeiras                            221063                            
+      3  Chapada das Mangabeiras                            221120                            
+      4  Chapada do Araripe                                 220005                            
+      4  Chapada do Araripe                                 220025                            
+      4  Chapada do Araripe                                 220027                            
+      4  Chapada do Araripe                                 220095                            
+      4  Chapada do Araripe                                 220155                            
+      4  Chapada do Araripe                                 220157                            
+      4  Chapada do Araripe                                 220173                            
+      4  Chapada do Araripe                                 220180                            
+      4  Chapada do Araripe                                 220209                            
+      4  Chapada do Araripe                                 220210                            
+      4  Chapada do Araripe                                 220211                            
+      4  Chapada do Araripe                                 220213                            
+      4  Chapada do Araripe                                 220245                            
+      4  Chapada do Araripe                                 220255                            
+      4  Chapada do Araripe                                 220280                            
+      4  Chapada do Araripe                                 220327                            
+      4  Chapada do Araripe                                 220340                            
+      4  Chapada do Araripe                                 220385                            
+      4  Chapada do Araripe                                 220415                            
+      4  Chapada do Araripe                                 220420                            
+      4  Chapada do Araripe                                 220430                            
+      4  Chapada do Araripe                                 220435                            
+      4  Chapada do Araripe                                 220490                            
+      4  Chapada do Araripe                                 220500                            
+      4  Chapada do Araripe                                 220515                            
+      4  Chapada do Araripe                                 220520                            
+      4  Chapada do Araripe                                 220535                            
+      4  Chapada do Araripe                                 220556                            
+      4  Chapada do Araripe                                 220595                            
+      4  Chapada do Araripe                                 220605                            
+      4  Chapada do Araripe                                 220650                            
+      4  Chapada do Araripe                                 220720                            
+      4  Chapada do Araripe                                 220730                            
+      4  Chapada do Araripe                                 220755                            
+      4  Chapada do Araripe                                 220777                            
+      4  Chapada do Araripe                                 220780                            
+      4  Chapada do Araripe                                 220793                            
+      4  Chapada do Araripe                                 220795                            
+      4  Chapada do Araripe                                 220800                            
+      4  Chapada do Araripe                                 220820                            
+      4  Chapada do Araripe                                 220865                            
+      4  Chapada do Araripe                                 220887                            
+      4  Chapada do Araripe                                 220910                            
+      4  Chapada do Araripe                                 220935                            
+      4  Chapada do Araripe                                 220940                            
+      4  Chapada do Araripe                                 220950                            
+      4  Chapada do Araripe                                 220965                            
+      4  Chapada do Araripe                                 220985                            
+      4  Chapada do Araripe                                 220995                            
+      4  Chapada do Araripe                                 221000                            
+      4  Chapada do Araripe                                 221020                            
+      4  Chapada do Araripe                                 221030                            
+      4  Chapada do Araripe                                 221037                            
+      4  Chapada do Araripe                                 221070                            
+      4  Chapada do Araripe                                 221080                            
+      4  Chapada do Araripe                                 221090                            
+      4  Chapada do Araripe                                 221093                            
+      4  Chapada do Araripe                                 221150                            
+      4  Chapada do Araripe                                 221160                            
+      4  Chapada do Araripe                                 221170                            
+      4  Chapada do Araripe                                 230010                            
+      4  Chapada do Araripe                                 230060                            
+      4  Chapada do Araripe                                 230130                            
+      4  Chapada do Araripe                                 230160                            
+      4  Chapada do Araripe                                 230170                            
+      4  Chapada do Araripe                                 230190                            
+      4  Chapada do Araripe                                 230200                            
+      4  Chapada do Araripe                                 230250                            
+      4  Chapada do Araripe                                 230270                            
+      4  Chapada do Araripe                                 230320                            
+      4  Chapada do Araripe                                 230420                            
+      4  Chapada do Araripe                                 230430                            
+      4  Chapada do Araripe                                 230480                            
+      4  Chapada do Araripe                                 230710                            
+      4  Chapada do Araripe                                 230720                            
+      4  Chapada do Araripe                                 230730                            
+      4  Chapada do Araripe                                 230810                            
+      4  Chapada do Araripe                                 230830                            
+      4  Chapada do Araripe                                 230840                            
+      4  Chapada do Araripe                                 230920                            
+      4  Chapada do Araripe                                 231060                            
+      4  Chapada do Araripe                                 231110                            
+      4  Chapada do Araripe                                 231120                            
+      4  Chapada do Araripe                                 231195                            
+      4  Chapada do Araripe                                 231210                            
+      4  Chapada do Araripe                                 260110                            
+      4  Chapada do Araripe                                 260200                            
+      4  Chapada do Araripe                                 260430                            
+      4  Chapada do Araripe                                 260530                            
+      4  Chapada do Araripe                                 260630                            
+      4  Chapada do Araripe                                 260730                            
+      4  Chapada do Araripe                                 260930                            
+      4  Chapada do Araripe                                 260990                            
+      4  Chapada do Araripe                                 261040                            
+      4  Chapada do Araripe                                 261220                            
+      4  Chapada do Araripe                                 261245                            
+      4  Chapada do Araripe                                 261255                            
+      4  Chapada do Araripe                                 261350                            
+      4  Chapada do Araripe                                 261400                            
+      4  Chapada do Araripe                                 261430                            
+      4  Chapada do Araripe                                 261520                            
+      4  Chapada do Araripe                                 261560                            
+      4  Chapada do Araripe                                 261610                            
+      5  Grande Fronteira do Mercosul                       410100                            
+      5  Grande Fronteira do Mercosul                       410260                            
+      5  Grande Fronteira do Mercosul                       410275                            
+      5  Grande Fronteira do Mercosul                       410302                            
+      5  Grande Fronteira do Mercosul                       410315                            
+      5  Grande Fronteira do Mercosul                       410322                            
+      5  Grande Fronteira do Mercosul                       410450                            
+      5  Grande Fronteira do Mercosul                       410540                            
+      5  Grande Fronteira do Mercosul                       410570                            
+      5  Grande Fronteira do Mercosul                       410645                            
+      5  Grande Fronteira do Mercosul                       410650                            
+      5  Grande Fronteira do Mercosul                       410657                            
+      5  Grande Fronteira do Mercosul                       410720                            
+      5  Grande Fronteira do Mercosul                       410740                            
+      5  Grande Fronteira do Mercosul                       410785                            
+      5  Grande Fronteira do Mercosul                       410840                            
+      5  Grande Fronteira do Mercosul                       410965                            
+      5  Grande Fronteira do Mercosul                       411120                            
+      5  Grande Fronteira do Mercosul                       411435                            
+      5  Grande Fronteira do Mercosul                       411440                            
+      5  Grande Fronteira do Mercosul                       411530                            
+      5  Grande Fronteira do Mercosul                       411540                            
+      5  Grande Fronteira do Mercosul                       411695                            
+      5  Grande Fronteira do Mercosul                       411725                            
+      5  Grande Fronteira do Mercosul                       411760                            
+      5  Grande Fronteira do Mercosul                       411850                            
+      5  Grande Fronteira do Mercosul                       411900                            
+      5  Grande Fronteira do Mercosul                       411925                            
+      5  Grande Fronteira do Mercosul                       411980                            
+      5  Grande Fronteira do Mercosul                       412035                            
+      5  Grande Fronteira do Mercosul                       412140                            
+      5  Grande Fronteira do Mercosul                       412160                            
+      5  Grande Fronteira do Mercosul                       412280                            
+      5  Grande Fronteira do Mercosul                       412300                            
+      5  Grande Fronteira do Mercosul                       412380                            
+      5  Grande Fronteira do Mercosul                       412440                            
+      5  Grande Fronteira do Mercosul                       412480                            
+      5  Grande Fronteira do Mercosul                       412520                            
+      5  Grande Fronteira do Mercosul                       412627                            
+      5  Grande Fronteira do Mercosul                       412665                            
+      5  Grande Fronteira do Mercosul                       412860                            
+      5  Grande Fronteira do Mercosul                       412870                            
+      5  Grande Fronteira do Mercosul                       420005                            
+      5  Grande Fronteira do Mercosul                       420010                            
+      5  Grande Fronteira do Mercosul                       420040                            
+      5  Grande Fronteira do Mercosul                       420050                            
+      5  Grande Fronteira do Mercosul                       420055                            
+      5  Grande Fronteira do Mercosul                       420075                            
+      5  Grande Fronteira do Mercosul                       420080                            
+      5  Grande Fronteira do Mercosul                       420127                            
+      5  Grande Fronteira do Mercosul                       420160                            
+      5  Grande Fronteira do Mercosul                       420165                            
+      5  Grande Fronteira do Mercosul                       420208                            
+      5  Grande Fronteira do Mercosul                       420209                            
+      5  Grande Fronteira do Mercosul                       420215                            
+      5  Grande Fronteira do Mercosul                       420253                            
+      5  Grande Fronteira do Mercosul                       420257                            
+      5  Grande Fronteira do Mercosul                       420287                            
+      5  Grande Fronteira do Mercosul                       420300                            
+      5  Grande Fronteira do Mercosul                       420310                            
+      5  Grande Fronteira do Mercosul                       420315                            
+      5  Grande Fronteira do Mercosul                       420350                            
+      5  Grande Fronteira do Mercosul                       420360                            
+      5  Grande Fronteira do Mercosul                       420390                            
+      5  Grande Fronteira do Mercosul                       420400                            
+      5  Grande Fronteira do Mercosul                       420410                            
+      5  Grande Fronteira do Mercosul                       420415,420411                     
+      5  Grande Fronteira do Mercosul                       420420                            
+      5  Grande Fronteira do Mercosul                       420430                            
+      5  Grande Fronteira do Mercosul                       420435                            
+      5  Grande Fronteira do Mercosul                       420440                            
+      5  Grande Fronteira do Mercosul                       420445                            
+      5  Grande Fronteira do Mercosul                       420470                            
+      5  Grande Fronteira do Mercosul                       420475                            
+      5  Grande Fronteira do Mercosul                       420480                            
+      5  Grande Fronteira do Mercosul                       420490                            
+      5  Grande Fronteira do Mercosul                       420500                            
+      5  Grande Fronteira do Mercosul                       420517                            
+      5  Grande Fronteira do Mercosul                       420520                            
+      5  Grande Fronteira do Mercosul                       420530                            
+      5  Grande Fronteira do Mercosul                       420535                            
+      5  Grande Fronteira do Mercosul                       420543                            
+      5  Grande Fronteira do Mercosul                       420550                            
+      5  Grande Fronteira do Mercosul                       420555                            
+      5  Grande Fronteira do Mercosul                       420560                            
+      5  Grande Fronteira do Mercosul                       420640                            
+      5  Grande Fronteira do Mercosul                       420660                            
+      5  Grande Fronteira do Mercosul                       420665                            
+      5  Grande Fronteira do Mercosul                       420670                            
+      5  Grande Fronteira do Mercosul                       420675                            
+      5  Grande Fronteira do Mercosul                       420680                            
+      5  Grande Fronteira do Mercosul                       420757                            
+      5  Grande Fronteira do Mercosul                       420760                            
+      5  Grande Fronteira do Mercosul                       420765                            
+      5  Grande Fronteira do Mercosul                       420768                            
+      5  Grande Fronteira do Mercosul                       420770                            
+      5  Grande Fronteira do Mercosul                       420775                            
+      5  Grande Fronteira do Mercosul                       420780                            
+      5  Grande Fronteira do Mercosul                       420785                            
+      5  Grande Fronteira do Mercosul                       420800                            
+      5  Grande Fronteira do Mercosul                       420840                            
+      5  Grande Fronteira do Mercosul                       420860                            
+      5  Grande Fronteira do Mercosul                       420895                            
+      5  Grande Fronteira do Mercosul                       420900                            
+      5  Grande Fronteira do Mercosul                       420917                            
+      5  Grande Fronteira do Mercosul                       420920                            
+      5  Grande Fronteira do Mercosul                       420945                            
+      5  Grande Fronteira do Mercosul                       420970                            
+      5  Grande Fronteira do Mercosul                       420985                            
+      5  Grande Fronteira do Mercosul                       421003                            
+      5  Grande Fronteira do Mercosul                       421005                            
+      5  Grande Fronteira do Mercosul                       421050                            
+      5  Grande Fronteira do Mercosul                       421055                            
+      5  Grande Fronteira do Mercosul                       421070                            
+      5  Grande Fronteira do Mercosul                       421090                            
+      5  Grande Fronteira do Mercosul                       421100                            
+      5  Grande Fronteira do Mercosul                       421105                            
+      5  Grande Fronteira do Mercosul                       421140                            
+      5  Grande Fronteira do Mercosul                       421145                            
+      5  Grande Fronteira do Mercosul                       421165                            
+      5  Grande Fronteira do Mercosul                       421180                            
+      5  Grande Fronteira do Mercosul                       421185                            
+      5  Grande Fronteira do Mercosul                       421187                            
+      5  Grande Fronteira do Mercosul                       421200                            
+      5  Grande Fronteira do Mercosul                       421210                            
+      5  Grande Fronteira do Mercosul                       421223                            
+      5  Grande Fronteira do Mercosul                       421227                            
+      5  Grande Fronteira do Mercosul                       421260                            
+      5  Grande Fronteira do Mercosul                       421290                            
+      5  Grande Fronteira do Mercosul                       421300                            
+      5  Grande Fronteira do Mercosul                       421310                            
+      5  Grande Fronteira do Mercosul                       421315                            
+      5  Grande Fronteira do Mercosul                       421330                            
+      5  Grande Fronteira do Mercosul                       421335                            
+      5  Grande Fronteira do Mercosul                       421340                            
+      5  Grande Fronteira do Mercosul                       421390                            
+      5  Grande Fronteira do Mercosul                       421415                            
+      5  Grande Fronteira do Mercosul                       421420                            
+      5  Grande Fronteira do Mercosul                       421440                            
+      5  Grande Fronteira do Mercosul                       421507                            
+      5  Grande Fronteira do Mercosul                       421520                            
+      5  Grande Fronteira do Mercosul                       421535                            
+      5  Grande Fronteira do Mercosul                       421540                            
+      5  Grande Fronteira do Mercosul                       421550                            
+      5  Grande Fronteira do Mercosul                       421555                            
+      5  Grande Fronteira do Mercosul                       421568                            
+      5  Grande Fronteira do Mercosul                       421569                            
+      5  Grande Fronteira do Mercosul                       421575                            
+      5  Grande Fronteira do Mercosul                       421600                            
+      5  Grande Fronteira do Mercosul                       421605                            
+      5  Grande Fronteira do Mercosul                       421610                            
+      5  Grande Fronteira do Mercosul                       421625                            
+      5  Grande Fronteira do Mercosul                       421670                            
+      5  Grande Fronteira do Mercosul                       421690                            
+      5  Grande Fronteira do Mercosul                       421715                            
+      5  Grande Fronteira do Mercosul                       421720                            
+      5  Grande Fronteira do Mercosul                       421730                            
+      5  Grande Fronteira do Mercosul                       421750                            
+      5  Grande Fronteira do Mercosul                       421755                            
+      5  Grande Fronteira do Mercosul                       421775                            
+      5  Grande Fronteira do Mercosul                       421790                            
+      5  Grande Fronteira do Mercosul                       421795                            
+      5  Grande Fronteira do Mercosul                       421850                            
+      5  Grande Fronteira do Mercosul                       421875                            
+      5  Grande Fronteira do Mercosul                       421885                            
+      5  Grande Fronteira do Mercosul                       421910                            
+      5  Grande Fronteira do Mercosul                       421915                            
+      5  Grande Fronteira do Mercosul                       421917                            
+      5  Grande Fronteira do Mercosul                       421930                            
+      5  Grande Fronteira do Mercosul                       421950                            
+      5  Grande Fronteira do Mercosul                       421960                            
+      5  Grande Fronteira do Mercosul                       421970                            
+      5  Grande Fronteira do Mercosul                       421985                            
+      5  Grande Fronteira do Mercosul                       430005                            
+      5  Grande Fronteira do Mercosul                       430020                            
+      5  Grande Fronteira do Mercosul                       430030                            
+      5  Grande Fronteira do Mercosul                       430045                            
+      5  Grande Fronteira do Mercosul                       430047                            
+      5  Grande Fronteira do Mercosul                       430050                            
+      5  Grande Fronteira do Mercosul                       430055                            
+      5  Grande Fronteira do Mercosul                       430064                            
+      5  Grande Fronteira do Mercosul                       430066                            
+      5  Grande Fronteira do Mercosul                       430090                            
+      5  Grande Fronteira do Mercosul                       430150                            
+      5  Grande Fronteira do Mercosul                       430155                            
+      5  Grande Fronteira do Mercosul                       430170                            
+      5  Grande Fronteira do Mercosul                       430180                            
+      5  Grande Fronteira do Mercosul                       430185                            
+      5  Grande Fronteira do Mercosul                       430192                            
+      5  Grande Fronteira do Mercosul                       430195                            
+      5  Grande Fronteira do Mercosul                       430200                            
+      5  Grande Fronteira do Mercosul                       430205                            
+      5  Grande Fronteira do Mercosul                       430215                            
+      5  Grande Fronteira do Mercosul                       430220                            
+      5  Grande Fronteira do Mercosul                       430222                            
+      5  Grande Fronteira do Mercosul                       430223                            
+      5  Grande Fronteira do Mercosul                       430237                            
+      5  Grande Fronteira do Mercosul                       430250                            
+      5  Grande Fronteira do Mercosul                       430258                            
+      5  Grande Fronteira do Mercosul                       430260                            
+      5  Grande Fronteira do Mercosul                       430320                            
+      5  Grande Fronteira do Mercosul                       430330                            
+      5  Grande Fronteira do Mercosul                       430340                            
+      5  Grande Fronteira do Mercosul                       430355                            
+      5  Grande Fronteira do Mercosul                       430370                            
+      5  Grande Fronteira do Mercosul                       430380                            
+      5  Grande Fronteira do Mercosul                       430400                            
+      5  Grande Fronteira do Mercosul                       430410                            
+      5  Grande Fronteira do Mercosul                       430430                            
+      5  Grande Fronteira do Mercosul                       430462                            
+      5  Grande Fronteira do Mercosul                       430470                            
+      5  Grande Fronteira do Mercosul                       430485                            
+      5  Grande Fronteira do Mercosul                       430490                            
+      5  Grande Fronteira do Mercosul                       430495                            
+      5  Grande Fronteira do Mercosul                       430500                            
+      5  Grande Fronteira do Mercosul                       430511                            
+      5  Grande Fronteira do Mercosul                       430515                            
+      5  Grande Fronteira do Mercosul                       430520                            
+      5  Grande Fronteira do Mercosul                       430530                            
+      5  Grande Fronteira do Mercosul                       430537                            
+      5  Grande Fronteira do Mercosul                       430540                            
+      5  Grande Fronteira do Mercosul                       430550                            
+      5  Grande Fronteira do Mercosul                       430560                            
+      5  Grande Fronteira do Mercosul                       430570                            
+      5  Grande Fronteira do Mercosul                       430580                            
+      5  Grande Fronteira do Mercosul                       430585                            
+      5  Grande Fronteira do Mercosul                       430587                            
+      5  Grande Fronteira do Mercosul                       430590                            
+      5  Grande Fronteira do Mercosul                       430597                            
+      5  Grande Fronteira do Mercosul                       430600                            
+      5  Grande Fronteira do Mercosul                       430607                            
+      5  Grande Fronteira do Mercosul                       430610                            
+      5  Grande Fronteira do Mercosul                       430613                            
+      5  Grande Fronteira do Mercosul                       430630                            
+      5  Grande Fronteira do Mercosul                       430632                            
+      5  Grande Fronteira do Mercosul                       430635                            
+      5  Grande Fronteira do Mercosul                       430642                            
+      5  Grande Fronteira do Mercosul                       430673                            
+      5  Grande Fronteira do Mercosul                       430692                            
+      5  Grande Fronteira do Mercosul                       430693                            
+      5  Grande Fronteira do Mercosul                       430695                            
+      5  Grande Fronteira do Mercosul                       430697                            
+      5  Grande Fronteira do Mercosul                       430700                            
+      5  Grande Fronteira do Mercosul                       430705                            
+      5  Grande Fronteira do Mercosul                       430720                            
+      5  Grande Fronteira do Mercosul                       430730                            
+      5  Grande Fronteira do Mercosul                       430740                            
+      5  Grande Fronteira do Mercosul                       430745                            
+      5  Grande Fronteira do Mercosul                       430750                            
+      5  Grande Fronteira do Mercosul                       430755                            
+      5  Grande Fronteira do Mercosul                       430783                            
+      5  Grande Fronteira do Mercosul                       430805                            
+      5  Grande Fronteira do Mercosul                       430825                            
+      5  Grande Fronteira do Mercosul                       430830                            
+      5  Grande Fronteira do Mercosul                       430845                            
+      5  Grande Fronteira do Mercosul                       430850                            
+      5  Grande Fronteira do Mercosul                       430870                            
+      5  Grande Fronteira do Mercosul                       430885                            
+      5  Grande Fronteira do Mercosul                       430890                            
+      5  Grande Fronteira do Mercosul                       430900                            
+      5  Grande Fronteira do Mercosul                       430912                            
+      5  Grande Fronteira do Mercosul                       430950                            
+      5  Grande Fronteira do Mercosul                       430960                            
+      5  Grande Fronteira do Mercosul                       430970                            
+      5  Grande Fronteira do Mercosul                       430980                            
+      5  Grande Fronteira do Mercosul                       430990                            
+      5  Grande Fronteira do Mercosul                       430995                            
+      5  Grande Fronteira do Mercosul                       431000                            
+      5  Grande Fronteira do Mercosul                       431020                            
+      5  Grande Fronteira do Mercosul                       431040                            
+      5  Grande Fronteira do Mercosul                       431041                            
+      5  Grande Fronteira do Mercosul                       431046                            
+      5  Grande Fronteira do Mercosul                       431050                            
+      5  Grande Fronteira do Mercosul                       431057                            
+      5  Grande Fronteira do Mercosul                       431070                            
+      5  Grande Fronteira do Mercosul                       431085                            
+      5  Grande Fronteira do Mercosul                       431087                            
+      5  Grande Fronteira do Mercosul                       431090                            
+      5  Grande Fronteira do Mercosul                       431115                            
+      5  Grande Fronteira do Mercosul                       431125                            
+      5  Grande Fronteira do Mercosul                       431127                            
+      5  Grande Fronteira do Mercosul                       431130                            
+      5  Grande Fronteira do Mercosul                       431142                            
+      5  Grande Fronteira do Mercosul                       431160                            
+      5  Grande Fronteira do Mercosul                       431170                            
+      5  Grande Fronteira do Mercosul                       431180                            
+      5  Grande Fronteira do Mercosul                       431190                            
+      5  Grande Fronteira do Mercosul                       431200                            
+      5  Grande Fronteira do Mercosul                       431213                            
+      5  Grande Fronteira do Mercosul                       431217                            
+      5  Grande Fronteira do Mercosul                       431220                            
+      5  Grande Fronteira do Mercosul                       431230                            
+      5  Grande Fronteira do Mercosul                       431242                            
+      5  Grande Fronteira do Mercosul                       431261                            
+      5  Grande Fronteira do Mercosul                       431262                            
+      5  Grande Fronteira do Mercosul                       431265                            
+      5  Grande Fronteira do Mercosul                       431267                            
+      5  Grande Fronteira do Mercosul                       431270                            
+      5  Grande Fronteira do Mercosul                       431275                            
+      5  Grande Fronteira do Mercosul                       431295                            
+      5  Grande Fronteira do Mercosul                       431301                            
+      5  Grande Fronteira do Mercosul                       431333                            
+      5  Grande Fronteira do Mercosul                       431342                            
+      5  Grande Fronteira do Mercosul                       431344                            
+      5  Grande Fronteira do Mercosul                       431346                            
+      5  Grande Fronteira do Mercosul                       431349                            
+      5  Grande Fronteira do Mercosul                       431360                            
+      5  Grande Fronteira do Mercosul                       431370                            
+      5  Grande Fronteira do Mercosul                       431380                            
+      5  Grande Fronteira do Mercosul                       431390                            
+      5  Grande Fronteira do Mercosul                       431410                            
+      5  Grande Fronteira do Mercosul                       431413                            
+      5  Grande Fronteira do Mercosul                       431430                            
+      5  Grande Fronteira do Mercosul                       431445                            
+      5  Grande Fronteira do Mercosul                       431446                            
+      5  Grande Fronteira do Mercosul                       431449                            
+      5  Grande Fronteira do Mercosul                       431455                            
+      5  Grande Fronteira do Mercosul                       431470                            
+      5  Grande Fronteira do Mercosul                       431477                            
+      5  Grande Fronteira do Mercosul                       431478                            
+      5  Grande Fronteira do Mercosul                       431500                            
+      5  Grande Fronteira do Mercosul                       431505                            
+      5  Grande Fronteira do Mercosul                       431507                            
+      5  Grande Fronteira do Mercosul                       431510                            
+      5  Grande Fronteira do Mercosul                       431531                            
+      5  Grande Fronteira do Mercosul                       431535                            
+      5  Grande Fronteira do Mercosul                       431540                            
+      5  Grande Fronteira do Mercosul                       431555                            
+      5  Grande Fronteira do Mercosul                       431590                            
+      5  Grande Fronteira do Mercosul                       431595                            
+      5  Grande Fronteira do Mercosul                       431610                            
+      5  Grande Fronteira do Mercosul                       431620                            
+      5  Grande Fronteira do Mercosul                       431630                            
+      5  Grande Fronteira do Mercosul                       431642                            
+      5  Grande Fronteira do Mercosul                       431643                            
+      5  Grande Fronteira do Mercosul                       431645                            
+      5  Grande Fronteira do Mercosul                       431647                            
+      5  Grande Fronteira do Mercosul                       431660                            
+      5  Grande Fronteira do Mercosul                       431670                            
+      5  Grande Fronteira do Mercosul                       431673                            
+      5  Grande Fronteira do Mercosul                       431720                            
+      5  Grande Fronteira do Mercosul                       431750                            
+      5  Grande Fronteira do Mercosul                       431755                            
+      5  Grande Fronteira do Mercosul                       431770                            
+      5  Grande Fronteira do Mercosul                       431775                            
+      5  Grande Fronteira do Mercosul                       431780                            
+      5  Grande Fronteira do Mercosul                       431790                            
+      5  Grande Fronteira do Mercosul                       431795                            
+      5  Grande Fronteira do Mercosul                       431805                            
+      5  Grande Fronteira do Mercosul                       431842                            
+      5  Grande Fronteira do Mercosul                       431845                            
+      5  Grande Fronteira do Mercosul                       431846                            
+      5  Grande Fronteira do Mercosul                       431849                            
+      5  Grande Fronteira do Mercosul                       431860                            
+      5  Grande Fronteira do Mercosul                       431890                            
+      5  Grande Fronteira do Mercosul                       431910                            
+      5  Grande Fronteira do Mercosul                       431915                            
+      5  Grande Fronteira do Mercosul                       431920                            
+      5  Grande Fronteira do Mercosul                       431930                            
+      5  Grande Fronteira do Mercosul                       431936                            
+      5  Grande Fronteira do Mercosul                       431937                            
+      5  Grande Fronteira do Mercosul                       431970                            
+      5  Grande Fronteira do Mercosul                       431973                            
+      5  Grande Fronteira do Mercosul                       432010                            
+      5  Grande Fronteira do Mercosul                       432020                            
+      5  Grande Fronteira do Mercosul                       432023                            
+      5  Grande Fronteira do Mercosul                       432030                            
+      5  Grande Fronteira do Mercosul                       432032                            
+      5  Grande Fronteira do Mercosul                       432050                            
+      5  Grande Fronteira do Mercosul                       432057                            
+      5  Grande Fronteira do Mercosul                       432060                            
+      5  Grande Fronteira do Mercosul                       432080                            
+      5  Grande Fronteira do Mercosul                       432090                            
+      5  Grande Fronteira do Mercosul                       432100                            
+      5  Grande Fronteira do Mercosul                       432132                            
+      5  Grande Fronteira do Mercosul                       432140                            
+      5  Grande Fronteira do Mercosul                       432146                            
+      5  Grande Fronteira do Mercosul                       432147                            
+      5  Grande Fronteira do Mercosul                       432163                            
+      5  Grande Fronteira do Mercosul                       432180                            
+      5  Grande Fronteira do Mercosul                       432185                            
+      5  Grande Fronteira do Mercosul                       432190                            
+      5  Grande Fronteira do Mercosul                       432195                            
+      5  Grande Fronteira do Mercosul                       432210                            
+      5  Grande Fronteira do Mercosul                       432218                            
+      5  Grande Fronteira do Mercosul                       432230                            
+      5  Grande Fronteira do Mercosul                       432234                            
+      5  Grande Fronteira do Mercosul                       432255                            
+      5  Grande Fronteira do Mercosul                       432290                            
+      5  Grande Fronteira do Mercosul                       432310                            
+      5  Grande Fronteira do Mercosul                       432320                            
+      5  Grande Fronteira do Mercosul                       432335                            
+      5  Grande Fronteira do Mercosul                       432340                            
+      5  Grande Fronteira do Mercosul                       432350                            
+      5  Grande Fronteira do Mercosul                       432370                            
+      5  Grande Fronteira do Mercosul                       432375                            
+      6  Itabapoana                                         310205                            
+      6  Itabapoana                                         311010                            
+      6  Itabapoana                                         311210                            
+      6  Itabapoana                                         311330                            
+      6  Itabapoana                                         312420                            
+      6  Itabapoana                                         313867                            
+      6  Itabapoana                                         313950                            
+      6  Itabapoana                                         315350                            
+      6  Itabapoana                                         316255                            
+      6  Itabapoana                                         320050                            
+      6  Itabapoana                                         320110                            
+      6  Itabapoana                                         320180                            
+      6  Itabapoana                                         320200                            
+      6  Itabapoana                                         320230                            
+      6  Itabapoana                                         320255                            
+      6  Itabapoana                                         320340                            
+      6  Itabapoana                                         320380                            
+      6  Itabapoana                                         320430                            
+      6  Itabapoana                                         320480                            
+      6  Itabapoana                                         330060                            
+      6  Itabapoana                                         330100                            
+      6  Itabapoana                                         330115                            
+      6  Itabapoana                                         330205                            
+      6  Itabapoana                                         330220                            
+      6  Itabapoana                                         330230                            
+      6  Itabapoana                                         330310                            
+      6  Itabapoana                                         330410                            
+      6  Itabapoana                                         330475                            
+      6  Itabapoana                                         330500                            
+      6  Itabapoana                                         330513                            
+      6  Itabapoana                                         330615                            
+      7  Metade Sul do Rio Grande do Sul                    430003                            
+      7  Metade Sul do Rio Grande do Sul                    430010                            
+      7  Metade Sul do Rio Grande do Sul                    430040                            
+      7  Metade Sul do Rio Grande do Sul                    430063                            
+      7  Metade Sul do Rio Grande do Sul                    430085                            
+      7  Metade Sul do Rio Grande do Sul                    430107                            
+      7  Metade Sul do Rio Grande do Sul                    430110                            
+      7  Metade Sul do Rio Grande do Sul                    430130                            
+      7  Metade Sul do Rio Grande do Sul                    430160                            
+      7  Metade Sul do Rio Grande do Sul                    430175                            
+      7  Metade Sul do Rio Grande do Sul                    430187                            
+      7  Metade Sul do Rio Grande do Sul                    430190                            
+      7  Metade Sul do Rio Grande do Sul                    430270                            
+      7  Metade Sul do Rio Grande do Sul                    430280                            
+      7  Metade Sul do Rio Grande do Sul                    430290                            
+      7  Metade Sul do Rio Grande do Sul                    430300                            
+      7  Metade Sul do Rio Grande do Sul                    430350                            
+      7  Metade Sul do Rio Grande do Sul                    430420                            
+      7  Metade Sul do Rio Grande do Sul                    430435                            
+      7  Metade Sul do Rio Grande do Sul                    430450                            
+      7  Metade Sul do Rio Grande do Sul                    430465                            
+      7  Metade Sul do Rio Grande do Sul                    430466                            
+      7  Metade Sul do Rio Grande do Sul                    430467                            
+      7  Metade Sul do Rio Grande do Sul                    430512                            
+      7  Metade Sul do Rio Grande do Sul                    430513                            
+      7  Metade Sul do Rio Grande do Sul                    430517                            
+      7  Metade Sul do Rio Grande do Sul                    430535                            
+      7  Metade Sul do Rio Grande do Sul                    430543                            
+      7  Metade Sul do Rio Grande do Sul                    430544                            
+      7  Metade Sul do Rio Grande do Sul                    430605                            
+      7  Metade Sul do Rio Grande do Sul                    430637                            
+      7  Metade Sul do Rio Grande do Sul                    430650                            
+      7  Metade Sul do Rio Grande do Sul                    430660                            
+      7  Metade Sul do Rio Grande do Sul                    430670                            
+      7  Metade Sul do Rio Grande do Sul                    430690                            
+      7  Metade Sul do Rio Grande do Sul                    430710                            
+      7  Metade Sul do Rio Grande do Sul                    430800                            
+      7  Metade Sul do Rio Grande do Sul                    430840                            
+      7  Metade Sul do Rio Grande do Sul                    430865                            
+      7  Metade Sul do Rio Grande do Sul                    430880                            
+      7  Metade Sul do Rio Grande do Sul                    430965                            
+      7  Metade Sul do Rio Grande do Sul                    431053                            
+      7  Metade Sul do Rio Grande do Sul                    431055                            
+      7  Metade Sul do Rio Grande do Sul                    431060                            
+      7  Metade Sul do Rio Grande do Sul                    431075                            
+      7  Metade Sul do Rio Grande do Sul                    431100                            
+      7  Metade Sul do Rio Grande do Sul                    431110                            
+      7  Metade Sul do Rio Grande do Sul                    431113                            
+      7  Metade Sul do Rio Grande do Sul                    431120                            
+      7  Metade Sul do Rio Grande do Sul                    431150                            
+      7  Metade Sul do Rio Grande do Sul                    431171                            
+      7  Metade Sul do Rio Grande do Sul                    431175                            
+      7  Metade Sul do Rio Grande do Sul                    431198                            
+      7  Metade Sul do Rio Grande do Sul                    431210                            
+      7  Metade Sul do Rio Grande do Sul                    431225                            
+      7  Metade Sul do Rio Grande do Sul                    431245                            
+      7  Metade Sul do Rio Grande do Sul                    431250                            
+      7  Metade Sul do Rio Grande do Sul                    431303                            
+      7  Metade Sul do Rio Grande do Sul                    431310                            
+      7  Metade Sul do Rio Grande do Sul                    431339                            
+      7  Metade Sul do Rio Grande do Sul                    431365                            
+      7  Metade Sul do Rio Grande do Sul                    431395                            
+      7  Metade Sul do Rio Grande do Sul                    431402                            
+      7  Metade Sul do Rio Grande do Sul                    431407                            
+      7  Metade Sul do Rio Grande do Sul                    431417                            
+      7  Metade Sul do Rio Grande do Sul                    431420                            
+      7  Metade Sul do Rio Grande do Sul                    431440                            
+      7  Metade Sul do Rio Grande do Sul                    431447                            
+      7  Metade Sul do Rio Grande do Sul                    431450                            
+      7  Metade Sul do Rio Grande do Sul                    431460                            
+      7  Metade Sul do Rio Grande do Sul                    431530                            
+      7  Metade Sul do Rio Grande do Sul                    431532                            
+      7  Metade Sul do Rio Grande do Sul                    431550                            
+      7  Metade Sul do Rio Grande do Sul                    431560                            
+      7  Metade Sul do Rio Grande do Sul                    431570                            
+      7  Metade Sul do Rio Grande do Sul                    431640                            
+      7  Metade Sul do Rio Grande do Sul                    431690                            
+      7  Metade Sul do Rio Grande do Sul                    431697                            
+      7  Metade Sul do Rio Grande do Sul                    431700                            
+      7  Metade Sul do Rio Grande do Sul                    431710                            
+      7  Metade Sul do Rio Grande do Sul                    431730                            
+      7  Metade Sul do Rio Grande do Sul                    431740                            
+      7  Metade Sul do Rio Grande do Sul                    431800                            
+      7  Metade Sul do Rio Grande do Sul                    431810                            
+      7  Metade Sul do Rio Grande do Sul                    431830                            
+      7  Metade Sul do Rio Grande do Sul                    431840                            
+      7  Metade Sul do Rio Grande do Sul                    431843                            
+      7  Metade Sul do Rio Grande do Sul                    431850                            
+      7  Metade Sul do Rio Grande do Sul                    431880                            
+      7  Metade Sul do Rio Grande do Sul                    431912                            
+      7  Metade Sul do Rio Grande do Sul                    431940                            
+      7  Metade Sul do Rio Grande do Sul                    431960                            
+      7  Metade Sul do Rio Grande do Sul                    431980                            
+      7  Metade Sul do Rio Grande do Sul                    432035                            
+      7  Metade Sul do Rio Grande do Sul                    432055                            
+      7  Metade Sul do Rio Grande do Sul                    432065                            
+      7  Metade Sul do Rio Grande do Sul                    432110                            
+      7  Metade Sul do Rio Grande do Sul                    432135                            
+      7  Metade Sul do Rio Grande do Sul                    432149                            
+      7  Metade Sul do Rio Grande do Sul                    432220                            
+      7  Metade Sul do Rio Grande do Sul                    432232                            
+      7  Metade Sul do Rio Grande do Sul                    432237                            
+      7  Metade Sul do Rio Grande do Sul                    432240                            
+      7  Metade Sul do Rio Grande do Sul                    432252                            
+      7  Metade Sul do Rio Grande do Sul                    432345                            
+      8  Seridó                                             240010                            
+      8  Seridó                                             240130                            
+      8  Seridó                                             240165                            
+      8  Seridó                                             240200                            
+      8  Seridó                                             240240                            
+      8  Seridó                                             240270                            
+      8  Seridó                                             240300                            
+      8  Seridó                                             240310                            
+      8  Seridó                                             240340                            
+      8  Seridó                                             240380                            
+      8  Seridó                                             240480                            
+      8  Seridó                                             240560                            
+      8  Seridó                                             240570                            
+      8  Seridó                                             240610                            
+      8  Seridó                                             240650                            
+      8  Seridó                                             240850                            
+      8  Seridó                                             240890                            
+      8  Seridó                                             241140                            
+      8  Seridó                                             241142                            
+      8  Seridó                                             241180                            
+      8  Seridó                                             241210                            
+      8  Seridó                                             241240                            
+      8  Seridó                                             241290                            
+      8  Seridó                                             241300                            
+      8  Seridó                                             241340                            
+      8  Seridó                                             241415                            
+      8  Seridó                                             241430                            
+      8  Seridó                                             241445                            
+      8  Seridó                                             250057                            
+      8  Seridó                                             250090,250908                     
+      8  Seridó                                             250153                            
+      8  Seridó                                             250160                            
+      8  Seridó                                             250500                            
+      8  Seridó                                             250510                            
+      8  Seridó                                             250535                            
+      8  Seridó                                             250620                            
+      8  Seridó                                             250770                            
+      8  Seridó                                             250780                            
+      8  Seridó                                             251010                            
+      8  Seridó                                             251030                            
+      8  Seridó                                             251050                            
+      8  Seridó                                             251110                            
+      8  Seridó                                             251140                            
+      8  Seridó                                             251200                            
+      8  Seridó                                             251270                            
+      8  Seridó                                             251300                            
+      8  Seridó                                             251340                            
+      8  Seridó                                             251470                            
+      8  Seridó                                             251490                            
+      8  Seridó                                             251540                            
+      8  Seridó                                             251610                            
+      8  Seridó                                             251615                            
+      8  Seridó                                             251675                            
+      8  Seridó                                             251710                            
+      9  Vale do Ribeira/Guaraqueçaba                       350270                            
+      9  Vale do Ribeira/Guaraqueçaba                       350535                            
+      9  Vale do Ribeira/Guaraqueçaba                       350540                            
+      9  Vale do Ribeira/Guaraqueçaba                       350925                            
+      9  Vale do Ribeira/Guaraqueçaba                       350990                            
+      9  Vale do Ribeira/Guaraqueçaba                       351480                            
+      9  Vale do Ribeira/Guaraqueçaba                       352030                            
+      9  Vale do Ribeira/Guaraqueçaba                       352042                            
+      9  Vale do Ribeira/Guaraqueçaba                       352120                            
+      9  Vale do Ribeira/Guaraqueçaba                       352215                            
+      9  Vale do Ribeira/Guaraqueçaba                       352265                            
+      9  Vale do Ribeira/Guaraqueçaba                       352330                            
+      9  Vale do Ribeira/Guaraqueçaba                       352460                            
+      9  Vale do Ribeira/Guaraqueçaba                       352610                            
+      9  Vale do Ribeira/Guaraqueçaba                       352620                            
+      9  Vale do Ribeira/Guaraqueçaba                       352990                            
+      9  Vale do Ribeira/Guaraqueçaba                       353620                            
+      9  Vale do Ribeira/Guaraqueçaba                       353720                            
+      9  Vale do Ribeira/Guaraqueçaba                       354260                            
+      9  Vale do Ribeira/Guaraqueçaba                       354280                            
+      9  Vale do Ribeira/Guaraqueçaba                       354995                            
+      9  Vale do Ribeira/Guaraqueçaba                       355180                            
+      9  Vale do Ribeira/Guaraqueçaba                       355350                            
+      9  Vale do Ribeira/Guaraqueçaba                       410020                            
+      9  Vale do Ribeira/Guaraqueçaba                       410120                            
+      9  Vale do Ribeira/Guaraqueçaba                       410310                            
+      9  Vale do Ribeira/Guaraqueçaba                       410400                            
+      9  Vale do Ribeira/Guaraqueçaba                       410520                            
+      9  Vale do Ribeira/Guaraqueçaba                       410950                            
+      9  Vale do Ribeira/Guaraqueçaba                       410960                            
+      9  Vale do Ribeira/Guaraqueçaba                       411125                            
+      9  Vale do Ribeira/Guaraqueçaba                       411570                            
+      9  Vale do Ribeira/Guaraqueçaba                       411620                            
+      9  Vale do Ribeira/Guaraqueçaba                       411820                            
+      9  Vale do Ribeira/Guaraqueçaba                       411995                            
+      9  Vale do Ribeira/Guaraqueçaba                       412080                            
+      9  Vale do Ribeira/Guaraqueçaba                       412220                            
+      9  Vale do Ribeira/Guaraqueçaba                       412788                            
+      9  Vale do Ribeira/Guaraqueçaba                       412863                            
+     10  Vale do Rio Acre                                   120001                            
+     10  Vale do Rio Acre                                   120005                            
+     10  Vale do Rio Acre                                   120010                            
+     10  Vale do Rio Acre                                   120013                            
+     10  Vale do Rio Acre                                   120017                            
+     10  Vale do Rio Acre                                   120025                            
+     10  Vale do Rio Acre                                   120038                            
+     10  Vale do Rio Acre                                   120040                            
+     10  Vale do Rio Acre                                   120045                            
+     10  Vale do Rio Acre                                   120070                            
+     10  Vale do Rio Acre                                   120080                            
+     10  Vale do Rio Acre                                   130070                            
+     10  Vale do Rio Acre                                   130350                            
+     11  Vales do Jequitinhonha e do Mucuri                 290080                            
+     11  Vales do Jequitinhonha e do Mucuri                 290340                            
+     11  Vales do Jequitinhonha e do Mucuri                 290690                            
+     11  Vales do Jequitinhonha e do Mucuri                 291072                            
+     11  Vales do Jequitinhonha e do Mucuri                 291180                            
+     11  Vales do Jequitinhonha e do Mucuri                 291280                            
+     11  Vales do Jequitinhonha e do Mucuri                 291465                            
+     11  Vales do Jequitinhonha e do Mucuri                 291530                            
+     11  Vales do Jequitinhonha e do Mucuri                 291560                            
+     11  Vales do Jequitinhonha e do Mucuri                 291600                            
+     11  Vales do Jequitinhonha e do Mucuri                 291630                            
+     11  Vales do Jequitinhonha e do Mucuri                 291845                            
+     11  Vales do Jequitinhonha e do Mucuri                 291890                            
+     11  Vales do Jequitinhonha e do Mucuri                 292110                            
+     11  Vales do Jequitinhonha e do Mucuri                 292200                            
+     11  Vales do Jequitinhonha e do Mucuri                 292300                            
+     11  Vales do Jequitinhonha e do Mucuri                 292530                            
+     11  Vales do Jequitinhonha e do Mucuri                 292550                            
+     11  Vales do Jequitinhonha e do Mucuri                 292770                            
+     11  Vales do Jequitinhonha e do Mucuri                 293135                            
+     11  Vales do Jequitinhonha e do Mucuri                 293325                            
+     11  Vales do Jequitinhonha e do Mucuri                 310090                            
+     11  Vales do Jequitinhonha e do Mucuri                 310170                            
+     11  Vales do Jequitinhonha e do Mucuri                 310270                            
+     11  Vales do Jequitinhonha e do Mucuri                 310285                            
+     11  Vales do Jequitinhonha e do Mucuri                 310340                            
+     11  Vales do Jequitinhonha e do Mucuri                 310445                            
+     11  Vales do Jequitinhonha e do Mucuri                 310470                            
+     11  Vales do Jequitinhonha e do Mucuri                 310520                            
+     11  Vales do Jequitinhonha e do Mucuri                 310650                            
+     11  Vales do Jequitinhonha e do Mucuri                 310660                            
+     11  Vales do Jequitinhonha e do Mucuri                 311230                            
+     11  Vales do Jequitinhonha e do Mucuri                 311300                            
+     11  Vales do Jequitinhonha e do Mucuri                 311350                            
+     11  Vales do Jequitinhonha e do Mucuri                 311370                            
+     11  Vales do Jequitinhonha e do Mucuri                 311545                            
+     11  Vales do Jequitinhonha e do Mucuri                 311610                            
+     11  Vales do Jequitinhonha e do Mucuri                 311700                            
+     11  Vales do Jequitinhonha e do Mucuri                 311950                            
+     11  Vales do Jequitinhonha e do Mucuri                 312010                            
+     11  Vales do Jequitinhonha e do Mucuri                 312015                            
+     11  Vales do Jequitinhonha e do Mucuri                 312100                            
+     11  Vales do Jequitinhonha e do Mucuri                 312160                            
+     11  Vales do Jequitinhonha e do Mucuri                 312245                            
+     11  Vales do Jequitinhonha e do Mucuri                 312540                            
+     11  Vales do Jequitinhonha e do Mucuri                 312550                            
+     11  Vales do Jequitinhonha e do Mucuri                 312560                            
+     11  Vales do Jequitinhonha e do Mucuri                 312650                            
+     11  Vales do Jequitinhonha e do Mucuri                 312675                            
+     11  Vales do Jequitinhonha e do Mucuri                 312680                            
+     11  Vales do Jequitinhonha e do Mucuri                 312705                            
+     11  Vales do Jequitinhonha e do Mucuri                 312760                            
+     11  Vales do Jequitinhonha e do Mucuri                 313230                            
+     11  Vales do Jequitinhonha e do Mucuri                 313250                            
+     11  Vales do Jequitinhonha e do Mucuri                 313330                            
+     11  Vales do Jequitinhonha e do Mucuri                 313400                            
+     11  Vales do Jequitinhonha e do Mucuri                 313470                            
+     11  Vales do Jequitinhonha e do Mucuri                 313545                            
+     11  Vales do Jequitinhonha e do Mucuri                 313580                            
+     11  Vales do Jequitinhonha e do Mucuri                 313600                            
+     11  Vales do Jequitinhonha e do Mucuri                 313650                            
+     11  Vales do Jequitinhonha e do Mucuri                 313652                            
+     11  Vales do Jequitinhonha e do Mucuri                 313700                            
+     11  Vales do Jequitinhonha e do Mucuri                 313835                            
+     11  Vales do Jequitinhonha e do Mucuri                 313890                            
+     11  Vales do Jequitinhonha e do Mucuri                 313920                            
+     11  Vales do Jequitinhonha e do Mucuri                 314055                            
+     11  Vales do Jequitinhonha e do Mucuri                 314140                            
+     11  Vales do Jequitinhonha e do Mucuri                 314180                            
+     11  Vales do Jequitinhonha e do Mucuri                 314315                            
+     11  Vales do Jequitinhonha e do Mucuri                 314430                            
+     11  Vales do Jequitinhonha e do Mucuri                 314530                            
+     11  Vales do Jequitinhonha e do Mucuri                 314535                            
+     11  Vales do Jequitinhonha e do Mucuri                 314620                            
+     11  Vales do Jequitinhonha e do Mucuri                 314630                            
+     11  Vales do Jequitinhonha e do Mucuri                 314675                            
+     11  Vales do Jequitinhonha e do Mucuri                 314850                            
+     11  Vales do Jequitinhonha e do Mucuri                 314870                            
+     11  Vales do Jequitinhonha e do Mucuri                 315217                            
+     11  Vales do Jequitinhonha e do Mucuri                 315240                            
+     11  Vales do Jequitinhonha e do Mucuri                 315330                            
+     11  Vales do Jequitinhonha e do Mucuri                 315510                            
+     11  Vales do Jequitinhonha e do Mucuri                 315660                            
+     11  Vales do Jequitinhonha e do Mucuri                 315710                            
+     11  Vales do Jequitinhonha e do Mucuri                 315765                            
+     11  Vales do Jequitinhonha e do Mucuri                 315810                            
+     11  Vales do Jequitinhonha e do Mucuri                 316030                            
+     11  Vales do Jequitinhonha e do Mucuri                 316555                            
+     11  Vales do Jequitinhonha e do Mucuri                 316590                            
+     11  Vales do Jequitinhonha e do Mucuri                 316670                            
+     11  Vales do Jequitinhonha e do Mucuri                 316860                            
+     11  Vales do Jequitinhonha e do Mucuri                 316970                            
+     11  Vales do Jequitinhonha e do Mucuri                 317030                            
+     11  Vales do Jequitinhonha e do Mucuri                 317107                            
+     11  Vales do Jequitinhonha e do Mucuri                 317160                            
+     11  Vales do Jequitinhonha e do Mucuri                 320100                            
+     11  Vales do Jequitinhonha e do Mucuri                 320160                            
+     11  Vales do Jequitinhonha e do Mucuri                 320210                            
+     11  Vales do Jequitinhonha e do Mucuri                 320305                            
+     11  Vales do Jequitinhonha e do Mucuri                 320350                            
+     11  Vales do Jequitinhonha e do Mucuri                 320360                            
+     11  Vales do Jequitinhonha e do Mucuri                 320405                            
+     11  Vales do Jequitinhonha e do Mucuri                 320410                            
+     11  Vales do Jequitinhonha e do Mucuri                 320425                            
+     11  Vales do Jequitinhonha e do Mucuri                 320490                            
+     12  Xingu                                              150060                            
+     12  Xingu                                              150085                            
+     12  Xingu                                              150172                            
+     12  Xingu                                              150445                            
+     12  Xingu                                              150548                            
+     12  Xingu                                              150565                            
+     12  Xingu                                              150590                            
+     12  Xingu                                              150780                            
+     12  Xingu                                              150815                            
+     12  Xingu                                              150835                            
+     13  Xingó                                              260160                            
+     13  Xingó                                              260300                            
+     13  Xingó                                              260392                            
+     13  Xingó                                              260570                            
+     13  Xingó                                              260740                            
+     13  Xingó                                              260805                            
+     13  Xingó                                              261100                            
+     13  Xingó                                              261390                            
+     13  Xingó                                              261480                            
+     13  Xingó                                              270010                            
+     13  Xingó                                              270160                            
+     13  Xingó                                              270180                            
+     13  Xingó                                              270240                            
+     13  Xingó                                              270250                            
+     13  Xingó                                              270330                            
+     13  Xingó                                              270460                            
+     13  Xingó                                              270500                            
+     13  Xingó                                              270580                            
+     13  Xingó                                              270610                            
+     13  Xingó                                              270620                            
+     13  Xingó                                              270640                            
+     13  Xingó                                              270642                            
+     13  Xingó                                              270710                            
+     13  Xingó                                              270720                            
+     13  Xingó                                              270800                            
+     13  Xingó                                              270840                            
+     13  Xingó                                              270895                            
+     13  Xingó                                              280120                            
+     13  Xingó                                              280140                            
+     13  Xingó                                              280220                            
+     13  Xingó                                              280230                            
+     13  Xingó                                              280240                            
+     13  Xingó                                              280260                            
+     13  Xingó                                              280310                            
+     13  Xingó                                              280420                            
+     13  Xingó                                              280445                            
+     13  Xingó                                              280450                            
+     13  Xingó                                              280500                            
+     13  Xingó                                              280520                            
+     13  Xingó                                              280540                            
+     13  Xingó                                              280550                            
+     13  Xingó                                              280560                            
+     13  Xingó                                              280600                            
+     13  Xingó                                              280710                            
+     13  Xingó                                              280740                            
+     13  Xingó                                              290020                            
+     13  Xingó                                              290035                            
+     13  Xingó                                              290160                            
+     13  Xingó                                              290265                            
+     13  Xingó                                              290680                            
+     13  Xingó                                              290682                            
+     13  Xingó                                              290770                            
+     13  Xingó                                              290780                            
+     13  Xingó                                              290790                            
+     13  Xingó                                              290920                            
+     13  Xingó                                              291070                            
+     13  Xingó                                              291075                            
+     13  Xingó                                              291140                            
+     13  Xingó                                              291185                            
+     13  Xingó                                              291650                            
+     13  Xingó                                              291810                            
+     13  Xingó                                              291990                            
+     13  Xingó                                              292150                            
+     13  Xingó                                              292265                            
+     13  Xingó                                              292290                            
+     13  Xingó                                              292305                            
+     13  Xingó                                              292310                            
+     13  Xingó                                              292380                            
+     13  Xingó                                              292400                            
+     13  Xingó                                              292420                            
+     13  Xingó                                              292580                            
+     13  Xingó                                              292590                            
+     13  Xingó                                              292650                            
+     13  Xingó                                              292660                            
+     13  Xingó                                              292710                            
+     13  Xingó                                              292760                            
+     13  Xingó                                              293076                            
+     13  Xingó                                              293190                            
+     13  Xingó                                              293200                            
+     14  Águas Emendadas                                    310450                            
+     14  Águas Emendadas                                    310820                            
+     14  Águas Emendadas                                    310855                            
+     14  Águas Emendadas                                    310930                            
+     14  Águas Emendadas                                    310945                            
+     14  Águas Emendadas                                    311615                            
+     14  Águas Emendadas                                    312247                            
+     14  Águas Emendadas                                    312620                            
+     14  Águas Emendadas                                    312860                            
+     14  Águas Emendadas                                    313630                            
+     14  Águas Emendadas                                    313710                            
+     14  Águas Emendadas                                    313753                            
+     14  Águas Emendadas                                    314437                            
+     14  Águas Emendadas                                    314700                            
+     14  Águas Emendadas                                    315057                            
+     14  Águas Emendadas                                    315340                            
+     14  Águas Emendadas                                    315445                            
+     14  Águas Emendadas                                    315760                            
+     14  Águas Emendadas                                    316420                            
+     14  Águas Emendadas                                    317040                            
+     14  Águas Emendadas                                    317047                            
+     14  Águas Emendadas                                    317052                            
+     14  Águas Emendadas                                    317100                            
+     14  Águas Emendadas                                    520010                            
+     14  Águas Emendadas                                    520017                            
+     14  Águas Emendadas                                    520025                            
+     14  Águas Emendadas                                    520030                            
+     14  Águas Emendadas                                    520060                            
+     14  Águas Emendadas                                    520080                            
+     14  Águas Emendadas                                    520320                            
+     14  Águas Emendadas                                    520396                            
+     14  Águas Emendadas                                    520400                            
+     14  Águas Emendadas                                    520465                            
+     14  Águas Emendadas                                    520470                            
+     14  Águas Emendadas                                    520480                            
+     14  Águas Emendadas                                    520490                            
+     14  Águas Emendadas                                    520500                            
+     14  Águas Emendadas                                    520510                            
+     14  Águas Emendadas                                    520530                            
+     14  Águas Emendadas                                    520540                            
+     14  Águas Emendadas                                    520549                            
+     14  Águas Emendadas                                    520551                            
+     14  Águas Emendadas                                    520552                            
+     14  Águas Emendadas                                    520580                            
+     14  Águas Emendadas                                    520620                            
+     14  Águas Emendadas                                    520670                            
+     14  Águas Emendadas                                    520690                            
+     14  Águas Emendadas                                    520790                            
+     14  Águas Emendadas                                    520800                            
+     14  Águas Emendadas                                    520830                            
+     14  Águas Emendadas                                    520860                            
+     14  Águas Emendadas                                    520929                            
+     14  Águas Emendadas                                    520940                            
+     14  Águas Emendadas                                    520960                            
+     14  Águas Emendadas                                    520980                            
+     14  Águas Emendadas                                    520990                            
+     14  Águas Emendadas                                    521015                            
+     14  Águas Emendadas                                    521040                            
+     14  Águas Emendadas                                    521056                            
+     14  Águas Emendadas                                    521060                            
+     14  Águas Emendadas                                    521090                            
+     14  Águas Emendadas                                    521120                            
+     14  Águas Emendadas                                    521180                            
+     14  Águas Emendadas                                    521205                            
+     14  Águas Emendadas                                    521250                            
+     14  Águas Emendadas                                    521270                            
+     14  Águas Emendadas                                    521305                            
+     14  Águas Emendadas                                    521308                            
+     14  Águas Emendadas                                    521350                            
+     14  Águas Emendadas                                    521385                            
+     14  Águas Emendadas                                    521460                            
+     14  Águas Emendadas                                    521470                            
+     14  Águas Emendadas                                    521486                            
+     14  Águas Emendadas                                    521490                            
+     14  Águas Emendadas                                    521523                            
+     14  Águas Emendadas                                    521550                            
+     14  Águas Emendadas                                    521560                            
+     14  Águas Emendadas                                    521730                            
+     14  Águas Emendadas                                    521760                            
+     14  Águas Emendadas                                    521830                            
+     14  Águas Emendadas                                    521860                            
+     14  Águas Emendadas                                    521870                            
+     14  Águas Emendadas                                    521890                            
+     14  Águas Emendadas                                    521935                            
+     14  Águas Emendadas                                    521945                            
+     14  Águas Emendadas                                    521975                            
+     14  Águas Emendadas                                    521980                            
+     14  Águas Emendadas                                    521990                            
+     14  Águas Emendadas                                    522000                            
+     14  Águas Emendadas                                    522015                            
+     14  Águas Emendadas                                    522028                            
+     14  Águas Emendadas                                    522068                            
+     14  Águas Emendadas                                    522070                            
+     14  Águas Emendadas                                    522108                            
+     14  Águas Emendadas                                    522130                            
+     14  Águas Emendadas                                    522160                            
+     14  Águas Emendadas                                    522170                            
+     14  Águas Emendadas                                    522185                            
+     14  Águas Emendadas                                    522220                            
+     14  Águas Emendadas                                    522230                            

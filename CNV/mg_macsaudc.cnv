@@ -1,0 +1,855 @@
+14  6                                                                                    
+      1  MG Centro                                          310020                            
+      1  MG Centro                                          310320                            
+      1  MG Centro                                          310480                            
+      1  MG Centro                                          310500                            
+      1  MG Centro                                          310540                            
+      1  MG Centro                                          310600                            
+      1  MG Centro                                          310620                            
+      1  MG Centro                                          310640                            
+      1  MG Centro                                          310670                            
+      1  MG Centro                                          310700                            
+      1  MG Centro                                          310770                            
+      1  MG Centro                                          310810                            
+      1  MG Centro                                          310900                            
+      1  MG Centro                                          310920                            
+      1  MG Centro                                          310960                            
+      1  MG Centro                                          310990                            
+      1  MG Centro                                          311000                            
+      1  MG Centro                                          311250                            
+      1  MG Centro                                          311380                            
+      1  MG Centro                                          311535                            
+      1  MG Centro                                          311560                            
+      1  MG Centro                                          311750                            
+      1  MG Centro                                          311787                            
+      1  MG Centro                                          311860                            
+      1  MG Centro                                          311890                            
+      1  MG Centro                                          311910                            
+      1  MG Centro                                          312060                            
+      1  MG Centro                                          312090                            
+      1  MG Centro                                          312260                            
+      1  MG Centro                                          312310                            
+      1  MG Centro                                          312410                            
+      1  MG Centro                                          312570                            
+      1  MG Centro                                          312590                            
+      1  MG Centro                                          312600                            
+      1  MG Centro                                          312640                            
+      1  MG Centro                                          312720                            
+      1  MG Centro                                          312800                            
+      1  MG Centro                                          312980                            
+      1  MG Centro                                          313010                            
+      1  MG Centro                                          313100                            
+      1  MG Centro                                          313110                            
+      1  MG Centro                                          313170                            
+      1  MG Centro                                          313190                            
+      1  MG Centro                                          313280                            
+      1  MG Centro                                          313460                            
+      1  MG Centro                                          313570                            
+      1  MG Centro                                          313620                            
+      1  MG Centro                                          313660                            
+      1  MG Centro                                          313665                            
+      1  MG Centro                                          313760                            
+      1  MG Centro                                          313970                            
+      1  MG Centro                                          314000                            
+      1  MG Centro                                          314015                            
+      1  MG Centro                                          314060                            
+      1  MG Centro                                          314070                            
+      1  MG Centro                                          314110                            
+      1  MG Centro                                          314230                            
+      1  MG Centro                                          314250                            
+      1  MG Centro                                          314350                            
+      1  MG Centro                                          314360                            
+      1  MG Centro                                          314370                            
+      1  MG Centro                                          314470                            
+      1  MG Centro                                          314480                            
+      1  MG Centro                                          314610                            
+      1  MG Centro                                          314640                            
+      1  MG Centro                                          314690                            
+      1  MG Centro                                          314740                            
+      1  MG Centro                                          314750                            
+      1  MG Centro                                          314930                            
+      1  MG Centro                                          314960                            
+      1  MG Centro                                          315040                            
+      1  MG Centro                                          315200                            
+      1  MG Centro                                          315320                            
+      1  MG Centro                                          315360                            
+      1  MG Centro                                          315370                            
+      1  MG Centro                                          315390                            
+      1  MG Centro                                          315460                            
+      1  MG Centro                                          315480                            
+      1  MG Centro                                          315530                            
+      1  MG Centro                                          315570                            
+      1  MG Centro                                          315600                            
+      1  MG Centro                                          315670                            
+      1  MG Centro                                          315680                            
+      1  MG Centro                                          315720                            
+      1  MG Centro                                          315780                            
+      1  MG Centro                                          315800                            
+      1  MG Centro                                          315850                            
+      1  MG Centro                                          315900                            
+      1  MG Centro                                          316050                            
+      1  MG Centro                                          316060                            
+      1  MG Centro                                          316100                            
+      1  MG Centro                                          316190                            
+      1  MG Centro                                          316292                            
+      1  MG Centro                                          316295                            
+      1  MG Centro                                          316480                            
+      1  MG Centro                                          316553                            
+      1  MG Centro                                          316610                            
+      1  MG Centro                                          316650                            
+      1  MG Centro                                          316720                            
+      1  MG Centro                                          316830                            
+      1  MG Centro                                          316935                            
+      1  MG Centro                                          317120                            
+      1  MG Centro                                          317180                            
+      2  MG Centro Sul                                      310163                            
+      2  MG Centro Sul                                      310210                            
+      2  MG Centro Sul                                      310290                            
+      2  MG Centro Sul                                      310560                            
+      2  MG Centro Sul                                      310590                            
+      2  MG Centro Sul                                      310800                            
+      2  MG Centro Sul                                      311220                            
+      2  MG Centro Sul                                      311310                            
+      2  MG Centro Sul                                      311320                            
+      2  MG Centro Sul                                      311490                            
+      2  MG Centro Sul                                      311520                            
+      2  MG Centro Sul                                      311540                            
+      2  MG Centro Sul                                      311630                            
+      2  MG Centro Sul                                      311800                            
+      2  MG Centro Sul                                      311830                            
+      2  MG Centro Sul                                      311970                            
+      2  MG Centro Sul                                      312040                            
+      2  MG Centro Sul                                      312140                            
+      2  MG Centro Sul                                      312150                            
+      2  MG Centro Sul                                      312300                            
+      2  MG Centro Sul                                      312390                            
+      2  MG Centro Sul                                      312940                            
+      2  MG Centro Sul                                      313000                            
+      2  MG Centro Sul                                      313390                            
+      2  MG Centro Sul                                      313540                            
+      2  MG Centro Sul                                      313740                            
+      2  MG Centro Sul                                      313790                            
+      2  MG Centro Sul                                      313910                            
+      2  MG Centro Sul                                      314450                            
+      2  MG Centro Sul                                      314590                            
+      2  MG Centro Sul                                      314660                            
+      2  MG Centro Sul                                      315030                            
+      2  MG Centro Sul                                      315080                            
+      2  MG Centro Sul                                      315270                            
+      2  MG Centro Sul                                      315380                            
+      2  MG Centro Sul                                      315420                            
+      2  MG Centro Sul                                      315440                            
+      2  MG Centro Sul                                      315520                            
+      2  MG Centro Sul                                      315610                            
+      2  MG Centro Sul                                      315730                            
+      2  MG Centro Sul                                      315733                            
+      2  MG Centro Sul                                      315870                            
+      2  MG Centro Sul                                      315910                            
+      2  MG Centro Sul                                      315940                            
+      2  MG Centro Sul                                      316090                            
+      2  MG Centro Sul                                      316250                            
+      2  MG Centro Sul                                      316500                            
+      2  MG Centro Sul                                      316530                            
+      2  MG Centro Sul                                      316600                            
+      2  MG Centro Sul                                      316620                            
+      2  MG Centro Sul                                      316880                            
+      3  MG Jequitinhonha                                   310240                            
+      3  MG Jequitinhonha                                   310445                            
+      3  MG Jequitinhonha                                   311230                            
+      3  MG Jequitinhonha                                   311350                            
+      3  MG Jequitinhonha                                   311610                            
+      3  MG Jequitinhonha                                   311680                            
+      3  MG Jequitinhonha                                   311810                            
+      3  MG Jequitinhonha                                   312010                            
+      3  MG Jequitinhonha                                   312100                            
+      3  MG Jequitinhonha                                   312160                            
+      3  MG Jequitinhonha                                   312540                            
+      3  MG Jequitinhonha                                   312550                            
+      3  MG Jequitinhonha                                   312760                            
+      3  MG Jequitinhonha                                   313250                            
+      3  MG Jequitinhonha                                   313652                            
+      3  MG Jequitinhonha                                   313835                            
+      3  MG Jequitinhonha                                   314180                            
+      3  MG Jequitinhonha                                   315330                            
+      3  MG Jequitinhonha                                   316020                            
+      3  MG Jequitinhonha                                   316590                            
+      3  MG Jequitinhonha                                   316710                            
+      3  MG Jequitinhonha                                   316970                            
+      3  MG Jequitinhonha                                   317107                            
+      4  MG Leste                                           310050                            
+      4  MG Leste                                           310060                            
+      4  MG Leste                                           310110                            
+      4  MG Leste                                           310180                            
+      4  MG Leste                                           310220                            
+      4  MG Leste                                           310300                            
+      4  MG Leste                                           310630                            
+      4  MG Leste                                           310780                            
+      4  MG Leste                                           310880                            
+      4  MG Leste                                           310925                            
+      4  MG Leste                                           311205                            
+      4  MG Leste                                           311265                            
+      4  MG Leste                                           311340                            
+      4  MG Leste                                           311570                            
+      4  MG Leste                                           311840                            
+      4  MG Leste                                           311920                            
+      4  MG Leste                                           311940                            
+      4  MG Leste                                           312000                            
+      4  MG Leste                                           312083                            
+      4  MG Leste                                           312180                            
+      4  MG Leste                                           312210                            
+      4  MG Leste                                           312220                            
+      4  MG Leste                                           312250                            
+      4  MG Leste                                           312370                            
+      4  MG Leste                                           312385                            
+      4  MG Leste                                           312580                            
+      4  MG Leste                                           312690                            
+      4  MG Leste                                           312695                            
+      4  MG Leste                                           312730                            
+      4  MG Leste                                           312737                            
+      4  MG Leste                                           312750                            
+      4  MG Leste                                           312770                            
+      4  MG Leste                                           312930                            
+      4  MG Leste                                           313055                            
+      4  MG Leste                                           313090                            
+      4  MG Leste                                           313115                            
+      4  MG Leste                                           313130                            
+      4  MG Leste                                           313180                            
+      4  MG Leste                                           313320                            
+      4  MG Leste                                           313410                            
+      4  MG Leste                                           313500                            
+      4  MG Leste                                           313507                            
+      4  MG Leste                                           313610                            
+      4  MG Leste                                           313655                            
+      4  MG Leste                                           313960                            
+      4  MG Leste                                           314010                            
+      4  MG Leste                                           314030                            
+      4  MG Leste                                           314150                            
+      4  MG Leste                                           314170                            
+      4  MG Leste                                           314420                            
+      4  MG Leste                                           314435                            
+      4  MG Leste                                           314467                            
+      4  MG Leste                                           314840                            
+      4  MG Leste                                           314860                            
+      4  MG Leste                                           314995                            
+      4  MG Leste                                           315015                            
+      4  MG Leste                                           315053                            
+      4  MG Leste                                           315430                            
+      4  MG Leste                                           315725                            
+      4  MG Leste                                           315750                            
+      4  MG Leste                                           315820                            
+      4  MG Leste                                           315895                            
+      4  MG Leste                                           315935                            
+      4  MG Leste                                           315950                            
+      4  MG Leste                                           316095                            
+      4  MG Leste                                           316105                            
+      4  MG Leste                                           316160                            
+      4  MG Leste                                           316165                            
+      4  MG Leste                                           316257                            
+      4  MG Leste                                           316260                            
+      4  MG Leste                                           316280                            
+      4  MG Leste                                           316300                            
+      4  MG Leste                                           316350                            
+      4  MG Leste                                           316410                            
+      4  MG Leste                                           316447                            
+      4  MG Leste                                           316450                            
+      4  MG Leste                                           316550                            
+      4  MG Leste                                           316770                            
+      4  MG Leste                                           316840                            
+      4  MG Leste                                           316870                            
+      4  MG Leste                                           316950                            
+      4  MG Leste                                           317005                            
+      4  MG Leste                                           317057                            
+      4  MG Leste                                           317115                            
+      4  MG Leste                                           317150                            
+      4  MG Leste                                           317190                            
+      5  MG Leste do Sul                                    310030                            
+      5  MG Leste do Sul                                    310040                            
+      5  MG Leste do Sul                                    310205                            
+      5  MG Leste do Sul                                    310230                            
+      5  MG Leste do Sul                                    310250                            
+      5  MG Leste do Sul                                    310370                            
+      5  MG Leste do Sul                                    310570                            
+      5  MG Leste do Sul                                    311020                            
+      5  MG Leste do Sul                                    311170                            
+      5  MG Leste do Sul                                    311290                            
+      5  MG Leste do Sul                                    311600                            
+      5  MG Leste do Sul                                    311740                            
+      5  MG Leste do Sul                                    312170                            
+      5  MG Leste do Sul                                    312270                            
+      5  MG Leste do Sul                                    312352                            
+      5  MG Leste do Sul                                    312820                            
+      5  MG Leste do Sul                                    313120                            
+      5  MG Leste do Sul                                    313550                            
+      5  MG Leste do Sul                                    313770                            
+      5  MG Leste do Sul                                    313867                            
+      5  MG Leste do Sul                                    313940                            
+      5  MG Leste do Sul                                    313950                            
+      5  MG Leste do Sul                                    314053                            
+      5  MG Leste do Sul                                    314090                            
+      5  MG Leste do Sul                                    314400                            
+      5  MG Leste do Sul                                    314585                            
+      5  MG Leste do Sul                                    314830                            
+      5  MG Leste do Sul                                    314880                            
+      5  MG Leste do Sul                                    315020                            
+      5  MG Leste do Sul                                    315190                            
+      5  MG Leste do Sul                                    315210                            
+      5  MG Leste do Sul                                    315230                            
+      5  MG Leste do Sul                                    315350                            
+      5  MG Leste do Sul                                    315400                            
+      5  MG Leste do Sul                                    315415                            
+      5  MG Leste do Sul                                    315490                            
+      5  MG Leste do Sul                                    315500                            
+      5  MG Leste do Sul                                    315740                            
+      5  MG Leste do Sul                                    315790                            
+      5  MG Leste do Sul                                    315890                            
+      5  MG Leste do Sul                                    316010                            
+      5  MG Leste do Sul                                    316255                            
+      5  MG Leste do Sul                                    316340                            
+      5  MG Leste do Sul                                    316360                            
+      5  MG Leste do Sul                                    316380                            
+      5  MG Leste do Sul                                    316400                            
+      5  MG Leste do Sul                                    316556                            
+      5  MG Leste do Sul                                    316630                            
+      5  MG Leste do Sul                                    316760                            
+      5  MG Leste do Sul                                    316805                            
+      5  MG Leste do Sul                                    316850                            
+      5  MG Leste do Sul                                    317050                            
+      5  MG Leste do Sul                                    317130                            
+      6  MG Nordeste                                        310090                            
+      6  MG Nordeste                                        310100                            
+      6  MG Nordeste                                        310170                            
+      6  MG Nordeste                                        310270                            
+      6  MG Nordeste                                        310285                            
+      6  MG Nordeste                                        310340                            
+      6  MG Nordeste                                        310470                            
+      6  MG Nordeste                                        310520                            
+      6  MG Nordeste                                        310650                            
+      6  MG Nordeste                                        310660                            
+      6  MG Nordeste                                        311080                            
+      6  MG Nordeste                                        311300                            
+      6  MG Nordeste                                        311370                            
+      6  MG Nordeste                                        311545                            
+      6  MG Nordeste                                        311700                            
+      6  MG Nordeste                                        311950                            
+      6  MG Nordeste                                        312015                            
+      6  MG Nordeste                                        312235                            
+      6  MG Nordeste                                        312245                            
+      6  MG Nordeste                                        312560                            
+      6  MG Nordeste                                        312650                            
+      6  MG Nordeste                                        312675                            
+      6  MG Nordeste                                        312680                            
+      6  MG Nordeste                                        312705                            
+      6  MG Nordeste                                        313230                            
+      6  MG Nordeste                                        313270                            
+      6  MG Nordeste                                        313330                            
+      6  MG Nordeste                                        313400                            
+      6  MG Nordeste                                        313470                            
+      6  MG Nordeste                                        313545                            
+      6  MG Nordeste                                        313580                            
+      6  MG Nordeste                                        313600                            
+      6  MG Nordeste                                        313650                            
+      6  MG Nordeste                                        313700                            
+      6  MG Nordeste                                        313890                            
+      6  MG Nordeste                                        313920                            
+      6  MG Nordeste                                        314055                            
+      6  MG Nordeste                                        314140                            
+      6  MG Nordeste                                        314315                            
+      6  MG Nordeste                                        314430                            
+      6  MG Nordeste                                        314490                            
+      6  MG Nordeste                                        314530                            
+      6  MG Nordeste                                        314535                            
+      6  MG Nordeste                                        314620                            
+      6  MG Nordeste                                        314630                            
+      6  MG Nordeste                                        314675                            
+      6  MG Nordeste                                        314850                            
+      6  MG Nordeste                                        314870                            
+      6  MG Nordeste                                        315000                            
+      6  MG Nordeste                                        315217                            
+      6  MG Nordeste                                        315240                            
+      6  MG Nordeste                                        315510                            
+      6  MG Nordeste                                        315660                            
+      6  MG Nordeste                                        315710                            
+      6  MG Nordeste                                        315765                            
+      6  MG Nordeste                                        315810                            
+      6  MG Nordeste                                        316030                            
+      6  MG Nordeste                                        316330                            
+      6  MG Nordeste                                        316555                            
+      6  MG Nordeste                                        316670                            
+      6  MG Nordeste                                        316860                            
+      6  MG Nordeste                                        317030                            
+      6  MG Nordeste                                        317160                            
+      7  MG Noroeste                                        310380                            
+      7  MG Noroeste                                        310450                            
+      7  MG Noroeste                                        310820                            
+      7  MG Noroeste                                        310855                            
+      7  MG Noroeste                                        310930                            
+      7  MG Noroeste                                        310945                            
+      7  MG Noroeste                                        311430                            
+      7  MG Noroeste                                        311615                            
+      7  MG Noroeste                                        312070                            
+      7  MG Noroeste                                        312247                            
+      7  MG Noroeste                                        312620                            
+      7  MG Noroeste                                        312860                            
+      7  MG Noroeste                                        312890                            
+      7  MG Noroeste                                        313630                            
+      7  MG Noroeste                                        313710                            
+      7  MG Noroeste                                        313750                            
+      7  MG Noroeste                                        313753                            
+      7  MG Noroeste                                        314120                            
+      7  MG Noroeste                                        314437                            
+      7  MG Noroeste                                        314700                            
+      7  MG Noroeste                                        314800                            
+      7  MG Noroeste                                        315340                            
+      7  MG Noroeste                                        315445                            
+      7  MG Noroeste                                        315550                            
+      7  MG Noroeste                                        315970                            
+      7  MG Noroeste                                        316170                            
+      7  MG Noroeste                                        316210                            
+      7  MG Noroeste                                        316680                            
+      7  MG Noroeste                                        316890                            
+      7  MG Noroeste                                        317040                            
+      7  MG Noroeste                                        317047                            
+      7  MG Noroeste                                        317075                            
+      7  MG Noroeste                                        317100                            
+      8  MG Norte                                           310665                            
+      8  MG Norte                                           310730                            
+      8  MG Norte                                           310825                            
+      8  MG Norte                                           310850                            
+      8  MG Norte                                           310860                            
+      8  MG Norte                                           310940                            
+      8  MG Norte                                           311115                            
+      8  MG Norte                                           311270                            
+      8  MG Norte                                           311547                            
+      8  MG Norte                                           311650                            
+      8  MG Norte                                           311783                            
+      8  MG Norte                                           311880                            
+      8  MG Norte                                           312030                            
+      8  MG Norte                                           312087                            
+      8  MG Norte                                           312380                            
+      8  MG Norte                                           312430                            
+      8  MG Norte                                           312660                            
+      8  MG Norte                                           312670                            
+      8  MG Norte                                           312707                            
+      8  MG Norte                                           312733                            
+      8  MG Norte                                           312735                            
+      8  MG Norte                                           312780                            
+      8  MG Norte                                           312825                            
+      8  MG Norte                                           312960                            
+      8  MG Norte                                           312965                            
+      8  MG Norte                                           313005                            
+      8  MG Norte                                           313065                            
+      8  MG Norte                                           313200                            
+      8  MG Norte                                           313210                            
+      8  MG Norte                                           313505                            
+      8  MG Norte                                           313510                            
+      8  MG Norte                                           313520                            
+      8  MG Norte                                           313535                            
+      8  MG Norte                                           313560                            
+      8  MG Norte                                           313640                            
+      8  MG Norte                                           313657                            
+      8  MG Norte                                           313680                            
+      8  MG Norte                                           313695                            
+      8  MG Norte                                           313730                            
+      8  MG Norte                                           313810                            
+      8  MG Norte                                           313865                            
+      8  MG Norte                                           313868                            
+      8  MG Norte                                           313925                            
+      8  MG Norte                                           313930                            
+      8  MG Norte                                           314085                            
+      8  MG Norte                                           314100                            
+      8  MG Norte                                           314200                            
+      8  MG Norte                                           314225                            
+      8  MG Norte                                           314270                            
+      8  MG Norte                                           314290                            
+      8  MG Norte                                           314330                            
+      8  MG Norte                                           314345                            
+      8  MG Norte                                           314465                            
+      8  MG Norte                                           314505                            
+      8  MG Norte                                           314537                            
+      8  MG Norte                                           314545                            
+      8  MG Norte                                           314625                            
+      8  MG Norte                                           314655                            
+      8  MG Norte                                           314795                            
+      8  MG Norte                                           314915                            
+      8  MG Norte                                           315057                            
+      8  MG Norte                                           315120                            
+      8  MG Norte                                           315213                            
+      8  MG Norte                                           315220                            
+      8  MG Norte                                           315450                            
+      8  MG Norte                                           315560                            
+      8  MG Norte                                           315650                            
+      8  MG Norte                                           315700                            
+      8  MG Norte                                           315737                            
+      8  MG Norte                                           315760                            
+      8  MG Norte                                           316045                            
+      8  MG Norte                                           316110                            
+      8  MG Norte                                           316225                            
+      8  MG Norte                                           316240                            
+      8  MG Norte                                           316245                            
+      8  MG Norte                                           316265                            
+      8  MG Norte                                           316270                            
+      8  MG Norte                                           316420                            
+      8  MG Norte                                           316695                            
+      8  MG Norte                                           316800                            
+      8  MG Norte                                           317000                            
+      8  MG Norte                                           317052                            
+      8  MG Norte                                           317065                            
+      8  MG Norte                                           317080                            
+      8  MG Norte                                           317090                            
+      8  MG Norte                                           317103                            
+      9  MG Oeste                                           310080                            
+      9  MG Oeste                                           310390                            
+      9  MG Oeste                                           310420                            
+      9  MG Oeste                                           310510                            
+      9  MG Oeste                                           310740                            
+      9  MG Oeste                                           311040                            
+      9  MG Oeste                                           311120                            
+      9  MG Oeste                                           311190                            
+      9  MG Oeste                                           311200                            
+      9  MG Oeste                                           311400                            
+      9  MG Oeste                                           311420                            
+      9  MG Oeste                                           311450                            
+      9  MG Oeste                                           311660                            
+      9  MG Oeste                                           311760                            
+      9  MG Oeste                                           311980                            
+      9  MG Oeste                                           311995                            
+      9  MG Oeste                                           312020                            
+      9  MG Oeste                                           312230                            
+      9  MG Oeste                                           312320                            
+      9  MG Oeste                                           312470                            
+      9  MG Oeste                                           312610                            
+      9  MG Oeste                                           313020                            
+      9  MG Oeste                                           313030                            
+      9  MG Oeste                                           313220                            
+      9  MG Oeste                                           313350                            
+      9  MG Oeste                                           313370                            
+      9  MG Oeste                                           313380                            
+      9  MG Oeste                                           313530                            
+      9  MG Oeste                                           313720                            
+      9  MG Oeste                                           313830                            
+      9  MG Oeste                                           313880                            
+      9  MG Oeste                                           314050                            
+      9  MG Oeste                                           314130                            
+      9  MG Oeste                                           314240                            
+      9  MG Oeste                                           314520                            
+      9  MG Oeste                                           314560                            
+      9  MG Oeste                                           314580                            
+      9  MG Oeste                                           314650                            
+      9  MG Oeste                                           314710                            
+      9  MG Oeste                                           314770                            
+      9  MG Oeste                                           314890                            
+      9  MG Oeste                                           314970                            
+      9  MG Oeste                                           315050                            
+      9  MG Oeste                                           315060                            
+      9  MG Oeste                                           315140                            
+      9  MG Oeste                                           315880                            
+      9  MG Oeste                                           315990                            
+      9  MG Oeste                                           316040                            
+      9  MG Oeste                                           316120                            
+      9  MG Oeste                                           316180                            
+      9  MG Oeste                                           316310                            
+      9  MG Oeste                                           316460                            
+      9  MG Oeste                                           316660                            
+      9  MG Oeste                                           316820                            
+     10  MG Sudeste                                         310150                            
+     10  MG Sudeste                                         310280                            
+     10  MG Sudeste                                         310310                            
+     10  MG Sudeste                                         310330                            
+     10  MG Sudeste                                         310360                            
+     10  MG Sudeste                                         310440                            
+     10  MG Sudeste                                         310460                            
+     10  MG Sudeste                                         310550                            
+     10  MG Sudeste                                         310610                            
+     10  MG Sudeste                                         310680                            
+     10  MG Sudeste                                         310690                            
+     10  MG Sudeste                                         310720                            
+     10  MG Sudeste                                         310750                            
+     10  MG Sudeste                                         310870                            
+     10  MG Sudeste                                         311010                            
+     10  MG Sudeste                                         311210                            
+     10  MG Sudeste                                         311330                            
+     10  MG Sudeste                                         311530                            
+     10  MG Sudeste                                         311590                            
+     10  MG Sudeste                                         311620                            
+     10  MG Sudeste                                         311670                            
+     10  MG Sudeste                                         311960                            
+     10  MG Sudeste                                         312130                            
+     10  MG Sudeste                                         312190                            
+     10  MG Sudeste                                         312200                            
+     10  MG Sudeste                                         312290                            
+     10  MG Sudeste                                         312330                            
+     10  MG Sudeste                                         312400                            
+     10  MG Sudeste                                         312420                            
+     10  MG Sudeste                                         312460                            
+     10  MG Sudeste                                         312490                            
+     10  MG Sudeste                                         312500                            
+     10  MG Sudeste                                         312530                            
+     10  MG Sudeste                                         312595                            
+     10  MG Sudeste                                         312738                            
+     10  MG Sudeste                                         312840                            
+     10  MG Sudeste                                         312850                            
+     10  MG Sudeste                                         312880                            
+     10  MG Sudeste                                         312900                            
+     10  MG Sudeste                                         313260                            
+     10  MG Sudeste                                         313670                            
+     10  MG Sudeste                                         313800                            
+     10  MG Sudeste                                         313840                            
+     10  MG Sudeste                                         313850                            
+     10  MG Sudeste                                         313860                            
+     10  MG Sudeste                                         313980                            
+     10  MG Sudeste                                         314020                            
+     10  MG Sudeste                                         314080                            
+     10  MG Sudeste                                         314160                            
+     10  MG Sudeste                                         314210                            
+     10  MG Sudeste                                         314220                            
+     10  MG Sudeste                                         314390                            
+     10  MG Sudeste                                         314540                            
+     10  MG Sudeste                                         314570                            
+     10  MG Sudeste                                         314587                            
+     10  MG Sudeste                                         314670                            
+     10  MG Sudeste                                         314780                            
+     10  MG Sudeste                                         314820                            
+     10  MG Sudeste                                         314875                            
+     10  MG Sudeste                                         314900                            
+     10  MG Sudeste                                         314940                            
+     10  MG Sudeste                                         314950                            
+     10  MG Sudeste                                         315010                            
+     10  MG Sudeste                                         315110                            
+     10  MG Sudeste                                         315130                            
+     10  MG Sudeste                                         315310                            
+     10  MG Sudeste                                         315410                            
+     10  MG Sudeste                                         315540                            
+     10  MG Sudeste                                         315580                            
+     10  MG Sudeste                                         315590                            
+     10  MG Sudeste                                         315620                            
+     10  MG Sudeste                                         315630                            
+     10  MG Sudeste                                         315645                            
+     10  MG Sudeste                                         315727                            
+     10  MG Sudeste                                         315840                            
+     10  MG Sudeste                                         315860                            
+     10  MG Sudeste                                         315930                            
+     10  MG Sudeste                                         316000                            
+     10  MG Sudeste                                         316070                            
+     10  MG Sudeste                                         316140                            
+     10  MG Sudeste                                         316150                            
+     10  MG Sudeste                                         316290                            
+     10  MG Sudeste                                         316443                            
+     10  MG Sudeste                                         316560                            
+     10  MG Sudeste                                         316570                            
+     10  MG Sudeste                                         316730                            
+     10  MG Sudeste                                         316750                            
+     10  MG Sudeste                                         316790                            
+     10  MG Sudeste                                         316900                            
+     10  MG Sudeste                                         316920                            
+     10  MG Sudeste                                         316990                            
+     10  MG Sudeste                                         317140                            
+     10  MG Sudeste                                         317200                            
+     10  MG Sudeste                                         317210                            
+     11  MG Sul                                             310120                            
+     11  MG Sul                                             310130                            
+     11  MG Sul                                             310140                            
+     11  MG Sul                                             310160                            
+     11  MG Sul                                             310190                            
+     11  MG Sul                                             310200                            
+     11  MG Sul                                             310260                            
+     11  MG Sul                                             310410                            
+     11  MG Sul                                             310430                            
+     11  MG Sul                                             310490                            
+     11  MG Sul                                             310530                            
+     11  MG Sul                                             310710                            
+     11  MG Sul                                             310760                            
+     11  MG Sul                                             310790                            
+     11  MG Sul                                             310830                            
+     11  MG Sul                                             310840                            
+     11  MG Sul                                             310890                            
+     11  MG Sul                                             310910                            
+     11  MG Sul                                             310950                            
+     11  MG Sul                                             310970                            
+     11  MG Sul                                             311030                            
+     11  MG Sul                                             311050                            
+     11  MG Sul                                             311060                            
+     11  MG Sul                                             311070                            
+     11  MG Sul                                             311090                            
+     11  MG Sul                                             311100                            
+     11  MG Sul                                             311130                            
+     11  MG Sul                                             311160                            
+     11  MG Sul                                             311240                            
+     11  MG Sul                                             311280                            
+     11  MG Sul                                             311360                            
+     11  MG Sul                                             311390                            
+     11  MG Sul                                             311410                            
+     11  MG Sul                                             311440                            
+     11  MG Sul                                             311460                            
+     11  MG Sul                                             311470                            
+     11  MG Sul                                             311480                            
+     11  MG Sul                                             311510                            
+     11  MG Sul                                             311550                            
+     11  MG Sul                                             311640                            
+     11  MG Sul                                             311710                            
+     11  MG Sul                                             311720                            
+     11  MG Sul                                             311770                            
+     11  MG Sul                                             311780                            
+     11  MG Sul                                             311790                            
+     11  MG Sul                                             311850                            
+     11  MG Sul                                             311870                            
+     11  MG Sul                                             311900                            
+     11  MG Sul                                             311990                            
+     11  MG Sul                                             312050                            
+     11  MG Sul                                             312080                            
+     11  MG Sul                                             312110                            
+     11  MG Sul                                             312120                            
+     11  MG Sul                                             312240                            
+     11  MG Sul                                             312280                            
+     11  MG Sul                                             312340                            
+     11  MG Sul                                             312360                            
+     11  MG Sul                                             312440                            
+     11  MG Sul                                             312450                            
+     11  MG Sul                                             312510                            
+     11  MG Sul                                             312520                            
+     11  MG Sul                                             312630                            
+     11  MG Sul                                             312740                            
+     11  MG Sul                                             312810                            
+     11  MG Sul                                             312830                            
+     11  MG Sul                                             312870                            
+     11  MG Sul                                             312920                            
+     11  MG Sul                                             312970                            
+     11  MG Sul                                             312990                            
+     11  MG Sul                                             313040                            
+     11  MG Sul                                             313050                            
+     11  MG Sul                                             313060                            
+     11  MG Sul                                             313080                            
+     11  MG Sul                                             313150                            
+     11  MG Sul                                             313240                            
+     11  MG Sul                                             313290                            
+     11  MG Sul                                             313300                            
+     11  MG Sul                                             313310                            
+     11  MG Sul                                             313360                            
+     11  MG Sul                                             313375                            
+     11  MG Sul                                             313430                            
+     11  MG Sul                                             313450                            
+     11  MG Sul                                             313480                            
+     11  MG Sul                                             313490                            
+     11  MG Sul                                             313590                            
+     11  MG Sul                                             313690                            
+     11  MG Sul                                             313780                            
+     11  MG Sul                                             313820                            
+     11  MG Sul                                             313870                            
+     11  MG Sul                                             313900                            
+     11  MG Sul                                             313990                            
+     11  MG Sul                                             314040                            
+     11  MG Sul                                             314190                            
+     11  MG Sul                                             314260                            
+     11  MG Sul                                             314300                            
+     11  MG Sul                                             314320                            
+     11  MG Sul                                             314340                            
+     11  MG Sul                                             314380                            
+     11  MG Sul                                             314410                            
+     11  MG Sul                                             314440                            
+     11  MG Sul                                             314460                            
+     11  MG Sul                                             314510                            
+     11  MG Sul                                             314550                            
+     11  MG Sul                                             314600                            
+     11  MG Sul                                             314720                            
+     11  MG Sul                                             314730                            
+     11  MG Sul                                             314760                            
+     11  MG Sul                                             314790                            
+     11  MG Sul                                             314910                            
+     11  MG Sul                                             314990                            
+     11  MG Sul                                             315090                            
+     11  MG Sul                                             315100                            
+     11  MG Sul                                             315150                            
+     11  MG Sul                                             315170                            
+     11  MG Sul                                             315180                            
+     11  MG Sul                                             315250                            
+     11  MG Sul                                             315260                            
+     11  MG Sul                                             315290                            
+     11  MG Sul                                             315470                            
+     11  MG Sul                                             315830                            
+     11  MG Sul                                             315920                            
+     11  MG Sul                                             315960                            
+     11  MG Sul                                             316080                            
+     11  MG Sul                                             316200                            
+     11  MG Sul                                             316220                            
+     11  MG Sul                                             316230                            
+     11  MG Sul                                             316294                            
+     11  MG Sul                                             316320                            
+     11  MG Sul                                             316370                            
+     11  MG Sul                                             316390                            
+     11  MG Sul                                             316430                            
+     11  MG Sul                                             316440                            
+     11  MG Sul                                             316470                            
+     11  MG Sul                                             316490                            
+     11  MG Sul                                             316510                            
+     11  MG Sul                                             316520                            
+     11  MG Sul                                             316540                            
+     11  MG Sul                                             316557                            
+     11  MG Sul                                             316580                            
+     11  MG Sul                                             316640                            
+     11  MG Sul                                             316690                            
+     11  MG Sul                                             316700                            
+     11  MG Sul                                             316740                            
+     11  MG Sul                                             316780                            
+     11  MG Sul                                             316905                            
+     11  MG Sul                                             316910                            
+     11  MG Sul                                             316930                            
+     11  MG Sul                                             316940                            
+     11  MG Sul                                             316980                            
+     11  MG Sul                                             317060                            
+     11  MG Sul                                             317070                            
+     11  MG Sul                                             317170                            
+     11  MG Sul                                             317220                            
+     12  MG Triângulo do Norte                              310010                            
+     12  MG Triângulo do Norte                              310350                            
+     12  MG Triângulo do Norte                              310375                            
+     12  MG Triângulo do Norte                              310980                            
+     12  MG Triângulo do Norte                              311110                            
+     12  MG Triângulo do Norte                              311180                            
+     12  MG Triângulo do Norte                              311260                            
+     12  MG Triângulo do Norte                              311500                            
+     12  MG Triângulo do Norte                              311580                            
+     12  MG Triângulo do Norte                              311930                            
+     12  MG Triângulo do Norte                              312350                            
+     12  MG Triângulo do Norte                              312480                            
+     12  MG Triângulo do Norte                              312790                            
+     12  MG Triângulo do Norte                              312910                            
+     12  MG Triângulo do Norte                              313070                            
+     12  MG Triângulo do Norte                              313140                            
+     12  MG Triângulo do Norte                              313160                            
+     12  MG Triângulo do Norte                              313420                            
+     12  MG Triângulo do Norte                              314280                            
+     12  MG Triângulo do Norte                              314310                            
+     12  MG Triângulo do Norte                              314500                            
+     12  MG Triângulo do Norte                              314810                            
+     12  MG Triângulo do Norte                              315280                            
+     12  MG Triângulo do Norte                              315640                            
+     12  MG Triângulo do Norte                              315980                            
+     12  MG Triângulo do Norte                              316960                            
+     12  MG Triângulo do Norte                              317020                            
+     13  MG Triângulo do Sul                                310070                            
+     13  MG Triângulo do Sul                                310400                            
+     13  MG Triângulo do Sul                                311140                            
+     13  MG Triângulo do Sul                                311150                            
+     13  MG Triângulo do Sul                                311455                            
+     13  MG Triângulo do Sul                                311690                            
+     13  MG Triângulo do Sul                                311730                            
+     13  MG Triângulo do Sul                                311820                            
+     13  MG Triângulo do Sul                                312125                            
+     13  MG Triângulo do Sul                                312700                            
+     13  MG Triângulo do Sul                                312710                            
+     13  MG Triângulo do Sul                                312950                            
+     13  MG Triângulo do Sul                                313340                            
+     13  MG Triângulo do Sul                                313440                            
+     13  MG Triângulo do Sul                                313862                            
+     13  MG Triângulo do Sul                                314920                            
+     13  MG Triângulo do Sul                                314980                            
+     13  MG Triângulo do Sul                                315070                            
+     13  MG Triângulo do Sul                                315160                            
+     13  MG Triângulo do Sul                                315300                            
+     13  MG Triângulo do Sul                                315690                            
+     13  MG Triângulo do Sul                                315770                            
+     13  MG Triângulo do Sul                                316130                            
+     13  MG Triângulo do Sul                                316810                            
+     13  MG Triângulo do Sul                                317010                            
+     13  MG Triângulo do Sul                                317043                            
+     13  MG Triângulo do Sul                                317110                            
+     14  MG Município ignorado - MG                         310000,319999                     

@@ -1,0 +1,144 @@
+23 6
+      1  51001 ARIPUANA                                     510140
+      1  51001 ARIPUANA                                     510190
+      1  51001 ARIPUANA                                     510285
+      1  51001 ARIPUANA                                     510325
+      1  51001 ARIPUANA                                     510337
+      1  51001 ARIPUANA                                     510515
+      1  51001 ARIPUANA                                     510517
+      1  51001 ARIPUANA                                     510757
+      2  51002 ALTA FLORESTA                                510025
+      2  51002 ALTA FLORESTA                                510080
+      2  51002 ALTA FLORESTA                                510279
+      2  51002 ALTA FLORESTA                                510615
+      2  51002 ALTA FLORESTA                                510629
+      2  51002 ALTA FLORESTA                                510895
+      3  51003 COLIDER                                      510320
+      3  51003 COLIDER                                      510410
+      3  51003 COLIDER                                      510560
+      3  51003 COLIDER                                      510621
+      3  51003 COLIDER                                      510626
+      3  51003 COLIDER                                      510642
+      3  51003 COLIDER                                      510805
+      3  51003 COLIDER                                      510880
+      4  51004 PARECIS                                      510263
+      4  51004 PARECIS                                      510268
+      4  51004 PARECIS                                      510330
+      4  51004 PARECIS                                      510350
+      4  51004 PARECIS                                      510787
+      5  51005 ARINOS                                       510510
+      5  51005 ARINOS                                       510627
+      5  51005 ARINOS                                       510680
+      5  51005 ARINOS                                       510730
+      5  51005 ARINOS                                       510794
+      5  51005 ARINOS                                       510890
+      6  51006 ALTO TELES PIRES                             510452
+      6  51006 ALTO TELES PIRES                             510454
+      6  51006 ALTO TELES PIRES                             510525
+      6  51006 ALTO TELES PIRES                             510590
+      6  51006 ALTO TELES PIRES                             510622
+      6  51006 ALTO TELES PIRES                             510624
+      6  51006 ALTO TELES PIRES                             510776
+      6  51006 ALTO TELES PIRES                             510792
+      6  51006 ALTO TELES PIRES                             510800
+      7  51007 SINOP                                        510305
+      7  51007 SINOP                                        510370
+      7  51007 SINOP                                        510455
+      7  51007 SINOP                                        510558
+      7  51007 SINOP                                        510619
+      7  51007 SINOP                                        510724
+      7  51007 SINOP                                        510790
+      7  51007 SINOP                                        510830
+      7  51007 SINOP                                        510850
+      8  51008 PARANATINGA                                  510385
+      8  51008 PARANATINGA                                  510620
+      8  51008 PARANATINGA                                  510630
+      8  51008 PARANATINGA                                  510645
+      9  51009 NORTE ARAGUAIA                               510035
+      9  51009 NORTE ARAGUAIA                               510185
+      9  51009 NORTE ARAGUAIA                               510269
+      9  51009 NORTE ARAGUAIA                               510335
+      9  51009 NORTE ARAGUAIA                               510530
+      9  51009 NORTE ARAGUAIA                               510631
+      9  51009 NORTE ARAGUAIA                               510677
+      9  51009 NORTE ARAGUAIA                               510718
+      9  51009 NORTE ARAGUAIA                               510735
+      9  51009 NORTE ARAGUAIA                               510774
+      9  51009 NORTE ARAGUAIA                               510777
+      9  51009 NORTE ARAGUAIA                               510785
+      9  51009 NORTE ARAGUAIA                               510788
+      9  51009 NORTE ARAGUAIA                               510860
+     10  51010 CANARANA                                     510020
+     10  51010 CANARANA                                     510260
+     10  51010 CANARANA                                     510270
+     10  51010 CANARANA                                     510617
+     10  51010 CANARANA                                     510625
+     10  51010 CANARANA                                     510628
+     10  51010 CANARANA                                     510706
+     10  51010 CANARANA                                     510779
+     11  51011 MEDIO ARAGUAIA                               510100
+     11  51011 MEDIO ARAGUAIA                               510180
+     11  51011 MEDIO ARAGUAIA                               510310
+     12  51012 ALTO GUAPORE                                 510336
+     12  51012 ALTO GUAPORE                                 510550
+     12  51012 ALTO GUAPORE                                 510618
+     12  51012 ALTO GUAPORE                                 510675
+     12  51012 ALTO GUAPORE                                 510835
+     13  51013 TANGARA DA SERRA                             510170
+     13  51013 TANGARA DA SERRA                             510345
+     13  51013 TANGARA DA SERRA                             510623
+     13  51013 TANGARA DA SERRA                             510685
+     13  51013 TANGARA DA SERRA                             510795
+     14  51014 JAURU                                        510125
+     14  51014 JAURU                                        510183
+     14  51014 JAURU                                        510380
+     14  51014 JAURU                                        510395
+     14  51014 JAURU                                        510450
+     14  51014 JAURU                                        510500
+     14  51014 JAURU                                        510523
+     14  51014 JAURU                                        510562
+     14  51014 JAURU                                        510682
+     14  51014 JAURU                                        510710
+     14  51014 JAURU                                        510715
+     14  51014 JAURU                                        510720
+     14  51014 JAURU                                        510775
+     15  51015 ALTO PARAGUAI                                510050
+     15  51015 ALTO PARAGUAI                                510130
+     15  51015 ALTO PARAGUAI                                510600
+     15  51015 ALTO PARAGUAI                                510726
+     15  51015 ALTO PARAGUAI                                510885
+     16  51016 ROSARIO OESTE                                510010
+     16  51016 ROSARIO OESTE                                510490
+     16  51016 ROSARIO OESTE                                510770
+     17  51017 CUIABA                                       510300
+     17  51017 CUIABA                                       510340
+     17  51017 CUIABA                                       510610
+     17  51017 CUIABA                                       510780
+     17  51017 CUIABA                                       510840
+     18  51018 ALTO PANTANAL                                510160
+     18  51018 ALTO PANTANAL                                510250
+     18  51018 ALTO PANTANAL                                510343
+     18  51018 ALTO PANTANAL                                510650
+     19  51019 PRIMAVERA DO LESTE                           510267
+     19  51019 PRIMAVERA DO LESTE                           510704
+     20  51020 TESOURO                                      510120
+     20  51020 TESOURO                                      510390
+     20  51020 TESOURO                                      510420
+     20  51020 TESOURO                                      510665
+     20  51020 TESOURO                                      510670
+     20  51020 TESOURO                                      510700
+     20  51020 TESOURO                                      510719
+     20  51020 TESOURO                                      510810
+     20  51020 TESOURO                                      510820
+     21  51021 RONDONOPOLIS                                 510360
+     21  51021 RONDONOPOLIS                                 510460
+     21  51021 RONDONOPOLIS                                 510480
+     21  51021 RONDONOPOLIS                                 510520
+     21  51021 RONDONOPOLIS                                 510637
+     21  51021 RONDONOPOLIS                                 510729
+     21  51021 RONDONOPOLIS                                 510740
+     21  51021 RONDONOPOLIS                                 510760
+     22  51022 ALTO ARAGUAIA                                510030
+     22  51022 ALTO ARAGUAIA                                510040
+     22  51022 ALTO ARAGUAIA                                510060
+     23  Ignorado - MT                                      510000,519999

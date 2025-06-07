@@ -1,0 +1,297 @@
+9 6
+      1  4210 SUL                                           420140
+      1  4210 SUL                                           420150
+      1  4210 SUL                                           420195
+      1  4210 SUL                                           420207
+      1  4210 SUL                                           420280
+      1  4210 SUL                                           420395
+      1  4210 SUL                                           420425
+      1  4210 SUL                                           420460
+      1  4210 SUL                                           420519
+      1  4210 SUL                                           420545
+      1  4210 SUL                                           420610
+      1  4210 SUL                                           420620
+      1  4210 SUL                                           420700
+      1  4210 SUL                                           420720
+      1  4210 SUL                                           420730
+      1  4210 SUL                                           420870
+      1  4210 SUL                                           420880
+      1  4210 SUL                                           420940
+      1  4210 SUL                                           420960
+      1  4210 SUL                                           421040
+      1  4210 SUL                                           421080
+      1  4210 SUL                                           421120
+      1  4210 SUL                                           421125
+      1  4210 SUL                                           421160
+      1  4210 SUL                                           421170
+      1  4210 SUL                                           421225
+      1  4210 SUL                                           421240
+      1  4210 SUL                                           421265
+      1  4210 SUL                                           421380
+      1  4210 SUL                                           421490
+      1  4210 SUL                                           421545
+      1  4210 SUL                                           421560
+      1  4210 SUL                                           421565
+      1  4210 SUL                                           421640
+      1  4210 SUL                                           421700
+      1  4210 SUL                                           421710
+      1  4210 SUL                                           421760
+      1  4210 SUL                                           421770
+      1  4210 SUL                                           421810
+      1  4210 SUL                                           421835
+      1  4210 SUL                                           421840
+      1  4210 SUL                                           421870
+      1  4210 SUL                                           421880
+      1  4210 SUL                                           421900
+      1  4210 SUL                                           422000
+      2  4211 PLANALTO NORTE E NORDESTE                     420130
+      2  4211 PLANALTO NORTE E NORDESTE                     420205
+      2  4211 PLANALTO NORTE E NORDESTE                     420210
+      2  4211 PLANALTO NORTE E NORDESTE                     420213
+      2  4211 PLANALTO NORTE E NORDESTE                     420330
+      2  4211 PLANALTO NORTE E NORDESTE                     420380
+      2  4211 PLANALTO NORTE E NORDESTE                     420450
+      2  4211 PLANALTO NORTE E NORDESTE                     420580
+      2  4211 PLANALTO NORTE E NORDESTE                     420650
+      2  4211 PLANALTO NORTE E NORDESTE                     420790
+      2  4211 PLANALTO NORTE E NORDESTE                     420810
+      2  4211 PLANALTO NORTE E NORDESTE                     420845
+      2  4211 PLANALTO NORTE E NORDESTE                     420890
+      2  4211 PLANALTO NORTE E NORDESTE                     420910
+      2  4211 PLANALTO NORTE E NORDESTE                     421010
+      2  4211 PLANALTO NORTE E NORDESTE                     421030
+      2  4211 PLANALTO NORTE E NORDESTE                     421060
+      2  4211 PLANALTO NORTE E NORDESTE                     421110
+      2  4211 PLANALTO NORTE E NORDESTE                     421220
+      2  4211 PLANALTO NORTE E NORDESTE                     421360
+      2  4211 PLANALTO NORTE E NORDESTE                     421500
+      2  4211 PLANALTO NORTE E NORDESTE                     421580
+      2  4211 PLANALTO NORTE E NORDESTE                     421620
+      2  4211 PLANALTO NORTE E NORDESTE                     421635
+      2  4211 PLANALTO NORTE E NORDESTE                     421740
+      2  4211 PLANALTO NORTE E NORDESTE                     421830
+      3  4213 GRANDE OESTE                                  420010
+      3  4213 GRANDE OESTE                                  420050
+      3  4213 GRANDE OESTE                                  420055
+      3  4213 GRANDE OESTE                                  420080
+      3  4213 GRANDE OESTE                                  420165
+      3  4213 GRANDE OESTE                                  420208
+      3  4213 GRANDE OESTE                                  420209
+      3  4213 GRANDE OESTE                                  420215
+      3  4213 GRANDE OESTE                                  420253
+      3  4213 GRANDE OESTE                                  420257
+      3  4213 GRANDE OESTE                                  420310
+      3  4213 GRANDE OESTE                                  420350
+      3  4213 GRANDE OESTE                                  420410
+      3  4213 GRANDE OESTE                                  420420
+      3  4213 GRANDE OESTE                                  420435
+      3  4213 GRANDE OESTE                                  420440
+      3  4213 GRANDE OESTE                                  420445
+      3  4213 GRANDE OESTE                                  420470
+      3  4213 GRANDE OESTE                                  420475
+      3  4213 GRANDE OESTE                                  420490
+      3  4213 GRANDE OESTE                                  420500
+      3  4213 GRANDE OESTE                                  420517
+      3  4213 GRANDE OESTE                                  420530
+      3  4213 GRANDE OESTE                                  420535
+      3  4213 GRANDE OESTE                                  420543
+      3  4213 GRANDE OESTE                                  420560
+      3  4213 GRANDE OESTE                                  420640
+      3  4213 GRANDE OESTE                                  420660
+      3  4213 GRANDE OESTE                                  420665
+      3  4213 GRANDE OESTE                                  420765
+      3  4213 GRANDE OESTE                                  420768
+      3  4213 GRANDE OESTE                                  420775
+      3  4213 GRANDE OESTE                                  420785
+      3  4213 GRANDE OESTE                                  420840
+      3  4213 GRANDE OESTE                                  420895
+      3  4213 GRANDE OESTE                                  420917
+      3  4213 GRANDE OESTE                                  420945
+      3  4213 GRANDE OESTE                                  421050
+      3  4213 GRANDE OESTE                                  421055
+      3  4213 GRANDE OESTE                                  421090
+      3  4213 GRANDE OESTE                                  421100
+      3  4213 GRANDE OESTE                                  421140
+      3  4213 GRANDE OESTE                                  421145
+      3  4213 GRANDE OESTE                                  421165
+      3  4213 GRANDE OESTE                                  421185
+      3  4213 GRANDE OESTE                                  421187
+      3  4213 GRANDE OESTE                                  421200
+      3  4213 GRANDE OESTE                                  421210
+      3  4213 GRANDE OESTE                                  421223
+      3  4213 GRANDE OESTE                                  421227
+      3  4213 GRANDE OESTE                                  421290
+      3  4213 GRANDE OESTE                                  421315
+      3  4213 GRANDE OESTE                                  421340
+      3  4213 GRANDE OESTE                                  421415
+      3  4213 GRANDE OESTE                                  421420
+      3  4213 GRANDE OESTE                                  421507
+      3  4213 GRANDE OESTE                                  421520
+      3  4213 GRANDE OESTE                                  421535
+      3  4213 GRANDE OESTE                                  421555
+      3  4213 GRANDE OESTE                                  421568
+      3  4213 GRANDE OESTE                                  421569
+      3  4213 GRANDE OESTE                                  421575
+      3  4213 GRANDE OESTE                                  421600
+      3  4213 GRANDE OESTE                                  421610
+      3  4213 GRANDE OESTE                                  421625
+      3  4213 GRANDE OESTE                                  421670
+      3  4213 GRANDE OESTE                                  421690
+      3  4213 GRANDE OESTE                                  421715
+      3  4213 GRANDE OESTE                                  421720
+      3  4213 GRANDE OESTE                                  421730
+      3  4213 GRANDE OESTE                                  421755
+      3  4213 GRANDE OESTE                                  421775
+      3  4213 GRANDE OESTE                                  421795
+      3  4213 GRANDE OESTE                                  421875
+      3  4213 GRANDE OESTE                                  421885
+      3  4213 GRANDE OESTE                                  421910
+      3  4213 GRANDE OESTE                                  421950
+      3  4213 GRANDE OESTE                                  421970
+      4  4214 GRANDE FLORIANOPOLIS                          420060
+      4  4214 GRANDE FLORIANOPOLIS                          420070
+      4  4214 GRANDE FLORIANOPOLIS                          420090
+      4  4214 GRANDE FLORIANOPOLIS                          420110
+      4  4214 GRANDE FLORIANOPOLIS                          420120
+      4  4214 GRANDE FLORIANOPOLIS                          420230
+      4  4214 GRANDE FLORIANOPOLIS                          420370
+      4  4214 GRANDE FLORIANOPOLIS                          420540
+      4  4214 GRANDE FLORIANOPOLIS                          420570
+      4  4214 GRANDE FLORIANOPOLIS                          420600
+      4  4214 GRANDE FLORIANOPOLIS                          420980
+      4  4214 GRANDE FLORIANOPOLIS                          421020
+      4  4214 GRANDE FLORIANOPOLIS                          421150
+      4  4214 GRANDE FLORIANOPOLIS                          421190
+      4  4214 GRANDE FLORIANOPOLIS                          421230
+      4  4214 GRANDE FLORIANOPOLIS                          421430
+      4  4214 GRANDE FLORIANOPOLIS                          421570
+      4  4214 GRANDE FLORIANOPOLIS                          421590
+      4  4214 GRANDE FLORIANOPOLIS                          421630
+      4  4214 GRANDE FLORIANOPOLIS                          421660
+      4  4214 GRANDE FLORIANOPOLIS                          421725
+      4  4214 GRANDE FLORIANOPOLIS                          421800
+      5  4215 FOZ DO RIO ITAJAI                             420200
+      5  4215 FOZ DO RIO ITAJAI                             420245
+      5  4215 FOZ DO RIO ITAJAI                             420320
+      5  4215 FOZ DO RIO ITAJAI                             420710
+      5  4215 FOZ DO RIO ITAJAI                             420820
+      5  4215 FOZ DO RIO ITAJAI                             420830
+      5  4215 FOZ DO RIO ITAJAI                             421000
+      5  4215 FOZ DO RIO ITAJAI                             421130
+      5  4215 FOZ DO RIO ITAJAI                             421250
+      5  4215 FOZ DO RIO ITAJAI                             421280
+      5  4215 FOZ DO RIO ITAJAI                             421350
+      6  4216 VALE DO ITAJAI                                420020
+      6  4216 VALE DO ITAJAI                                420030
+      6  4216 VALE DO ITAJAI                                420125
+      6  4216 VALE DO ITAJAI                                420170
+      6  4216 VALE DO ITAJAI                                420180
+      6  4216 VALE DO ITAJAI                                420190
+      6  4216 VALE DO ITAJAI                                420220
+      6  4216 VALE DO ITAJAI                                420240
+      6  4216 VALE DO ITAJAI                                420270
+      6  4216 VALE DO ITAJAI                                420285
+      6  4216 VALE DO ITAJAI                                420290
+      6  4216 VALE DO ITAJAI                                420419
+      6  4216 VALE DO ITAJAI                                420510
+      6  4216 VALE DO ITAJAI                                420515
+      6  4216 VALE DO ITAJAI                                420590
+      6  4216 VALE DO ITAJAI                                420630
+      6  4216 VALE DO ITAJAI                                420690
+      6  4216 VALE DO ITAJAI                                420740
+      6  4216 VALE DO ITAJAI                                420750
+      6  4216 VALE DO ITAJAI                                420850
+      6  4216 VALE DO ITAJAI                                420915
+      6  4216 VALE DO ITAJAI                                420950
+      6  4216 VALE DO ITAJAI                                420990
+      6  4216 VALE DO ITAJAI                                421085
+      6  4216 VALE DO ITAJAI                                421270
+      6  4216 VALE DO ITAJAI                                421320
+      6  4216 VALE DO ITAJAI                                421370
+      6  4216 VALE DO ITAJAI                                421400
+      6  4216 VALE DO ITAJAI                                421410
+      6  4216 VALE DO ITAJAI                                421450
+      6  4216 VALE DO ITAJAI                                421460
+      6  4216 VALE DO ITAJAI                                421470
+      6  4216 VALE DO ITAJAI                                421480
+      6  4216 VALE DO ITAJAI                                421510
+      6  4216 VALE DO ITAJAI                                421530
+      6  4216 VALE DO ITAJAI                                421567
+      6  4216 VALE DO ITAJAI                                421780
+      6  4216 VALE DO ITAJAI                                421820
+      6  4216 VALE DO ITAJAI                                421860
+      6  4216 VALE DO ITAJAI                                421920
+      6  4216 VALE DO ITAJAI                                421935
+      6  4216 VALE DO ITAJAI                                421940
+      7  4217 MEIO OESTE                                    420005
+      7  4217 MEIO OESTE                                    420040
+      7  4217 MEIO OESTE                                    420075
+      7  4217 MEIO OESTE                                    420127
+      7  4217 MEIO OESTE                                    420160
+      7  4217 MEIO OESTE                                    420287
+      7  4217 MEIO OESTE                                    420300
+      7  4217 MEIO OESTE                                    420315
+      7  4217 MEIO OESTE                                    420360
+      7  4217 MEIO OESTE                                    420390
+      7  4217 MEIO OESTE                                    420400
+      7  4217 MEIO OESTE                                    420415
+      7  4217 MEIO OESTE                                    420430
+      7  4217 MEIO OESTE                                    420480
+      7  4217 MEIO OESTE                                    420520
+      7  4217 MEIO OESTE                                    420550
+      7  4217 MEIO OESTE                                    420555
+      7  4217 MEIO OESTE                                    420670
+      7  4217 MEIO OESTE                                    420675
+      7  4217 MEIO OESTE                                    420680
+      7  4217 MEIO OESTE                                    420757
+      7  4217 MEIO OESTE                                    420760
+      7  4217 MEIO OESTE                                    420770
+      7  4217 MEIO OESTE                                    420780
+      7  4217 MEIO OESTE                                    420800
+      7  4217 MEIO OESTE                                    420860
+      7  4217 MEIO OESTE                                    420900
+      7  4217 MEIO OESTE                                    420920
+      7  4217 MEIO OESTE                                    420970
+      7  4217 MEIO OESTE                                    420985
+      7  4217 MEIO OESTE                                    421003
+      7  4217 MEIO OESTE                                    421005
+      7  4217 MEIO OESTE                                    421070
+      7  4217 MEIO OESTE                                    421105
+      7  4217 MEIO OESTE                                    421180
+      7  4217 MEIO OESTE                                    421260
+      7  4217 MEIO OESTE                                    421300
+      7  4217 MEIO OESTE                                    421310
+      7  4217 MEIO OESTE                                    421335
+      7  4217 MEIO OESTE                                    421390
+      7  4217 MEIO OESTE                                    421440
+      7  4217 MEIO OESTE                                    421540
+      7  4217 MEIO OESTE                                    421550
+      7  4217 MEIO OESTE                                    421605
+      7  4217 MEIO OESTE                                    421750
+      7  4217 MEIO OESTE                                    421790
+      7  4217 MEIO OESTE                                    421825
+      7  4217 MEIO OESTE                                    421850
+      7  4217 MEIO OESTE                                    421915
+      7  4217 MEIO OESTE                                    421917
+      7  4217 MEIO OESTE                                    421930
+      7  4217 MEIO OESTE                                    421960
+      7  4217 MEIO OESTE                                    421985
+      8  4218 SERRA CATARINENSE                             420100
+      8  4218 SERRA CATARINENSE                             420243
+      8  4218 SERRA CATARINENSE                             420250
+      8  4218 SERRA CATARINENSE                             420260
+      8  4218 SERRA CATARINENSE                             420325
+      8  4218 SERRA CATARINENSE                             420340
+      8  4218 SERRA CATARINENSE                             420417
+      8  4218 SERRA CATARINENSE                             420455
+      8  4218 SERRA CATARINENSE                             420930
+      8  4218 SERRA CATARINENSE                             421175
+      8  4218 SERRA CATARINENSE                             421189
+      8  4218 SERRA CATARINENSE                             421205
+      8  4218 SERRA CATARINENSE                             421330
+      8  4218 SERRA CATARINENSE                             421505
+      8  4218 SERRA CATARINENSE                             421650
+      8  4218 SERRA CATARINENSE                             421680
+      8  4218 SERRA CATARINENSE                             421890
+      8  4218 SERRA CATARINENSE                             421895
+      9  Ignorado - SC                                      420000,429999

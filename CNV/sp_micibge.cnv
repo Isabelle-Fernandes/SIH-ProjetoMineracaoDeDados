@@ -1,0 +1,647 @@
+64 6
+      1  35001 JALES                                        350260
+      1  35001 JALES                                        350395
+      1  35001 JALES                                        351385
+      1  35001 JALES                                        351420
+      1  35001 JALES                                        352480
+      1  35001 JALES                                        352910
+      1  35001 JALES                                        352965
+      1  35001 JALES                                        353284
+      1  35001 JALES                                        353520
+      1  35001 JALES                                        353590
+      1  35001 JALES                                        354025
+      1  35001 JALES                                        354040
+      1  35001 JALES                                        354450
+      1  35001 JALES                                        354570
+      1  35001 JALES                                        354610
+      1  35001 JALES                                        354660
+      1  35001 JALES                                        354720
+      1  35001 JALES                                        354740
+      1  35001 JALES                                        354765
+      1  35001 JALES                                        354900
+      1  35001 JALES                                        355490
+      1  35001 JALES                                        355580
+      1  35001 JALES                                        355695
+      2  35002 FERNANDOPOLIS                                351520
+      2  35002 FERNANDOPOLIS                                351550
+      2  35002 FERNANDOPOLIS                                351800
+      2  35002 FERNANDOPOLIS                                352070
+      2  35002 FERNANDOPOLIS                                352820
+      2  35002 FERNANDOPOLIS                                352960
+      2  35002 FERNANDOPOLIS                                353000
+      2  35002 FERNANDOPOLIS                                353475
+      2  35002 FERNANDOPOLIS                                353690
+      2  35002 FERNANDOPOLIS                                354920
+      2  35002 FERNANDOPOLIS                                355530
+      3  35003 VOTUPORANGA                                  350120
+      3  35003 VOTUPORANGA                                  350180
+      3  35003 VOTUPORANGA                                  351070
+      3  35003 VOTUPORANGA                                  351290
+      3  35003 VOTUPORANGA                                  353625
+      3  35003 VOTUPORANGA                                  354030
+      3  35003 VOTUPORANGA                                  354420
+      3  35003 VOTUPORANGA                                  355610
+      3  35003 VOTUPORANGA                                  355710
+      4  35004 SAO JOSE DO RIO PRETO                        350020
+      4  35004 SAO JOSE DO RIO PRETO                        350090
+      4  35004 SAO JOSE DO RIO PRETO                        350460
+      4  35004 SAO JOSE DO RIO PRETO                        350480
+      4  35004 SAO JOSE DO RIO PRETO                        351130
+      4  35004 SAO JOSE DO RIO PRETO                        351750
+      4  35004 SAO JOSE DO RIO PRETO                        351790
+      4  35004 SAO JOSE DO RIO PRETO                        351940
+      4  35004 SAO JOSE DO RIO PRETO                        351980
+      4  35004 SAO JOSE DO RIO PRETO                        352115
+      4  35004 SAO JOSE DO RIO PRETO                        352450
+      4  35004 SAO JOSE DO RIO PRETO                        352570
+      4  35004 SAO JOSE DO RIO PRETO                        352950
+      4  35004 SAO JOSE DO RIO PRETO                        353030
+      4  35004 SAO JOSE DO RIO PRETO                        353040
+      4  35004 SAO JOSE DO RIO PRETO                        353280
+      4  35004 SAO JOSE DO RIO PRETO                        353300
+      4  35004 SAO JOSE DO RIO PRETO                        353390
+      4  35004 SAO JOSE DO RIO PRETO                        353400
+      4  35004 SAO JOSE DO RIO PRETO                        353420
+      4  35004 SAO JOSE DO RIO PRETO                        353500
+      4  35004 SAO JOSE DO RIO PRETO                        353660
+      4  35004 SAO JOSE DO RIO PRETO                        353960
+      4  35004 SAO JOSE DO RIO PRETO                        354080
+      4  35004 SAO JOSE DO RIO PRETO                        354980
+      4  35004 SAO JOSE DO RIO PRETO                        355340
+      4  35004 SAO JOSE DO RIO PRETO                        355535
+      4  35004 SAO JOSE DO RIO PRETO                        355560
+      4  35004 SAO JOSE DO RIO PRETO                        355715
+      5  35005 CATANDUVA                                    350370
+      5  35005 CATANDUVA                                    350930
+      5  35005 CATANDUVA                                    351110
+      5  35005 CATANDUVA                                    351120
+      5  35005 CATANDUVA                                    351492
+      5  35005 CATANDUVA                                    351495
+      5  35005 CATANDUVA                                    353325
+      5  35005 CATANDUVA                                    353510
+      5  35005 CATANDUVA                                    353570
+      5  35005 CATANDUVA                                    353810
+      5  35005 CATANDUVA                                    354560
+      5  35005 CATANDUVA                                    355190
+      5  35005 CATANDUVA                                    355260
+      6  35006 AURIFLAMA                                    350420
+      6  35006 AURIFLAMA                                    351590
+      6  35006 AURIFLAMA                                    351680
+      6  35006 AURIFLAMA                                    351690
+      6  35006 AURIFLAMA                                    351890
+      6  35006 AURIFLAMA                                    352830
+      6  35006 AURIFLAMA                                    353286
+      6  35006 AURIFLAMA                                    353330
+      6  35006 AURIFLAMA                                    354925
+      7  35007 NHANDEARA                                    352810
+      7  35007 NHANDEARA                                    353100
+      7  35007 NHANDEARA                                    353140
+      7  35007 NHANDEARA                                    353250
+      7  35007 NHANDEARA                                    353260
+      7  35007 NHANDEARA                                    353270
+      7  35007 NHANDEARA                                    353990
+      7  35007 NHANDEARA                                    355130
+      7  35007 NHANDEARA                                    355570
+      8  35008 NOVO HORIZONTE                               352150
+      8  35008 NOVO HORIZONTE                               352190
+      8  35008 NOVO HORIZONTE                               352885
+      8  35008 NOVO HORIZONTE                               353350
+      8  35008 NOVO HORIZONTE                               354480
+      8  35008 NOVO HORIZONTE                               355600
+      9  35009 BARRETOS                                     350550
+      9  35009 BARRETOS                                     351200
+      9  35009 BARRETOS                                     351210
+     10  35010 SAO JOAQUIM DA BARRA                         351740
+     10  35010 SAO JOAQUIM DA BARRA                         352130
+     10  35010 SAO JOAQUIM DA BARRA                         352420
+     10  35010 SAO JOAQUIM DA BARRA                         352970
+     10  35010 SAO JOAQUIM DA BARRA                         353190
+     10  35010 SAO JOAQUIM DA BARRA                         353360
+     10  35010 SAO JOAQUIM DA BARRA                         353430
+     10  35010 SAO JOAQUIM DA BARRA                         354490
+     10  35010 SAO JOAQUIM DA BARRA                         354940
+     11  35011 ITUVERAVA                                    350300
+     11  35011 ITUVERAVA                                    350820
+     11  35011 ITUVERAVA                                    351770
+     11  35011 ITUVERAVA                                    352010
+     11  35011 ITUVERAVA                                    352410
+     12  35012 FRANCA                                       351320
+     12  35012 FRANCA                                       351620
+     12  35012 FRANCA                                       352370
+     12  35012 FRANCA                                       352540
+     12  35012 FRANCA                                       353630
+     12  35012 FRANCA                                       353700
+     12  35012 FRANCA                                       354270
+     12  35012 FRANCA                                       354310
+     12  35012 FRANCA                                       354360
+     12  35012 FRANCA                                       354950
+     13  35013 JABOTICABAL                                  350610
+     13  35013 JABOTICABAL                                  351010
+     13  35013 JABOTICABAL                                  351560
+     13  35013 JABOTICABAL                                  351860
+     13  35013 JABOTICABAL                                  352430
+     13  35013 JABOTICABAL                                  353130
+     13  35013 JABOTICABAL                                  353150
+     13  35013 JABOTICABAL                                  353900
+     13  35013 JABOTICABAL                                  353950
+     13  35013 JABOTICABAL                                  354650
+     13  35013 JABOTICABAL                                  355310
+     13  35013 JABOTICABAL                                  355320
+     13  35013 JABOTICABAL                                  355365
+     13  35013 JABOTICABAL                                  355370
+     13  35013 JABOTICABAL                                  355440
+     13  35013 JABOTICABAL                                  355680
+     13  35013 JABOTICABAL                                  355690
+     14  35014 RIBEIRAO PRETO                               350560
+     14  35014 RIBEIRAO PRETO                               350780
+     14  35014 RIBEIRAO PRETO                               351310
+     14  35014 RIBEIRAO PRETO                               351460
+     14  35014 RIBEIRAO PRETO                               351885
+     14  35014 RIBEIRAO PRETO                               352510
+     14  35014 RIBEIRAO PRETO                               352760
+     14  35014 RIBEIRAO PRETO                               354020
+     14  35014 RIBEIRAO PRETO                               354090
+     14  35014 RIBEIRAO PRETO                               354340
+     14  35014 RIBEIRAO PRETO                               354750
+     14  35014 RIBEIRAO PRETO                               354760
+     14  35014 RIBEIRAO PRETO                               355090
+     14  35014 RIBEIRAO PRETO                               355140
+     14  35014 RIBEIRAO PRETO                               355150
+     14  35014 RIBEIRAO PRETO                               355170
+     15  35015 BATATAIS                                     350100
+     15  35015 BATATAIS                                     350590
+     15  35015 BATATAIS                                     350940
+     15  35015 BATATAIS                                     351090
+     15  35015 BATATAIS                                     354625
+     15  35015 BATATAIS                                     354790
+     16  35016 ANDRADINA                                    350210
+     16  35016 ANDRADINA                                    351100
+     16  35016 ANDRADINA                                    351780
+     16  35016 ANDRADINA                                    352044
+     16  35016 ANDRADINA                                    352300
+     16  35016 ANDRADINA                                    353010
+     16  35016 ANDRADINA                                    353210
+     16  35016 ANDRADINA                                    353320
+     16  35016 ANDRADINA                                    353740
+     16  35016 ANDRADINA                                    355230
+     16  35016 ANDRADINA                                    355255
+     17  35017 ARACATUBA                                    350280
+     17  35017 ARACATUBA                                    350620
+     17  35017 ARACATUBA                                    351820
+     17  35017 ARACATUBA                                    352650
+     17  35017 ARACATUBA                                    354440
+     17  35017 ARACATUBA                                    354805
+     17  35017 ARACATUBA                                    355630
+     18  35018 BIRIGUI                                      350110
+     18  35018 BIRIGUI                                      350440
+     18  35018 BIRIGUI                                      350510
+     18  35018 BIRIGUI                                      350640
+     18  35018 BIRIGUI                                      350650
+     18  35018 BIRIGUI                                      350770
+     18  35018 BIRIGUI                                      350775
+     18  35018 BIRIGUI                                      350810
+     18  35018 BIRIGUI                                      351190
+     18  35018 BIRIGUI                                      351250
+     18  35018 BIRIGUI                                      351650
+     18  35018 BIRIGUI                                      351710
+     18  35018 BIRIGUI                                      352725
+     18  35018 BIRIGUI                                      352770
+     18  35018 BIRIGUI                                      353730
+     18  35018 BIRIGUI                                      353770
+     18  35018 BIRIGUI                                      354840
+     18  35018 BIRIGUI                                      355520
+     19  35019 LINS                                         350880
+     19  35019 LINS                                         351700
+     19  35019 LINS                                         351720
+     19  35019 LINS                                         351730
+     19  35019 LINS                                         352580
+     19  35019 LINS                                         352710
+     19  35019 LINS                                         354160
+     19  35019 LINS                                         354460
+     20  35020 BAURU                                        350070
+     20  35020 BAURU                                        350340
+     20  35020 BAURU                                        350360
+     20  35020 BAURU                                        350430
+     20  35020 BAURU                                        350470
+     20  35020 BAURU                                        350600
+     20  35020 BAURU                                        350745
+     20  35020 BAURU                                        350830
+     20  35020 BAURU                                        351450
+     20  35020 BAURU                                        351810
+     20  35020 BAURU                                        351910
+     20  35020 BAURU                                        352680
+     20  35020 BAURU                                        352750
+     20  35020 BAURU                                        353657
+     20  35020 BAURU                                        353890
+     20  35020 BAURU                                        353940
+     20  35020 BAURU                                        354010
+     20  35020 BAURU                                        354110
+     20  35020 BAURU                                        354250
+     20  35020 BAURU                                        355550
+     20  35020 BAURU                                        355590
+     21  35021 JAU                                          350520
+     21  35021 JAU                                          350530
+     21  35021 JAU                                          350680
+     21  35021 JAU                                          350730
+     21  35021 JAU                                          351410
+     21  35021 JAU                                          352000
+     21  35021 JAU                                          352200
+     21  35021 JAU                                          352290
+     21  35021 JAU                                          352530
+     21  35021 JAU                                          352800
+     21  35021 JAU                                          352980
+     21  35021 JAU                                          353670
+     22  35022 AVARE                                        350055
+     22  35022 AVARE                                        350310
+     22  35022 AVARE                                        350450
+     22  35022 AVARE                                        351140
+     22  35022 AVARE                                        351925
+     22  35022 AVARE                                        352180
+     22  35022 AVARE                                        352350
+     22  35022 AVARE                                        353580
+     23  35023 BOTUCATU                                     350230
+     23  35023 BOTUCATU                                     350690
+     23  35023 BOTUCATU                                     350750
+     23  35023 BOTUCATU                                     351230
+     23  35023 BOTUCATU                                     353610
+     23  35023 BOTUCATU                                     354105
+     23  35023 BOTUCATU                                     355010
+     24  35024 ARARAQUARA                                   350170
+     24  35024 ARARAQUARA                                   350320
+     24  35024 ARARAQUARA                                   350670
+     24  35024 ARARAQUARA                                   350740
+     24  35024 ARARAQUARA                                   351400
+     24  35024 ARARAQUARA                                   351685
+     24  35024 ARARAQUARA                                   351960
+     24  35024 ARARAQUARA                                   352270
+     24  35024 ARARAQUARA                                   352930
+     24  35024 ARARAQUARA                                   353205
+     24  35024 ARARAQUARA                                   353290
+     24  35024 ARARAQUARA                                   354370
+     24  35024 ARARAQUARA                                   354690
+     24  35024 ARARAQUARA                                   355270
+     24  35024 ARARAQUARA                                   355475
+     25  35025 SAO CARLOS                                   350200
+     25  35025 SAO CARLOS                                   351370
+     25  35025 SAO CARLOS                                   351430
+     25  35025 SAO CARLOS                                   351930
+     25  35025 SAO CARLOS                                   354290
+     25  35025 SAO CARLOS                                   354890
+     26  35026 RIO CLARO                                    350790
+     26  35026 RIO CLARO                                    351270
+     26  35026 RIO CLARO                                    352110
+     26  35026 RIO CLARO                                    352360
+     26  35026 RIO CLARO                                    354390
+     26  35026 RIO CLARO                                    355470
+     27  35027 LIMEIRA                                      350330
+     27  35027 LIMEIRA                                      351220
+     27  35027 LIMEIRA                                      351240
+     27  35027 LIMEIRA                                      352140
+     27  35027 LIMEIRA                                      352670
+     27  35027 LIMEIRA                                      352690
+     27  35027 LIMEIRA                                      354620
+     27  35027 LIMEIRA                                      354670
+     28  35028 PIRACICABA                                   350060
+     28  35028 PIRACICABA                                   351040
+     28  35028 PIRACICABA                                   351170
+     28  35028 PIRACICABA                                   352585
+     28  35028 PIRACICABA                                   353090
+     28  35028 PIRACICABA                                   353870
+     28  35028 PIRACICABA                                   354210
+     28  35028 PIRACICABA                                   354400
+     28  35028 PIRACICABA                                   354515
+     28  35028 PIRACICABA                                   354700
+     28  35028 PIRACICABA                                   355040
+     28  35028 PIRACICABA                                   355450
+     29  35029 PIRASSUNUNGA                                 350030
+     29  35029 PIRASSUNUNGA                                 353930
+     29  35029 PIRASSUNUNGA                                 354070
+     29  35029 PIRASSUNUNGA                                 354630
+     30  35030 SAO JOAO DA BOA VISTA                        350040
+     30  35030 SAO JOAO DA BOA VISTA                        350870
+     30  35030 SAO JOAO DA BOA VISTA                        351080
+     30  35030 SAO JOAO DA BOA VISTA                        351390
+     30  35030 SAO JOAO DA BOA VISTA                        351518
+     30  35030 SAO JOAO DA BOA VISTA                        352380
+     30  35030 SAO JOAO DA BOA VISTA                        353050
+     30  35030 SAO JOAO DA BOA VISTA                        354810
+     30  35030 SAO JOAO DA BOA VISTA                        354910
+     30  35030 SAO JOAO DA BOA VISTA                        354970
+     30  35030 SAO JOAO DA BOA VISTA                        355080
+     30  35030 SAO JOAO DA BOA VISTA                        355330
+     30  35030 SAO JOAO DA BOA VISTA                        355360
+     30  35030 SAO JOAO DA BOA VISTA                        355640
+     31  35031 MOJI MIRIM                                   350380
+     31  35031 MOJI MIRIM                                   351515
+     31  35031 MOJI MIRIM                                   352260
+     31  35031 MOJI MIRIM                                   353070
+     31  35031 MOJI MIRIM                                   353080
+     31  35031 MOJI MIRIM                                   354800
+     31  35031 MOJI MIRIM                                   355730
+     32  35032 CAMPINAS                                     350160
+     32  35032 CAMPINAS                                     350950
+     32  35032 CAMPINAS                                     351280
+     32  35032 CAMPINAS                                     351490
+     32  35032 CAMPINAS                                     351905
+     32  35032 CAMPINAS                                     351907
+     32  35032 CAMPINAS                                     352050
+     32  35032 CAMPINAS                                     352470
+     32  35032 CAMPINAS                                     353180
+     32  35032 CAMPINAS                                     353340
+     32  35032 CAMPINAS                                     353650
+     32  35032 CAMPINAS                                     353710
+     32  35032 CAMPINAS                                     354580
+     32  35032 CAMPINAS                                     355240
+     32  35032 CAMPINAS                                     355620
+     32  35032 CAMPINAS                                     355670
+     33  35033 AMPARO                                       350050
+     33  35033 AMPARO                                       350190
+     33  35033 AMPARO                                       352700
+     33  35033 AMPARO                                       353120
+     33  35033 AMPARO                                       353680
+     33  35033 AMPARO                                       353820
+     33  35033 AMPARO                                       355160
+     33  35033 AMPARO                                       355210
+     34  35034 DRACENA                                      351440
+     34  35034 DRACENA                                      352600
+     34  35034 DRACENA                                      353160
+     34  35034 DRACENA                                      353310
+     34  35034 DRACENA                                      353480
+     34  35034 DRACENA                                      353540
+     34  35034 DRACENA                                      353640
+     34  35034 DRACENA                                      354710
+     34  35034 DRACENA                                      354930
+     34  35034 DRACENA                                      355510
+     35  35035 ADAMANTINA                                   350010
+     35  35035 ADAMANTINA                                   351580
+     35  35035 ADAMANTINA                                   351600
+     35  35035 ADAMANTINA                                   352080
+     35  35035 ADAMANTINA                                   352160
+     35  35035 ADAMANTINA                                   352740
+     35  35035 ADAMANTINA                                   352890
+     35  35035 ADAMANTINA                                   353460
+     35  35035 ADAMANTINA                                   353490
+     35  35035 ADAMANTINA                                   353600
+     35  35035 ADAMANTINA                                   354085
+     35  35035 ADAMANTINA                                   354380
+     35  35035 ADAMANTINA                                   354470
+     35  35035 ADAMANTINA                                   354510
+     36  35036 PRESIDENTE PRUDENTE                          350080
+     36  35036 PRESIDENTE PRUDENTE                          350130
+     36  35036 PRESIDENTE PRUDENTE                          350240
+     36  35036 PRESIDENTE PRUDENTE                          350890
+     36  35036 PRESIDENTE PRUDENTE                          350910
+     36  35036 PRESIDENTE PRUDENTE                          351512
+     36  35036 PRESIDENTE PRUDENTE                          351530
+     36  35036 PRESIDENTE PRUDENTE                          351535
+     36  35036 PRESIDENTE PRUDENTE                          352060
+     36  35036 PRESIDENTE PRUDENTE                          352560
+     36  35036 PRESIDENTE PRUDENTE                          352870
+     36  35036 PRESIDENTE PRUDENTE                          352920
+     36  35036 PRESIDENTE PRUDENTE                          353020
+     36  35036 PRESIDENTE PRUDENTE                          353220
+     36  35036 PRESIDENTE PRUDENTE                          353830
+     36  35036 PRESIDENTE PRUDENTE                          353920
+     36  35036 PRESIDENTE PRUDENTE                          354120
+     36  35036 PRESIDENTE PRUDENTE                          354130
+     36  35036 PRESIDENTE PRUDENTE                          354140
+     36  35036 PRESIDENTE PRUDENTE                          354150
+     36  35036 PRESIDENTE PRUDENTE                          354220
+     36  35036 PRESIDENTE PRUDENTE                          354240
+     36  35036 PRESIDENTE PRUDENTE                          354323
+     36  35036 PRESIDENTE PRUDENTE                          354425
+     36  35036 PRESIDENTE PRUDENTE                          354550
+     36  35036 PRESIDENTE PRUDENTE                          354770
+     36  35036 PRESIDENTE PRUDENTE                          354830
+     36  35036 PRESIDENTE PRUDENTE                          355290
+     36  35036 PRESIDENTE PRUDENTE                          355390
+     36  35036 PRESIDENTE PRUDENTE                          355430
+     37  35037 TUPA                                         350335
+     37  35037 TUPA                                         350580
+     37  35037 TUPA                                         351900
+     37  35037 TUPA                                         351920
+     37  35037 TUPA                                         354180
+     37  35037 TUPA                                         354200
+     37  35037 TUPA                                         355500
+     38  35038 MARILIA                                      350140
+     38  35038 MARILIA                                      350150
+     38  35038 MARILIA                                      351470
+     38  35038 MARILIA                                      351565
+     38  35038 MARILIA                                      351660
+     38  35038 MARILIA                                      351670
+     38  35038 MARILIA                                      352780
+     38  35038 MARILIA                                      352900
+     38  35038 MARILIA                                      353370
+     38  35038 MARILIA                                      353410
+     38  35038 MARILIA                                      353450
+     38  35038 MARILIA                                      354000
+     38  35038 MARILIA                                      355660
+     39  35039 ASSIS                                        350400
+     39  35039 ASSIS                                        350720
+     39  35039 ASSIS                                        350980
+     39  35039 ASSIS                                        351000
+     39  35039 ASSIS                                        351330
+     39  35039 ASSIS                                        351610
+     39  35039 ASSIS                                        351950
+     39  35039 ASSIS                                        351990
+     39  35039 ASSIS                                        352790
+     39  35039 ASSIS                                        352880
+     39  35039 ASSIS                                        353215
+     39  35039 ASSIS                                        353530
+     39  35039 ASSIS                                        353550
+     39  35039 ASSIS                                        353715
+     39  35039 ASSIS                                        353970
+     39  35039 ASSIS                                        354170
+     39  35039 ASSIS                                        355395
+     40  35040 OURINHOS                                     350630
+     40  35040 OURINHOS                                     351015
+     40  35040 OURINHOS                                     351519
+     40  35040 OURINHOS                                     351540
+     40  35040 OURINHOS                                     352090
+     40  35040 OURINHOS                                     352860
+     40  35040 OURINHOS                                     353380
+     40  35040 OURINHOS                                     353470
+     40  35040 OURINHOS                                     353880
+     40  35040 OURINHOS                                     354320
+     40  35040 OURINHOS                                     354540
+     40  35040 OURINHOS                                     354640
+     40  35040 OURINHOS                                     355050
+     40  35040 OURINHOS                                     355120
+     40  35040 OURINHOS                                     355300
+     40  35040 OURINHOS                                     355420
+     40  35040 OURINHOS                                     355460
+     40  35040 OURINHOS                                     355720
+     41  35041 ITAPEVA                                      350500
+     41  35041 ITAPEVA                                      350715
+     41  35041 ITAPEVA                                      350800
+     41  35041 ITAPEVA                                      351260
+     41  35041 ITAPEVA                                      352170
+     41  35041 ITAPEVA                                      352240
+     41  35041 ITAPEVA                                      352280
+     41  35041 ITAPEVA                                      352320
+     41  35041 ITAPEVA                                      353282
+     41  35041 ITAPEVA                                      354350
+     41  35041 ITAPEVA                                      355380
+     41  35041 ITAPEVA                                      355385
+     42  35042 ITAPETININGA                                 350075
+     42  35042 ITAPETININGA                                 350220
+     42  35042 ITAPETININGA                                 350945
+     42  35042 ITAPETININGA                                 351850
+     42  35042 ITAPETININGA                                 352230
+     43  35043 TATUI                                        350700
+     43  35043 TATUI                                        351150
+     43  35043 TATUI                                        351160
+     43  35043 TATUI                                        352640
+     43  35043 TATUI                                        353750
+     43  35043 TATUI                                        354050
+     43  35043 TATUI                                        354165
+     43  35043 TATUI                                        355400
+     43  35043 TATUI                                        355465
+     44  35044 CAPAO BONITO                                 350270
+     44  35044 CAPAO BONITO                                 350535
+     44  35044 CAPAO BONITO                                 351020
+     44  35044 CAPAO BONITO                                 351760
+     44  35044 CAPAO BONITO                                 352120
+     44  35044 CAPAO BONITO                                 352215
+     44  35044 CAPAO BONITO                                 352265
+     44  35044 CAPAO BONITO                                 354280
+     44  35044 CAPAO BONITO                                 354300
+     44  35044 CAPAO BONITO                                 354325
+     45  35045 PIEDADE                                      351970
+     45  35045 PIEDADE                                      353780
+     45  35045 PIEDADE                                      353790
+     45  35045 PIEDADE                                      355020
+     45  35045 PIEDADE                                      355350
+     46  35046 SOROCABA                                     350115
+     46  35046 SOROCABA                                     350275
+     46  35046 SOROCABA                                     350290
+     46  35046 SOROCABA                                     350840
+     46  35046 SOROCABA                                     351030
+     46  35046 SOROCABA                                     352100
+     46  35046 SOROCABA                                     352390
+     46  35046 SOROCABA                                     352840
+     46  35046 SOROCABA                                     354060
+     46  35046 SOROCABA                                     354520
+     46  35046 SOROCABA                                     354530
+     46  35046 SOROCABA                                     355060
+     46  35046 SOROCABA                                     355110
+     46  35046 SOROCABA                                     355220
+     46  35046 SOROCABA                                     355700
+     47  35047 JUNDIAI                                      350960
+     47  35047 JUNDIAI                                      352400
+     47  35047 JUNDIAI                                      352590
+     47  35047 JUNDIAI                                      352730
+     47  35047 JUNDIAI                                      355650
+     48  35048 BRAGANCA PAULISTA                            350410
+     48  35048 BRAGANCA PAULISTA                            350710
+     48  35048 BRAGANCA PAULISTA                            350760
+     48  35048 BRAGANCA PAULISTA                            352340
+     48  35048 BRAGANCA PAULISTA                            352520
+     48  35048 BRAGANCA PAULISTA                            352550
+     48  35048 BRAGANCA PAULISTA                            353200
+     48  35048 BRAGANCA PAULISTA                            353240
+     48  35048 BRAGANCA PAULISTA                            353860
+     48  35048 BRAGANCA PAULISTA                            355495
+     48  35048 BRAGANCA PAULISTA                            355635
+     49  35049 CAMPOS DO JORDAO                             350970
+     49  35049 CAMPOS DO JORDAO                             353170
+     49  35049 CAMPOS DO JORDAO                             354820
+     49  35049 CAMPOS DO JORDAO                             354860
+     50  35050 SAO JOSE DOS CAMPOS                          350850
+     50  35050 SAO JOSE DOS CAMPOS                          352020
+     50  35050 SAO JOSE DOS CAMPOS                          352440
+     50  35050 SAO JOSE DOS CAMPOS                          353800
+     50  35050 SAO JOSE DOS CAMPOS                          354600
+     50  35050 SAO JOSE DOS CAMPOS                          354990
+     50  35050 SAO JOSE DOS CAMPOS                          355410
+     50  35050 SAO JOSE DOS CAMPOS                          355480
+     51  35051 GUARATINGUETA                                350250
+     51  35051 GUARATINGUETA                                350860
+     51  35051 GUARATINGUETA                                350995
+     51  35051 GUARATINGUETA                                351340
+     51  35051 GUARATINGUETA                                351840
+     51  35051 GUARATINGUETA                                352660
+     51  35051 GUARATINGUETA                                352720
+     51  35051 GUARATINGUETA                                353850
+     51  35051 GUARATINGUETA                                354075
+     51  35051 GUARATINGUETA                                354190
+     51  35051 GUARATINGUETA                                354430
+     52  35052 BANANAL                                      350315
+     52  35052 BANANAL                                      350350
+     52  35052 BANANAL                                      350490
+     52  35052 BANANAL                                      354960
+     52  35052 BANANAL                                      355200
+     53  35053 PARAIBUNA/PARAITINGA                         351360
+     53  35053 PARAIBUNA/PARAITINGA                         352490
+     53  35053 PARAIBUNA/PARAITINGA                         352630
+     53  35053 PARAIBUNA/PARAITINGA                         353230
+     53  35053 PARAIBUNA/PARAITINGA                         353560
+     53  35053 PARAIBUNA/PARAITINGA                         354230
+     53  35053 PARAIBUNA/PARAITINGA                         355000
+     54  35054 CARAGUATATUBA                                351050
+     54  35054 CARAGUATATUBA                                352040
+     54  35054 CARAGUATATUBA                                355070
+     54  35054 CARAGUATATUBA                                355540
+     55  35055 REGISTRO                                     350540
+     55  35055 REGISTRO                                     350925
+     55  35055 REGISTRO                                     350990
+     55  35055 REGISTRO                                     351480
+     55  35055 REGISTRO                                     352030
+     55  35055 REGISTRO                                     352042
+     55  35055 REGISTRO                                     352460
+     55  35055 REGISTRO                                     352610
+     55  35055 REGISTRO                                     352990
+     55  35055 REGISTRO                                     353620
+     55  35055 REGISTRO                                     354260
+     55  35055 REGISTRO                                     355180
+     56  35056 ITANHAEM                                     352210
+     56  35056 ITANHAEM                                     352330
+     56  35056 ITANHAEM                                     353110
+     56  35056 ITANHAEM                                     353720
+     56  35056 ITANHAEM                                     353760
+     57  35057 OSASCO                                       350570
+     57  35057 OSASCO                                       350920
+     57  35057 OSASCO                                       351060
+     57  35057 OSASCO                                       352250
+     57  35057 OSASCO                                       352500
+     57  35057 OSASCO                                       353440
+     57  35057 OSASCO                                       353910
+     57  35057 OSASCO                                       354730
+     58  35058 FRANCO DA ROCHA                              350900
+     58  35058 FRANCO DA ROCHA                              351630
+     58  35058 FRANCO DA ROCHA                              351640
+     58  35058 FRANCO DA ROCHA                              352850
+     59  35059 GUARULHOS                                    350390
+     59  35059 GUARULHOS                                    351880
+     59  35059 GUARULHOS                                    354680
+     60  35060 ITAPECERICA DA SERRA                         351300
+     60  35060 ITAPECERICA DA SERRA                         351500
+     60  35060 ITAPECERICA DA SERRA                         351510
+     60  35060 ITAPECERICA DA SERRA                         352220
+     60  35060 ITAPECERICA DA SERRA                         352620
+     60  35060 ITAPECERICA DA SERRA                         354995
+     60  35060 ITAPECERICA DA SERRA                         355280
+     60  35060 ITAPECERICA DA SERRA                         355645
+     61  35061 SAO PAULO                                    351380
+     61  35061 SAO PAULO                                    352940
+     61  35061 SAO PAULO                                    354330
+     61  35061 SAO PAULO                                    354410
+     61  35061 SAO PAULO                                    354780
+     61  35061 SAO PAULO                                    354870
+     61  35061 SAO PAULO                                    354880
+     61  35061 SAO PAULO                                    355030
+     62  35062 MOGI DAS CRUZES                              350660
+     62  35062 MOGI DAS CRUZES                              351570
+     62  35062 MOGI DAS CRUZES                              351830
+     62  35062 MOGI DAS CRUZES                              352310
+     62  35062 MOGI DAS CRUZES                              353060
+     62  35062 MOGI DAS CRUZES                              353980
+     62  35062 MOGI DAS CRUZES                              354500
+     62  35062 MOGI DAS CRUZES                              355250
+     63  35063 SANTOS                                       350635
+     63  35063 SANTOS                                       351350
+     63  35063 SANTOS                                       351870
+     63  35063 SANTOS                                       354100
+     63  35063 SANTOS                                       354850
+     63  35063 SANTOS                                       355100
+     64  Ignorado - SP                                      350000,359999

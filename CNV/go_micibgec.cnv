@@ -1,0 +1,248 @@
+19  6                                                                                    
+      1  GO Anicuns                                         520015                            
+      1  GO Anicuns                                         520085                            
+      1  GO Anicuns                                         520130                            
+      1  GO Anicuns                                         520260                            
+      1  GO Anicuns                                         520280                            
+      1  GO Anicuns                                         520393                            
+      1  GO Anicuns                                         520780                            
+      1  GO Anicuns                                         521390                            
+      1  GO Anicuns                                         521440                            
+      1  GO Anicuns                                         521900                            
+      1  GO Anicuns                                         521910                            
+      1  GO Anicuns                                         522010                            
+      1  GO Anicuns                                         522150                            
+      2  GO Anápolis                                        520110                            
+      2  GO Anápolis                                        520160                            
+      2  GO Anápolis                                        520360                            
+      2  GO Anápolis                                        520485                            
+      2  GO Anápolis                                        520520                            
+      2  GO Anápolis                                        520680                            
+      2  GO Anápolis                                        520960                            
+      2  GO Anápolis                                        521000                            
+      2  GO Anápolis                                        521040                            
+      2  GO Anápolis                                        521056                            
+      2  GO Anápolis                                        521060                            
+      2  GO Anápolis                                        521140                            
+      2  GO Anápolis                                        521180                            
+      2  GO Anápolis                                        521205                            
+      2  GO Anápolis                                        521500                            
+      2  GO Anápolis                                        521540                            
+      2  GO Anápolis                                        521680                            
+      2  GO Anápolis                                        521950                            
+      2  GO Anápolis                                        521990                            
+      2  GO Anápolis                                        522100                            
+      3  GO Aragarças                                       520170                            
+      3  GO Aragarças                                       520235                            
+      3  GO Aragarças                                       520310                            
+      3  GO Aragarças                                       520340                            
+      3  GO Aragarças                                       520710                            
+      3  GO Aragarças                                       521370                            
+      3  GO Aragarças                                       521720                            
+      4  GO Catalão                                         520120                            
+      4  GO Catalão                                         520480                            
+      4  GO Catalão                                         520510                            
+      4  GO Catalão                                         520590                            
+      4  GO Catalão                                         520660                            
+      4  GO Catalão                                         520690                            
+      4  GO Catalão                                         520850                            
+      4  GO Catalão                                         521010                            
+      4  GO Catalão                                         521480                            
+      4  GO Catalão                                         521550                            
+      4  GO Catalão                                         522130                            
+      5  GO Ceres                                           520320                            
+      5  GO Ceres                                           520500                            
+      5  GO Ceres                                           520540                            
+      5  GO Ceres                                           520860                            
+      5  GO Ceres                                           520929                            
+      5  GO Ceres                                           520945                            
+      5  GO Ceres                                           520980                            
+      5  GO Ceres                                           521015                            
+      5  GO Ceres                                           521090                            
+      5  GO Ceres                                           521120                            
+      5  GO Ceres                                           521385                            
+      5  GO Ceres                                           521470                            
+      5  GO Ceres                                           521486                            
+      5  GO Ceres                                           521690                            
+      5  GO Ceres                                           521860                            
+      5  GO Ceres                                           521870                            
+      5  GO Ceres                                           521890                            
+      5  GO Ceres                                           521935                            
+      5  GO Ceres                                           521945                            
+      5  GO Ceres                                           522015                            
+      5  GO Ceres                                           522028                            
+      5  GO Ceres                                           522170                            
+      6  GO Chapada dos Veadeiros                           520060                            
+      6  GO Chapada dos Veadeiros                           520490                            
+      6  GO Chapada dos Veadeiros                           520530                            
+      6  GO Chapada dos Veadeiros                           520552                            
+      6  GO Chapada dos Veadeiros                           521350                            
+      6  GO Chapada dos Veadeiros                           521490                            
+      6  GO Chapada dos Veadeiros                           522000                            
+      6  GO Chapada dos Veadeiros                           522108                            
+      7  GO Entorno de Brasília                             520010                            
+      7  GO Entorno de Brasília                             520017                            
+      7  GO Entorno de Brasília                             520025                            
+      7  GO Entorno de Brasília                             520030                            
+      7  GO Entorno de Brasília                             520400                            
+      7  GO Entorno de Brasília                             520549                            
+      7  GO Entorno de Brasília                             520551                            
+      7  GO Entorno de Brasília                             520580                            
+      7  GO Entorno de Brasília                             520620                            
+      7  GO Entorno de Brasília                             520800                            
+      7  GO Entorno de Brasília                             521250                            
+      7  GO Entorno de Brasília                             521305                            
+      7  GO Entorno de Brasília                             521523                            
+      7  GO Entorno de Brasília                             521560                            
+      7  GO Entorno de Brasília                             521730                            
+      7  GO Entorno de Brasília                             521760                            
+      7  GO Entorno de Brasília                             521975                            
+      7  GO Entorno de Brasília                             522185                            
+      7  GO Entorno de Brasília                             522220                            
+      7  GO Entorno de Brasília                             522230                            
+      8  GO Goiânia                                         520005                            
+      8  GO Goiânia                                         520140                            
+      8  GO Goiânia                                         520180                            
+      8  GO Goiânia                                         520330                            
+      8  GO Goiânia                                         520355                            
+      8  GO Goiânia                                         520455                            
+      8  GO Goiânia                                         520840                            
+      8  GO Goiânia                                         520870,528707                     
+      8  GO Goiânia                                         520880                            
+      8  GO Goiânia                                         520920                            
+      8  GO Goiânia                                         520970                            
+      8  GO Goiânia                                         521230                            
+      8  GO Goiânia                                         521450                            
+      8  GO Goiânia                                         521973                            
+      8  GO Goiânia                                         522045                            
+      8  GO Goiânia                                         522119                            
+      8  GO Goiânia                                         522140                            
+      9  GO Iporá                                           520090                            
+      9  GO Iporá                                           520420                            
+      9  GO Iporá                                           520570                            
+      9  GO Iporá                                           520760                            
+      9  GO Iporá                                           521020                            
+      9  GO Iporá                                           521030                            
+      9  GO Iporá                                           521160                            
+      9  GO Iporá                                           521200                            
+      9  GO Iporá                                           521340                            
+      9  GO Iporá                                           521520                            
+     10  GO Meia Ponte                                      520020                            
+     10  GO Meia Ponte                                      520050                            
+     10  GO Meia Ponte                                      520350                            
+     10  GO Meia Ponte                                      520390                            
+     10  GO Meia Ponte                                      520425                            
+     10  GO Meia Ponte                                      520450                            
+     10  GO Meia Ponte                                      520650                            
+     10  GO Meia Ponte                                      520910                            
+     10  GO Meia Ponte                                      520993                            
+     10  GO Meia Ponte                                      521150                            
+     10  GO Meia Ponte                                      521210                            
+     10  GO Meia Ponte                                      521260                            
+     10  GO Meia Ponte                                      521290                            
+     10  GO Meia Ponte                                      521380                            
+     10  GO Meia Ponte                                      521600                            
+     10  GO Meia Ponte                                      521710                            
+     10  GO Meia Ponte                                      521770                            
+     10  GO Meia Ponte                                      521805                            
+     10  GO Meia Ponte                                      521839                            
+     10  GO Meia Ponte                                      521878                            
+     10  GO Meia Ponte                                      522205                            
+     11  GO Pires do Rio                                    520630                            
+     11  GO Pires do Rio                                    520815                            
+     11  GO Pires do Rio                                    521530                            
+     11  GO Pires do Rio                                    521580                            
+     11  GO Pires do Rio                                    521740                            
+     11  GO Pires do Rio                                    521920                            
+     11  GO Pires do Rio                                    522026                            
+     11  GO Pires do Rio                                    522060                            
+     11  GO Pires do Rio                                    522180                            
+     11  GO Pires do Rio                                    522200                            
+     12  GO Porangatu                                       520055                            
+     12  GO Porangatu                                       520082                            
+     12  GO Porangatu                                       520357                            
+     12  GO Porangatu                                       520465                            
+     12  GO Porangatu                                       520470                            
+     12  GO Porangatu                                       520495                            
+     12  GO Porangatu                                       520750                            
+     12  GO Porangatu                                       520810                            
+     12  GO Porangatu                                       521280                            
+     12  GO Porangatu                                       521308                            
+     12  GO Porangatu                                       521377                            
+     12  GO Porangatu                                       521410                            
+     12  GO Porangatu                                       521460                            
+     12  GO Porangatu                                       521487                            
+     12  GO Porangatu                                       521800                            
+     12  GO Porangatu                                       521960                            
+     12  GO Porangatu                                       521970                            
+     12  GO Porangatu                                       522145                            
+     12  GO Porangatu                                       522160                            
+     13  GO Quirinópolis                                    520410                            
+     13  GO Quirinópolis                                    520430                            
+     13  GO Quirinópolis                                    520915                            
+     13  GO Quirinópolis                                    521080                            
+     13  GO Quirinópolis                                    521130                            
+     13  GO Quirinópolis                                    521225                            
+     13  GO Quirinópolis                                    521630                            
+     13  GO Quirinópolis                                    521850                            
+     13  GO Quirinópolis                                    522040                            
+     14  GO Rio Vermelho                                    520215                            
+     14  GO Rio Vermelho                                    520250                            
+     14  GO Rio Vermelho                                    520380                            
+     14  GO Rio Vermelho                                    520753                            
+     14  GO Rio Vermelho                                    520890                            
+     14  GO Rio Vermelho                                    521100                            
+     14  GO Rio Vermelho                                    521220                            
+     14  GO Rio Vermelho                                    521295                            
+     14  GO Rio Vermelho                                    521925                            
+     15  GO Sudoeste de Goiás                               520145                            
+     15  GO Sudoeste de Goiás                               520150                            
+     15  GO Sudoeste de Goiás                               520440                            
+     15  GO Sudoeste de Goiás                               520505                            
+     15  GO Sudoeste de Goiás                               520547                            
+     15  GO Sudoeste de Goiás                               520725                            
+     15  GO Sudoeste de Goiás                               521190                            
+     15  GO Sudoeste de Goiás                               521300                            
+     15  GO Sudoeste de Goiás                               521310                            
+     15  GO Sudoeste de Goiás                               521375                            
+     15  GO Sudoeste de Goiás                               521565                            
+     15  GO Sudoeste de Goiás                               521645                            
+     15  GO Sudoeste de Goiás                               521810                            
+     15  GO Sudoeste de Goiás                               521880                            
+     15  GO Sudoeste de Goiás                               521930                            
+     15  GO Sudoeste de Goiás                               521940                            
+     15  GO Sudoeste de Goiás                               521971                            
+     15  GO Sudoeste de Goiás                               522050                            
+     16  GO São Miguel do Araguaia                          520640                            
+     16  GO São Miguel do Araguaia                          521400                            
+     16  GO São Miguel do Araguaia                          521405                            
+     16  GO São Miguel do Araguaia                          521483                            
+     16  GO São Miguel do Araguaia                          521525                            
+     16  GO São Miguel do Araguaia                          522020                            
+     16  GO São Miguel do Araguaia                          522157                            
+     17  GO Vale do Rio dos Bois                            520013                            
+     17  GO Vale do Rio dos Bois                            520460                            
+     17  GO Vale do Rio dos Bois                            520545                            
+     17  GO Vale do Rio dos Bois                            520735                            
+     17  GO Vale do Rio dos Bois                            520740                            
+     17  GO Vale do Rio dos Bois                            520995                            
+     17  GO Vale do Rio dos Bois                            521170                            
+     17  GO Vale do Rio dos Bois                            521570                            
+     17  GO Vale do Rio dos Bois                            521590                            
+     17  GO Vale do Rio dos Bois                            521640                            
+     17  GO Vale do Rio dos Bois                            522005                            
+     17  GO Vale do Rio dos Bois                            522155                            
+     17  GO Vale do Rio dos Bois                            522190                            
+     18  GO Vão do Paranã                                   520080                            
+     18  GO Vão do Paranã                                   520396                            
+     18  GO Vão do Paranã                                   520670                            
+     18  GO Vão do Paranã                                   520790                            
+     18  GO Vão do Paranã                                   520830                            
+     18  GO Vão do Paranã                                   520940                            
+     18  GO Vão do Paranã                                   520990                            
+     18  GO Vão do Paranã                                   521270                            
+     18  GO Vão do Paranã                                   521830                            
+     18  GO Vão do Paranã                                   521980                            
+     18  GO Vão do Paranã                                   522068                            
+     18  GO Vão do Paranã                                   522070                            
+     19  GO Município ignorado - GO                         520000,529999                     

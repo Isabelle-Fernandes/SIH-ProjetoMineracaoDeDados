@@ -1,0 +1,659 @@
+658  6                                                                                    
+      1  35010 São Paulo - SP                               350390                            
+  1   2  ..... Arujá                                        350390                            
+  1   3  ..... Barueri                                      350570                            
+  1   4  ..... Biritiba-Mirim                               350660                            
+  1   5  ..... Caieiras                                     350900                            
+  1   6  ..... Cajamar                                      350920                            
+  1   7  ..... Carapicuíba                                  351060                            
+  1   8  ..... Cotia                                        351300                            
+  1   9  ..... Diadema                                      351380                            
+  1  10  ..... Embu das Artes                               351500                            
+  1  11  ..... Embu-Guaçu                                   351510                            
+  1  12  ..... Ferraz de Vasconcelos                        351570                            
+  1  13  ..... Francisco Morato                             351630                            
+  1  14  ..... Franco da Rocha                              351640                            
+  1  15  ..... Guararema                                    351830                            
+  1  16  ..... Guarulhos                                    351880                            
+  1  17  ..... Itapecerica da Serra                         352220                            
+  1  18  ..... Itapevi                                      352250                            
+  1  19  ..... Itaquaquecetuba                              352310                            
+  1  20  ..... Jandira                                      352500                            
+  1  21  ..... Juquitiba                                    352620                            
+  1  22  ..... Mairiporã                                    352850                            
+  1  23  ..... Mauá                                         352940                            
+  1  24  ..... Mogi das Cruzes                              353060                            
+  1  25  ..... Osasco                                       353440                            
+  1  26  ..... Pirapora do Bom Jesus                        353910                            
+  1  27  ..... Poá                                          353980                            
+  1  28  ..... Ribeirão Pires                               354330                            
+  1  29  ..... Rio Grande da Serra                          354410                            
+  1  30  ..... Salesópolis                                  354500                            
+  1  31  ..... Santa Isabel                                 354680                            
+  1  32  ..... Santana de Parnaíba                          354730                            
+  1  33  ..... Santo André                                  354780                            
+  1  34  ..... São Bernardo do Campo                        354870                            
+  1  35  ..... São Caetano do Sul                           354880                            
+  1  36  ..... São Lourenço da Serra                        354995                            
+  1  37  ..... São Paulo                                    355030,358001-358058              
+  1  38  ..... Suzano                                       355250                            
+  1  39  ..... Taboão da Serra                              355280                            
+  1  40  ..... Vargem Grande Paulista                       355645                            
+     41  35020 Baixada Santista - SP                        350635                            
+ 41  42  ..... Bertioga                                     350635                            
+ 41  43  ..... Cubatão                                      351350                            
+ 41  44  ..... Guarujá                                      351870                            
+ 41  45  ..... Itanhaém                                     352210                            
+ 41  46  ..... Mongaguá                                     353110                            
+ 41  47  ..... Peruíbe                                      353760                            
+ 41  48  ..... Praia Grande                                 354100                            
+ 41  49  ..... Santos                                       354850                            
+ 41  50  ..... São Vicente                                  355100                            
+     51  35030 Campinas - SP                                350160                            
+ 51  52  ..... Americana                                    350160                            
+ 51  53  ..... Artur Nogueira                               350380                            
+ 51  54  ..... Campinas                                     350950                            
+ 51  55  ..... Cosmópolis                                   351280                            
+ 51  56  ..... Engenheiro Coelho                            351515                            
+ 51  57  ..... Holambra                                     351905                            
+ 51  58  ..... Hortolândia                                  351907                            
+ 51  59  ..... Indaiatuba                                   352050                            
+ 51  60  ..... Itatiba                                      352340                            
+ 51  61  ..... Jaguariúna                                   352470                            
+ 51  62  ..... Monte Mor                                    353180                            
+ 51  63  ..... Morungaba                                    353200                            
+ 51  64  ..... Nova Odessa                                  353340                            
+ 51  65  ..... Paulínia                                     353650                            
+ 51  66  ..... Pedreira                                     353710                            
+ 51  67  ..... Santa Bárbara d'Oeste                        354580                            
+ 51  68  ..... Santo Antônio de Posse                       354800                            
+ 51  69  ..... Sumaré                                       355240                            
+ 51  70  ..... Valinhos                                     355620                            
+ 51  71  ..... Vinhedo                                      355670                            
+     72  35041 V.Paraíba/Lit Nort 1 -SP                     350850                            
+ 72  73  ..... Caçapava                                     350850                            
+ 72  74  ..... Igaratá                                      352020                            
+ 72  75  ..... Jacareí                                      352440                            
+ 72  76  ..... Jambeiro                                     352490                            
+ 72  77  ..... Monteiro Lobato                              353170                            
+ 72  78  ..... Paraibuna                                    353560                            
+ 72  79  ..... Santa Branca                                 354600                            
+ 72  80  ..... São José dos Campos                          354990                            
+     81  35042 V.Paraíba/Lit Nort 2 -SP                     350970                            
+ 81  82  ..... Campos do Jordão                             350970                            
+ 81  83  ..... Lagoinha                                     352630                            
+ 81  84  ..... Natividade da Serra                          353230                            
+ 81  85  ..... Pindamonhangaba                              353800                            
+ 81  86  ..... Redenção da Serra                            354230                            
+ 81  87  ..... Santo Antônio do Pinhal                      354820                            
+ 81  88  ..... São Bento do Sapucaí                         354860                            
+ 81  89  ..... São Luís do Paraitinga                       355000                            
+ 81  90  ..... Taubaté                                      355410                            
+ 81  91  ..... Tremembé                                     355480                            
+     92  35043 V.Paraíba/Lit Nort 3 -SP                     350250                            
+ 92  93  ..... Aparecida                                    350250                            
+ 92  94  ..... Cachoeira Paulista                           350860                            
+ 92  95  ..... Canas                                        350995                            
+ 92  96  ..... Cunha                                        351360                            
+ 92  97  ..... Guaratinguetá                                351840                            
+ 92  98  ..... Lorena                                       352720                            
+ 92  99  ..... Piquete                                      353850                            
+ 92 100  ..... Potim                                        354075                            
+ 92 101  ..... Roseira                                      354430                            
+    102  35044 V.Paraíba/Lit Nort 4 -SP                     350315                            
+102 103  ..... Arapeí                                       350315                            
+102 104  ..... Areias                                       350350                            
+102 105  ..... Bananal                                      350490                            
+102 106  ..... Cruzeiro                                     351340                            
+102 107  ..... Lavrinhas                                    352660                            
+102 108  ..... Queluz                                       354190                            
+102 109  ..... São José do Barreiro                         354960                            
+102 110  ..... Silveiras                                    355200                            
+    111  35045 V.Paraíba/Lit Nort 5 -SP                     351050                            
+111 112  ..... Caraguatatuba                                351050                            
+111 113  ..... Ilhabela                                     352040                            
+111 114  ..... São Sebastião                                355070                            
+111 115  ..... Ubatuba                                      355540                            
+    116  35050 Jundiaí - SP                                 350840                            
+116 117  ..... Cabreúva                                     350840                            
+116 118  ..... Campo Limpo Paulista                         350960                            
+116 119  ..... Itupeva                                      352400                            
+116 120  ..... Jarinu                                       352520                            
+116 121  ..... Jundiaí                                      352590                            
+116 122  ..... Louveira                                     352730                            
+116 123  ..... Várzea Paulista                              355650                            
+    124  35060 Piracicaba - SP                              350060                            
+124 125  ..... Águas de São Pedro                           350060                            
+124 126  ..... Analândia                                    350200                            
+124 127  ..... Araras                                       350330                            
+124 128  ..... Capivari                                     351040                            
+124 129  ..... Charqueada                                   351170                            
+124 130  ..... Conchal                                      351220                            
+124 131  ..... Cordeirópolis                                351240                            
+124 132  ..... Corumbataí                                   351270                            
+124 133  ..... Elias Fausto                                 351490                            
+124 134  ..... Ipeúna                                       352110                            
+124 135  ..... Iracemápolis                                 352140                            
+124 136  ..... Leme                                         352670                            
+124 137  ..... Limeira                                      352690                            
+124 138  ..... Mombuca                                      353090                            
+124 139  ..... Piracicaba                                   353870                            
+124 140  ..... Rafard                                       354210                            
+124 141  ..... Rio Claro                                    354390                            
+124 142  ..... Rio das Pedras                               354400                            
+124 143  ..... Saltinho                                     354515                            
+124 144  ..... Santa Gertrudes                              354670                            
+124 145  ..... Santa Maria da Serra                         354700                            
+124 146  ..... São Pedro                                    355040                            
+    147  35070 Sorocaba - SP                                350075                            
+147 148  ..... Alambari                                     350075                            
+147 149  ..... Alumínio                                     350115                            
+147 150  ..... Araçariguama                                 350275                            
+147 151  ..... Araçoiaba da Serra                           350290                            
+147 152  ..... Boituva                                      350700                            
+147 153  ..... Capela do Alto                               351030                            
+147 154  ..... Cerquilho                                    351150                            
+147 155  ..... Cesário Lange                                351160                            
+147 156  ..... Ibiúna                                       351970                            
+147 157  ..... Iperó                                        352100                            
+147 158  ..... Itu                                          352390                            
+147 159  ..... Jumirim                                      352585                            
+147 160  ..... Mairinque                                    352840                            
+147 161  ..... Piedade                                      353780                            
+147 162  ..... Pilar do Sul                                 353790                            
+147 163  ..... Porto Feliz                                  354060                            
+147 164  ..... Salto                                        354520                            
+147 165  ..... Salto de Pirapora                            354530                            
+147 166  ..... São Miguel Arcanjo                           355020                            
+147 167  ..... São Roque                                    355060                            
+147 168  ..... Sarapuí                                      355110                            
+147 169  ..... Sorocaba                                     355220                            
+147 170  ..... Tapiraí                                      355350                            
+147 171  ..... Tatuí                                        355400                            
+147 172  ..... Tietê                                        355450                            
+147 173  ..... Votorantim                                   355700                            
+    174  35900 Fora de Reg.Metrop. - SP                     350010                            
+174 175  ..... Adamantina                                   350010                            
+174 176  ..... Adolfo                                       350020                            
+174 177  ..... Aguaí                                        350030                            
+174 178  ..... Águas da Prata                               350040                            
+174 179  ..... Águas de Lindóia                             350050                            
+174 180  ..... Águas de Santa Bárbara                       350055                            
+174 181  ..... Agudos                                       350070                            
+174 182  ..... Alfredo Marcondes                            350080                            
+174 183  ..... Altair                                       350090                            
+174 184  ..... Altinópolis                                  350100                            
+174 185  ..... Alto Alegre                                  350110                            
+174 186  ..... Álvares Florence                             350120                            
+174 187  ..... Álvares Machado                              350130                            
+174 188  ..... Álvaro de Carvalho                           350140                            
+174 189  ..... Alvinlândia                                  350150                            
+174 190  ..... Américo Brasiliense                          350170                            
+174 191  ..... Américo de Campos                            350180                            
+174 192  ..... Amparo                                       350190                            
+174 193  ..... Andradina                                    350210                            
+174 194  ..... Angatuba                                     350220                            
+174 195  ..... Anhembi                                      350230                            
+174 196  ..... Anhumas                                      350240                            
+174 197  ..... Aparecida d'Oeste                            350260                            
+174 198  ..... Apiaí                                        350270                            
+174 199  ..... Araçatuba                                    350280                            
+174 200  ..... Aramina                                      350300                            
+174 201  ..... Arandu                                       350310                            
+174 202  ..... Araraquara                                   350320                            
+174 203  ..... Arco-Íris                                    350335                            
+174 204  ..... Arealva                                      350340                            
+174 205  ..... Areiópolis                                   350360                            
+174 206  ..... Ariranha                                     350370                            
+174 207  ..... Aspásia                                      350395                            
+174 208  ..... Assis                                        350400                            
+174 209  ..... Atibaia                                      350410                            
+174 210  ..... Auriflama                                    350420                            
+174 211  ..... Avaí                                         350430                            
+174 212  ..... Avanhandava                                  350440                            
+174 213  ..... Avaré                                        350450                            
+174 214  ..... Bady Bassitt                                 350460                            
+174 215  ..... Balbinos                                     350470                            
+174 216  ..... Bálsamo                                      350480                            
+174 217  ..... Barão de Antonina                            350500                            
+174 218  ..... Barbosa                                      350510                            
+174 219  ..... Bariri                                       350520                            
+174 220  ..... Barra Bonita                                 350530                            
+174 221  ..... Barra do Chapéu                              350535                            
+174 222  ..... Barra do Turvo                               350540                            
+174 223  ..... Barretos                                     350550                            
+174 224  ..... Barrinha                                     350560                            
+174 225  ..... Bastos                                       350580                            
+174 226  ..... Batatais                                     350590                            
+174 227  ..... Bauru                                        350600                            
+174 228  ..... Bebedouro                                    350610                            
+174 229  ..... Bento de Abreu                               350620                            
+174 230  ..... Bernardino de Campos                         350630                            
+174 231  ..... Bilac                                        350640                            
+174 232  ..... Birigui                                      350650                            
+174 233  ..... Boa Esperança do Sul                         350670                            
+174 234  ..... Bocaina                                      350680                            
+174 235  ..... Bofete                                       350690                            
+174 236  ..... Bom Jesus dos Perdões                        350710                            
+174 237  ..... Bom Sucesso de Itararé                       350715                            
+174 238  ..... Borá                                         350720                            
+174 239  ..... Boracéia                                     350730                            
+174 240  ..... Borborema                                    350740                            
+174 241  ..... Borebi                                       350745                            
+174 242  ..... Botucatu                                     350750                            
+174 243  ..... Bragança Paulista                            350760                            
+174 244  ..... Braúna                                       350770                            
+174 245  ..... Brejo Alegre                                 350775                            
+174 246  ..... Brodowski                                    350780                            
+174 247  ..... Brotas                                       350790                            
+174 248  ..... Buri                                         350800                            
+174 249  ..... Buritama                                     350810                            
+174 250  ..... Buritizal                                    350820                            
+174 251  ..... Cabrália Paulista                            350830                            
+174 252  ..... Caconde                                      350870                            
+174 253  ..... Cafelândia                                   350880                            
+174 254  ..... Caiabu                                       350890                            
+174 255  ..... Caiuá                                        350910                            
+174 256  ..... Cajati                                       350925                            
+174 257  ..... Cajobi                                       350930                            
+174 258  ..... Cajuru                                       350940                            
+174 259  ..... Campina do Monte Alegre                      350945                            
+174 260  ..... Campos Novos Paulista                        350980                            
+174 261  ..... Cananéia                                     350990                            
+174 262  ..... Cândido Mota                                 351000                            
+174 263  ..... Cândido Rodrigues                            351010                            
+174 264  ..... Canitar                                      351015                            
+174 265  ..... Capão Bonito                                 351020                            
+174 266  ..... Cardoso                                      351070                            
+174 267  ..... Casa Branca                                  351080                            
+174 268  ..... Cássia dos Coqueiros                         351090                            
+174 269  ..... Castilho                                     351100                            
+174 270  ..... Catanduva                                    351110                            
+174 271  ..... Catiguá                                      351120                            
+174 272  ..... Cedral                                       351130                            
+174 273  ..... Cerqueira César                              351140                            
+174 274  ..... Chavantes                                    355720                            
+174 275  ..... Clementina                                   351190                            
+174 276  ..... Colina                                       351200                            
+174 277  ..... Colômbia                                     351210                            
+174 278  ..... Conchas                                      351230                            
+174 279  ..... Coroados                                     351250                            
+174 280  ..... Coronel Macedo                               351260                            
+174 281  ..... Cosmorama                                    351290                            
+174 282  ..... Cravinhos                                    351310                            
+174 283  ..... Cristais Paulista                            351320                            
+174 284  ..... Cruzália                                     351330                            
+174 285  ..... Descalvado                                   351370                            
+174 286  ..... Dirce Reis                                   351385                            
+174 287  ..... Divinolândia                                 351390                            
+174 288  ..... Dobrada                                      351400                            
+174 289  ..... Dois Córregos                                351410                            
+174 290  ..... Dolcinópolis                                 351420                            
+174 291  ..... Dourado                                      351430                            
+174 292  ..... Dracena                                      351440                            
+174 293  ..... Duartina                                     351450                            
+174 294  ..... Dumont                                       351460                            
+174 295  ..... Echaporã                                     351470                            
+174 296  ..... Eldorado                                     351480                            
+174 297  ..... Elisiário                                    351492                            
+174 298  ..... Embaúba                                      351495                            
+174 299  ..... Emilianópolis                                351512                            
+174 300  ..... Espírito Santo do Pinhal                     351518                            
+174 301  ..... Espírito Santo do Turvo                      351519                            
+174 302  ..... Estiva Gerbi                                 355730                            
+174 303  ..... Estrela d'Oeste                              351520                            
+174 304  ..... Estrela do Norte                             351530                            
+174 305  ..... Euclides da Cunha Paulista                   351535                            
+174 306  ..... Fartura                                      351540                            
+174 307  ..... Fernando Prestes                             351560                            
+174 308  ..... Fernandópolis                                351550                            
+174 309  ..... Fernão                                       351565                            
+174 310  ..... Flora Rica                                   351580                            
+174 311  ..... Floreal                                      351590                            
+174 312  ..... Flórida Paulista                             351600                            
+174 313  ..... Florínia                                     351610                            
+174 314  ..... Franca                                       351620                            
+174 315  ..... Gabriel Monteiro                             351650                            
+174 316  ..... Gália                                        351660                            
+174 317  ..... Garça                                        351670                            
+174 318  ..... Gastão Vidigal                               351680                            
+174 319  ..... Gavião Peixoto                               351685                            
+174 320  ..... General Salgado                              351690                            
+174 321  ..... Getulina                                     351700                            
+174 322  ..... Glicério                                     351710                            
+174 323  ..... Guaiçara                                     351720                            
+174 324  ..... Guaimbê                                      351730                            
+174 325  ..... Guaíra                                       351740                            
+174 326  ..... Guapiaçu                                     351750                            
+174 327  ..... Guapiara                                     351760                            
+174 328  ..... Guará                                        351770                            
+174 329  ..... Guaraçaí                                     351780                            
+174 330  ..... Guaraci                                      351790                            
+174 331  ..... Guarani d'Oeste                              351800                            
+174 332  ..... Guarantã                                     351810                            
+174 333  ..... Guararapes                                   351820                            
+174 334  ..... Guareí                                       351850                            
+174 335  ..... Guariba                                      351860                            
+174 336  ..... Guatapará                                    351885                            
+174 337  ..... Guzolândia                                   351890                            
+174 338  ..... Herculândia                                  351900                            
+174 339  ..... Iacanga                                      351910                            
+174 340  ..... Iacri                                        351920                            
+174 341  ..... Iaras                                        351925                            
+174 342  ..... Ibaté                                        351930                            
+174 343  ..... Ibirá                                        351940                            
+174 344  ..... Ibirarema                                    351950                            
+174 345  ..... Ibitinga                                     351960                            
+174 346  ..... Icém                                         351980                            
+174 347  ..... Iepê                                         351990                            
+174 348  ..... Igaraçu do Tietê                             352000                            
+174 349  ..... Igarapava                                    352010                            
+174 350  ..... Iguape                                       352030                            
+174 351  ..... Ilha Comprida                                352042                            
+174 352  ..... Ilha Solteira                                352044                            
+174 353  ..... Indiana                                      352060                            
+174 354  ..... Indiaporã                                    352070                            
+174 355  ..... Inúbia Paulista                              352080                            
+174 356  ..... Ipaussu                                      352090                            
+174 357  ..... Ipiguá                                       352115                            
+174 358  ..... Iporanga                                     352120                            
+174 359  ..... Ipuã                                         352130                            
+174 360  ..... Irapuã                                       352150                            
+174 361  ..... Irapuru                                      352160                            
+174 362  ..... Itaberá                                      352170                            
+174 363  ..... Itaí                                         352180                            
+174 364  ..... Itajobi                                      352190                            
+174 365  ..... Itaju                                        352200                            
+174 366  ..... Itaóca                                       352215                            
+174 367  ..... Itapetininga                                 352230                            
+174 368  ..... Itapeva                                      352240                            
+174 369  ..... Itapira                                      352260                            
+174 370  ..... Itapirapuã Paulista                          352265                            
+174 371  ..... Itápolis                                     352270                            
+174 372  ..... Itaporanga                                   352280                            
+174 373  ..... Itapuí                                       352290                            
+174 374  ..... Itapura                                      352300                            
+174 375  ..... Itararé                                      352320                            
+174 376  ..... Itariri                                      352330                            
+174 377  ..... Itatinga                                     352350                            
+174 378  ..... Itirapina                                    352360                            
+174 379  ..... Itirapuã                                     352370                            
+174 380  ..... Itobi                                        352380                            
+174 381  ..... Ituverava                                    352410                            
+174 382  ..... Jaborandi                                    352420                            
+174 383  ..... Jaboticabal                                  352430                            
+174 384  ..... Jaci                                         352450                            
+174 385  ..... Jacupiranga                                  352460                            
+174 386  ..... Jales                                        352480                            
+174 387  ..... Jardinópolis                                 352510                            
+174 388  ..... Jaú                                          352530                            
+174 389  ..... Jeriquara                                    352540                            
+174 390  ..... Joanópolis                                   352550                            
+174 391  ..... João Ramalho                                 352560                            
+174 392  ..... José Bonifácio                               352570                            
+174 393  ..... Júlio Mesquita                               352580                            
+174 394  ..... Junqueirópolis                               352600                            
+174 395  ..... Juquiá                                       352610                            
+174 396  ..... Laranjal Paulista                            352640                            
+174 397  ..... Lavínia                                      352650                            
+174 398  ..... Lençóis Paulista                             352680                            
+174 399  ..... Lindóia                                      352700                            
+174 400  ..... Lins                                         352710                            
+174 401  ..... Lourdes                                      352725                            
+174 402  ..... Lucélia                                      352740                            
+174 403  ..... Lucianópolis                                 352750                            
+174 404  ..... Luís Antônio                                 352760                            
+174 405  ..... Luiziânia                                    352770                            
+174 406  ..... Lupércio                                     352780                            
+174 407  ..... Lutécia                                      352790                            
+174 408  ..... Macatuba                                     352800                            
+174 409  ..... Macaubal                                     352810                            
+174 410  ..... Macedônia                                    352820                            
+174 411  ..... Magda                                        352830                            
+174 412  ..... Manduri                                      352860                            
+174 413  ..... Marabá Paulista                              352870                            
+174 414  ..... Maracaí                                      352880                            
+174 415  ..... Marapoama                                    352885                            
+174 416  ..... Mariápolis                                   352890                            
+174 417  ..... Marília                                      352900                            
+174 418  ..... Marinópolis                                  352910                            
+174 419  ..... Martinópolis                                 352920                            
+174 420  ..... Matão                                        352930                            
+174 421  ..... Mendonça                                     352950                            
+174 422  ..... Meridiano                                    352960                            
+174 423  ..... Mesópolis                                    352965                            
+174 424  ..... Miguelópolis                                 352970                            
+174 425  ..... Mineiros do Tietê                            352980                            
+174 426  ..... Mira Estrela                                 353000                            
+174 427  ..... Miracatu                                     352990                            
+174 428  ..... Mirandópolis                                 353010                            
+174 429  ..... Mirante do Paranapanema                      353020                            
+174 430  ..... Mirassol                                     353030                            
+174 431  ..... Mirassolândia                                353040                            
+174 432  ..... Mococa                                       353050                            
+174 433  ..... Mogi Guaçu                                   353070                            
+174 434  ..... Mogi Mirim                                   353080                            
+174 435  ..... Monções                                      353100                            
+174 436  ..... Monte Alegre do Sul                          353120                            
+174 437  ..... Monte Alto                                   353130                            
+174 438  ..... Monte Aprazível                              353140                            
+174 439  ..... Monte Azul Paulista                          353150                            
+174 440  ..... Monte Castelo                                353160                            
+174 441  ..... Morro Agudo                                  353190                            
+174 442  ..... Motuca                                       353205                            
+174 443  ..... Murutinga do Sul                             353210                            
+174 444  ..... Nantes                                       353215                            
+174 445  ..... Narandiba                                    353220                            
+174 446  ..... Nazaré Paulista                              353240                            
+174 447  ..... Neves Paulista                               353250                            
+174 448  ..... Nhandeara                                    353260                            
+174 449  ..... Nipoã                                        353270                            
+174 450  ..... Nova Aliança                                 353280                            
+174 451  ..... Nova Campina                                 353282                            
+174 452  ..... Nova Canaã Paulista                          353284                            
+174 453  ..... Nova Castilho                                353286                            
+174 454  ..... Nova Europa                                  353290                            
+174 455  ..... Nova Granada                                 353300                            
+174 456  ..... Nova Guataporanga                            353310                            
+174 457  ..... Nova Independência                           353320                            
+174 458  ..... Nova Luzitânia                               353330                            
+174 459  ..... Novais                                       353325                            
+174 460  ..... Novo Horizonte                               353350                            
+174 461  ..... Nuporanga                                    353360                            
+174 462  ..... Ocauçu                                       353370                            
+174 463  ..... Óleo                                         353380                            
+174 464  ..... Olímpia                                      353390                            
+174 465  ..... Onda Verde                                   353400                            
+174 466  ..... Oriente                                      353410                            
+174 467  ..... Orindiúva                                    353420                            
+174 468  ..... Orlândia                                     353430                            
+174 469  ..... Oscar Bressane                               353450                            
+174 470  ..... Osvaldo Cruz                                 353460                            
+174 471  ..... Ourinhos                                     353470                            
+174 472  ..... Ouro Verde                                   353480                            
+174 473  ..... Ouroeste                                     353475                            
+174 474  ..... Pacaembu                                     353490                            
+174 475  ..... Palestina                                    353500                            
+174 476  ..... Palmares Paulista                            353510                            
+174 477  ..... Palmeira d'Oeste                             353520                            
+174 478  ..... Palmital                                     353530                            
+174 479  ..... Panorama                                     353540                            
+174 480  ..... Paraguaçu Paulista                           353550                            
+174 481  ..... Paraíso                                      353570                            
+174 482  ..... Paranapanema                                 353580                            
+174 483  ..... Paranapuã                                    353590                            
+174 484  ..... Parapuã                                      353600                            
+174 485  ..... Pardinho                                     353610                            
+174 486  ..... Pariquera-Açu                                353620                            
+174 487  ..... Parisi                                       353625                            
+174 488  ..... Patrocínio Paulista                          353630                            
+174 489  ..... Paulicéia                                    353640                            
+174 490  ..... Paulistânia                                  353657                            
+174 491  ..... Paulo de Faria                               353660                            
+174 492  ..... Pederneiras                                  353670                            
+174 493  ..... Pedra Bela                                   353680                            
+174 494  ..... Pedranópolis                                 353690                            
+174 495  ..... Pedregulho                                   353700                            
+174 496  ..... Pedrinhas Paulista                           353715                            
+174 497  ..... Pedro de Toledo                              353720                            
+174 498  ..... Penápolis                                    353730                            
+174 499  ..... Pereira Barreto                              353740                            
+174 500  ..... Pereiras                                     353750                            
+174 501  ..... Piacatu                                      353770                            
+174 502  ..... Pindorama                                    353810                            
+174 503  ..... Pinhalzinho                                  353820                            
+174 504  ..... Piquerobi                                    353830                            
+174 505  ..... Piracaia                                     353860                            
+174 506  ..... Piraju                                       353880                            
+174 507  ..... Pirajuí                                      353890                            
+174 508  ..... Pirangi                                      353900                            
+174 509  ..... Pirapozinho                                  353920                            
+174 510  ..... Pirassununga                                 353930                            
+174 511  ..... Piratininga                                  353940                            
+174 512  ..... Pitangueiras                                 353950                            
+174 513  ..... Planalto                                     353960                            
+174 514  ..... Platina                                      353970                            
+174 515  ..... Poloni                                       353990                            
+174 516  ..... Pompéia                                      354000                            
+174 517  ..... Pongaí                                       354010                            
+174 518  ..... Pontal                                       354020                            
+174 519  ..... Pontalinda                                   354025                            
+174 520  ..... Pontes Gestal                                354030                            
+174 521  ..... Populina                                     354040                            
+174 522  ..... Porangaba                                    354050                            
+174 523  ..... Porto Ferreira                               354070                            
+174 524  ..... Potirendaba                                  354080                            
+174 525  ..... Pracinha                                     354085                            
+174 526  ..... Pradópolis                                   354090                            
+174 527  ..... Pratânia                                     354105                            
+174 528  ..... Presidente Alves                             354110                            
+174 529  ..... Presidente Bernardes                         354120                            
+174 530  ..... Presidente Epitácio                          354130                            
+174 531  ..... Presidente Prudente                          354140                            
+174 532  ..... Presidente Venceslau                         354150                            
+174 533  ..... Promissão                                    354160                            
+174 534  ..... Quadra                                       354165                            
+174 535  ..... Quatá                                        354170                            
+174 536  ..... Queiroz                                      354180                            
+174 537  ..... Quintana                                     354200                            
+174 538  ..... Rancharia                                    354220                            
+174 539  ..... Regente Feijó                                354240                            
+174 540  ..... Reginópolis                                  354250                            
+174 541  ..... Registro                                     354260                            
+174 542  ..... Restinga                                     354270                            
+174 543  ..... Ribeira                                      354280                            
+174 544  ..... Ribeirão Bonito                              354290                            
+174 545  ..... Ribeirão Branco                              354300                            
+174 546  ..... Ribeirão Corrente                            354310                            
+174 547  ..... Ribeirão do Sul                              354320                            
+174 548  ..... Ribeirão dos Índios                          354323                            
+174 549  ..... Ribeirão Grande                              354325                            
+174 550  ..... Ribeirão Preto                               354340                            
+174 551  ..... Rifaina                                      354360                            
+174 552  ..... Rincão                                       354370                            
+174 553  ..... Rinópolis                                    354380                            
+174 554  ..... Riolândia                                    354420                            
+174 555  ..... Riversul                                     354350                            
+174 556  ..... Rosana                                       354425                            
+174 557  ..... Rubiácea                                     354440                            
+174 558  ..... Rubinéia                                     354450                            
+174 559  ..... Sabino                                       354460                            
+174 560  ..... Sagres                                       354470                            
+174 561  ..... Sales                                        354480                            
+174 562  ..... Sales Oliveira                               354490                            
+174 563  ..... Salmourão                                    354510                            
+174 564  ..... Salto Grande                                 354540                            
+174 565  ..... Sandovalina                                  354550                            
+174 566  ..... Santa Adélia                                 354560                            
+174 567  ..... Santa Albertina                              354570                            
+174 568  ..... Santa Clara d'Oeste                          354610                            
+174 569  ..... Santa Cruz da Conceição                      354620                            
+174 570  ..... Santa Cruz da Esperança                      354625                            
+174 571  ..... Santa Cruz das Palmeiras                     354630                            
+174 572  ..... Santa Cruz do Rio Pardo                      354640                            
+174 573  ..... Santa Ernestina                              354650                            
+174 574  ..... Santa Fé do Sul                              354660                            
+174 575  ..... Santa Lúcia                                  354690                            
+174 576  ..... Santa Mercedes                               354710                            
+174 577  ..... Santa Rita d'Oeste                           354740                            
+174 578  ..... Santa Rita do Passa Quatro                   354750                            
+174 579  ..... Santa Rosa de Viterbo                        354760                            
+174 580  ..... Santa Salete                                 354765                            
+174 581  ..... Santana da Ponte Pensa                       354720                            
+174 582  ..... Santo Anastácio                              354770                            
+174 583  ..... Santo Antônio da Alegria                     354790                            
+174 584  ..... Santo Antônio do Aracanguá                   354805                            
+174 585  ..... Santo Antônio do Jardim                      354810                            
+174 586  ..... Santo Expedito                               354830                            
+174 587  ..... Santópolis do Aguapeí                        354840                            
+174 588  ..... São Carlos                                   354890                            
+174 589  ..... São Francisco                                354900                            
+174 590  ..... São João da Boa Vista                        354910                            
+174 591  ..... São João das Duas Pontes                     354920                            
+174 592  ..... São João de Iracema                          354925                            
+174 593  ..... São João do Pau d'Alho                       354930                            
+174 594  ..... São Joaquim da Barra                         354940                            
+174 595  ..... São José da Bela Vista                       354950                            
+174 596  ..... São José do Rio Pardo                        354970                            
+174 597  ..... São José do Rio Preto                        354980                            
+174 598  ..... São Manuel                                   355010                            
+174 599  ..... São Pedro do Turvo                           355050                            
+174 600  ..... São Sebastião da Grama                       355080                            
+174 601  ..... São Simão                                    355090                            
+174 602  ..... Sarutaiá                                     355120                            
+174 603  ..... Sebastianópolis do Sul                       355130                            
+174 604  ..... Serra Azul                                   355140                            
+174 605  ..... Serra Negra                                  355160                            
+174 606  ..... Serrana                                      355150                            
+174 607  ..... Sertãozinho                                  355170                            
+174 608  ..... Sete Barras                                  355180                            
+174 609  ..... Severínia                                    355190                            
+174 610  ..... Socorro                                      355210                            
+174 611  ..... Sud Mennucci                                 355230                            
+174 612  ..... Suzanápolis                                  355255                            
+174 613  ..... Tabapuã                                      355260                            
+174 614  ..... Tabatinga                                    355270                            
+174 615  ..... Taciba                                       355290                            
+174 616  ..... Taguaí                                       355300                            
+174 617  ..... Taiaçu                                       355310                            
+174 618  ..... Taiúva                                       355320                            
+174 619  ..... Tambaú                                       355330                            
+174 620  ..... Tanabi                                       355340                            
+174 621  ..... Tapiratiba                                   355360                            
+174 622  ..... Taquaral                                     355365                            
+174 623  ..... Taquaritinga                                 355370                            
+174 624  ..... Taquarituba                                  355380                            
+174 625  ..... Taquarivaí                                   355385                            
+174 626  ..... Tarabai                                      355390                            
+174 627  ..... Tarumã                                       355395                            
+174 628  ..... Tejupá                                       355420                            
+174 629  ..... Teodoro Sampaio                              355430                            
+174 630  ..... Terra Roxa                                   355440                            
+174 631  ..... Timburi                                      355460                            
+174 632  ..... Torre de Pedra                               355465                            
+174 633  ..... Torrinha                                     355470                            
+174 634  ..... Trabiju                                      355475                            
+174 635  ..... Três Fronteiras                              355490                            
+174 636  ..... Tuiuti                                       355495                            
+174 637  ..... Tupã                                         355500                            
+174 638  ..... Tupi Paulista                                355510                            
+174 639  ..... Turiúba                                      355520                            
+174 640  ..... Turmalina                                    355530                            
+174 641  ..... Ubarana                                      355535                            
+174 642  ..... Ubirajara                                    355550                            
+174 643  ..... Uchoa                                        355560                            
+174 644  ..... União Paulista                               355570                            
+174 645  ..... Urânia                                       355580                            
+174 646  ..... Uru                                          355590                            
+174 647  ..... Urupês                                       355600                            
+174 648  ..... Valentim Gentil                              355610                            
+174 649  ..... Valparaíso                                   355630                            
+174 650  ..... Vargem                                       355635                            
+174 651  ..... Vargem Grande do Sul                         355640                            
+174 652  ..... Vera Cruz                                    355660                            
+174 653  ..... Viradouro                                    355680                            
+174 654  ..... Vista Alegre do Alto                         355690                            
+174 655  ..... Vitória Brasil                               355695                            
+174 656  ..... Votuporanga                                  355710                            
+174 657  ..... Zacarias                                     355715                            
+    658  35000 Ignorado - SP                                350000,359999                     

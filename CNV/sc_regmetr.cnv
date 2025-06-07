@@ -1,0 +1,297 @@
+22  6                                                                                    
+      1  42011 Florianópolis - núc - SC                     420060                            
+      1  42011 Florianópolis - núc - SC                     420120                            
+      1  42011 Florianópolis - núc - SC                     420230                            
+      1  42011 Florianópolis - núc - SC                     420540                            
+      1  42011 Florianópolis - núc - SC                     420600                            
+      1  42011 Florianópolis - núc - SC                     421190                            
+      1  42011 Florianópolis - núc - SC                     421570                            
+      1  42011 Florianópolis - núc - SC                     421660                            
+      1  42011 Florianópolis - núc - SC                     421725                            
+      2  42012 Florianópolis - exp - SC                     420070                            
+      2  42012 Florianópolis - exp - SC                     420090                            
+      2  42012 Florianópolis - exp - SC                     420110                            
+      2  42012 Florianópolis - exp - SC                     420370                            
+      2  42012 Florianópolis - exp - SC                     420570                            
+      2  42012 Florianópolis - exp - SC                     420980                            
+      2  42012 Florianópolis - exp - SC                     421020                            
+      2  42012 Florianópolis - exp - SC                     421150                            
+      2  42012 Florianópolis - exp - SC                     421230                            
+      2  42012 Florianópolis - exp - SC                     421430                            
+      2  42012 Florianópolis - exp - SC                     421590                            
+      2  42012 Florianópolis - exp - SC                     421630                            
+      2  42012 Florianópolis - exp - SC                     421800                            
+      3  42021 Vale Itajaí - núc - SC                       420240                            
+      3  42021 Vale Itajaí - núc - SC                       420590                            
+      3  42021 Vale Itajaí - núc - SC                       420750                            
+      3  42021 Vale Itajaí - núc - SC                       421320                            
+      3  42021 Vale Itajaí - núc - SC                       421820                            
+      4  42022 Vale Itajaí - exp - SC                       420125                            
+      4  42022 Vale Itajaí - exp - SC                       420170                            
+      4  42022 Vale Itajaí - exp - SC                       420220                            
+      4  42022 Vale Itajaí - exp - SC                       420270                            
+      4  42022 Vale Itajaí - exp - SC                       420290                            
+      4  42022 Vale Itajaí - exp - SC                       420515                            
+      4  42022 Vale Itajaí - exp - SC                       420630                            
+      4  42022 Vale Itajaí - exp - SC                       420710                            
+      4  42022 Vale Itajaí - exp - SC                       421000                            
+      4  42022 Vale Itajaí - exp - SC                       421470                            
+      4  42022 Vale Itajaí - exp - SC                       421510                            
+      5  42031 Norte/Nordest - núc - SC                     420130                            
+      5  42031 Norte/Nordest - núc - SC                     420910                            
+      6  42032 Norte/Nordest - exp - SC                     420205                            
+      6  42032 Norte/Nordest - exp - SC                     420210                            
+      6  42032 Norte/Nordest - exp - SC                     420213                            
+      6  42032 Norte/Nordest - exp - SC                     420330                            
+      6  42032 Norte/Nordest - exp - SC                     420380                            
+      6  42032 Norte/Nordest - exp - SC                     420450                            
+      6  42032 Norte/Nordest - exp - SC                     420580                            
+      6  42032 Norte/Nordest - exp - SC                     420650                            
+      6  42032 Norte/Nordest - exp - SC                     420790                            
+      6  42032 Norte/Nordest - exp - SC                     420810                            
+      6  42032 Norte/Nordest - exp - SC                     420845                            
+      6  42032 Norte/Nordest - exp - SC                     420890                            
+      6  42032 Norte/Nordest - exp - SC                     421010                            
+      6  42032 Norte/Nordest - exp - SC                     421030                            
+      6  42032 Norte/Nordest - exp - SC                     421060                            
+      6  42032 Norte/Nordest - exp - SC                     421110                            
+      6  42032 Norte/Nordest - exp - SC                     421220                            
+      6  42032 Norte/Nordest - exp - SC                     421360                            
+      6  42032 Norte/Nordest - exp - SC                     421500                            
+      6  42032 Norte/Nordest - exp - SC                     421580                            
+      6  42032 Norte/Nordest - exp - SC                     421620                            
+      6  42032 Norte/Nordest - exp - SC                     421635                            
+      6  42032 Norte/Nordest - exp - SC                     421740                            
+      6  42032 Norte/Nordest - exp - SC                     421830                            
+      7  42041 Foz R.Itajaí - núc - SC                      420200                            
+      7  42041 Foz R.Itajaí - núc - SC                      420320                            
+      7  42041 Foz R.Itajaí - núc - SC                      420820                            
+      7  42041 Foz R.Itajaí - núc - SC                      421130                            
+      7  42041 Foz R.Itajaí - núc - SC                      421250                            
+      8  42042 Foz R.Itajaí - exp - SC                      420245                            
+      8  42042 Foz R.Itajaí - exp - SC                      420830                            
+      8  42042 Foz R.Itajaí - exp - SC                      421280                            
+      8  42042 Foz R.Itajaí - exp - SC                      421350                            
+      9  42051 Carbonífera - núc - SC                       420425                            
+      9  42051 Carbonífera - núc - SC                       420460                            
+      9  42051 Carbonífera - núc - SC                       420545                            
+      9  42051 Carbonífera - núc - SC                       420700                            
+      9  42051 Carbonífera - núc - SC                       421120                            
+      9  42051 Carbonífera - núc - SC                       421160                            
+      9  42051 Carbonífera - núc - SC                       421760                            
+     10  42052 Carbonífera - exp - SC                       420140                            
+     10  42052 Carbonífera - exp - SC                       420195                            
+     10  42052 Carbonífera - exp - SC                       420207                            
+     10  42052 Carbonífera - exp - SC                       420519                            
+     10  42052 Carbonífera - exp - SC                       420870                            
+     10  42052 Carbonífera - exp - SC                       420960                            
+     10  42052 Carbonífera - exp - SC                       421040                            
+     10  42052 Carbonífera - exp - SC                       421080                            
+     10  42052 Carbonífera - exp - SC                       421125                            
+     10  42052 Carbonífera - exp - SC                       421225                            
+     10  42052 Carbonífera - exp - SC                       421380                            
+     10  42052 Carbonífera - exp - SC                       421565                            
+     10  42052 Carbonífera - exp - SC                       421640                            
+     10  42052 Carbonífera - exp - SC                       421770                            
+     10  42052 Carbonífera - exp - SC                       421810                            
+     10  42052 Carbonífera - exp - SC                       421835                            
+     10  42052 Carbonífera - exp - SC                       421880                            
+     10  42052 Carbonífera - exp - SC                       421900                            
+     10  42052 Carbonífera - exp - SC                       422000                            
+     11  42061 Tubarão - núc - SC                           420395                            
+     11  42061 Tubarão - núc - SC                           420620                            
+     11  42061 Tubarão - núc - SC                           421870                            
+     12  42062 Tubarão - exp - SC                           420150                            
+     12  42062 Tubarão - exp - SC                           420280                            
+     12  42062 Tubarão - exp - SC                           420610                            
+     12  42062 Tubarão - exp - SC                           420720                            
+     12  42062 Tubarão - exp - SC                           420730                            
+     12  42062 Tubarão - exp - SC                           420880                            
+     12  42062 Tubarão - exp - SC                           420940                            
+     12  42062 Tubarão - exp - SC                           421170                            
+     12  42062 Tubarão - exp - SC                           421240                            
+     12  42062 Tubarão - exp - SC                           421265                            
+     12  42062 Tubarão - exp - SC                           421490                            
+     12  42062 Tubarão - exp - SC                           421545                            
+     12  42062 Tubarão - exp - SC                           421560                            
+     12  42062 Tubarão - exp - SC                           421700                            
+     12  42062 Tubarão - exp - SC                           421710                            
+     12  42062 Tubarão - exp - SC                           421840                            
+     13  42071 Lages - núc - SC                             420455                            
+     13  42071 Lages - núc - SC                             420930                            
+     14  42072 Lages - exp - SC                             420100                            
+     14  42072 Lages - exp - SC                             420243                            
+     14  42072 Lages - exp - SC                             420250                            
+     14  42072 Lages - exp - SC                             420260                            
+     14  42072 Lages - exp - SC                             420325                            
+     14  42072 Lages - exp - SC                             420340                            
+     14  42072 Lages - exp - SC                             420417                            
+     14  42072 Lages - exp - SC                             420480                            
+     14  42072 Lages - exp - SC                             420555                            
+     14  42072 Lages - exp - SC                             421175                            
+     14  42072 Lages - exp - SC                             421189                            
+     14  42072 Lages - exp - SC                             421205                            
+     14  42072 Lages - exp - SC                             421330                            
+     14  42072 Lages - exp - SC                             421335                            
+     14  42072 Lages - exp - SC                             421505                            
+     14  42072 Lages - exp - SC                             421550                            
+     14  42072 Lages - exp - SC                             421605                            
+     14  42072 Lages - exp - SC                             421650                            
+     14  42072 Lages - exp - SC                             421680                            
+     14  42072 Lages - exp - SC                             421890                            
+     14  42072 Lages - exp - SC                             421895                            
+     15  42081 Chapecó - núc - SC                           420050                            
+     15  42081 Chapecó - núc - SC                           420055                            
+     15  42081 Chapecó - núc - SC                           420165                            
+     15  42081 Chapecó - núc - SC                           420420                            
+     15  42081 Chapecó - núc - SC                           420435                            
+     15  42081 Chapecó - núc - SC                           420440                            
+     15  42081 Chapecó - núc - SC                           420665                            
+     15  42081 Chapecó - núc - SC                           421140                            
+     15  42081 Chapecó - núc - SC                           421145                            
+     15  42081 Chapecó - núc - SC                           421187                            
+     15  42081 Chapecó - núc - SC                           421290                            
+     15  42081 Chapecó - núc - SC                           421315                            
+     15  42081 Chapecó - núc - SC                           421600                            
+     15  42081 Chapecó - núc - SC                           421730                            
+     15  42081 Chapecó - núc - SC                           421750                            
+     15  42081 Chapecó - núc - SC                           421950                            
+     15  42081 Chapecó - núc - SC                           421970                            
+     16  42082 Chapecó - exp - SC                           420410                            
+     16  42082 Chapecó - exp - SC                           420475                            
+     16  42082 Chapecó - exp - SC                           420530                            
+     16  42082 Chapecó - exp - SC                           420800                            
+     16  42082 Chapecó - exp - SC                           420945                            
+     16  42082 Chapecó - exp - SC                           421055                            
+     16  42082 Chapecó - exp - SC                           421210                            
+     16  42082 Chapecó - exp - SC                           421227                            
+     16  42082 Chapecó - exp - SC                           421340                            
+     16  42082 Chapecó - exp - SC                           421420                            
+     16  42082 Chapecó - exp - SC                           421755                            
+     16  42082 Chapecó - exp - SC                           421775                            
+     16  42082 Chapecó - exp - SC                           421885                            
+     16  42082 Chapecó - exp - SC                           421910                            
+     16  42082 Chapecó - exp - SC                           421960                            
+     17  42091 Alto V.Itajaí - núc - SC                     420690                            
+     17  42091 Alto V.Itajaí - núc - SC                     420850                            
+     17  42091 Alto V.Itajaí - núc - SC                     421480                            
+     17  42091 Alto V.Itajaí - núc - SC                     421780                            
+     18  42092 Alto V.Itajaí - exp - SC                     420020                            
+     18  42092 Alto V.Itajaí - exp - SC                     420030                            
+     18  42092 Alto V.Itajaí - exp - SC                     420180                            
+     18  42092 Alto V.Itajaí - exp - SC                     420190                            
+     18  42092 Alto V.Itajaí - exp - SC                     420285                            
+     18  42092 Alto V.Itajaí - exp - SC                     420419                            
+     18  42092 Alto V.Itajaí - exp - SC                     420510                            
+     18  42092 Alto V.Itajaí - exp - SC                     420740                            
+     18  42092 Alto V.Itajaí - exp - SC                     420915                            
+     18  42092 Alto V.Itajaí - exp - SC                     420950                            
+     18  42092 Alto V.Itajaí - exp - SC                     420990                            
+     18  42092 Alto V.Itajaí - exp - SC                     421085                            
+     18  42092 Alto V.Itajaí - exp - SC                     421270                            
+     18  42092 Alto V.Itajaí - exp - SC                     421370                            
+     18  42092 Alto V.Itajaí - exp - SC                     421400                            
+     18  42092 Alto V.Itajaí - exp - SC                     421410                            
+     18  42092 Alto V.Itajaí - exp - SC                     421450                            
+     18  42092 Alto V.Itajaí - exp - SC                     421460                            
+     18  42092 Alto V.Itajaí - exp - SC                     421530                            
+     18  42092 Alto V.Itajaí - exp - SC                     421567                            
+     18  42092 Alto V.Itajaí - exp - SC                     421860                            
+     18  42092 Alto V.Itajaí - exp - SC                     421920                            
+     18  42092 Alto V.Itajaí - exp - SC                     421935                            
+     18  42092 Alto V.Itajaí - exp - SC                     421940                            
+     19  42101 Extremo Oeste - núc - SC                     420208                            
+     19  42101 Extremo Oeste - núc - SC                     420209                            
+     19  42101 Extremo Oeste - núc - SC                     420215                            
+     19  42101 Extremo Oeste - núc - SC                     420470                            
+     19  42101 Extremo Oeste - núc - SC                     420490                            
+     19  42101 Extremo Oeste - núc - SC                     420500                            
+     19  42101 Extremo Oeste - núc - SC                     420535                            
+     19  42101 Extremo Oeste - núc - SC                     420640                            
+     19  42101 Extremo Oeste - núc - SC                     420660                            
+     19  42101 Extremo Oeste - núc - SC                     420765                            
+     19  42101 Extremo Oeste - núc - SC                     420775                            
+     19  42101 Extremo Oeste - núc - SC                     420840                            
+     19  42101 Extremo Oeste - núc - SC                     421050                            
+     19  42101 Extremo Oeste - núc - SC                     421223                            
+     19  42101 Extremo Oeste - núc - SC                     421415                            
+     19  42101 Extremo Oeste - núc - SC                     421520                            
+     19  42101 Extremo Oeste - núc - SC                     421555                            
+     19  42101 Extremo Oeste - núc - SC                     421625                            
+     19  42101 Extremo Oeste - núc - SC                     421670                            
+     19  42101 Extremo Oeste - núc - SC                     421720                            
+     19  42101 Extremo Oeste - núc - SC                     421875                            
+     20  42102 Extremo Oeste - exp - SC                     420010                            
+     20  42102 Extremo Oeste - exp - SC                     420080                            
+     20  42102 Extremo Oeste - exp - SC                     420253                            
+     20  42102 Extremo Oeste - exp - SC                     420257                            
+     20  42102 Extremo Oeste - exp - SC                     420310                            
+     20  42102 Extremo Oeste - exp - SC                     420350                            
+     20  42102 Extremo Oeste - exp - SC                     420445                            
+     20  42102 Extremo Oeste - exp - SC                     420517                            
+     20  42102 Extremo Oeste - exp - SC                     420543                            
+     20  42102 Extremo Oeste - exp - SC                     420560                            
+     20  42102 Extremo Oeste - exp - SC                     420768                            
+     20  42102 Extremo Oeste - exp - SC                     420785                            
+     20  42102 Extremo Oeste - exp - SC                     420895                            
+     20  42102 Extremo Oeste - exp - SC                     420917                            
+     20  42102 Extremo Oeste - exp - SC                     421090                            
+     20  42102 Extremo Oeste - exp - SC                     421100                            
+     20  42102 Extremo Oeste - exp - SC                     421165                            
+     20  42102 Extremo Oeste - exp - SC                     421185                            
+     20  42102 Extremo Oeste - exp - SC                     421200                            
+     20  42102 Extremo Oeste - exp - SC                     421507                            
+     20  42102 Extremo Oeste - exp - SC                     421535                            
+     20  42102 Extremo Oeste - exp - SC                     421568                            
+     20  42102 Extremo Oeste - exp - SC                     421569                            
+     20  42102 Extremo Oeste - exp - SC                     421575                            
+     20  42102 Extremo Oeste - exp - SC                     421610                            
+     20  42102 Extremo Oeste - exp - SC                     421690                            
+     20  42102 Extremo Oeste - exp - SC                     421715                            
+     20  42102 Extremo Oeste - exp - SC                     421795                            
+     21  42111 Contestado - núcleo - SC                     420005                            
+     21  42111 Contestado - núcleo - SC                     420040                            
+     21  42111 Contestado - núcleo - SC                     420075                            
+     21  42111 Contestado - núcleo - SC                     420127                            
+     21  42111 Contestado - núcleo - SC                     420160                            
+     21  42111 Contestado - núcleo - SC                     420287                            
+     21  42111 Contestado - núcleo - SC                     420300                            
+     21  42111 Contestado - núcleo - SC                     420315                            
+     21  42111 Contestado - núcleo - SC                     420360                            
+     21  42111 Contestado - núcleo - SC                     420390                            
+     21  42111 Contestado - núcleo - SC                     420400                            
+     21  42111 Contestado - núcleo - SC                     420415,420411                     
+     21  42111 Contestado - núcleo - SC                     420430                            
+     21  42111 Contestado - núcleo - SC                     420520                            
+     21  42111 Contestado - núcleo - SC                     420550                            
+     21  42111 Contestado - núcleo - SC                     420670                            
+     21  42111 Contestado - núcleo - SC                     420675                            
+     21  42111 Contestado - núcleo - SC                     420680                            
+     21  42111 Contestado - núcleo - SC                     420757                            
+     21  42111 Contestado - núcleo - SC                     420760                            
+     21  42111 Contestado - núcleo - SC                     420770                            
+     21  42111 Contestado - núcleo - SC                     420780                            
+     21  42111 Contestado - núcleo - SC                     420860                            
+     21  42111 Contestado - núcleo - SC                     420900                            
+     21  42111 Contestado - núcleo - SC                     420920                            
+     21  42111 Contestado - núcleo - SC                     420970                            
+     21  42111 Contestado - núcleo - SC                     420985                            
+     21  42111 Contestado - núcleo - SC                     421003                            
+     21  42111 Contestado - núcleo - SC                     421005                            
+     21  42111 Contestado - núcleo - SC                     421070                            
+     21  42111 Contestado - núcleo - SC                     421105                            
+     21  42111 Contestado - núcleo - SC                     421180                            
+     21  42111 Contestado - núcleo - SC                     421260                            
+     21  42111 Contestado - núcleo - SC                     421300                            
+     21  42111 Contestado - núcleo - SC                     421310                            
+     21  42111 Contestado - núcleo - SC                     421390                            
+     21  42111 Contestado - núcleo - SC                     421440                            
+     21  42111 Contestado - núcleo - SC                     421540                            
+     21  42111 Contestado - núcleo - SC                     421790                            
+     21  42111 Contestado - núcleo - SC                     421825                            
+     21  42111 Contestado - núcleo - SC                     421850                            
+     21  42111 Contestado - núcleo - SC                     421915                            
+     21  42111 Contestado - núcleo - SC                     421917                            
+     21  42111 Contestado - núcleo - SC                     421930                            
+     21  42111 Contestado - núcleo - SC                     421985                            
+     22  42000 Ignorado - SC                                420000,429999                     

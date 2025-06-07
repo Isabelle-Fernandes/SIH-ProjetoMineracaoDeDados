@@ -1,0 +1,401 @@
+10  6                                                                                    
+      1  Apucarana - PR                                     410140                            
+      1  Apucarana - PR                                     410165                            
+      1  Apucarana - PR                                     410185                            
+      1  Apucarana - PR                                     410330                            
+      1  Apucarana - PR                                     410350                            
+      1  Apucarana - PR                                     410685                            
+      1  Apucarana - PR                                     410760                            
+      1  Apucarana - PR                                     410855                            
+      1  Apucarana - PR                                     410870                            
+      1  Apucarana - PR                                     411150                            
+      1  Apucarana - PR                                     411250                            
+      1  Apucarana - PR                                     411310                            
+      1  Apucarana - PR                                     411342                            
+      1  Apucarana - PR                                     411375                            
+      1  Apucarana - PR                                     411490                            
+      1  Apucarana - PR                                     411550                            
+      1  Apucarana - PR                                     411575                            
+      1  Apucarana - PR                                     411729                            
+      1  Apucarana - PR                                     412210                            
+      1  Apucarana - PR                                     412217                            
+      1  Apucarana - PR                                     412265                            
+      1  Apucarana - PR                                     412500                            
+      1  Apucarana - PR                                     412580                            
+      2  Campo Mourão - PR                                  410045                            
+      2  Campo Mourão - PR                                  410170                            
+      2  Campo Mourão - PR                                  410250                            
+      2  Campo Mourão - PR                                  410300                            
+      2  Campo Mourão - PR                                  410390                            
+      2  Campo Mourão - PR                                  410430                            
+      2  Campo Mourão - PR                                  410655                            
+      2  Campo Mourão - PR                                  410750                            
+      2  Campo Mourão - PR                                  410755                            
+      2  Campo Mourão - PR                                  410770                            
+      2  Campo Mourão - PR                                  410860                            
+      2  Campo Mourão - PR                                  411080                            
+      2  Campo Mourão - PR                                  411220                            
+      2  Campo Mourão - PR                                  411295                            
+      2  Campo Mourão - PR                                  411373                            
+      2  Campo Mourão - PR                                  411400                            
+      2  Campo Mourão - PR                                  411610                            
+      2  Campo Mourão - PR                                  411680                            
+      2  Campo Mourão - PR                                  411880                            
+      2  Campo Mourão - PR                                  412065                            
+      2  Campo Mourão - PR                                  412110                            
+      2  Campo Mourão - PR                                  412135                            
+      2  Campo Mourão - PR                                  412250                            
+      2  Campo Mourão - PR                                  412720                            
+      2  Campo Mourão - PR                                  412800                            
+      3  Cascavel - PR                                      410105                            
+      3  Cascavel - PR                                      410305                            
+      3  Cascavel - PR                                      410335                            
+      3  Cascavel - PR                                      410345                            
+      3  Cascavel - PR                                      410405                            
+      3  Cascavel - PR                                      410460                            
+      3  Cascavel - PR                                      410480                            
+      3  Cascavel - PR                                      410500                            
+      3  Cascavel - PR                                      410530                            
+      3  Cascavel - PR                                      410630                            
+      3  Cascavel - PR                                      410712                            
+      3  Cascavel - PR                                      410930                            
+      3  Cascavel - PR                                      410975                            
+      3  Cascavel - PR                                      411005                            
+      3  Cascavel - PR                                      411065                            
+      3  Cascavel - PR                                      411275                            
+      3  Cascavel - PR                                      411345                            
+      3  Cascavel - PR                                      411560                            
+      3  Cascavel - PR                                      411670                            
+      3  Cascavel - PR                                      412382                            
+      3  Cascavel - PR                                      412402                            
+      3  Cascavel - PR                                      412785                            
+      3  Cascavel - PR                                      412855                            
+      4  Curitiba - PR                                      410020                            
+      4  Curitiba - PR                                      410030                            
+      4  Curitiba - PR                                      410040                            
+      4  Curitiba - PR                                      410180                            
+      4  Curitiba - PR                                      410230                            
+      4  Curitiba - PR                                      410310                            
+      4  Curitiba - PR                                      410400                            
+      4  Curitiba - PR                                      410410                            
+      4  Curitiba - PR                                      410420                            
+      4  Curitiba - PR                                      410425                            
+      4  Curitiba - PR                                      410520                            
+      4  Curitiba - PR                                      410580                            
+      4  Curitiba - PR                                      410620                            
+      4  Curitiba - PR                                      410690                            
+      4  Curitiba - PR                                      410765                            
+      4  Curitiba - PR                                      411125                            
+      4  Curitiba - PR                                      411320                            
+      4  Curitiba - PR                                      411430                            
+      4  Curitiba - PR                                      411910                            
+      4  Curitiba - PR                                      411915                            
+      4  Curitiba - PR                                      411950                            
+      4  Curitiba - PR                                      412080                            
+      4  Curitiba - PR                                      412120                            
+      4  Curitiba - PR                                      412220                            
+      4  Curitiba - PR                                      412230                            
+      4  Curitiba - PR                                      412550                            
+      4  Curitiba - PR                                      412760                            
+      4  Curitiba - PR                                      412788                            
+      4  Curitiba - PR                                      412863                            
+      5  Londrina - PR                                      410080                            
+      5  Londrina - PR                                      410150                            
+      5  Londrina - PR                                      410190                            
+      5  Londrina - PR                                      410280                            
+      5  Londrina - PR                                      410370                            
+      5  Londrina - PR                                      410510                            
+      5  Londrina - PR                                      410800                            
+      5  Londrina - PR                                      410920                            
+      5  Londrina - PR                                      410980                            
+      5  Londrina - PR                                      411190                            
+      5  Londrina - PR                                      411270                            
+      5  Londrina - PR                                      411370                            
+      5  Londrina - PR                                      411380                            
+      5  Londrina - PR                                      411600                            
+      5  Londrina - PR                                      411965                            
+      5  Londrina - PR                                      412000                            
+      5  Londrina - PR                                      412033                            
+      5  Londrina - PR                                      412050                            
+      5  Londrina - PR                                      412130                            
+      5  Londrina - PR                                      412240                            
+      5  Londrina - PR                                      412270                            
+      5  Londrina - PR                                      412640                            
+      5  Londrina - PR                                      412650                            
+      5  Londrina - PR                                      412667                            
+      5  Londrina - PR                                      412840                            
+      6  Maringá - PR                                       410115                            
+      6  Maringá - PR                                       410210                            
+      6  Maringá - PR                                       410220                            
+      6  Maringá - PR                                       410320                            
+      6  Maringá - PR                                       410380                            
+      6  Maringá - PR                                       410730                            
+      6  Maringá - PR                                       410780                            
+      6  Maringá - PR                                       410790                            
+      6  Maringá - PR                                       410810                            
+      6  Maringá - PR                                       411000                            
+      6  Maringá - PR                                       411110                            
+      6  Maringá - PR                                       411160                            
+      6  Maringá - PR                                       411210                            
+      6  Maringá - PR                                       411360                            
+      6  Maringá - PR                                       411410                            
+      6  Maringá - PR                                       411420                            
+      6  Maringá - PR                                       411480                            
+      6  Maringá - PR                                       411520                            
+      6  Maringá - PR                                       411630                            
+      6  Maringá - PR                                       411690                            
+      6  Maringá - PR                                       411740                            
+      6  Maringá - PR                                       411750                            
+      6  Maringá - PR                                       412040                            
+      6  Maringá - PR                                       412340                            
+      6  Maringá - PR                                       412530                            
+      6  Maringá - PR                                       412625                            
+      7  Toledo - PR                                        410200                            
+      7  Toledo - PR                                        410715                            
+      7  Toledo - PR                                        410753                            
+      7  Toledo - PR                                        410880                            
+      7  Toledo - PR                                        411460                            
+      7  Toledo - PR                                        411535                            
+      7  Toledo - PR                                        411585                            
+      7  Toledo - PR                                        411722                            
+      7  Toledo - PR                                        411745                            
+      7  Toledo - PR                                        411790                            
+      7  Toledo - PR                                        411845                            
+      7  Toledo - PR                                        412085                            
+      7  Toledo - PR                                        412350                            
+      7  Toledo - PR                                        412545                            
+      7  Toledo - PR                                        412575                            
+      7  Toledo - PR                                        412740                            
+      7  Toledo - PR                                        412770                            
+      7  Toledo - PR                                        412795                            
+      8  Umuarama - PR                                      410050                            
+      8  Umuarama - PR                                      410070                            
+      8  Umuarama - PR                                      410337                            
+      8  Umuarama - PR                                      410347                            
+      8  Umuarama - PR                                      410560                            
+      8  Umuarama - PR                                      410660                            
+      8  Umuarama - PR                                      410725                            
+      8  Umuarama - PR                                      410752                            
+      8  Umuarama - PR                                      410832                            
+      8  Umuarama - PR                                      410990                            
+      8  Umuarama - PR                                      411060                            
+      8  Umuarama - PR                                      411155                            
+      8  Umuarama - PR                                      411470                            
+      8  Umuarama - PR                                      411510                            
+      8  Umuarama - PR                                      411720                            
+      8  Umuarama - PR                                      411885                            
+      8  Umuarama - PR                                      411890                            
+      8  Umuarama - PR                                      412535                            
+      8  Umuarama - PR                                      412680                            
+      8  Umuarama - PR                                      412690                            
+      8  Umuarama - PR                                      412790                            
+      8  Umuarama - PR                                      412810                            
+      8  Umuarama - PR                                      412862                            
+      8  Umuarama - PR                                      412880                            
+      9  Fora de Reg.Metrop. - PR                           410010                            
+      9  Fora de Reg.Metrop. - PR                           410060                            
+      9  Fora de Reg.Metrop. - PR                           410090                            
+      9  Fora de Reg.Metrop. - PR                           410100                            
+      9  Fora de Reg.Metrop. - PR                           410110                            
+      9  Fora de Reg.Metrop. - PR                           410120                            
+      9  Fora de Reg.Metrop. - PR                           410130                            
+      9  Fora de Reg.Metrop. - PR                           410160                            
+      9  Fora de Reg.Metrop. - PR                           410240                            
+      9  Fora de Reg.Metrop. - PR                           410260                            
+      9  Fora de Reg.Metrop. - PR                           410270                            
+      9  Fora de Reg.Metrop. - PR                           410275                            
+      9  Fora de Reg.Metrop. - PR                           410290                            
+      9  Fora de Reg.Metrop. - PR                           410302                            
+      9  Fora de Reg.Metrop. - PR                           410304                            
+      9  Fora de Reg.Metrop. - PR                           410315                            
+      9  Fora de Reg.Metrop. - PR                           410322                            
+      9  Fora de Reg.Metrop. - PR                           410340                            
+      9  Fora de Reg.Metrop. - PR                           410360                            
+      9  Fora de Reg.Metrop. - PR                           410395                            
+      9  Fora de Reg.Metrop. - PR                           410440                            
+      9  Fora de Reg.Metrop. - PR                           410442                            
+      9  Fora de Reg.Metrop. - PR                           410445                            
+      9  Fora de Reg.Metrop. - PR                           410450                            
+      9  Fora de Reg.Metrop. - PR                           410465                            
+      9  Fora de Reg.Metrop. - PR                           410470                            
+      9  Fora de Reg.Metrop. - PR                           410490                            
+      9  Fora de Reg.Metrop. - PR                           410540                            
+      9  Fora de Reg.Metrop. - PR                           410550                            
+      9  Fora de Reg.Metrop. - PR                           410570                            
+      9  Fora de Reg.Metrop. - PR                           410590                            
+      9  Fora de Reg.Metrop. - PR                           410600                            
+      9  Fora de Reg.Metrop. - PR                           410610                            
+      9  Fora de Reg.Metrop. - PR                           410640                            
+      9  Fora de Reg.Metrop. - PR                           410645                            
+      9  Fora de Reg.Metrop. - PR                           410650                            
+      9  Fora de Reg.Metrop. - PR                           410657                            
+      9  Fora de Reg.Metrop. - PR                           410670                            
+      9  Fora de Reg.Metrop. - PR                           410680                            
+      9  Fora de Reg.Metrop. - PR                           410700                            
+      9  Fora de Reg.Metrop. - PR                           410710                            
+      9  Fora de Reg.Metrop. - PR                           410720                            
+      9  Fora de Reg.Metrop. - PR                           410740                            
+      9  Fora de Reg.Metrop. - PR                           410754                            
+      9  Fora de Reg.Metrop. - PR                           410773                            
+      9  Fora de Reg.Metrop. - PR                           410775                            
+      9  Fora de Reg.Metrop. - PR                           410785                            
+      9  Fora de Reg.Metrop. - PR                           410820                            
+      9  Fora de Reg.Metrop. - PR                           410830                            
+      9  Fora de Reg.Metrop. - PR                           410840                            
+      9  Fora de Reg.Metrop. - PR                           410845                            
+      9  Fora de Reg.Metrop. - PR                           410850                            
+      9  Fora de Reg.Metrop. - PR                           410865                            
+      9  Fora de Reg.Metrop. - PR                           410890                            
+      9  Fora de Reg.Metrop. - PR                           410895                            
+      9  Fora de Reg.Metrop. - PR                           410900                            
+      9  Fora de Reg.Metrop. - PR                           410910                            
+      9  Fora de Reg.Metrop. - PR                           410940                            
+      9  Fora de Reg.Metrop. - PR                           410950                            
+      9  Fora de Reg.Metrop. - PR                           410960                            
+      9  Fora de Reg.Metrop. - PR                           410965                            
+      9  Fora de Reg.Metrop. - PR                           410970                            
+      9  Fora de Reg.Metrop. - PR                           411007                            
+      9  Fora de Reg.Metrop. - PR                           411010                            
+      9  Fora de Reg.Metrop. - PR                           411020                            
+      9  Fora de Reg.Metrop. - PR                           411030                            
+      9  Fora de Reg.Metrop. - PR                           411040                            
+      9  Fora de Reg.Metrop. - PR                           411050                            
+      9  Fora de Reg.Metrop. - PR                           411070                            
+      9  Fora de Reg.Metrop. - PR                           411090                            
+      9  Fora de Reg.Metrop. - PR                           411095                            
+      9  Fora de Reg.Metrop. - PR                           411100                            
+      9  Fora de Reg.Metrop. - PR                           411120                            
+      9  Fora de Reg.Metrop. - PR                           411130                            
+      9  Fora de Reg.Metrop. - PR                           411140                            
+      9  Fora de Reg.Metrop. - PR                           411170                            
+      9  Fora de Reg.Metrop. - PR                           411180                            
+      9  Fora de Reg.Metrop. - PR                           411200                            
+      9  Fora de Reg.Metrop. - PR                           411230                            
+      9  Fora de Reg.Metrop. - PR                           411240                            
+      9  Fora de Reg.Metrop. - PR                           411260                            
+      9  Fora de Reg.Metrop. - PR                           411280                            
+      9  Fora de Reg.Metrop. - PR                           411290                            
+      9  Fora de Reg.Metrop. - PR                           411300                            
+      9  Fora de Reg.Metrop. - PR                           411325                            
+      9  Fora de Reg.Metrop. - PR                           411330                            
+      9  Fora de Reg.Metrop. - PR                           411340                            
+      9  Fora de Reg.Metrop. - PR                           411350                            
+      9  Fora de Reg.Metrop. - PR                           411390                            
+      9  Fora de Reg.Metrop. - PR                           411435                            
+      9  Fora de Reg.Metrop. - PR                           411440                            
+      9  Fora de Reg.Metrop. - PR                           411450                            
+      9  Fora de Reg.Metrop. - PR                           411500                            
+      9  Fora de Reg.Metrop. - PR                           411530                            
+      9  Fora de Reg.Metrop. - PR                           411540                            
+      9  Fora de Reg.Metrop. - PR                           411545                            
+      9  Fora de Reg.Metrop. - PR                           411570                            
+      9  Fora de Reg.Metrop. - PR                           411573                            
+      9  Fora de Reg.Metrop. - PR                           411580                            
+      9  Fora de Reg.Metrop. - PR                           411590                            
+      9  Fora de Reg.Metrop. - PR                           411605                            
+      9  Fora de Reg.Metrop. - PR                           411620                            
+      9  Fora de Reg.Metrop. - PR                           411640                            
+      9  Fora de Reg.Metrop. - PR                           411650                            
+      9  Fora de Reg.Metrop. - PR                           411660                            
+      9  Fora de Reg.Metrop. - PR                           411695                            
+      9  Fora de Reg.Metrop. - PR                           411700                            
+      9  Fora de Reg.Metrop. - PR                           411705                            
+      9  Fora de Reg.Metrop. - PR                           411710                            
+      9  Fora de Reg.Metrop. - PR                           411721                            
+      9  Fora de Reg.Metrop. - PR                           411725                            
+      9  Fora de Reg.Metrop. - PR                           411727                            
+      9  Fora de Reg.Metrop. - PR                           411730                            
+      9  Fora de Reg.Metrop. - PR                           411760                            
+      9  Fora de Reg.Metrop. - PR                           411770                            
+      9  Fora de Reg.Metrop. - PR                           411780                            
+      9  Fora de Reg.Metrop. - PR                           411800                            
+      9  Fora de Reg.Metrop. - PR                           411810                            
+      9  Fora de Reg.Metrop. - PR                           411820                            
+      9  Fora de Reg.Metrop. - PR                           411830                            
+      9  Fora de Reg.Metrop. - PR                           411840                            
+      9  Fora de Reg.Metrop. - PR                           411850                            
+      9  Fora de Reg.Metrop. - PR                           411860                            
+      9  Fora de Reg.Metrop. - PR                           411870                            
+      9  Fora de Reg.Metrop. - PR                           411900                            
+      9  Fora de Reg.Metrop. - PR                           411920                            
+      9  Fora de Reg.Metrop. - PR                           411925                            
+      9  Fora de Reg.Metrop. - PR                           411930                            
+      9  Fora de Reg.Metrop. - PR                           411940                            
+      9  Fora de Reg.Metrop. - PR                           411960                            
+      9  Fora de Reg.Metrop. - PR                           411970                            
+      9  Fora de Reg.Metrop. - PR                           411980                            
+      9  Fora de Reg.Metrop. - PR                           411990                            
+      9  Fora de Reg.Metrop. - PR                           411995                            
+      9  Fora de Reg.Metrop. - PR                           412010                            
+      9  Fora de Reg.Metrop. - PR                           412015                            
+      9  Fora de Reg.Metrop. - PR                           412020                            
+      9  Fora de Reg.Metrop. - PR                           412030                            
+      9  Fora de Reg.Metrop. - PR                           412035                            
+      9  Fora de Reg.Metrop. - PR                           412060                            
+      9  Fora de Reg.Metrop. - PR                           412070                            
+      9  Fora de Reg.Metrop. - PR                           412090                            
+      9  Fora de Reg.Metrop. - PR                           412100                            
+      9  Fora de Reg.Metrop. - PR                           412125                            
+      9  Fora de Reg.Metrop. - PR                           412140                            
+      9  Fora de Reg.Metrop. - PR                           412150                            
+      9  Fora de Reg.Metrop. - PR                           412160                            
+      9  Fora de Reg.Metrop. - PR                           412170                            
+      9  Fora de Reg.Metrop. - PR                           412175                            
+      9  Fora de Reg.Metrop. - PR                           412180                            
+      9  Fora de Reg.Metrop. - PR                           412190                            
+      9  Fora de Reg.Metrop. - PR                           412200                            
+      9  Fora de Reg.Metrop. - PR                           412215                            
+      9  Fora de Reg.Metrop. - PR                           412260                            
+      9  Fora de Reg.Metrop. - PR                           412280                            
+      9  Fora de Reg.Metrop. - PR                           412290                            
+      9  Fora de Reg.Metrop. - PR                           412300                            
+      9  Fora de Reg.Metrop. - PR                           412310                            
+      9  Fora de Reg.Metrop. - PR                           412320                            
+      9  Fora de Reg.Metrop. - PR                           412330                            
+      9  Fora de Reg.Metrop. - PR                           412360                            
+      9  Fora de Reg.Metrop. - PR                           412370                            
+      9  Fora de Reg.Metrop. - PR                           412380                            
+      9  Fora de Reg.Metrop. - PR                           412385                            
+      9  Fora de Reg.Metrop. - PR                           412390                            
+      9  Fora de Reg.Metrop. - PR                           412395                            
+      9  Fora de Reg.Metrop. - PR                           412400                            
+      9  Fora de Reg.Metrop. - PR                           412405                            
+      9  Fora de Reg.Metrop. - PR                           412410                            
+      9  Fora de Reg.Metrop. - PR                           412420                            
+      9  Fora de Reg.Metrop. - PR                           412430                            
+      9  Fora de Reg.Metrop. - PR                           412440                            
+      9  Fora de Reg.Metrop. - PR                           412450                            
+      9  Fora de Reg.Metrop. - PR                           412460                            
+      9  Fora de Reg.Metrop. - PR                           412470                            
+      9  Fora de Reg.Metrop. - PR                           412480                            
+      9  Fora de Reg.Metrop. - PR                           412490                            
+      9  Fora de Reg.Metrop. - PR                           412510                            
+      9  Fora de Reg.Metrop. - PR                           412520                            
+      9  Fora de Reg.Metrop. - PR                           412540                            
+      9  Fora de Reg.Metrop. - PR                           412555                            
+      9  Fora de Reg.Metrop. - PR                           412560                            
+      9  Fora de Reg.Metrop. - PR                           412570                            
+      9  Fora de Reg.Metrop. - PR                           412590                            
+      9  Fora de Reg.Metrop. - PR                           412600                            
+      9  Fora de Reg.Metrop. - PR                           412610                            
+      9  Fora de Reg.Metrop. - PR                           412620                            
+      9  Fora de Reg.Metrop. - PR                           412627                            
+      9  Fora de Reg.Metrop. - PR                           412630                            
+      9  Fora de Reg.Metrop. - PR                           412635                            
+      9  Fora de Reg.Metrop. - PR                           412660                            
+      9  Fora de Reg.Metrop. - PR                           412665                            
+      9  Fora de Reg.Metrop. - PR                           412670                            
+      9  Fora de Reg.Metrop. - PR                           412700                            
+      9  Fora de Reg.Metrop. - PR                           412710                            
+      9  Fora de Reg.Metrop. - PR                           412730                            
+      9  Fora de Reg.Metrop. - PR                           412750                            
+      9  Fora de Reg.Metrop. - PR                           412780                            
+      9  Fora de Reg.Metrop. - PR                           412796                            
+      9  Fora de Reg.Metrop. - PR                           412820                            
+      9  Fora de Reg.Metrop. - PR                           412830                            
+      9  Fora de Reg.Metrop. - PR                           412850                            
+      9  Fora de Reg.Metrop. - PR                           412853                            
+      9  Fora de Reg.Metrop. - PR                           412860                            
+      9  Fora de Reg.Metrop. - PR                           412865                            
+      9  Fora de Reg.Metrop. - PR                           412870                            
+     10  Ignorado - PR                                      410000,419999                     

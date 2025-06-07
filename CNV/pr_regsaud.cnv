@@ -1,0 +1,401 @@
+23 6
+      1  41001 1ª RS Paranaguá                              410120
+      1  41001 1ª RS Paranaguá                              410950
+      1  41001 1ª RS Paranaguá                              410960
+      1  41001 1ª RS Paranaguá                              411570
+      1  41001 1ª RS Paranaguá                              411620
+      1  41001 1ª RS Paranaguá                              411820
+      1  41001 1ª RS Paranaguá                              411995
+      2  41002 2ª RS Metropolitana                          410020
+      2  41002 2ª RS Metropolitana                          410030
+      2  41002 2ª RS Metropolitana                          410040
+      2  41002 2ª RS Metropolitana                          410180
+      2  41002 2ª RS Metropolitana                          410230
+      2  41002 2ª RS Metropolitana                          410310
+      2  41002 2ª RS Metropolitana                          410400
+      2  41002 2ª RS Metropolitana                          410410
+      2  41002 2ª RS Metropolitana                          410420
+      2  41002 2ª RS Metropolitana                          410425
+      2  41002 2ª RS Metropolitana                          410520
+      2  41002 2ª RS Metropolitana                          410580
+      2  41002 2ª RS Metropolitana                          410620
+      2  41002 2ª RS Metropolitana                          410690
+      2  41002 2ª RS Metropolitana                          410765
+      2  41002 2ª RS Metropolitana                          411125
+      2  41002 2ª RS Metropolitana                          411320
+      2  41002 2ª RS Metropolitana                          411430
+      2  41002 2ª RS Metropolitana                          411910
+      2  41002 2ª RS Metropolitana                          411915
+      2  41002 2ª RS Metropolitana                          411950
+      2  41002 2ª RS Metropolitana                          412080
+      2  41002 2ª RS Metropolitana                          412120
+      2  41002 2ª RS Metropolitana                          412220
+      2  41002 2ª RS Metropolitana                          412230
+      2  41002 2ª RS Metropolitana                          412550
+      2  41002 2ª RS Metropolitana                          412760
+      2  41002 2ª RS Metropolitana                          412788
+      2  41002 2ª RS Metropolitana                          412863
+      3  41003 3ª RS Ponta Grossa                           410160
+      3  41003 3ª RS Ponta Grossa                           410465
+      3  41003 3ª RS Ponta Grossa                           410490
+      3  41003 3ª RS Ponta Grossa                           411050
+      3  41003 3ª RS Ponta Grossa                           411140
+      3  41003 3ª RS Ponta Grossa                           411200
+      3  41003 3ª RS Ponta Grossa                           411770
+      3  41003 3ª RS Ponta Grossa                           411940
+      3  41003 3ª RS Ponta Grossa                           411990
+      3  41003 3ª RS Ponta Grossa                           412010
+      3  41003 3ª RS Ponta Grossa                           412510
+      3  41003 3ª RS Ponta Grossa                           412630
+      4  41004 4ª RS Irati                                  410773
+      4  41004 4ª RS Irati                                  410895
+      4  41004 4ª RS Irati                                  411010
+      4  41004 4ª RS Irati                                  411020
+      4  41004 4ª RS Irati                                  411070
+      4  41004 4ª RS Irati                                  411390
+      4  41004 4ª RS Irati                                  412150
+      4  41004 4ª RS Irati                                  412200
+      4  41004 4ª RS Irati                                  412700
+      5  41005 5ª RS Guarapuava                             410304
+      5  41005 5ª RS Guarapuava                             410395
+      5  41005 5ª RS Guarapuava                             410442
+      5  41005 5ª RS Guarapuava                             410445
+      5  41005 5ª RS Guarapuava                             410845
+      5  41005 5ª RS Guarapuava                             410865
+      5  41005 5ª RS Guarapuava                             410940
+      5  41005 5ª RS Guarapuava                             411325
+      5  41005 5ª RS Guarapuava                             411330
+      5  41005 5ª RS Guarapuava                             411545
+      5  41005 5ª RS Guarapuava                             411705
+      5  41005 5ª RS Guarapuava                             411780
+      5  41005 5ª RS Guarapuava                             411930
+      5  41005 5ª RS Guarapuava                             411960
+      5  41005 5ª RS Guarapuava                             412015
+      5  41005 5ª RS Guarapuava                             412060
+      5  41005 5ª RS Guarapuava                             412175
+      5  41005 5ª RS Guarapuava                             412215
+      5  41005 5ª RS Guarapuava                             412796
+      5  41005 5ª RS Guarapuava                             412865
+      6  41006 6ª RS União da Vitória                       410130
+      6  41006 6ª RS União da Vitória                       410290
+      6  41006 6ª RS União da Vitória                       410680
+      6  41006 6ª RS União da Vitória                       410850
+      6  41006 6ª RS União da Vitória                       411860
+      6  41006 6ª RS União da Vitória                       411870
+      6  41006 6ª RS União da Vitória                       412030
+      6  41006 6ª RS União da Vitória                       412560
+      6  41006 6ª RS União da Vitória                       412820
+      7  41007 7ª RS Pato Branco                            410322
+      7  41007 7ª RS Pato Branco                            410540
+      7  41007 7ª RS Pato Branco                            410570
+      7  41007 7ª RS Pato Branco                            410645
+      7  41007 7ª RS Pato Branco                            410650
+      7  41007 7ª RS Pato Branco                            410965
+      7  41007 7ª RS Pato Branco                            411120
+      7  41007 7ª RS Pato Branco                            411440
+      7  41007 7ª RS Pato Branco                            411530
+      7  41007 7ª RS Pato Branco                            411760
+      7  41007 7ª RS Pato Branco                            411850
+      7  41007 7ª RS Pato Branco                            412480
+      7  41007 7ª RS Pato Branco                            412627
+      7  41007 7ª RS Pato Branco                            412665
+      7  41007 7ª RS Pato Branco                            412870
+      8  41008 8ª RS Francisco Beltrão                      410100
+      8  41008 8ª RS Francisco Beltrão                      410260
+      8  41008 8ª RS Francisco Beltrão                      410275
+      8  41008 8ª RS Francisco Beltrão                      410302
+      8  41008 8ª RS Francisco Beltrão                      410315
+      8  41008 8ª RS Francisco Beltrão                      410450
+      8  41008 8ª RS Francisco Beltrão                      410657
+      8  41008 8ª RS Francisco Beltrão                      410720
+      8  41008 8ª RS Francisco Beltrão                      410740
+      8  41008 8ª RS Francisco Beltrão                      410785
+      8  41008 8ª RS Francisco Beltrão                      410840
+      8  41008 8ª RS Francisco Beltrão                      411435
+      8  41008 8ª RS Francisco Beltrão                      411540
+      8  41008 8ª RS Francisco Beltrão                      411695
+      8  41008 8ª RS Francisco Beltrão                      411725
+      8  41008 8ª RS Francisco Beltrão                      411900
+      8  41008 8ª RS Francisco Beltrão                      411925
+      8  41008 8ª RS Francisco Beltrão                      411980
+      8  41008 8ª RS Francisco Beltrão                      412035
+      8  41008 8ª RS Francisco Beltrão                      412140
+      8  41008 8ª RS Francisco Beltrão                      412160
+      8  41008 8ª RS Francisco Beltrão                      412280
+      8  41008 8ª RS Francisco Beltrão                      412300
+      8  41008 8ª RS Francisco Beltrão                      412380
+      8  41008 8ª RS Francisco Beltrão                      412440
+      8  41008 8ª RS Francisco Beltrão                      412520
+      8  41008 8ª RS Francisco Beltrão                      412860
+      9  41009 9ª RS Foz do Iguaçu                          410830
+      9  41009 9ª RS Foz do Iguaçu                          411095
+      9  41009 9ª RS Foz do Iguaçu                          411560
+      9  41009 9ª RS Foz do Iguaçu                          411580
+      9  41009 9ª RS Foz do Iguaçu                          411605
+      9  41009 9ª RS Foz do Iguaçu                          412125
+      9  41009 9ª RS Foz do Iguaçu                          412405
+      9  41009 9ª RS Foz do Iguaçu                          412570
+      9  41009 9ª RS Foz do Iguaçu                          412635
+     10  41010 10ª RS Cascavel                              410105
+     10  41010 10ª RS Cascavel                              410305
+     10  41010 10ª RS Cascavel                              410335
+     10  41010 10ª RS Cascavel                              410345
+     10  41010 10ª RS Cascavel                              410405
+     10  41010 10ª RS Cascavel                              410460
+     10  41010 10ª RS Cascavel                              410480
+     10  41010 10ª RS Cascavel                              410500
+     10  41010 10ª RS Cascavel                              410530
+     10  41010 10ª RS Cascavel                              410630
+     10  41010 10ª RS Cascavel                              410712
+     10  41010 10ª RS Cascavel                              410754
+     10  41010 10ª RS Cascavel                              410820
+     10  41010 10ª RS Cascavel                              410930
+     10  41010 10ª RS Cascavel                              410975
+     10  41010 10ª RS Cascavel                              411005
+     10  41010 10ª RS Cascavel                              411065
+     10  41010 10ª RS Cascavel                              411275
+     10  41010 10ª RS Cascavel                              411345
+     10  41010 10ª RS Cascavel                              411670
+     10  41010 10ª RS Cascavel                              412090
+     10  41010 10ª RS Cascavel                              412382
+     10  41010 10ª RS Cascavel                              412402
+     10  41010 10ª RS Cascavel                              412785
+     10  41010 10ª RS Cascavel                              412855
+     11  41011 11ª RS Campo Mourão                          410045
+     11  41011 11ª RS Campo Mourão                          410170
+     11  41011 11ª RS Campo Mourão                          410250
+     11  41011 11ª RS Campo Mourão                          410300
+     11  41011 11ª RS Campo Mourão                          410390
+     11  41011 11ª RS Campo Mourão                          410430
+     11  41011 11ª RS Campo Mourão                          410655
+     11  41011 11ª RS Campo Mourão                          410750
+     11  41011 11ª RS Campo Mourão                          410755
+     11  41011 11ª RS Campo Mourão                          410770
+     11  41011 11ª RS Campo Mourão                          410860
+     11  41011 11ª RS Campo Mourão                          411080
+     11  41011 11ª RS Campo Mourão                          411220
+     11  41011 11ª RS Campo Mourão                          411295
+     11  41011 11ª RS Campo Mourão                          411373
+     11  41011 11ª RS Campo Mourão                          411400
+     11  41011 11ª RS Campo Mourão                          411610
+     11  41011 11ª RS Campo Mourão                          411680
+     11  41011 11ª RS Campo Mourão                          411880
+     11  41011 11ª RS Campo Mourão                          412065
+     11  41011 11ª RS Campo Mourão                          412110
+     11  41011 11ª RS Campo Mourão                          412135
+     11  41011 11ª RS Campo Mourão                          412250
+     11  41011 11ª RS Campo Mourão                          412720
+     11  41011 11ª RS Campo Mourão                          412800
+     12  41012 12ª RS Umuarama                              410050
+     12  41012 12ª RS Umuarama                              410070
+     12  41012 12ª RS Umuarama                              410337
+     12  41012 12ª RS Umuarama                              410347
+     12  41012 12ª RS Umuarama                              410660
+     12  41012 12ª RS Umuarama                              410725
+     12  41012 12ª RS Umuarama                              410752
+     12  41012 12ª RS Umuarama                              410832
+     12  41012 12ª RS Umuarama                              410990
+     12  41012 12ª RS Umuarama                              411060
+     12  41012 12ª RS Umuarama                              411155
+     12  41012 12ª RS Umuarama                              411470
+     12  41012 12ª RS Umuarama                              411510
+     12  41012 12ª RS Umuarama                              411720
+     12  41012 12ª RS Umuarama                              411885
+     12  41012 12ª RS Umuarama                              411890
+     12  41012 12ª RS Umuarama                              412535
+     12  41012 12ª RS Umuarama                              412690
+     12  41012 12ª RS Umuarama                              412810
+     12  41012 12ª RS Umuarama                              412862
+     12  41012 12ª RS Umuarama                              412880
+     13  41013 13ª RS Cianorte                              410550
+     13  41013 13ª RS Cianorte                              410560
+     13  41013 13ª RS Cianorte                              410910
+     13  41013 13ª RS Cianorte                              411040
+     13  41013 13ª RS Cianorte                              411240
+     13  41013 13ª RS Cianorte                              411300
+     13  41013 13ª RS Cianorte                              412260
+     13  41013 13ª RS Cianorte                              412555
+     13  41013 13ª RS Cianorte                              412610
+     13  41013 13ª RS Cianorte                              412680
+     13  41013 13ª RS Cianorte                              412790
+     14  41014 14ª RS Paranavaí                             410060
+     14  41014 14ª RS Paranavaí                             410090
+     14  41014 14ª RS Paranavaí                             410670
+     14  41014 14ª RS Paranavaí                             410710
+     14  41014 14ª RS Paranavaí                             410890
+     14  41014 14ª RS Paranavaí                             411030
+     14  41014 14ª RS Paranavaí                             411130
+     14  41014 14ª RS Paranavaí                             411260
+     14  41014 14ª RS Paranavaí                             411350
+     14  41014 14ª RS Paranavaí                             411500
+     14  41014 14ª RS Paranavaí                             411590
+     14  41014 14ª RS Paranavaí                             411650
+     14  41014 14ª RS Paranavaí                             411710
+     14  41014 14ª RS Paranavaí                             411800
+     14  41014 14ª RS Paranavaí                             411830
+     14  41014 14ª RS Paranavaí                             411840
+     14  41014 14ª RS Paranavaí                             411970
+     14  41014 14ª RS Paranavaí                             412020
+     14  41014 14ª RS Paranavaí                             412100
+     14  41014 14ª RS Paranavaí                             412330
+     14  41014 14ª RS Paranavaí                             412370
+     14  41014 14ª RS Paranavaí                             412395
+     14  41014 14ª RS Paranavaí                             412420
+     14  41014 14ª RS Paranavaí                             412460
+     14  41014 14ª RS Paranavaí                             412490
+     14  41014 14ª RS Paranavaí                             412590
+     14  41014 14ª RS Paranavaí                             412670
+     14  41014 14ª RS Paranavaí                             412730
+     15  41015 15ª RS Maringá                               410115
+     15  41015 15ª RS Maringá                               410210
+     15  41015 15ª RS Maringá                               410220
+     15  41015 15ª RS Maringá                               410590
+     15  41015 15ª RS Maringá                               410730
+     15  41015 15ª RS Maringá                               410780
+     15  41015 15ª RS Maringá                               410790
+     15  41015 15ª RS Maringá                               410810
+     15  41015 15ª RS Maringá                               411000
+     15  41015 15ª RS Maringá                               411090
+     15  41015 15ª RS Maringá                               411110
+     15  41015 15ª RS Maringá                               411160
+     15  41015 15ª RS Maringá                               411360
+     15  41015 15ª RS Maringá                               411410
+     15  41015 15ª RS Maringá                               411420
+     15  41015 15ª RS Maringá                               411480
+     15  41015 15ª RS Maringá                               411520
+     15  41015 15ª RS Maringá                               411630
+     15  41015 15ª RS Maringá                               411640
+     15  41015 15ª RS Maringá                               411690
+     15  41015 15ª RS Maringá                               411740
+     15  41015 15ª RS Maringá                               411750
+     15  41015 15ª RS Maringá                               411810
+     15  41015 15ª RS Maringá                               412040
+     15  41015 15ª RS Maringá                               412340
+     15  41015 15ª RS Maringá                               412360
+     15  41015 15ª RS Maringá                               412450
+     15  41015 15ª RS Maringá                               412530
+     15  41015 15ª RS Maringá                               412625
+     15  41015 15ª RS Maringá                               412830
+     16  41016 16ª RS Apucarana                             410140
+     16  41016 16ª RS Apucarana                             410150
+     16  41016 16ª RS Apucarana                             410320
+     16  41016 16ª RS Apucarana                             410330
+     16  41016 16ª RS Apucarana                             410350
+     16  41016 16ª RS Apucarana                             410380
+     16  41016 16ª RS Apucarana                             410760
+     16  41016 16ª RS Apucarana                             410870
+     16  41016 16ª RS Apucarana                             411210
+     16  41016 16ª RS Apucarana                             411310
+     16  41016 16ª RS Apucarana                             411490
+     16  41016 16ª RS Apucarana                             411550
+     16  41016 16ª RS Apucarana                             411575
+     16  41016 16ª RS Apucarana                             411729
+     16  41016 16ª RS Apucarana                             412210
+     16  41016 16ª RS Apucarana                             412270
+     16  41016 16ª RS Apucarana                             412580
+     17  41017 17ª RS Londrina                              410080
+     17  41017 17ª RS Londrina                              410190
+     17  41017 17ª RS Londrina                              410280
+     17  41017 17ª RS Londrina                              410340
+     17  41017 17ª RS Londrina                              410370
+     17  41017 17ª RS Londrina                              410510
+     17  41017 17ª RS Londrina                              410800
+     17  41017 17ª RS Londrina                              410920
+     17  41017 17ª RS Londrina                              410980
+     17  41017 17ª RS Londrina                              411190
+     17  41017 17ª RS Londrina                              411270
+     17  41017 17ª RS Londrina                              411370
+     17  41017 17ª RS Londrina                              411380
+     17  41017 17ª RS Londrina                              411600
+     17  41017 17ª RS Londrina                              411965
+     17  41017 17ª RS Londrina                              412000
+     17  41017 17ª RS Londrina                              412033
+     17  41017 17ª RS Londrina                              412050
+     17  41017 17ª RS Londrina                              412240
+     17  41017 17ª RS Londrina                              412650
+     17  41017 17ª RS Londrina                              412667
+     18  41018 18ª RS Cornélio Procópio                     410010
+     18  41018 18ª RS Cornélio Procópio                     410110
+     18  41018 18ª RS Cornélio Procópio                     410240
+     18  41018 18ª RS Cornélio Procópio                     410600
+     18  41018 18ª RS Cornélio Procópio                     410640
+     18  41018 18ª RS Cornélio Procópio                     411100
+     18  41018 18ª RS Cornélio Procópio                     411340
+     18  41018 18ª RS Cornélio Procópio                     411660
+     18  41018 18ª RS Cornélio Procópio                     411700
+     18  41018 18ª RS Cornélio Procópio                     411721
+     18  41018 18ª RS Cornélio Procópio                     412130
+     18  41018 18ª RS Cornélio Procópio                     412190
+     18  41018 18ª RS Cornélio Procópio                     412310
+     18  41018 18ª RS Cornélio Procópio                     412320
+     18  41018 18ª RS Cornélio Procópio                     412390
+     18  41018 18ª RS Cornélio Procópio                     412430
+     18  41018 18ª RS Cornélio Procópio                     412470
+     18  41018 18ª RS Cornélio Procópio                     412600
+     18  41018 18ª RS Cornélio Procópio                     412620
+     18  41018 18ª RS Cornélio Procópio                     412640
+     18  41018 18ª RS Cornélio Procópio                     412840
+     19  41019 19ª RS Jacarezinho                           410270
+     19  41019 19ª RS Jacarezinho                           410360
+     19  41019 19ª RS Jacarezinho                           410470
+     19  41019 19ª RS Jacarezinho                           410610
+     19  41019 19ª RS Jacarezinho                           410775
+     19  41019 19ª RS Jacarezinho                           410900
+     19  41019 19ª RS Jacarezinho                           410970
+     19  41019 19ª RS Jacarezinho                           411170
+     19  41019 19ª RS Jacarezinho                           411180
+     19  41019 19ª RS Jacarezinho                           411230
+     19  41019 19ª RS Jacarezinho                           411280
+     19  41019 19ª RS Jacarezinho                           411290
+     19  41019 19ª RS Jacarezinho                           411920
+     19  41019 19ª RS Jacarezinho                           412070
+     19  41019 19ª RS Jacarezinho                           412180
+     19  41019 19ª RS Jacarezinho                           412290
+     19  41019 19ª RS Jacarezinho                           412400
+     19  41019 19ª RS Jacarezinho                           412410
+     19  41019 19ª RS Jacarezinho                           412540
+     19  41019 19ª RS Jacarezinho                           412660
+     19  41019 19ª RS Jacarezinho                           412780
+     19  41019 19ª RS Jacarezinho                           412850
+     20  41020 20ª RS Toledo                                410200
+     20  41020 20ª RS Toledo                                410715
+     20  41020 20ª RS Toledo                                410753
+     20  41020 20ª RS Toledo                                410880
+     20  41020 20ª RS Toledo                                411460
+     20  41020 20ª RS Toledo                                411535
+     20  41020 20ª RS Toledo                                411585
+     20  41020 20ª RS Toledo                                411722
+     20  41020 20ª RS Toledo                                411745
+     20  41020 20ª RS Toledo                                411790
+     20  41020 20ª RS Toledo                                411845
+     20  41020 20ª RS Toledo                                412085
+     20  41020 20ª RS Toledo                                412350
+     20  41020 20ª RS Toledo                                412545
+     20  41020 20ª RS Toledo                                412575
+     20  41020 20ª RS Toledo                                412740
+     20  41020 20ª RS Toledo                                412770
+     20  41020 20ª RS Toledo                                412795
+     21  41021 21ª RS Telêmaco Borba                        410700
+     21  41021 21ª RS Telêmaco Borba                        411007
+     21  41021 21ª RS Telêmaco Borba                        411730
+     21  41021 21ª RS Telêmaco Borba                        412170
+     21  41021 21ª RS Telêmaco Borba                        412710
+     21  41021 21ª RS Telêmaco Borba                        412750
+     21  41021 21ª RS Telêmaco Borba                        412853
+     22  41022 22ª RS Ivaiporã                              410165
+     22  41022 22ª RS Ivaiporã                              410185
+     22  41022 22ª RS Ivaiporã                              410440
+     22  41022 22ª RS Ivaiporã                              410685
+     22  41022 22ª RS Ivaiporã                              410855
+     22  41022 22ª RS Ivaiporã                              411150
+     22  41022 22ª RS Ivaiporã                              411250
+     22  41022 22ª RS Ivaiporã                              411342
+     22  41022 22ª RS Ivaiporã                              411375
+     22  41022 22ª RS Ivaiporã                              411450
+     22  41022 22ª RS Ivaiporã                              411573
+     22  41022 22ª RS Ivaiporã                              411727
+     22  41022 22ª RS Ivaiporã                              412217
+     22  41022 22ª RS Ivaiporã                              412265
+     22  41022 22ª RS Ivaiporã                              412385
+     22  41022 22ª RS Ivaiporã                              412500
+     23  Ignorado - PR                                      410000,419999

@@ -1,0 +1,143 @@
+23  6                                                                                    
+      1  51002 MT Alta Floresta                             510025                            
+      1  51002 MT Alta Floresta                             510080                            
+      1  51002 MT Alta Floresta                             510279                            
+      1  51002 MT Alta Floresta                             510615                            
+      1  51002 MT Alta Floresta                             510629                            
+      1  51002 MT Alta Floresta                             510895                            
+      2  51022 MT Alto Araguaia                             510030                            
+      2  51022 MT Alto Araguaia                             510040                            
+      2  51022 MT Alto Araguaia                             510060                            
+      3  51012 MT Alto Guaporé                              510336                            
+      3  51012 MT Alto Guaporé                              510550                            
+      3  51012 MT Alto Guaporé                              510618                            
+      3  51012 MT Alto Guaporé                              510675                            
+      3  51012 MT Alto Guaporé                              510835                            
+      4  51018 MT Alto Pantanal                             510160                            
+      4  51018 MT Alto Pantanal                             510250                            
+      4  51018 MT Alto Pantanal                             510343                            
+      4  51018 MT Alto Pantanal                             510650                            
+      5  51015 MT Alto Paraguai                             510050                            
+      5  51015 MT Alto Paraguai                             510130                            
+      5  51015 MT Alto Paraguai                             510600                            
+      5  51015 MT Alto Paraguai                             510726                            
+      5  51015 MT Alto Paraguai                             510885                            
+      6  51006 MT Alto Teles Pires                          510452                            
+      6  51006 MT Alto Teles Pires                          510454,510445                     
+      6  51006 MT Alto Teles Pires                          510525                            
+      6  51006 MT Alto Teles Pires                          510590                            
+      6  51006 MT Alto Teles Pires                          510622                            
+      6  51006 MT Alto Teles Pires                          510624                            
+      6  51006 MT Alto Teles Pires                          510776                            
+      6  51006 MT Alto Teles Pires                          510792                            
+      6  51006 MT Alto Teles Pires                          510800                            
+      7  51005 MT Arinos                                    510510                            
+      7  51005 MT Arinos                                    510627                            
+      7  51005 MT Arinos                                    510680                            
+      7  51005 MT Arinos                                    510730                            
+      7  51005 MT Arinos                                    510794                            
+      7  51005 MT Arinos                                    510890                            
+      8  51001 MT Aripuanã                                  510140                            
+      8  51001 MT Aripuanã                                  510190                            
+      8  51001 MT Aripuanã                                  510285                            
+      8  51001 MT Aripuanã                                  510325                            
+      8  51001 MT Aripuanã                                  510337                            
+      8  51001 MT Aripuanã                                  510515                            
+      8  51001 MT Aripuanã                                  510517                            
+      8  51001 MT Aripuanã                                  510757                            
+      9  51010 MT Canarana                                  510020                            
+      9  51010 MT Canarana                                  510260                            
+      9  51010 MT Canarana                                  510270                            
+      9  51010 MT Canarana                                  510617                            
+      9  51010 MT Canarana                                  510625                            
+      9  51010 MT Canarana                                  510628                            
+      9  51010 MT Canarana                                  510706                            
+      9  51010 MT Canarana                                  510779                            
+     10  51003 MT Colíder                                   510320                            
+     10  51003 MT Colíder                                   510410                            
+     10  51003 MT Colíder                                   510560                            
+     10  51003 MT Colíder                                   510621                            
+     10  51003 MT Colíder                                   510626                            
+     10  51003 MT Colíder                                   510642                            
+     10  51003 MT Colíder                                   510805                            
+     10  51003 MT Colíder                                   510880                            
+     11  51017 MT Cuiabá                                    510300                            
+     11  51017 MT Cuiabá                                    510340                            
+     11  51017 MT Cuiabá                                    510610                            
+     11  51017 MT Cuiabá                                    510780                            
+     11  51017 MT Cuiabá                                    510840                            
+     12  51014 MT Jauru                                     510125                            
+     12  51014 MT Jauru                                     510380                            
+     12  51014 MT Jauru                                     510395                            
+     12  51014 MT Jauru                                     510450                            
+     12  51014 MT Jauru                                     510500                            
+     12  51014 MT Jauru                                     510523                            
+     12  51014 MT Jauru                                     510562                            
+     12  51014 MT Jauru                                     510682                            
+     12  51014 MT Jauru                                     510710                            
+     12  51014 MT Jauru                                     510715                            
+     12  51014 MT Jauru                                     510720                            
+     12  51014 MT Jauru                                     510775                            
+     13  51011 MT Médio Araguaia                            510100                            
+     13  51011 MT Médio Araguaia                            510180                            
+     13  51011 MT Médio Araguaia                            510310                            
+     14  51009 MT Norte Araguaia                            510035                            
+     14  51009 MT Norte Araguaia                            510185                            
+     14  51009 MT Norte Araguaia                            510269                            
+     14  51009 MT Norte Araguaia                            510335                            
+     14  51009 MT Norte Araguaia                            510530                            
+     14  51009 MT Norte Araguaia                            510631                            
+     14  51009 MT Norte Araguaia                            510677                            
+     14  51009 MT Norte Araguaia                            510718                            
+     14  51009 MT Norte Araguaia                            510735                            
+     14  51009 MT Norte Araguaia                            510774                            
+     14  51009 MT Norte Araguaia                            510777                            
+     14  51009 MT Norte Araguaia                            510785                            
+     14  51009 MT Norte Araguaia                            510788                            
+     14  51009 MT Norte Araguaia                            510860                            
+     15  51008 MT Paranatinga                               510385                            
+     15  51008 MT Paranatinga                               510620                            
+     15  51008 MT Paranatinga                               510630                            
+     15  51008 MT Paranatinga                               510645                            
+     16  51004 MT Parecis                                   510263                            
+     16  51004 MT Parecis                                   510268                            
+     16  51004 MT Parecis                                   510330                            
+     16  51004 MT Parecis                                   510350                            
+     16  51004 MT Parecis                                   510787                            
+     17  51019 MT Primavera do Leste                        510267                            
+     17  51019 MT Primavera do Leste                        510704                            
+     18  51021 MT Rondonópolis                              510360                            
+     18  51021 MT Rondonópolis                              510460                            
+     18  51021 MT Rondonópolis                              510480                            
+     18  51021 MT Rondonópolis                              510520                            
+     18  51021 MT Rondonópolis                              510637                            
+     18  51021 MT Rondonópolis                              510729                            
+     18  51021 MT Rondonópolis                              510740                            
+     18  51021 MT Rondonópolis                              510760                            
+     19  51016 MT Rosário Oeste                             510010                            
+     19  51016 MT Rosário Oeste                             510490                            
+     19  51016 MT Rosário Oeste                             510770                            
+     20  51007 MT Sinop                                     510305                            
+     20  51007 MT Sinop                                     510370                            
+     20  51007 MT Sinop                                     510455                            
+     20  51007 MT Sinop                                     510558                            
+     20  51007 MT Sinop                                     510619                            
+     20  51007 MT Sinop                                     510724                            
+     20  51007 MT Sinop                                     510790                            
+     20  51007 MT Sinop                                     510830                            
+     20  51007 MT Sinop                                     510850                            
+     21  51013 MT Tangará da Serra                          510170                            
+     21  51013 MT Tangará da Serra                          510345                            
+     21  51013 MT Tangará da Serra                          510623                            
+     21  51013 MT Tangará da Serra                          510685                            
+     21  51013 MT Tangará da Serra                          510795                            
+     22  51020 MT Tesouro                                   510120                            
+     22  51020 MT Tesouro                                   510390                            
+     22  51020 MT Tesouro                                   510420                            
+     22  51020 MT Tesouro                                   510665                            
+     22  51020 MT Tesouro                                   510670                            
+     22  51020 MT Tesouro                                   510700                            
+     22  51020 MT Tesouro                                   510719                            
+     22  51020 MT Tesouro                                   510810                            
+     22  51020 MT Tesouro                                   510820                            
+     23  51000 MT Município ignorado - MT                   510000,519999                     

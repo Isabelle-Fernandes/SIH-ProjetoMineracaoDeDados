@@ -1,0 +1,855 @@
+78  6                                                       31X003                            
+      1  31003 MG Alfenas Machado                           310160                            
+      1  31003 MG Alfenas Machado                           310200                            
+      1  31003 MG Alfenas Machado                           310430                            
+      1  31003 MG Alfenas Machado                           310530                            
+      1  31003 MG Alfenas Machado                           310840                            
+      1  31003 MG Alfenas Machado                           311100                            
+      1  31003 MG Alfenas Machado                           311130                            
+      1  31003 MG Alfenas Machado                           311160                            
+      1  31003 MG Alfenas Machado                           311440                            
+      1  31003 MG Alfenas Machado                           311470                            
+      1  31003 MG Alfenas Machado                           311710                            
+      1  31003 MG Alfenas Machado                           312240                            
+      1  31003 MG Alfenas Machado                           312520                            
+      1  31003 MG Alfenas Machado                           313900                            
+      1  31003 MG Alfenas Machado                           314720                            
+      1  31003 MG Alfenas Machado                           315170                            
+      2  31004 Almenara                                     31X004                            
+      2  31004 MG Almenara                                  310170                            
+      2  31004 MG Almenara                                  310520                            
+      2  31004 MG Almenara                                  312245                            
+      2  31004 MG Almenara                                  312560                            
+      2  31004 MG Almenara                                  313470                            
+      2  31004 MG Almenara                                  313580                            
+      2  31004 MG Almenara                                  313600                            
+      2  31004 MG Almenara                                  313650                            
+      2  31004 MG Almenara                                  314055                            
+      2  31004 MG Almenara                                  314675                            
+      2  31004 MG Almenara                                  315510                            
+      2  31004 MG Almenara                                  315660                            
+      2  31004 MG Almenara                                  315710                            
+      2  31004 MG Almenara                                  315810                            
+      3  31002 Além Paraíba                                 31X002                            
+      3  31002 MG Além Paraíba                              310150                            
+      3  31002 MG Além Paraíba                              312460                            
+      3  31002 MG Além Paraíba                              315110                            
+      3  31002 MG Além Paraíba                              316000                            
+      4  31006 Araxá                                        31X006                            
+      4  31006 MG Araxá                                     310400                            
+      4  31006 MG Araxá                                     311150                            
+      4  31006 MG Araxá                                     312950                            
+      4  31006 MG Araxá                                     314920                            
+      4  31006 MG Araxá                                     314980                            
+      4  31006 MG Araxá                                     315300                            
+      4  31006 MG Araxá                                     315770                            
+      5  31005 Araçuaí                                      31X005                            
+      5  31005 MG Araçuaí                                   310340                            
+      5  31005 MG Araçuaí                                   310650                            
+      5  31005 MG Araçuaí                                   311950                            
+      5  31005 MG Araçuaí                                   312650                            
+      5  31005 MG Araçuaí                                   313545                            
+      6  31007 Barbacena                                    31X007                            
+      6  31007 MG Barbacena                                 310163                            
+      6  31007 MG Barbacena                                 310210                            
+      6  31007 MG Barbacena                                 310290                            
+      6  31007 MG Barbacena                                 310560                            
+      6  31007 MG Barbacena                                 311220                            
+      6  31007 MG Barbacena                                 311320                            
+      6  31007 MG Barbacena                                 311630                            
+      6  31007 MG Barbacena                                 312150                            
+      6  31007 MG Barbacena                                 312940                            
+      6  31007 MG Barbacena                                 314660                            
+      6  31007 MG Barbacena                                 315440                            
+      6  31007 MG Barbacena                                 315730                            
+      6  31007 MG Barbacena                                 315870                            
+      6  31007 MG Barbacena                                 315940                            
+      7  31008 B.Horizonte/N.Lima/Caeté                     31X008                            
+      7  31008 MG Belo Horizonte Nova Lima Caeté            310620                            
+      7  31008 MG Belo Horizonte Nova Lima Caeté            310640                            
+      7  31008 MG Belo Horizonte Nova Lima Caeté            311000                            
+      7  31008 MG Belo Horizonte Nova Lima Caeté            313460                            
+      7  31008 MG Belo Horizonte Nova Lima Caeté            313660                            
+      7  31008 MG Belo Horizonte Nova Lima Caeté            314230                            
+      7  31008 MG Belo Horizonte Nova Lima Caeté            314480                            
+      7  31008 MG Belo Horizonte Nova Lima Caeté            315390                            
+      7  31008 MG Belo Horizonte Nova Lima Caeté            315460                            
+      7  31008 MG Belo Horizonte Nova Lima Caeté            315480                            
+      7  31008 MG Belo Horizonte Nova Lima Caeté            315670                            
+      7  31008 MG Belo Horizonte Nova Lima Caeté            315780                            
+      8  31009 Betim                                        31X009                            
+      8  31009 MG Betim                                     310670                            
+      8  31009 MG Betim                                     310810                            
+      8  31009 MG Betim                                     310900                            
+      8  31009 MG Betim                                     312060                            
+      8  31009 MG Betim                                     312410                            
+      8  31009 MG Betim                                     312600                            
+      8  31009 MG Betim                                     313010                            
+      8  31009 MG Betim                                     313665                            
+      8  31009 MG Betim                                     314015                            
+      8  31009 MG Betim                                     314070                            
+      8  31009 MG Betim                                     315040                            
+      8  31009 MG Betim                                     315530                            
+      9  31010 Bom Despacho                                 31X010                            
+      9  31010 MG Bom Despacho                              310740                            
+      9  31010 MG Bom Despacho                              312320                            
+      9  31010 MG Bom Despacho                              312470                            
+      9  31010 MG Bom Despacho                              313880                            
+      9  31010 MG Bom Despacho                              314050                            
+      9  31010 MG Bom Despacho                              314240                            
+     10  31011 Brasília MG/S.Francisco                      31X011                            
+     10  31011 MG Brasília de Minas São Francisco           310860                            
+     10  31011 MG Brasília de Minas São Francisco           311115                            
+     10  31011 MG Brasília de Minas São Francisco           312965                            
+     10  31011 MG Brasília de Minas São Francisco           313005                            
+     10  31011 MG Brasília de Minas São Francisco           313535                            
+     10  31011 MG Brasília de Minas São Francisco           313865                            
+     10  31011 MG Brasília de Minas São Francisco           313868                            
+     10  31011 MG Brasília de Minas São Francisco           314200                            
+     10  31011 MG Brasília de Minas São Francisco           314795                            
+     10  31011 MG Brasília de Minas São Francisco           315057                            
+     10  31011 MG Brasília de Minas São Francisco           316110                            
+     10  31011 MG Brasília de Minas São Francisco           316240                            
+     10  31011 MG Brasília de Minas São Francisco           316420                            
+     10  31011 MG Brasília de Minas São Francisco           317000                            
+     10  31011 MG Brasília de Minas São Francisco           317052                            
+     11  31012 Carangola                                    31X012                            
+     11  31012 MG Carangola                                 311010                            
+     11  31012 MG Carangola                                 311210                            
+     11  31012 MG Carangola                                 311330                            
+     11  31012 MG Carangola                                 312200                            
+     11  31012 MG Carangola                                 312420                            
+     11  31012 MG Carangola                                 312530                            
+     11  31012 MG Carangola                                 312595                            
+     11  31012 MG Carangola                                 314587                            
+     11  31012 MG Carangola                                 314875                            
+     11  31012 MG Carangola                                 314900                            
+     12  31013 Caratinga                                    31X013                            
+     12  31013 MG Caratinga                                 310780                            
+     12  31013 MG Caratinga                                 311340                            
+     12  31013 MG Caratinga                                 312385                            
+     12  31013 MG Caratinga                                 313055                            
+     12  31013 MG Caratinga                                 313090                            
+     12  31013 MG Caratinga                                 315015                            
+     12  31013 MG Caratinga                                 315725                            
+     12  31013 MG Caratinga                                 315935                            
+     12  31013 MG Caratinga                                 316095                            
+     12  31013 MG Caratinga                                 316447                            
+     12  31013 MG Caratinga                                 317005                            
+     12  31013 MG Caratinga                                 317057                            
+     13  31014 Cons.Lafaiete/Congonhas                      31X014                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            311310                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            311490                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            311540                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            311800                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            311830                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            312040                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            312140                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            312390                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            313390                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            313540                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            313790                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            314590                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            315080                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            315380                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            315520                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            315910                            
+     13  31014 MG Conselheiro Lafaiete Congonhas            316090                            
+     14  31015 Contagem                                     31X015                            
+     14  31015 MG Contagem                                  311860                            
+     14  31015 MG Contagem                                  312980                            
+     15  31016 Coração de Jesus                             31X016                            
+     15  31016 MG Coração de Jesus                          311880                            
+     15  31016 MG Coração de Jesus                          313560                            
+     15  31016 MG Coração de Jesus                          313730                            
+     15  31016 MG Coração de Jesus                          316225                            
+     16  31017 Cel.Fabriciano/Timóteo                       31X017                            
+     16  31017 MG Coronel Fabriciano Timóteo                310300                            
+     16  31017 MG Coronel Fabriciano Timóteo                311940                            
+     16  31017 MG Coronel Fabriciano Timóteo                312000                            
+     16  31017 MG Coronel Fabriciano Timóteo                312180                            
+     16  31017 MG Coronel Fabriciano Timóteo                313500                            
+     16  31017 MG Coronel Fabriciano Timóteo                314030                            
+     16  31017 MG Coronel Fabriciano Timóteo                315053                            
+     17  31018 Curvelo                                      31X018                            
+     17  31018 MG Curvelo                                   310480                            
+     17  31018 MG Curvelo                                   310920                            
+     17  31018 MG Curvelo                                   311910                            
+     17  31018 MG Curvelo                                   312090                            
+     17  31018 MG Curvelo                                   312570                            
+     17  31018 MG Curvelo                                   313110                            
+     17  31018 MG Curvelo                                   314250                            
+     17  31018 MG Curvelo                                   314360                            
+     17  31018 MG Curvelo                                   315320                            
+     17  31018 MG Curvelo                                   316060                            
+     18  31019 Diamantina                                   31X019                            
+     18  31019 MG Diamantina                                310240                            
+     18  31019 MG Diamantina                                311350                            
+     18  31019 MG Diamantina                                311680                            
+     18  31019 MG Diamantina                                311810                            
+     18  31019 MG Diamantina                                312010                            
+     18  31019 MG Diamantina                                312100                            
+     18  31019 MG Diamantina                                312160                            
+     18  31019 MG Diamantina                                312540                            
+     18  31019 MG Diamantina                                312550                            
+     18  31019 MG Diamantina                                312760                            
+     18  31019 MG Diamantina                                313250                            
+     18  31019 MG Diamantina                                315330                            
+     18  31019 MG Diamantina                                316020                            
+     18  31019 MG Diamantina                                316590                            
+     19  31020 Divinópolis/S.Antº.Monte                     31X020                            
+     19  31020 MG Divinópolis Santo Antônio do Monte        310390                            
+     19  31020 MG Divinópolis Santo Antônio do Monte        310420                            
+     19  31020 MG Divinópolis Santo Antônio do Monte        311420                            
+     19  31020 MG Divinópolis Santo Antônio do Monte        311660                            
+     19  31020 MG Divinópolis Santo Antônio do Monte        312230                            
+     19  31020 MG Divinópolis Santo Antônio do Monte        313350                            
+     19  31020 MG Divinópolis Santo Antônio do Monte        313530                            
+     19  31020 MG Divinópolis Santo Antônio do Monte        313720                            
+     19  31020 MG Divinópolis Santo Antônio do Monte        314890                            
+     19  31020 MG Divinópolis Santo Antônio do Monte        314970                            
+     19  31020 MG Divinópolis Santo Antônio do Monte        316040                            
+     19  31020 MG Divinópolis Santo Antônio do Monte        316180                            
+     20  31021 Formiga                                      31X021                            
+     20  31021 MG Formiga                                   310510                            
+     20  31021 MG Formiga                                   311980                            
+     20  31021 MG Formiga                                   311995                            
+     20  31021 MG Formiga                                   312610                            
+     20  31021 MG Formiga                                   313030                            
+     20  31021 MG Formiga                                   314130                            
+     20  31021 MG Formiga                                   314650                            
+     20  31021 MG Formiga                                   315050                            
+     21  31022 Francisco Sá                                 31X022                            
+     21  31022 MG Francisco Sá                              310850                            
+     21  31022 MG Francisco Sá                              311270                            
+     21  31022 MG Francisco Sá                              312030                            
+     21  31022 MG Francisco Sá                              312670                            
+     21  31022 MG Francisco Sá                              312780                            
+     22  31023 Frutal Iturama                               31X023                            
+     22  31023 MG Frutal Iturama                            311455                            
+     22  31023 MG Frutal Iturama                            311690                            
+     22  31023 MG Frutal Iturama                            312700                            
+     22  31023 MG Frutal Iturama                            312710                            
+     22  31023 MG Frutal Iturama                            313340                            
+     22  31023 MG Frutal Iturama                            313440                            
+     22  31023 MG Frutal Iturama                            313862                            
+     22  31023 MG Frutal Iturama                            315070                            
+     22  31023 MG Frutal Iturama                            315160                            
+     22  31023 MG Frutal Iturama                            316130                            
+     23  31024 Governador Valadares                         31X024                            
+     23  31024 MG Governador Valadares                      310180                            
+     23  31024 MG Governador Valadares                      311265                            
+     23  31024 MG Governador Valadares                      311920                            
+     23  31024 MG Governador Valadares                      312220                            
+     23  31024 MG Governador Valadares                      312370                            
+     23  31024 MG Governador Valadares                      312580                            
+     23  31024 MG Governador Valadares                      312690                            
+     23  31024 MG Governador Valadares                      312730                            
+     23  31024 MG Governador Valadares                      312750                            
+     23  31024 MG Governador Valadares                      312770                            
+     23  31024 MG Governador Valadares                      313320                            
+     23  31024 MG Governador Valadares                      313507                            
+     23  31024 MG Governador Valadares                      314010                            
+     23  31024 MG Governador Valadares                      314420                            
+     23  31024 MG Governador Valadares                      315750                            
+     23  31024 MG Governador Valadares                      316160                            
+     23  31024 MG Governador Valadares                      316165                            
+     23  31024 MG Governador Valadares                      316300                            
+     23  31024 MG Governador Valadares                      316550                            
+     23  31024 MG Governador Valadares                      316770                            
+     23  31024 MG Governador Valadares                      316840                            
+     23  31024 MG Governador Valadares                      316950                            
+     23  31024 MG Governador Valadares                      317150                            
+     24  31025 Guanhães                                     31X025                            
+     24  31025 MG Guanhães                                  311380                            
+     24  31025 MG Guanhães                                  311750                            
+     24  31025 MG Guanhães                                  312260                            
+     24  31025 MG Guanhães                                  312310                            
+     24  31025 MG Guanhães                                  312800                            
+     24  31025 MG Guanhães                                  314060                            
+     24  31025 MG Guanhães                                  315600                            
+     24  31025 MG Guanhães                                  315680                            
+     24  31025 MG Guanhães                                  316610                            
+     24  31025 MG Guanhães                                  316650                            
+     25  31026 Guaxupé                                      31X026                            
+     25  31026 MG Guaxupé                                   310410                            
+     25  31026 MG Guaxupé                                   310950                            
+     25  31026 MG Guaxupé                                   312830                            
+     25  31026 MG Guaxupé                                   312870                            
+     25  31026 MG Guaxupé                                   313690                            
+     25  31026 MG Guaxupé                                   314300                            
+     25  31026 MG Guaxupé                                   314410                            
+     25  31026 MG Guaxupé                                   314510                            
+     26  31027 Ipatinga                                     31X027                            
+     26  31027 MG Ipatinga                                  310050                            
+     26  31027 MG Ipatinga                                  310630                            
+     26  31027 MG Ipatinga                                  310880                            
+     26  31027 MG Ipatinga                                  310925                            
+     26  31027 MG Ipatinga                                  312250                            
+     26  31027 MG Ipatinga                                  312930                            
+     26  31027 MG Ipatinga                                  313115                            
+     26  31027 MG Ipatinga                                  313130                            
+     26  31027 MG Ipatinga                                  313610                            
+     26  31027 MG Ipatinga                                  314170                            
+     26  31027 MG Ipatinga                                  314435                            
+     26  31027 MG Ipatinga                                  314995                            
+     26  31027 MG Ipatinga                                  315895                            
+     27  31028 Itabira                                      31X028                            
+     27  31028 MG Itabira                                   310540                            
+     27  31028 MG Itabira                                   310770                            
+     27  31028 MG Itabira                                   311535                            
+     27  31028 MG Itabira                                   312590                            
+     27  31028 MG Itabira                                   313170                            
+     27  31028 MG Itabira                                   313280                            
+     27  31028 MG Itabira                                   314370                            
+     27  31028 MG Itabira                                   314750                            
+     27  31028 MG Itabira                                   315720                            
+     27  31028 MG Itabira                                   315800                            
+     27  31028 MG Itabira                                   316050                            
+     27  31028 MG Itabira                                   316190                            
+     28  31029 Itajubá                                      31X029                            
+     28  31029 MG Itajubá                                   310890                            
+     28  31029 MG Itajubá                                   311720                            
+     28  31029 MG Itajubá                                   311850                            
+     28  31029 MG Itajubá                                   312110                            
+     28  31029 MG Itajubá                                   312740                            
+     28  31029 MG Itajubá                                   313240                            
+     28  31029 MG Itajubá                                   313990                            
+     28  31029 MG Itajubá                                   314040                            
+     28  31029 MG Itajubá                                   314730                            
+     28  31029 MG Itajubá                                   314910                            
+     28  31029 MG Itajubá                                   315090                            
+     28  31029 MG Itajubá                                   315100                            
+     28  31029 MG Itajubá                                   316320                            
+     28  31029 MG Itajubá                                   316540                            
+     29  31030 Itaobim                                      31X030                            
+     29  31030 MG Itaobim                                   311700                            
+     29  31030 MG Itaobim                                   313330                            
+     29  31030 MG Itaobim                                   313400                            
+     29  31030 MG Itaobim                                   314140                            
+     29  31030 MG Itaobim                                   314315                            
+     30  31031 Itaúna                                       31X031                            
+     30  31031 MG Itaúna                                    313220                            
+     30  31031 MG Itaúna                                    313370                            
+     30  31031 MG Itaúna                                    313380                            
+     31  31032 Ituiutaba                                    31X032                            
+     31  31032 MG Ituiutaba                                 310980                            
+     31  31032 MG Ituiutaba                                 311110                            
+     31  31032 MG Ituiutaba                                 311180                            
+     31  31032 MG Ituiutaba                                 311260                            
+     31  31032 MG Ituiutaba                                 311580                            
+     31  31032 MG Ituiutaba                                 312910                            
+     31  31032 MG Ituiutaba                                 313140                            
+     31  31032 MG Ituiutaba                                 313420                            
+     32  31033 Janaúba Monte Azul                           31X033                            
+     32  31033 MG Janaúba Monte Azul                        311547                            
+     32  31033 MG Janaúba Monte Azul                        312430                            
+     32  31033 MG Janaúba Monte Azul                        312733                            
+     32  31033 MG Janaúba Monte Azul                        313505                            
+     32  31033 MG Janaúba Monte Azul                        313510                            
+     32  31033 MG Janaúba Monte Azul                        313925                            
+     32  31033 MG Janaúba Monte Azul                        314085                            
+     32  31033 MG Janaúba Monte Azul                        314100                            
+     32  31033 MG Janaúba Monte Azul                        314290                            
+     32  31033 MG Janaúba Monte Azul                        314505                            
+     32  31033 MG Janaúba Monte Azul                        314655                            
+     32  31033 MG Janaúba Monte Azul                        315220                            
+     32  31033 MG Janaúba Monte Azul                        315450                            
+     32  31033 MG Janaúba Monte Azul                        316695                            
+     33  31034 Januária                                     31X034                            
+     33  31034 MG Januária                                  310825                            
+     33  31034 MG Januária                                  311783                            
+     33  31034 MG Januária                                  313210                            
+     33  31034 MG Januária                                  313520                            
+     34  31035 João Monlevade                               31X035                            
+     34  31035 MG João Monlevade                            310600                            
+     34  31035 MG João Monlevade                            313620                            
+     34  31035 MG João Monlevade                            314470                            
+     34  31035 MG João Monlevade                            315570                            
+     35  31036 João Pinheiro                                31X036                            
+     35  31036 MG João Pinheiro                             310855                            
+     35  31036 MG João Pinheiro                             313630                            
+     36  31037 J.Fora/L.Duarte/B.Jardim                     31X037                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 310280                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 310360                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 310610                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 310680                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 310720                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 310750                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 311590                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 311620                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 311960                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 312500                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 312738                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 313670                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 313850                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 313860                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 314080                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 314540                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 314780                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 314940                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 315010                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 315540                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 315590                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 315727                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 315860                            
+     36  31037 MG Juiz de Fora Lima Duarte Bom Jardim Minas 315930                            
+     37  31038 Lavras                                       31X038                            
+     37  31038 MG Lavras                                    311460                            
+     37  31038 MG Lavras                                    313040                            
+     37  31038 MG Lavras                                    313080                            
+     37  31038 MG Lavras                                    313430                            
+     37  31038 MG Lavras                                    313450                            
+     37  31038 MG Lavras                                    313820                            
+     37  31038 MG Lavras                                    313870                            
+     37  31038 MG Lavras                                    314460                            
+     37  31038 MG Lavras                                    314990                            
+     38  31039 Leopoldina Cataguases                        31X039                            
+     38  31039 MG Leopoldina Cataguases                     310440                            
+     38  31039 MG Leopoldina Cataguases                     310460                            
+     38  31039 MG Leopoldina Cataguases                     311530                            
+     38  31039 MG Leopoldina Cataguases                     312290                            
+     38  31039 MG Leopoldina Cataguases                     313260                            
+     38  31039 MG Leopoldina Cataguases                     313800                            
+     38  31039 MG Leopoldina Cataguases                     313840                            
+     38  31039 MG Leopoldina Cataguases                     314670                            
+     38  31039 MG Leopoldina Cataguases                     315410                            
+     39  31040 Manga                                        31X040                            
+     39  31040 MG Manga                                     313695                            
+     39  31040 MG Manga                                     313930                            
+     39  31040 MG Manga                                     314225                            
+     39  31040 MG Manga                                     314270                            
+     40  31041 Manhuaçu                                     31X041                            
+     40  31041 MG Manhuaçu                                  310030                            
+     40  31041 MG Manhuaçu                                  310205                            
+     40  31041 MG Manhuaçu                                  311290                            
+     40  31041 MG Manhuaçu                                  311600                            
+     40  31041 MG Manhuaçu                                  311740                            
+     40  31041 MG Manhuaçu                                  312352                            
+     40  31041 MG Manhuaçu                                  313120                            
+     40  31041 MG Manhuaçu                                  313770                            
+     40  31041 MG Manhuaçu                                  313867                            
+     40  31041 MG Manhuaçu                                  313940                            
+     40  31041 MG Manhuaçu                                  313950                            
+     40  31041 MG Manhuaçu                                  314053                            
+     40  31041 MG Manhuaçu                                  314090                            
+     40  31041 MG Manhuaçu                                  314400                            
+     40  31041 MG Manhuaçu                                  315190                            
+     40  31041 MG Manhuaçu                                  315350                            
+     40  31041 MG Manhuaçu                                  315415                            
+     40  31041 MG Manhuaçu                                  315790                            
+     40  31041 MG Manhuaçu                                  315890                            
+     40  31041 MG Manhuaçu                                  316255                            
+     40  31041 MG Manhuaçu                                  316360                            
+     40  31041 MG Manhuaçu                                  316760                            
+     41  31042 Mantena                                      31X042                            
+     41  31042 MG Mantena                                   311570                            
+     41  31042 MG Mantena                                   312210                            
+     41  31042 MG Mantena                                   313180                            
+     41  31042 MG Mantena                                   313960                            
+     41  31042 MG Mantena                                   314150                            
+     41  31042 MG Mantena                                   314467                            
+     41  31042 MG Mantena                                   316105                            
+     42  31043 M.Novas/Turmalin/Capelin                     31X043                            
+     42  31043 MG Minas Novas Turmalina Capelinha           310445                            
+     42  31043 MG Minas Novas Turmalina Capelinha           311230                            
+     42  31043 MG Minas Novas Turmalina Capelinha           311610                            
+     42  31043 MG Minas Novas Turmalina Capelinha           313652                            
+     42  31043 MG Minas Novas Turmalina Capelinha           313835                            
+     42  31043 MG Minas Novas Turmalina Capelinha           314180                            
+     42  31043 MG Minas Novas Turmalina Capelinha           316970                            
+     43  31044 Montes Claros Bocaiúva                       31X044                            
+     43  31044 MG Montes Claros Bocaiúva                    310730                            
+     43  31044 MG Montes Claros Bocaiúva                    311650                            
+     43  31044 MG Montes Claros Bocaiúva                    312380                            
+     43  31044 MG Montes Claros Bocaiúva                    312660                            
+     43  31044 MG Montes Claros Bocaiúva                    312735                            
+     43  31044 MG Montes Claros Bocaiúva                    312825                            
+     43  31044 MG Montes Claros Bocaiúva                    313200                            
+     43  31044 MG Montes Claros Bocaiúva                    313640                            
+     43  31044 MG Montes Claros Bocaiúva                    313680                            
+     43  31044 MG Montes Claros Bocaiúva                    314330                            
+     44  31045 Muriaé                                       31X045                            
+     44  31045 MG Muriaé                                    310310                            
+     44  31045 MG Muriaé                                    310550                            
+     44  31045 MG Muriaé                                    312490                            
+     44  31045 MG Muriaé                                    314210                            
+     44  31045 MG Muriaé                                    314220                            
+     44  31045 MG Muriaé                                    314390                            
+     44  31045 MG Muriaé                                    314820                            
+     44  31045 MG Muriaé                                    315645                            
+     44  31045 MG Muriaé                                    316140                            
+     44  31045 MG Muriaé                                    316443                            
+     45  31046 Nanuque                                      31X046                            
+     45  31046 MG Nanuque                                   311370                            
+     45  31046 MG Nanuque                                   314430                            
+     46  31047 Ouro Preto                                   31X047                            
+     46  31047 MG Ouro Preto                                313190                            
+     46  31047 MG Ouro Preto                                314000                            
+     47  31048 Padre Paraíso                                31X048                            
+     47  31048 MG Padre Paraíso                             311300                            
+     47  31048 MG Padre Paraíso                             311545                            
+     47  31048 MG Padre Paraíso                             313230                            
+     48  31049 Pará de Minas                                31X049                            
+     48  31049 MG Pará de Minas                             311760                            
+     48  31049 MG Pará de Minas                             313020                            
+     48  31049 MG Pará de Minas                             313830                            
+     48  31049 MG Pará de Minas                             314520                            
+     48  31049 MG Pará de Minas                             314580                            
+     48  31049 MG Pará de Minas                             314710                            
+     48  31049 MG Pará de Minas                             315140                            
+     49  31050 Passos Piumhi                                31X050                            
+     49  31050 MG Passos Piumhi                             310190                            
+     49  31050 MG Passos Piumhi                             310760                            
+     49  31050 MG Passos Piumhi                             311240                            
+     49  31050 MG Passos Piumhi                             311280                            
+     49  31050 MG Passos Piumhi                             311510                            
+     49  31050 MG Passos Piumhi                             311640                            
+     49  31050 MG Passos Piumhi                             312120                            
+     49  31050 MG Passos Piumhi                             312340                            
+     49  31050 MG Passos Piumhi                             312630                            
+     49  31050 MG Passos Piumhi                             312810                            
+     49  31050 MG Passos Piumhi                             312970                            
+     49  31050 MG Passos Piumhi                             313375                            
+     49  31050 MG Passos Piumhi                             314790                            
+     49  31050 MG Passos Piumhi                             315150                            
+     49  31050 MG Passos Piumhi                             316220                            
+     49  31050 MG Passos Piumhi                             316294                            
+     49  31050 MG Passos Piumhi                             316430                            
+     50  31051 Patos de Minas                               31X051                            
+     50  31051 MG Patos de Minas                            310380                            
+     50  31051 MG Patos de Minas                            311430                            
+     50  31051 MG Patos de Minas                            312070                            
+     50  31051 MG Patos de Minas                            312860                            
+     50  31051 MG Patos de Minas                            312890                            
+     50  31051 MG Patos de Minas                            313710                            
+     50  31051 MG Patos de Minas                            313750                            
+     50  31051 MG Patos de Minas                            314120                            
+     50  31051 MG Patos de Minas                            314800                            
+     50  31051 MG Patos de Minas                            315340                            
+     50  31051 MG Patos de Minas                            315550                            
+     50  31051 MG Patos de Minas                            315970                            
+     50  31051 MG Patos de Minas                            316170                            
+     50  31051 MG Patos de Minas                            316210                            
+     50  31051 MG Patos de Minas                            316680                            
+     50  31051 MG Patos de Minas                            316890                            
+     50  31051 MG Patos de Minas                            317075                            
+     51  31052 Patrocínio Monte Carmelo                     31X052                            
+     51  31052 MG Patrocínio Monte Carmelo                  310010                            
+     51  31052 MG Patrocínio Monte Carmelo                  311930                            
+     51  31052 MG Patrocínio Monte Carmelo                  312350                            
+     51  31052 MG Patrocínio Monte Carmelo                  312480                            
+     51  31052 MG Patrocínio Monte Carmelo                  312790                            
+     51  31052 MG Patrocínio Monte Carmelo                  313160                            
+     51  31052 MG Patrocínio Monte Carmelo                  314310                            
+     51  31052 MG Patrocínio Monte Carmelo                  314810                            
+     52  31053 Pedra Azul                                   31X053                            
+     52  31053 MG Pedra Azul                                310100                            
+     52  31053 MG Pedra Azul                                310270                            
+     52  31053 MG Pedra Azul                                312235                            
+     53  31054 Pirapora                                     31X054                            
+     53  31054 MG Pirapora                                  310940                            
+     53  31054 MG Pirapora                                  312960                            
+     53  31054 MG Pirapora                                  313810                            
+     53  31054 MG Pirapora                                  315120                            
+     53  31054 MG Pirapora                                  315213                            
+     53  31054 MG Pirapora                                  315760                            
+     54  31056 Ponte Nova                                   31X056                            
+     54  31056 MG Ponte Nova                                310040                            
+     54  31056 MG Ponte Nova                                310230                            
+     54  31056 MG Ponte Nova                                310250                            
+     54  31056 MG Ponte Nova                                310570                            
+     54  31056 MG Ponte Nova                                312170                            
+     54  31056 MG Ponte Nova                                312270                            
+     54  31056 MG Ponte Nova                                312820                            
+     54  31056 MG Ponte Nova                                313550                            
+     54  31056 MG Ponte Nova                                314585                            
+     54  31056 MG Ponte Nova                                315020                            
+     54  31056 MG Ponte Nova                                315210                            
+     54  31056 MG Ponte Nova                                315400                            
+     54  31056 MG Ponte Nova                                315490                            
+     54  31056 MG Ponte Nova                                315500                            
+     54  31056 MG Ponte Nova                                315740                            
+     54  31056 MG Ponte Nova                                316010                            
+     54  31056 MG Ponte Nova                                316340                            
+     54  31056 MG Ponte Nova                                316400                            
+     54  31056 MG Ponte Nova                                316556                            
+     54  31056 MG Ponte Nova                                316630                            
+     55  31057 Pouso Alegre                                 31X057                            
+     55  31057 MG Pouso Alegre                              310140                            
+     55  31057 MG Pouso Alegre                              310790                            
+     55  31057 MG Pouso Alegre                              310830                            
+     55  31057 MG Pouso Alegre                              310910                            
+     55  31057 MG Pouso Alegre                              310970                            
+     55  31057 MG Pouso Alegre                              311050                            
+     55  31057 MG Pouso Alegre                              311060                            
+     55  31057 MG Pouso Alegre                              311360                            
+     55  31057 MG Pouso Alegre                              311780                            
+     55  31057 MG Pouso Alegre                              311790                            
+     55  31057 MG Pouso Alegre                              311990                            
+     55  31057 MG Pouso Alegre                              312440                            
+     55  31057 MG Pouso Alegre                              312450                            
+     55  31057 MG Pouso Alegre                              312510                            
+     55  31057 MG Pouso Alegre                              312920                            
+     55  31057 MG Pouso Alegre                              313060                            
+     55  31057 MG Pouso Alegre                              313150                            
+     55  31057 MG Pouso Alegre                              313360                            
+     55  31057 MG Pouso Alegre                              313490                            
+     55  31057 MG Pouso Alegre                              314340                            
+     55  31057 MG Pouso Alegre                              314380                            
+     55  31057 MG Pouso Alegre                              314440                            
+     55  31057 MG Pouso Alegre                              314600                            
+     55  31057 MG Pouso Alegre                              315250                            
+     55  31057 MG Pouso Alegre                              315960                            
+     55  31057 MG Pouso Alegre                              316230                            
+     55  31057 MG Pouso Alegre                              316440                            
+     55  31057 MG Pouso Alegre                              316557                            
+     55  31057 MG Pouso Alegre                              316580                            
+     55  31057 MG Pouso Alegre                              316740                            
+     55  31057 MG Pouso Alegre                              316905                            
+     55  31057 MG Pouso Alegre                              316910                            
+     56  31055 Poços de Caldas                              31X055                            
+     56  31055 MG Poços de Caldas                           310260                            
+     56  31055 MG Poços de Caldas                           311030                            
+     56  31055 MG Poços de Caldas                           312990                            
+     56  31055 MG Poços de Caldas                           315180                            
+     57  31058 Resplendor                                   31X058                            
+     57  31058 MG Resplendor                                310110                            
+     57  31058 MG Resplendor                                310220                            
+     57  31058 MG Resplendor                                311840                            
+     57  31058 MG Resplendor                                312083                            
+     57  31058 MG Resplendor                                312737                            
+     57  31058 MG Resplendor                                313410                            
+     57  31058 MG Resplendor                                315430                            
+     58  31059 Salinas Taiobeiras                           31X059                            
+     58  31059 MG Salinas Taiobeiras                        310665                            
+     58  31059 MG Salinas Taiobeiras                        312087                            
+     58  31059 MG Salinas Taiobeiras                        312707                            
+     58  31059 MG Salinas Taiobeiras                        313065                            
+     58  31059 MG Salinas Taiobeiras                        314345                            
+     58  31059 MG Salinas Taiobeiras                        314465                            
+     58  31059 MG Salinas Taiobeiras                        314537                            
+     58  31059 MG Salinas Taiobeiras                        314625                            
+     58  31059 MG Salinas Taiobeiras                        315560                            
+     58  31059 MG Salinas Taiobeiras                        315650                            
+     58  31059 MG Salinas Taiobeiras                        315700                            
+     58  31059 MG Salinas Taiobeiras                        315737                            
+     58  31059 MG Salinas Taiobeiras                        316045                            
+     58  31059 MG Salinas Taiobeiras                        316270                            
+     58  31059 MG Salinas Taiobeiras                        316800                            
+     59  31060 S.Maria Suaçuí/S.João Ev                     31X060                            
+     59  31060 MG Santa Maria do Suaçuí São João Evangelist 310060                            
+     59  31060 MG Santa Maria do Suaçuí São João Evangelist 311205                            
+     59  31060 MG Santa Maria do Suaçuí São João Evangelist 312695                            
+     59  31060 MG Santa Maria do Suaçuí São João Evangelist 313655                            
+     59  31060 MG Santa Maria do Suaçuí São João Evangelist 314840                            
+     59  31060 MG Santa Maria do Suaçuí São João Evangelist 314860                            
+     59  31060 MG Santa Maria do Suaçuí São João Evangelist 315820                            
+     59  31060 MG Santa Maria do Suaçuí São João Evangelist 316280                            
+     59  31060 MG Santa Maria do Suaçuí São João Evangelist 316350                            
+     59  31060 MG Santa Maria do Suaçuí São João Evangelist 316410                            
+     60  31061 S.Antôn.Amparo/Cpo.Belo                      31X061                            
+     60  31061 MG Santo Antônio do Amparo Campo Belo        310080                            
+     60  31061 MG Santo Antônio do Amparo Campo Belo        311040                            
+     60  31061 MG Santo Antônio do Amparo Campo Belo        311120                            
+     60  31061 MG Santo Antônio do Amparo Campo Belo        311190                            
+     60  31061 MG Santo Antônio do Amparo Campo Belo        311200                            
+     60  31061 MG Santo Antônio do Amparo Campo Belo        311400                            
+     60  31061 MG Santo Antônio do Amparo Campo Belo        311450                            
+     60  31061 MG Santo Antônio do Amparo Campo Belo        312020                            
+     60  31061 MG Santo Antônio do Amparo Campo Belo        314560                            
+     60  31061 MG Santo Antônio do Amparo Campo Belo        314770                            
+     60  31061 MG Santo Antônio do Amparo Campo Belo        315880                            
+     60  31061 MG Santo Antônio do Amparo Campo Belo        315990                            
+     61  31062 Santos Dumont                                31X062                            
+     61  31062 MG Santos Dumont                             310330                            
+     61  31062 MG Santos Dumont                             314570                            
+     62  31067 Sete Lagoas                                  31X067                            
+     62  31067 MG Sete Lagoas                               310020                            
+     62  31067 MG Sete Lagoas                               310320                            
+     62  31067 MG Sete Lagoas                               310500                            
+     62  31067 MG Sete Lagoas                               310700                            
+     62  31067 MG Sete Lagoas                               310960                            
+     62  31067 MG Sete Lagoas                               310990                            
+     62  31067 MG Sete Lagoas                               311250                            
+     62  31067 MG Sete Lagoas                               311560                            
+     62  31067 MG Sete Lagoas                               311890                            
+     62  31067 MG Sete Lagoas                               312640                            
+     62  31067 MG Sete Lagoas                               312720                            
+     62  31067 MG Sete Lagoas                               313100                            
+     62  31067 MG Sete Lagoas                               313570                            
+     62  31067 MG Sete Lagoas                               313970                            
+     62  31067 MG Sete Lagoas                               314350                            
+     62  31067 MG Sete Lagoas                               314640                            
+     62  31067 MG Sete Lagoas                               314690                            
+     62  31067 MG Sete Lagoas                               314740                            
+     62  31067 MG Sete Lagoas                               314960                            
+     62  31067 MG Sete Lagoas                               315200                            
+     62  31067 MG Sete Lagoas                               315360                            
+     62  31067 MG Sete Lagoas                               315370                            
+     62  31067 MG Sete Lagoas                               315850                            
+     63  31064 S.João Nepomuceno/Bicas                      31X064                            
+     63  31064 MG São João Nepomuceno Bicas                 310690                            
+     63  31064 MG São João Nepomuceno Bicas                 312130                            
+     63  31064 MG São João Nepomuceno Bicas                 312850                            
+     63  31064 MG São João Nepomuceno Bicas                 313980                            
+     63  31064 MG São João Nepomuceno Bicas                 314020                            
+     63  31064 MG São João Nepomuceno Bicas                 314950                            
+     63  31064 MG São João Nepomuceno Bicas                 315620                            
+     63  31064 MG São João Nepomuceno Bicas                 316290                            
+     64  31063 São João del Rei                             31X063                            
+     64  31063 MG São João del Rei                          310590                            
+     64  31063 MG São João del Rei                          310800                            
+     64  31063 MG São João del Rei                          311520                            
+     64  31063 MG São João del Rei                          311970                            
+     64  31063 MG São João del Rei                          312300                            
+     64  31063 MG São João del Rei                          313000                            
+     64  31063 MG São João del Rei                          313740                            
+     64  31063 MG São João del Rei                          313910                            
+     64  31063 MG São João del Rei                          314450                            
+     64  31063 MG São João del Rei                          315030                            
+     64  31063 MG São João del Rei                          315270                            
+     64  31063 MG São João del Rei                          315420                            
+     64  31063 MG São João del Rei                          315610                            
+     64  31063 MG São João del Rei                          315733                            
+     64  31063 MG São João del Rei                          316250                            
+     64  31063 MG São João del Rei                          316500                            
+     64  31063 MG São João del Rei                          316530                            
+     65  31065 São Lourenço                                 31X065                            
+     65  31065 MG São Lourenço                              310120                            
+     65  31065 MG São Lourenço                              310130                            
+     65  31065 MG São Lourenço                              310490                            
+     65  31065 MG São Lourenço                              311410                            
+     65  31065 MG São Lourenço                              311480                            
+     65  31065 MG São Lourenço                              311550                            
+     65  31065 MG São Lourenço                              311770                            
+     65  31065 MG São Lourenço                              312050                            
+     65  31065 MG São Lourenço                              312080                            
+     65  31065 MG São Lourenço                              312280                            
+     65  31065 MG São Lourenço                              313300                            
+     65  31065 MG São Lourenço                              313310                            
+     65  31065 MG São Lourenço                              313590                            
+     65  31065 MG São Lourenço                              313780                            
+     65  31065 MG São Lourenço                              314190                            
+     65  31065 MG São Lourenço                              314550                            
+     65  31065 MG São Lourenço                              314760                            
+     65  31065 MG São Lourenço                              315260                            
+     65  31065 MG São Lourenço                              316370                            
+     65  31065 MG São Lourenço                              316490                            
+     65  31065 MG São Lourenço                              316640                            
+     65  31065 MG São Lourenço                              316700                            
+     65  31065 MG São Lourenço                              316780                            
+     66  31066 São Sebastião do Paraíso                     31X066                            
+     66  31066 MG São Sebastião do Paraíso                  313290                            
+     66  31066 MG São Sebastião do Paraíso                  313480                            
+     66  31066 MG São Sebastião do Paraíso                  314320                            
+     66  31066 MG São Sebastião do Paraíso                  315290                            
+     66  31066 MG São Sebastião do Paraíso                  316470                            
+     67  31068 T.Otoni/Malacac/Itambac.                     31X068                            
+     67  31068 MG Teófilo Otoni Malacacheta Itambacuri      310285                            
+     67  31068 MG Teófilo Otoni Malacacheta Itambacuri      310470                            
+     67  31068 MG Teófilo Otoni Malacacheta Itambacuri      311080                            
+     67  31068 MG Teófilo Otoni Malacacheta Itambacuri      312675                            
+     67  31068 MG Teófilo Otoni Malacacheta Itambacuri      312680                            
+     67  31068 MG Teófilo Otoni Malacacheta Itambacuri      313270                            
+     67  31068 MG Teófilo Otoni Malacacheta Itambacuri      313700                            
+     67  31068 MG Teófilo Otoni Malacacheta Itambacuri      313920                            
+     67  31068 MG Teófilo Otoni Malacacheta Itambacuri      314490                            
+     67  31068 MG Teófilo Otoni Malacacheta Itambacuri      314530                            
+     67  31068 MG Teófilo Otoni Malacacheta Itambacuri      314535                            
+     67  31068 MG Teófilo Otoni Malacacheta Itambacuri      314620                            
+     67  31068 MG Teófilo Otoni Malacacheta Itambacuri      315000                            
+     67  31068 MG Teófilo Otoni Malacacheta Itambacuri      315240                            
+     67  31068 MG Teófilo Otoni Malacacheta Itambacuri      316330                            
+     67  31068 MG Teófilo Otoni Malacacheta Itambacuri      316555                            
+     68  31069 Três Corações                                31X069                            
+     68  31069 MG Três Corações                             311070                            
+     68  31069 MG Três Corações                             311090                            
+     68  31069 MG Três Corações                             311390                            
+     68  31069 MG Três Corações                             316080                            
+     68  31069 MG Três Corações                             316520                            
+     69  31070 Três Pontas                                  31X070                            
+     69  31070 MG Três Pontas                               310710                            
+     69  31070 MG Três Pontas                               311870                            
+     69  31070 MG Três Pontas                               313050                            
+     69  31070 MG Três Pontas                               315830                            
+     70  31072 Uberaba                                      31X072                            
+     70  31072 MG Uberaba                                   310070                            
+     70  31072 MG Uberaba                                   311140                            
+     70  31072 MG Uberaba                                   311730                            
+     70  31072 MG Uberaba                                   311820                            
+     70  31072 MG Uberaba                                   312125                            
+     70  31072 MG Uberaba                                   315690                            
+     70  31072 MG Uberaba                                   317010                            
+     71  31073 Uberlândia Araguari                          31X073                            
+     71  31073 MG Uberlândia Araguari                       310350                            
+     71  31073 MG Uberlândia Araguari                       310375                            
+     71  31073 MG Uberlândia Araguari                       311500                            
+     71  31073 MG Uberlândia Araguari                       313070                            
+     71  31073 MG Uberlândia Araguari                       314280                            
+     71  31073 MG Uberlândia Araguari                       314500                            
+     71  31073 MG Uberlândia Araguari                       315280                            
+     71  31073 MG Uberlândia Araguari                       316960                            
+     72  31071 Ubá                                          31X071                            
+     72  31071 MG Ubá                                       310870                            
+     72  31071 MG Ubá                                       311670                            
+     72  31071 MG Ubá                                       312190                            
+     72  31071 MG Ubá                                       312330                            
+     72  31071 MG Ubá                                       312400                            
+     72  31071 MG Ubá                                       312840                            
+     72  31071 MG Ubá                                       312880                            
+     72  31071 MG Ubá                                       312900                            
+     72  31071 MG Ubá                                       314160                            
+     72  31071 MG Ubá                                       315130                            
+     72  31071 MG Ubá                                       315310                            
+     72  31071 MG Ubá                                       315580                            
+     72  31071 MG Ubá                                       315630                            
+     72  31071 MG Ubá                                       316150                            
+     72  31071 MG Ubá                                       316570                            
+     72  31071 MG Ubá                                       316730                            
+     72  31071 MG Ubá                                       316790                            
+     72  31071 MG Ubá                                       316900                            
+     72  31071 MG Ubá                                       316990                            
+     73  31074 Unaí                                         31X074                            
+     73  31074 MG Unaí                                      310450                            
+     73  31074 MG Unaí                                      310820                            
+     73  31074 MG Unaí                                      310930                            
+     73  31074 MG Unaí                                      310945                            
+     73  31074 MG Unaí                                      311615                            
+     73  31074 MG Unaí                                      312247                            
+     73  31074 MG Unaí                                      312620                            
+     73  31074 MG Unaí                                      314437                            
+     73  31074 MG Unaí                                      314700                            
+     73  31074 MG Unaí                                      315445                            
+     73  31074 MG Unaí                                      317040                            
+     74  31075 Varginha                                     31X075                            
+     74  31075 MG Varginha                                  311900                            
+     74  31075 MG Varginha                                  312360                            
+     74  31075 MG Varginha                                  314260                            
+     74  31075 MG Varginha                                  316200                            
+     75  31076 Vespasiano                                   31X076                            
+     75  31076 MG Vespasiano                                311787                            
+     75  31076 MG Vespasiano                                313760                            
+     75  31076 MG Vespasiano                                314110                            
+     75  31076 MG Vespasiano                                314930                            
+     75  31076 MG Vespasiano                                315900                            
+     75  31076 MG Vespasiano                                316295                            
+     76  31077 Viçosa                                       31X077                            
+     76  31077 MG Viçosa                                    310370                            
+     76  31077 MG Viçosa                                    311020                            
+     76  31077 MG Viçosa                                    311170                            
+     76  31077 MG Viçosa                                    314830                            
+     76  31077 MG Viçosa                                    314880                            
+     76  31077 MG Viçosa                                    315230                            
+     76  31077 MG Viçosa                                    316380                            
+     76  31077 MG Viçosa                                    316850                            
+     77  31001 Águas Formosas                               31X001                            
+     77  31001 MG Águas Formosas                            310090                            
+     77  31001 MG Águas Formosas                            310660                            
+     77  31001 MG Águas Formosas                            312015                            
+     77  31001 MG Águas Formosas                            312705                            
+     77  31001 MG Águas Formosas                            313890                            
+     77  31001 MG Águas Formosas                            314850                            
+     77  31001 MG Águas Formosas                            315765                            
+     78  31000 Ignorado - MG                                31X000                            
+     78  31000 MG Município ignorado - MG                   310000,319999                     

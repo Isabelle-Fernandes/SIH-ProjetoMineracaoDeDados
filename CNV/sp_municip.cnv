@@ -1,0 +1,647 @@
+646 6
+      1   MUNICIPIO IGNORADO - SP                           350000,359999 
+      2  350010 ADAMANTINA                                  350010
+      3  350020 ADOLFO                                      350020
+      4  350030 AGUAI                                       350030
+      5  350040 AGUAS DA PRATA                              350040
+      6  350050 AGUAS DE LINDOIA                            350050
+      7  350055 AGUAS DE SANTA BARBARA                      350055
+      8  350060 AGUAS DE SAO PEDRO                          350060
+      9  350070 AGUDOS                                      350070
+     10  350075 ALAMBARI                                    350075
+     11  350080 ALFREDO MARCONDES                           350080
+     12  350090 ALTAIR                                      350090
+     13  350100 ALTINOPOLIS                                 350100
+     14  350110 ALTO ALEGRE                                 350110
+     15  350115 ALUMINIO                                    350115
+     16  350120 ALVARES FLORENCE                            350120
+     17  350130 ALVARES MACHADO                             350130
+     18  350140 ALVARO DE CARVALHO                          350140
+     19  350150 ALVINLANDIA                                 350150
+     20  350160 AMERICANA                                   350160
+     21  350170 AMERICO BRASILIENSE                         350170
+     22  350180 AMERICO DE CAMPOS                           350180
+     23  350190 AMPARO                                      350190
+     24  350200 ANALANDIA                                   350200
+     25  350210 ANDRADINA                                   350210
+     26  350220 ANGATUBA                                    350220
+     27  350230 ANHEMBI                                     350230
+     28  350240 ANHUMAS                                     350240
+     29  350250 APARECIDA                                   350250
+     30  350260 APARECIDA D'OESTE                           350260
+     31  350270 APIAI                                       350270
+     32  350275 ARACARIGUAMA                                350275
+     33  350280 ARACATUBA                                   350280
+     34  350290 ARACOIABA DA SERRA                          350290
+     35  350300 ARAMINA                                     350300
+     36  350310 ARANDU                                      350310
+     37  350315 ARAPEI                                      350315
+     38  350320 ARARAQUARA                                  350320
+     39  350330 ARARAS                                      350330
+     40  350335 ARCO-IRIS                                   350335
+     41  350340 AREALVA                                     350340
+     42  350350 AREIAS                                      350350
+     43  350360 AREIOPOLIS                                  350360
+     44  350370 ARIRANHA                                    350370
+     45  350380 ARTUR NOGUEIRA                              350380
+     46  350390 ARUJA                                       350390
+     47  350395 ASPASIA                                     350395
+     48  350400 ASSIS                                       350400
+     49  350410 ATIBAIA                                     350410
+     50  350420 AURIFLAMA                                   350420
+     51  350430 AVAI                                        350430
+     52  350440 AVANHANDAVA                                 350440
+     53  350450 AVARE                                       350450
+     54  350460 BADY BASSITT                                350460
+     55  350470 BALBINOS                                    350470
+     56  350480 BALSAMO                                     350480
+     57  350490 BANANAL                                     350490
+     58  350500 BARAO DE ANTONINA                           350500
+     59  350510 BARBOSA                                     350510
+     60  350520 BARIRI                                      350520
+     61  350530 BARRA BONITA                                350530
+     62  350535 BARRA DO CHAPEU                             350535
+     63  350540 BARRA DO TURVO                              350540
+     64  350550 BARRETOS                                    350550
+     65  350560 BARRINHA                                    350560
+     66  350570 BARUERI                                     350570
+     67  350580 BASTOS                                      350580
+     68  350590 BATATAIS                                    350590
+     69  350600 BAURU                                       350600
+     70  350610 BEBEDOURO                                   350610
+     71  350620 BENTO DE ABREU                              350620
+     72  350630 BERNARDINO DE CAMPOS                        350630
+     73  350635 BERTIOGA                                    350635
+     74  350640 BILAC                                       350640
+     75  350650 BIRIGUI                                     350650
+     76  350660 BIRITIBA-MIRIM                              350660
+     77  350670 BOA ESPERANCA DO SUL                        350670
+     78  350680 BOCAINA                                     350680
+     79  350690 BOFETE                                      350690
+     80  350700 BOITUVA                                     350700
+     81  350710 BOM JESUS DOS PERDOES                       350710
+     82  350715 BOM SUCESSO DE ITARARE                      350715
+     83  350720 BORA                                        350720
+     84  350730 BORACEIA                                    350730
+     85  350740 BORBOREMA                                   350740
+     86  350745 BOREBI                                      350745
+     87  350750 BOTUCATU                                    350750
+     88  350760 BRAGANCA PAULISTA                           350760
+     89  350770 BRAUNA                                      350770
+     90  350775 BREJO ALEGRE                                350775
+     91  350780 BRODOWSKI                                   350780
+     92  350790 BROTAS                                      350790
+     93  350800 BURI                                        350800
+     94  350810 BURITAMA                                    350810
+     95  350820 BURITIZAL                                   350820
+     96  350830 CABRALIA PAULISTA                           350830
+     97  350840 CABREUVA                                    350840
+     98  350850 CACAPAVA                                    350850
+     99  350860 CACHOEIRA PAULISTA                          350860
+    100  350870 CACONDE                                     350870
+    101  350880 CAFELANDIA                                  350880
+    102  350890 CAIABU                                      350890
+    103  350900 CAIEIRAS                                    350900
+    104  350910 CAIUA                                       350910
+    105  350920 CAJAMAR                                     350920
+    106  350925 CAJATI                                      350925
+    107  350930 CAJOBI                                      350930
+    108  350940 CAJURU                                      350940
+    109  350945 CAMPINA DO MONTE ALEGRE                     350945
+    110  350950 CAMPINAS                                    350950
+    111  350960 CAMPO LIMPO PAULISTA                        350960
+    112  350970 CAMPOS DO JORDAO                            350970
+    113  350980 CAMPOS NOVOS PAULISTA                       350980
+    114  350990 CANANEIA                                    350990
+    115  350995 CANAS                                       350995
+    116  351000 CANDIDO MOTA                                351000
+    117  351010 CANDIDO RODRIGUES                           351010
+    118  351015 CANITAR                                     351015
+    119  351020 CAPAO BONITO                                351020
+    120  351030 CAPELA DO ALTO                              351030
+    121  351040 CAPIVARI                                    351040
+    122  351050 CARAGUATATUBA                               351050
+    123  351060 CARAPICUIBA                                 351060
+    124  351070 CARDOSO                                     351070
+    125  351080 CASA BRANCA                                 351080
+    126  351090 CASSIA DOS COQUEIROS                        351090
+    127  351100 CASTILHO                                    351100
+    128  351110 CATANDUVA                                   351110
+    129  351120 CATIGUA                                     351120
+    130  351130 CEDRAL                                      351130
+    131  351140 CERQUEIRA CESAR                             351140
+    132  351150 CERQUILHO                                   351150
+    133  351160 CESARIO LANGE                               351160
+    134  351170 CHARQUEADA                                  351170
+    135  351190 CLEMENTINA                                  351190
+    136  351200 COLINA                                      351200
+    137  351210 COLOMBIA                                    351210
+    138  351220 CONCHAL                                     351220
+    139  351230 CONCHAS                                     351230
+    140  351240 CORDEIROPOLIS                               351240
+    141  351250 COROADOS                                    351250
+    142  351260 CORONEL MACEDO                              351260
+    143  351270 CORUMBATAI                                  351270
+    144  351280 COSMOPOLIS                                  351280
+    145  351290 COSMORAMA                                   351290
+    146  351300 COTIA                                       351300
+    147  351310 CRAVINHOS                                   351310
+    148  351320 CRISTAIS PAULISTA                           351320
+    149  351330 CRUZALIA                                    351330
+    150  351340 CRUZEIRO                                    351340
+    151  351350 CUBATAO                                     351350
+    152  351360 CUNHA                                       351360
+    153  351370 DESCALVADO                                  351370
+    154  351380 DIADEMA                                     351380
+    155  351385 DIRCE REIS                                  351385
+    156  351390 DIVINOLANDIA                                351390
+    157  351400 DOBRADA                                     351400
+    158  351410 DOIS CORREGOS                               351410
+    159  351420 DOLCINOPOLIS                                351420
+    160  351430 DOURADO                                     351430
+    161  351440 DRACENA                                     351440
+    162  351450 DUARTINA                                    351450
+    163  351460 DUMONT                                      351460
+    164  351470 ECHAPORA                                    351470
+    165  351480 ELDORADO                                    351480
+    166  351490 ELIAS FAUSTO                                351490
+    167  351492 ELISIARIO                                   351492
+    168  351495 EMBAUBA                                     351495
+    169  351500 EMBU DAS ARTES                              351500
+    170  351510 EMBU-GUACU                                  351510
+    171  351512 EMILIANOPOLIS                               351512
+    172  351515 ENGENHEIRO COELHO                           351515
+    173  351518 ESPIRITO SANTO DO PINHAL                    351518
+    174  351519 ESPIRITO SANTO DO TURVO                     351519
+    175  351520 ESTRELA D'OESTE                             351520
+    176  351530 ESTRELA DO NORTE                            351530
+    177  351535 EUCLIDES DA CUNHA PAULISTA                  351535
+    178  351540 FARTURA                                     351540
+    179  351550 FERNANDOPOLIS                               351550
+    180  351560 FERNANDO PRESTES                            351560
+    181  351565 FERNAO                                      351565
+    182  351570 FERRAZ DE VASCONCELOS                       351570
+    183  351580 FLORA RICA                                  351580
+    184  351590 FLOREAL                                     351590
+    185  351600 FLORIDA PAULISTA                            351600
+    186  351610 FLORINIA                                    351610
+    187  351620 FRANCA                                      351620
+    188  351630 FRANCISCO MORATO                            351630
+    189  351640 FRANCO DA ROCHA                             351640
+    190  351650 GABRIEL MONTEIRO                            351650
+    191  351660 GALIA                                       351660
+    192  351670 GARCA                                       351670
+    193  351680 GASTAO VIDIGAL                              351680
+    194  351685 GAVIAO PEIXOTO                              351685
+    195  351690 GENERAL SALGADO                             351690
+    196  351700 GETULINA                                    351700
+    197  351710 GLICERIO                                    351710
+    198  351720 GUAICARA                                    351720
+    199  351730 GUAIMBE                                     351730
+    200  351740 GUAIRA                                      351740
+    201  351750 GUAPIACU                                    351750
+    202  351760 GUAPIARA                                    351760
+    203  351770 GUARA                                       351770
+    204  351780 GUARACAI                                    351780
+    205  351790 GUARACI                                     351790
+    206  351800 GUARANI D'OESTE                             351800
+    207  351810 GUARANTA                                    351810
+    208  351820 GUARARAPES                                  351820
+    209  351830 GUARAREMA                                   351830
+    210  351840 GUARATINGUETA                               351840
+    211  351850 GUAREI                                      351850
+    212  351860 GUARIBA                                     351860
+    213  351870 GUARUJA                                     351870
+    214  351880 GUARULHOS                                   351880
+    215  351885 GUATAPARA                                   351885
+    216  351890 GUZOLANDIA                                  351890
+    217  351900 HERCULANDIA                                 351900
+    218  351905 HOLAMBRA                                    351905
+    219  351907 HORTOLANDIA                                 351907
+    220  351910 IACANGA                                     351910
+    221  351920 IACRI                                       351920
+    222  351925 IARAS                                       351925
+    223  351930 IBATE                                       351930
+    224  351940 IBIRA                                       351940
+    225  351950 IBIRAREMA                                   351950
+    226  351960 IBITINGA                                    351960
+    227  351970 IBIUNA                                      351970
+    228  351980 ICEM                                        351980
+    229  351990 IEPE                                        351990
+    230  352000 IGARACU DO TIETE                            352000
+    231  352010 IGARAPAVA                                   352010
+    232  352020 IGARATA                                     352020
+    233  352030 IGUAPE                                      352030
+    234  352040 ILHABELA                                    352040
+    235  352042 ILHA COMPRIDA                               352042
+    236  352044 ILHA SOLTEIRA                               352044
+    237  352050 INDAIATUBA                                  352050
+    238  352060 INDIANA                                     352060
+    239  352070 INDIAPORA                                   352070
+    240  352080 INUBIA PAULISTA                             352080
+    241  352090 IPAUSSU                                     352090
+    242  352100 IPERO                                       352100
+    243  352110 IPEUNA                                      352110
+    244  352115 IPIGUA                                      352115
+    245  352120 IPORANGA                                    352120
+    246  352130 IPUA                                        352130
+    247  352140 IRACEMAPOLIS                                352140
+    248  352150 IRAPUA                                      352150
+    249  352160 IRAPURU                                     352160
+    250  352170 ITABERA                                     352170
+    251  352180 ITAI                                        352180
+    252  352190 ITAJOBI                                     352190
+    253  352200 ITAJU                                       352200
+    254  352210 ITANHAEM                                    352210
+    255  352215 ITAOCA                                      352215
+    256  352220 ITAPECERICA DA SERRA                        352220
+    257  352230 ITAPETININGA                                352230
+    258  352240 ITAPEVA                                     352240
+    259  352250 ITAPEVI                                     352250
+    260  352260 ITAPIRA                                     352260
+    261  352265 ITAPIRAPUA PAULISTA                         352265
+    262  352270 ITAPOLIS                                    352270
+    263  352280 ITAPORANGA                                  352280
+    264  352290 ITAPUI                                      352290
+    265  352300 ITAPURA                                     352300
+    266  352310 ITAQUAQUECETUBA                             352310
+    267  352320 ITARARE                                     352320
+    268  352330 ITARIRI                                     352330
+    269  352340 ITATIBA                                     352340
+    270  352350 ITATINGA                                    352350
+    271  352360 ITIRAPINA                                   352360
+    272  352370 ITIRAPUA                                    352370
+    273  352380 ITOBI                                       352380
+    274  352390 ITU                                         352390
+    275  352400 ITUPEVA                                     352400
+    276  352410 ITUVERAVA                                   352410
+    277  352420 JABORANDI                                   352420
+    278  352430 JABOTICABAL                                 352430
+    279  352440 JACAREI                                     352440
+    280  352450 JACI                                        352450
+    281  352460 JACUPIRANGA                                 352460
+    282  352470 JAGUARIUNA                                  352470
+    283  352480 JALES                                       352480
+    284  352490 JAMBEIRO                                    352490
+    285  352500 JANDIRA                                     352500
+    286  352510 JARDINOPOLIS                                352510
+    287  352520 JARINU                                      352520
+    288  352530 JAU                                         352530
+    289  352540 JERIQUARA                                   352540
+    290  352550 JOANOPOLIS                                  352550
+    291  352560 JOAO RAMALHO                                352560
+    292  352570 JOSE BONIFACIO                              352570
+    293  352580 JULIO MESQUITA                              352580
+    294  352585 JUMIRIM                                     352585
+    295  352590 JUNDIAI                                     352590
+    296  352600 JUNQUEIROPOLIS                              352600
+    297  352610 JUQUIA                                      352610
+    298  352620 JUQUITIBA                                   352620
+    299  352630 LAGOINHA                                    352630
+    300  352640 LARANJAL PAULISTA                           352640
+    301  352650 LAVINIA                                     352650
+    302  352660 LAVRINHAS                                   352660
+    303  352670 LEME                                        352670
+    304  352680 LENCOIS PAULISTA                            352680
+    305  352690 LIMEIRA                                     352690
+    306  352700 LINDOIA                                     352700
+    307  352710 LINS                                        352710
+    308  352720 LORENA                                      352720
+    309  352725 LOURDES                                     352725
+    310  352730 LOUVEIRA                                    352730
+    311  352740 LUCELIA                                     352740
+    312  352750 LUCIANOPOLIS                                352750
+    313  352760 LUIS ANTONIO                                352760
+    314  352770 LUIZIANIA                                   352770
+    315  352780 LUPERCIO                                    352780
+    316  352790 LUTECIA                                     352790
+    317  352800 MACATUBA                                    352800
+    318  352810 MACAUBAL                                    352810
+    319  352820 MACEDONIA                                   352820
+    320  352830 MAGDA                                       352830
+    321  352840 MAIRINQUE                                   352840
+    322  352850 MAIRIPORA                                   352850
+    323  352860 MANDURI                                     352860
+    324  352870 MARABA PAULISTA                             352870
+    325  352880 MARACAI                                     352880
+    326  352885 MARAPOAMA                                   352885
+    327  352890 MARIAPOLIS                                  352890
+    328  352900 MARILIA                                     352900
+    329  352910 MARINOPOLIS                                 352910
+    330  352920 MARTINOPOLIS                                352920
+    331  352930 MATAO                                       352930
+    332  352940 MAUA                                        352940
+    333  352950 MENDONCA                                    352950
+    334  352960 MERIDIANO                                   352960
+    335  352965 MESOPOLIS                                   352965
+    336  352970 MIGUELOPOLIS                                352970
+    337  352980 MINEIROS DO TIETE                           352980
+    338  352990 MIRACATU                                    352990
+    339  353000 MIRA ESTRELA                                353000
+    340  353010 MIRANDOPOLIS                                353010
+    341  353020 MIRANTE DO PARANAPANEMA                     353020
+    342  353030 MIRASSOL                                    353030
+    343  353040 MIRASSOLANDIA                               353040
+    344  353050 MOCOCA                                      353050
+    345  353060 MOGI DAS CRUZES                             353060
+    346  353070 MOGI GUACU                                  353070
+    347  353080 MOGI MIRIM                                  353080
+    348  353090 MOMBUCA                                     353090
+    349  353100 MONCOES                                     353100
+    350  353110 MONGAGUA                                    353110
+    351  353120 MONTE ALEGRE DO SUL                         353120
+    352  353130 MONTE ALTO                                  353130
+    353  353140 MONTE APRAZIVEL                             353140
+    354  353150 MONTE AZUL PAULISTA                         353150
+    355  353160 MONTE CASTELO                               353160
+    356  353170 MONTEIRO LOBATO                             353170
+    357  353180 MONTE MOR                                   353180
+    358  353190 MORRO AGUDO                                 353190
+    359  353200 MORUNGABA                                   353200
+    360  353205 MOTUCA                                      353205
+    361  353210 MURUTINGA DO SUL                            353210
+    362  353215 NANTES                                      353215
+    363  353220 NARANDIBA                                   353220
+    364  353230 NATIVIDADE DA SERRA                         353230
+    365  353240 NAZARE PAULISTA                             353240
+    366  353250 NEVES PAULISTA                              353250
+    367  353260 NHANDEARA                                   353260
+    368  353270 NIPOA                                       353270
+    369  353280 NOVA ALIANCA                                353280
+    370  353282 NOVA CAMPINA                                353282
+    371  353284 NOVA CANAA PAULISTA                         353284
+    372  353286 NOVA CASTILHO                               353286
+    373  353290 NOVA EUROPA                                 353290
+    374  353300 NOVA GRANADA                                353300
+    375  353310 NOVA GUATAPORANGA                           353310
+    376  353320 NOVA INDEPENDENCIA                          353320
+    377  353325 NOVAIS                                      353325
+    378  353330 NOVA LUZITANIA                              353330
+    379  353340 NOVA ODESSA                                 353340
+    380  353350 NOVO HORIZONTE                              353350
+    381  353360 NUPORANGA                                   353360
+    382  353370 OCAUCU                                      353370
+    383  353380 OLEO                                        353380
+    384  353390 OLIMPIA                                     353390
+    385  353400 ONDA VERDE                                  353400
+    386  353410 ORIENTE                                     353410
+    387  353420 ORINDIUVA                                   353420
+    388  353430 ORLANDIA                                    353430
+    389  353440 OSASCO                                      353440
+    390  353450 OSCAR BRESSANE                              353450
+    391  353460 OSVALDO CRUZ                                353460
+    392  353470 OURINHOS                                    353470
+    393  353475 OUROESTE                                    353475
+    394  353480 OURO VERDE                                  353480
+    395  353490 PACAEMBU                                    353490
+    396  353500 PALESTINA                                   353500
+    397  353510 PALMARES PAULISTA                           353510
+    398  353520 PALMEIRA D'OESTE                            353520
+    399  353530 PALMITAL                                    353530
+    400  353540 PANORAMA                                    353540
+    401  353550 PARAGUACU PAULISTA                          353550
+    402  353560 PARAIBUNA                                   353560
+    403  353570 PARAISO                                     353570
+    404  353580 PARANAPANEMA                                353580
+    405  353590 PARANAPUA                                   353590
+    406  353600 PARAPUA                                     353600
+    407  353610 PARDINHO                                    353610
+    408  353620 PARIQUERA-ACU                               353620
+    409  353625 PARISI                                      353625
+    410  353630 PATROCINIO PAULISTA                         353630
+    411  353640 PAULICEIA                                   353640
+    412  353650 PAULINIA                                    353650
+    413  353657 PAULISTANIA                                 353657
+    414  353660 PAULO DE FARIA                              353660
+    415  353670 PEDERNEIRAS                                 353670
+    416  353680 PEDRA BELA                                  353680
+    417  353690 PEDRANOPOLIS                                353690
+    418  353700 PEDREGULHO                                  353700
+    419  353710 PEDREIRA                                    353710
+    420  353715 PEDRINHAS PAULISTA                          353715
+    421  353720 PEDRO DE TOLEDO                             353720
+    422  353730 PENAPOLIS                                   353730
+    423  353740 PEREIRA BARRETO                             353740
+    424  353750 PEREIRAS                                    353750
+    425  353760 PERUIBE                                     353760
+    426  353770 PIACATU                                     353770
+    427  353780 PIEDADE                                     353780
+    428  353790 PILAR DO SUL                                353790
+    429  353800 PINDAMONHANGABA                             353800
+    430  353810 PINDORAMA                                   353810
+    431  353820 PINHALZINHO                                 353820
+    432  353830 PIQUEROBI                                   353830
+    433  353850 PIQUETE                                     353850
+    434  353860 PIRACAIA                                    353860
+    435  353870 PIRACICABA                                  353870
+    436  353880 PIRAJU                                      353880
+    437  353890 PIRAJUI                                     353890
+    438  353900 PIRANGI                                     353900
+    439  353910 PIRAPORA DO BOM JESUS                       353910
+    440  353920 PIRAPOZINHO                                 353920
+    441  353930 PIRASSUNUNGA                                353930
+    442  353940 PIRATININGA                                 353940
+    443  353950 PITANGUEIRAS                                353950
+    444  353960 PLANALTO                                    353960
+    445  353970 PLATINA                                     353970
+    446  353980 POA                                         353980
+    447  353990 POLONI                                      353990
+    448  354000 POMPEIA                                     354000
+    449  354010 PONGAI                                      354010
+    450  354020 PONTAL                                      354020
+    451  354025 PONTALINDA                                  354025
+    452  354030 PONTES GESTAL                               354030
+    453  354040 POPULINA                                    354040
+    454  354050 PORANGABA                                   354050
+    455  354060 PORTO FELIZ                                 354060
+    456  354070 PORTO FERREIRA                              354070
+    457  354075 POTIM                                       354075
+    458  354080 POTIRENDABA                                 354080
+    459  354085 PRACINHA                                    354085
+    460  354090 PRADOPOLIS                                  354090
+    461  354100 PRAIA GRANDE                                354100
+    462  354105 PRATANIA                                    354105
+    463  354110 PRESIDENTE ALVES                            354110
+    464  354120 PRESIDENTE BERNARDES                        354120
+    465  354130 PRESIDENTE EPITACIO                         354130
+    466  354140 PRESIDENTE PRUDENTE                         354140
+    467  354150 PRESIDENTE VENCESLAU                        354150
+    468  354160 PROMISSAO                                   354160
+    469  354165 QUADRA                                      354165
+    470  354170 QUATA                                       354170
+    471  354180 QUEIROZ                                     354180
+    472  354190 QUELUZ                                      354190
+    473  354200 QUINTANA                                    354200
+    474  354210 RAFARD                                      354210
+    475  354220 RANCHARIA                                   354220
+    476  354230 REDENCAO DA SERRA                           354230
+    477  354240 REGENTE FEIJO                               354240
+    478  354250 REGINOPOLIS                                 354250
+    479  354260 REGISTRO                                    354260
+    480  354270 RESTINGA                                    354270
+    481  354280 RIBEIRA                                     354280
+    482  354290 RIBEIRAO BONITO                             354290
+    483  354300 RIBEIRAO BRANCO                             354300
+    484  354310 RIBEIRAO CORRENTE                           354310
+    485  354320 RIBEIRAO DO SUL                             354320
+    486  354323 RIBEIRAO DOS INDIOS                         354323
+    487  354325 RIBEIRAO GRANDE                             354325
+    488  354330 RIBEIRAO PIRES                              354330
+    489  354340 RIBEIRAO PRETO                              354340
+    490  354350 RIVERSUL                                    354350
+    491  354360 RIFAINA                                     354360
+    492  354370 RINCAO                                      354370
+    493  354380 RINOPOLIS                                   354380
+    494  354390 RIO CLARO                                   354390
+    495  354400 RIO DAS PEDRAS                              354400
+    496  354410 RIO GRANDE DA SERRA                         354410
+    497  354420 RIOLANDIA                                   354420
+    498  354425 ROSANA                                      354425
+    499  354430 ROSEIRA                                     354430
+    500  354440 RUBIACEA                                    354440
+    501  354450 RUBINEIA                                    354450
+    502  354460 SABINO                                      354460
+    503  354470 SAGRES                                      354470
+    504  354480 SALES                                       354480
+    505  354490 SALES OLIVEIRA                              354490
+    506  354500 SALESOPOLIS                                 354500
+    507  354510 SALMOURAO                                   354510
+    508  354515 SALTINHO                                    354515
+    509  354520 SALTO                                       354520
+    510  354530 SALTO DE PIRAPORA                           354530
+    511  354540 SALTO GRANDE                                354540
+    512  354550 SANDOVALINA                                 354550
+    513  354560 SANTA ADELIA                                354560
+    514  354570 SANTA ALBERTINA                             354570
+    515  354580 SANTA BARBARA D'OESTE                       354580
+    516  354600 SANTA BRANCA                                354600
+    517  354610 SANTA CLARA D'OESTE                         354610
+    518  354620 SANTA CRUZ DA CONCEICAO                     354620
+    519  354625 SANTA CRUZ DA ESPERANCA                     354625
+    520  354630 SANTA CRUZ DAS PALMEIRAS                    354630
+    521  354640 SANTA CRUZ DO RIO PARDO                     354640
+    522  354650 SANTA ERNESTINA                             354650
+    523  354660 SANTA FE DO SUL                             354660
+    524  354670 SANTA GERTRUDES                             354670
+    525  354680 SANTA ISABEL                                354680
+    526  354690 SANTA LUCIA                                 354690
+    527  354700 SANTA MARIA DA SERRA                        354700
+    528  354710 SANTA MERCEDES                              354710
+    529  354720 SANTANA DA PONTE PENSA                      354720
+    530  354730 SANTANA DE PARNAIBA                         354730
+    531  354740 SANTA RITA D'OESTE                          354740
+    532  354750 SANTA RITA DO PASSA QUATRO                  354750
+    533  354760 SANTA ROSA DE VITERBO                       354760
+    534  354765 SANTA SALETE                                354765
+    535  354770 SANTO ANASTACIO                             354770
+    536  354780 SANTO ANDRE                                 354780
+    537  354790 SANTO ANTONIO DA ALEGRIA                    354790
+    538  354800 SANTO ANTONIO DE POSSE                      354800
+    539  354805 SANTO ANTONIO DO ARACANGUA                  354805
+    540  354810 SANTO ANTONIO DO JARDIM                     354810
+    541  354820 SANTO ANTONIO DO PINHAL                     354820
+    542  354830 SANTO EXPEDITO                              354830
+    543  354840 SANTOPOLIS DO AGUAPEI                       354840
+    544  354850 SANTOS                                      354850
+    545  354860 SAO BENTO DO SAPUCAI                        354860
+    546  354870 SAO BERNARDO DO CAMPO                       354870
+    547  354880 SAO CAETANO DO SUL                          354880
+    548  354890 SAO CARLOS                                  354890
+    549  354900 SAO FRANCISCO                               354900
+    550  354910 SAO JOAO DA BOA VISTA                       354910
+    551  354920 SAO JOAO DAS DUAS PONTES                    354920
+    552  354925 SAO JOAO DE IRACEMA                         354925
+    553  354930 SAO JOAO DO PAU D'ALHO                      354930
+    554  354940 SAO JOAQUIM DA BARRA                        354940
+    555  354950 SAO JOSE DA BELA VISTA                      354950
+    556  354960 SAO JOSE DO BARREIRO                        354960
+    557  354970 SAO JOSE DO RIO PARDO                       354970
+    558  354980 SAO JOSE DO RIO PRETO                       354980
+    559  354990 SAO JOSE DOS CAMPOS                         354990
+    560  354995 SAO LOURENCO DA SERRA                       354995
+    561  355000 SAO LUIS DO PARAITINGA                      355000
+    562  355010 SAO MANUEL                                  355010
+    563  355020 SAO MIGUEL ARCANJO                          355020
+    564  355030 SAO PAULO                                   355030,358001-358058
+    565  355040 SAO PEDRO                                   355040
+    566  355050 SAO PEDRO DO TURVO                          355050
+    567  355060 SAO ROQUE                                   355060
+    568  355070 SAO SEBASTIAO                               355070
+    569  355080 SAO SEBASTIAO DA GRAMA                      355080
+    570  355090 SAO SIMAO                                   355090
+    571  355100 SAO VICENTE                                 355100
+    572  355110 SARAPUI                                     355110
+    573  355120 SARUTAIA                                    355120
+    574  355130 SEBASTIANOPOLIS DO SUL                      355130
+    575  355140 SERRA AZUL                                  355140
+    576  355150 SERRANA                                     355150
+    577  355160 SERRA NEGRA                                 355160
+    578  355170 SERTAOZINHO                                 355170
+    579  355180 SETE BARRAS                                 355180
+    580  355190 SEVERINIA                                   355190
+    581  355200 SILVEIRAS                                   355200
+    582  355210 SOCORRO                                     355210
+    583  355220 SOROCABA                                    355220
+    584  355230 SUD MENNUCCI                                355230
+    585  355240 SUMARE                                      355240
+    586  355250 SUZANO                                      355250
+    587  355255 SUZANAPOLIS                                 355255
+    588  355260 TABAPUA                                     355260
+    589  355270 TABATINGA                                   355270
+    590  355280 TABOAO DA SERRA                             355280
+    591  355290 TACIBA                                      355290
+    592  355300 TAGUAI                                      355300
+    593  355310 TAIACU                                      355310
+    594  355320 TAIUVA                                      355320
+    595  355330 TAMBAU                                      355330
+    596  355340 TANABI                                      355340
+    597  355350 TAPIRAI                                     355350
+    598  355360 TAPIRATIBA                                  355360
+    599  355365 TAQUARAL                                    355365
+    600  355370 TAQUARITINGA                                355370
+    601  355380 TAQUARITUBA                                 355380
+    602  355385 TAQUARIVAI                                  355385
+    603  355390 TARABAI                                     355390
+    604  355395 TARUMA                                      355395
+    605  355400 TATUI                                       355400
+    606  355410 TAUBATE                                     355410
+    607  355420 TEJUPA                                      355420
+    608  355430 TEODORO SAMPAIO                             355430
+    609  355440 TERRA ROXA                                  355440
+    610  355450 TIETE                                       355450
+    611  355460 TIMBURI                                     355460
+    612  355465 TORRE DE PEDRA                              355465
+    613  355470 TORRINHA                                    355470
+    614  355475 TRABIJU                                     355475
+    615  355480 TREMEMBE                                    355480
+    616  355490 TRES FRONTEIRAS                             355490
+    617  355495 TUIUTI                                      355495
+    618  355500 TUPA                                        355500
+    619  355510 TUPI PAULISTA                               355510
+    620  355520 TURIUBA                                     355520
+    621  355530 TURMALINA                                   355530
+    622  355535 UBARANA                                     355535
+    623  355540 UBATUBA                                     355540
+    624  355550 UBIRAJARA                                   355550
+    625  355560 UCHOA                                       355560
+    626  355570 UNIAO PAULISTA                              355570
+    627  355580 URANIA                                      355580
+    628  355590 URU                                         355590
+    629  355600 URUPES                                      355600
+    630  355610 VALENTIM GENTIL                             355610
+    631  355620 VALINHOS                                    355620
+    632  355630 VALPARAISO                                  355630
+    633  355635 VARGEM                                      355635
+    634  355640 VARGEM GRANDE DO SUL                        355640
+    635  355645 VARGEM GRANDE PAULISTA                      355645
+    636  355650 VARZEA PAULISTA                             355650
+    637  355660 VERA CRUZ                                   355660
+    638  355670 VINHEDO                                     355670
+    639  355680 VIRADOURO                                   355680
+    640  355690 VISTA ALEGRE DO ALTO                        355690
+    641  355695 VITORIA BRASIL                              355695
+    642  355700 VOTORANTIM                                  355700
+    643  355710 VOTUPORANGA                                 355710
+    644  355715 ZACARIAS                                    355715
+    645  355720 CHAVANTES                                   355720
+    646  355730 ESTIVA GERBI                                355730

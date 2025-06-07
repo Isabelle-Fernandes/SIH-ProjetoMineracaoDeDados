@@ -1,0 +1,504 @@
+503  6                                                                                    
+      1  43010 Porto Alegre - RS                            430060                            
+  1   2  ..... Alvorada                                     430060                            
+  1   3  ..... Araricá                                      430087                            
+  1   4  ..... Arroio dos Ratos                             430110                            
+  1   5  ..... Cachoeirinha                                 430310                            
+  1   6  ..... Campo Bom                                    430390                            
+  1   7  ..... Canoas                                       430460                            
+  1   8  ..... Capela de Santana                            430468                            
+  1   9  ..... Charqueadas                                  430535                            
+  1  10  ..... Dois Irmãos                                  430640                            
+  1  11  ..... Eldorado do Sul                              430676                            
+  1  12  ..... Estância Velha                               430760                            
+  1  13  ..... Esteio                                       430770                            
+  1  14  ..... Glorinha                                     430905                            
+  1  15  ..... Gravataí                                     430920                            
+  1  16  ..... Guaíba                                       430930                            
+  1  17  ..... Igrejinha                                    431010                            
+  1  18  ..... Ivoti                                        431080                            
+  1  19  ..... Montenegro                                   431240                            
+  1  20  ..... Nova Hartz                                   431306                            
+  1  21  ..... Nova Santa Rita                              431337                            
+  1  22  ..... Novo Hamburgo                                431340                            
+  1  23  ..... Parobé                                       431405                            
+  1  24  ..... Portão                                       431480                            
+  1  25  ..... Porto Alegre                                 431490                            
+  1  26  ..... Rolante                                      431600                            
+  1  27  ..... Santo Antônio da Patrulha                    431760                            
+  1  28  ..... São Jerônimo                                 431840                            
+  1  29  ..... São Leopoldo                                 431870                            
+  1  30  ..... São Sebastião do Caí                         431950                            
+  1  31  ..... Sapiranga                                    431990                            
+  1  32  ..... Sapucaia do Sul                              432000                            
+  1  33  ..... Taquara                                      432120                            
+  1  34  ..... Triunfo                                      432200                            
+  1  35  ..... Viamão                                       432300                            
+     36  43020 Litoral Norte - RS                           430105                            
+ 36  37  ..... Arroio do Sal                                430105                            
+ 36  38  ..... Balneário Pinhal                             430163                            
+ 36  39  ..... Capão da Canoa                               430463                            
+ 36  40  ..... Capivari do Sul                              430467                            
+ 36  41  ..... Caraá                                        430471                            
+ 36  42  ..... Cidreira                                     430545                            
+ 36  43  ..... Dom Pedro de Alcântara                       430655                            
+ 36  44  ..... Imbé                                         431033                            
+ 36  45  ..... Itati                                        431065                            
+ 36  46  ..... Mampituba                                    431173                            
+ 36  47  ..... Maquiné                                      431177                            
+ 36  48  ..... Morrinhos do Sul                             431244                            
+ 36  49  ..... Osório                                       431350                            
+ 36  50  ..... Palmares do Sul                              431365                            
+ 36  51  ..... Terra de Areia                               432143                            
+ 36  52  ..... Torres                                       432150                            
+ 36  53  ..... Tramandaí                                    432160                            
+ 36  54  ..... Três Cachoeiras                              432166                            
+ 36  55  ..... Três Forquilhas                              432183                            
+ 36  56  ..... Xangri-lá                                    432380                            
+     57  43030 Serra Gaúcha - RS                            430080                            
+ 57  58  ..... Antônio Prado                                430080                            
+ 57  59  ..... Bento Gonçalves                              430210                            
+ 57  60  ..... Carlos Barbosa                               430480                            
+ 57  61  ..... Caxias do Sul                                430510                            
+ 57  62  ..... Farroupilha                                  430790                            
+ 57  63  ..... Flores da Cunha                              430820                            
+ 57  64  ..... Garibaldi                                    430860                            
+ 57  65  ..... Ipê                                          431043                            
+ 57  66  ..... Monte Belo do Sul                            431238                            
+ 57  67  ..... Nova Pádua                                   431308                            
+ 57  68  ..... Pinto Bandeira                               431454,430145,431453              
+ 57  69  ..... Santa Tereza                                 431725                            
+ 57  70  ..... São Marcos                                   431900                            
+     71  43040 Sul - RS                                     430107                            
+ 71  72  ..... Arroio do Padre                              430107                            
+ 71  73  ..... Capão do Leão                                430466                            
+ 71  74  ..... Pelotas                                      431440                            
+ 71  75  ..... Rio Grande                                   431560                            
+ 71  76  ..... São José do Norte                            431850                            
+     77  43900 Fora de Reg.Metrop. - RS                     430003                            
+ 77  78  ..... Aceguá                                       430003                            
+ 77  79  ..... Água Santa                                   430005                            
+ 77  80  ..... Agudo                                        430010                            
+ 77  81  ..... Ajuricaba                                    430020                            
+ 77  82  ..... Alecrim                                      430030                            
+ 77  83  ..... Alegrete                                     430040                            
+ 77  84  ..... Alegria                                      430045                            
+ 77  85  ..... Almirante Tamandaré do Sul                   430047                            
+ 77  86  ..... Alpestre                                     430050                            
+ 77  87  ..... Alto Alegre                                  430055                            
+ 77  88  ..... Alto Feliz                                   430057                            
+ 77  89  ..... Amaral Ferrador                              430063                            
+ 77  90  ..... Ametista do Sul                              430064                            
+ 77  91  ..... André da Rocha                               430066                            
+ 77  92  ..... Anta Gorda                                   430070                            
+ 77  93  ..... Arambaré                                     430085                            
+ 77  94  ..... Aratiba                                      430090                            
+ 77  95  ..... Arroio do Meio                               430100                            
+ 77  96  ..... Arroio do Tigre                              430120                            
+ 77  97  ..... Arroio Grande                                430130                            
+ 77  98  ..... Arvorezinha                                  430140                            
+ 77  99  ..... Augusto Pestana                              430150                            
+ 77 100  ..... Áurea                                        430155                            
+ 77 101  ..... Bagé                                         430160                            
+ 77 102  ..... Barão                                        430165                            
+ 77 103  ..... Barão de Cotegipe                            430170                            
+ 77 104  ..... Barão do Triunfo                             430175                            
+ 77 105  ..... Barra do Guarita                             430185                            
+ 77 106  ..... Barra do Quaraí                              430187                            
+ 77 107  ..... Barra do Ribeiro                             430190                            
+ 77 108  ..... Barra do Rio Azul                            430192                            
+ 77 109  ..... Barra Funda                                  430195                            
+ 77 110  ..... Barracão                                     430180                            
+ 77 111  ..... Barros Cassal                                430200                            
+ 77 112  ..... Benjamin Constant do Sul                     430205                            
+ 77 113  ..... Boa Vista das Missões                        430215                            
+ 77 114  ..... Boa Vista do Buricá                          430220                            
+ 77 115  ..... Boa Vista do Cadeado                         430222                            
+ 77 116  ..... Boa Vista do Incra                           430223                            
+ 77 117  ..... Boa Vista do Sul                             430225                            
+ 77 118  ..... Bom Jesus                                    430230                            
+ 77 119  ..... Bom Princípio                                430235                            
+ 77 120  ..... Bom Progresso                                430237                            
+ 77 121  ..... Bom Retiro do Sul                            430240                            
+ 77 122  ..... Boqueirão do Leão                            430245                            
+ 77 123  ..... Bossoroca                                    430250                            
+ 77 124  ..... Bozano                                       430258                            
+ 77 125  ..... Braga                                        430260                            
+ 77 126  ..... Brochier                                     430265                            
+ 77 127  ..... Butiá                                        430270                            
+ 77 128  ..... Caçapava do Sul                              430280                            
+ 77 129  ..... Cacequi                                      430290                            
+ 77 130  ..... Cachoeira do Sul                             430300                            
+ 77 131  ..... Cacique Doble                                430320                            
+ 77 132  ..... Caibaté                                      430330                            
+ 77 133  ..... Caiçara                                      430340                            
+ 77 134  ..... Camaquã                                      430350                            
+ 77 135  ..... Camargo                                      430355                            
+ 77 136  ..... Cambará do Sul                               430360                            
+ 77 137  ..... Campestre da Serra                           430367                            
+ 77 138  ..... Campina das Missões                          430370                            
+ 77 139  ..... Campinas do Sul                              430380                            
+ 77 140  ..... Campo Novo                                   430400                            
+ 77 141  ..... Campos Borges                                430410                            
+ 77 142  ..... Candelária                                   430420                            
+ 77 143  ..... Cândido Godói                                430430                            
+ 77 144  ..... Candiota                                     430435                            
+ 77 145  ..... Canela                                       430440                            
+ 77 146  ..... Canguçu                                      430450                            
+ 77 147  ..... Canudos do Vale                              430461                            
+ 77 148  ..... Capão Bonito do Sul                          430462                            
+ 77 149  ..... Capão do Cipó                                430465                            
+ 77 150  ..... Capitão                                      430469                            
+ 77 151  ..... Carazinho                                    430470                            
+ 77 152  ..... Carlos Gomes                                 430485                            
+ 77 153  ..... Casca                                        430490                            
+ 77 154  ..... Caseiros                                     430495                            
+ 77 155  ..... Catuípe                                      430500                            
+ 77 156  ..... Centenário                                   430511                            
+ 77 157  ..... Cerrito                                      430512                            
+ 77 158  ..... Cerro Branco                                 430513                            
+ 77 159  ..... Cerro Grande                                 430515                            
+ 77 160  ..... Cerro Grande do Sul                          430517                            
+ 77 161  ..... Cerro Largo                                  430520                            
+ 77 162  ..... Chapada                                      430530                            
+ 77 163  ..... Charrua                                      430537                            
+ 77 164  ..... Chiapetta                                    430540                            
+ 77 165  ..... Chuí                                         430543                            
+ 77 166  ..... Chuvisca                                     430544                            
+ 77 167  ..... Ciríaco                                      430550                            
+ 77 168  ..... Colinas                                      430558                            
+ 77 169  ..... Colorado                                     430560                            
+ 77 170  ..... Condor                                       430570                            
+ 77 171  ..... Constantina                                  430580                            
+ 77 172  ..... Coqueiro Baixo                               430583                            
+ 77 173  ..... Coqueiros do Sul                             430585                            
+ 77 174  ..... Coronel Barros                               430587                            
+ 77 175  ..... Coronel Bicaco                               430590                            
+ 77 176  ..... Coronel Pilar                                430593                            
+ 77 177  ..... Cotiporã                                     430595                            
+ 77 178  ..... Coxilha                                      430597                            
+ 77 179  ..... Crissiumal                                   430600                            
+ 77 180  ..... Cristal                                      430605                            
+ 77 181  ..... Cristal do Sul                               430607                            
+ 77 182  ..... Cruz Alta                                    430610                            
+ 77 183  ..... Cruzaltense                                  430613                            
+ 77 184  ..... Cruzeiro do Sul                              430620                            
+ 77 185  ..... David Canabarro                              430630                            
+ 77 186  ..... Derrubadas                                   430632                            
+ 77 187  ..... Dezesseis de Novembro                        430635                            
+ 77 188  ..... Dilermando de Aguiar                         430637                            
+ 77 189  ..... Dois Irmãos das Missões                      430642                            
+ 77 190  ..... Dois Lajeados                                430645                            
+ 77 191  ..... Dom Feliciano                                430650                            
+ 77 192  ..... Dom Pedrito                                  430660                            
+ 77 193  ..... Dona Francisca                               430670                            
+ 77 194  ..... Doutor Maurício Cardoso                      430673                            
+ 77 195  ..... Doutor Ricardo                               430675                            
+ 77 196  ..... Encantado                                    430680                            
+ 77 197  ..... Encruzilhada do Sul                          430690                            
+ 77 198  ..... Engenho Velho                                430692                            
+ 77 199  ..... Entre Rios do Sul                            430695                            
+ 77 200  ..... Entre-Ijuís                                  430693                            
+ 77 201  ..... Erebango                                     430697                            
+ 77 202  ..... Erechim                                      430700                            
+ 77 203  ..... Ernestina                                    430705                            
+ 77 204  ..... Erval Grande                                 430720                            
+ 77 205  ..... Erval Seco                                   430730                            
+ 77 206  ..... Esmeralda                                    430740                            
+ 77 207  ..... Esperança do Sul                             430745                            
+ 77 208  ..... Espumoso                                     430750                            
+ 77 209  ..... Estação                                      430755                            
+ 77 210  ..... Estrela                                      430780                            
+ 77 211  ..... Estrela Velha                                430781                            
+ 77 212  ..... Eugênio de Castro                            430783                            
+ 77 213  ..... Fagundes Varela                              430786                            
+ 77 214  ..... Faxinal do Soturno                           430800                            
+ 77 215  ..... Faxinalzinho                                 430805                            
+ 77 216  ..... Fazenda Vilanova                             430807                            
+ 77 217  ..... Feliz                                        430810                            
+ 77 218  ..... Floriano Peixoto                             430825                            
+ 77 219  ..... Fontoura Xavier                              430830                            
+ 77 220  ..... Formigueiro                                  430840                            
+ 77 221  ..... Forquetinha                                  430843                            
+ 77 222  ..... Fortaleza dos Valos                          430845                            
+ 77 223  ..... Frederico Westphalen                         430850                            
+ 77 224  ..... Garruchos                                    430865                            
+ 77 225  ..... Gaurama                                      430870                            
+ 77 226  ..... General Câmara                               430880                            
+ 77 227  ..... Gentil                                       430885                            
+ 77 228  ..... Getúlio Vargas                               430890                            
+ 77 229  ..... Giruá                                        430900                            
+ 77 230  ..... Gramado                                      430910                            
+ 77 231  ..... Gramado dos Loureiros                        430912                            
+ 77 232  ..... Gramado Xavier                               430915                            
+ 77 233  ..... Guabiju                                      430925                            
+ 77 234  ..... Guaporé                                      430940                            
+ 77 235  ..... Guarani das Missões                          430950                            
+ 77 236  ..... Harmonia                                     430955                            
+ 77 237  ..... Herval                                       430710                            
+ 77 238  ..... Herveiras                                    430957                            
+ 77 239  ..... Horizontina                                  430960                            
+ 77 240  ..... Hulha Negra                                  430965                            
+ 77 241  ..... Humaitá                                      430970                            
+ 77 242  ..... Ibarama                                      430975                            
+ 77 243  ..... Ibiaçá                                       430980                            
+ 77 244  ..... Ibiraiaras                                   430990                            
+ 77 245  ..... Ibirapuitã                                   430995                            
+ 77 246  ..... Ibirubá                                      431000                            
+ 77 247  ..... Ijuí                                         431020                            
+ 77 248  ..... Ilópolis                                     431030                            
+ 77 249  ..... Imigrante                                    431036                            
+ 77 250  ..... Independência                                431040                            
+ 77 251  ..... Inhacorá                                     431041                            
+ 77 252  ..... Ipiranga do Sul                              431046                            
+ 77 253  ..... Iraí                                         431050                            
+ 77 254  ..... Itaara                                       431053                            
+ 77 255  ..... Itacurubi                                    431055                            
+ 77 256  ..... Itapuca                                      431057                            
+ 77 257  ..... Itaqui                                       431060                            
+ 77 258  ..... Itatiba do Sul                               431070                            
+ 77 259  ..... Ivorá                                        431075                            
+ 77 260  ..... Jaboticaba                                   431085                            
+ 77 261  ..... Jacuizinho                                   431087                            
+ 77 262  ..... Jacutinga                                    431090                            
+ 77 263  ..... Jaguarão                                     431100                            
+ 77 264  ..... Jaguari                                      431110                            
+ 77 265  ..... Jaquirana                                    431112                            
+ 77 266  ..... Jari                                         431113                            
+ 77 267  ..... Jóia                                         431115                            
+ 77 268  ..... Júlio de Castilhos                           431120                            
+ 77 269  ..... Lagoa Bonita do Sul                          431123                            
+ 77 270  ..... Lagoa dos Três Cantos                        431127                            
+ 77 271  ..... Lagoa Vermelha                               431130                            
+ 77 272  ..... Lagoão                                       431125                            
+ 77 273  ..... Lajeado                                      431140                            
+ 77 274  ..... Lajeado do Bugre                             431142                            
+ 77 275  ..... Lavras do Sul                                431150                            
+ 77 276  ..... Liberato Salzano                             431160                            
+ 77 277  ..... Lindolfo Collor                              431162                            
+ 77 278  ..... Linha Nova                                   431164                            
+ 77 279  ..... Maçambará                                    431171                            
+ 77 280  ..... Machadinho                                   431170                            
+ 77 281  ..... Manoel Viana                                 431175                            
+ 77 282  ..... Maratá                                       431179                            
+ 77 283  ..... Marau                                        431180                            
+ 77 284  ..... Marcelino Ramos                              431190                            
+ 77 285  ..... Mariana Pimentel                             431198                            
+ 77 286  ..... Mariano Moro                                 431200                            
+ 77 287  ..... Marques de Souza                             431205                            
+ 77 288  ..... Mata                                         431210                            
+ 77 289  ..... Mato Castelhano                              431213                            
+ 77 290  ..... Mato Leitão                                  431215                            
+ 77 291  ..... Mato Queimado                                431217                            
+ 77 292  ..... Maximiliano de Almeida                       431220                            
+ 77 293  ..... Minas do Leão                                431225                            
+ 77 294  ..... Miraguaí                                     431230                            
+ 77 295  ..... Montauri                                     431235                            
+ 77 296  ..... Monte Alegre dos Campos                      431237                            
+ 77 297  ..... Mormaço                                      431242                            
+ 77 298  ..... Morro Redondo                                431245                            
+ 77 299  ..... Morro Reuter                                 431247                            
+ 77 300  ..... Mostardas                                    431250                            
+ 77 301  ..... Muçum                                        431260                            
+ 77 302  ..... Muitos Capões                                431261                            
+ 77 303  ..... Muliterno                                    431262                            
+ 77 304  ..... Não-Me-Toque                                 431265                            
+ 77 305  ..... Nicolau Vergueiro                            431267                            
+ 77 306  ..... Nonoai                                       431270                            
+ 77 307  ..... Nova Alvorada                                431275                            
+ 77 308  ..... Nova Araçá                                   431280                            
+ 77 309  ..... Nova Bassano                                 431290                            
+ 77 310  ..... Nova Boa Vista                               431295                            
+ 77 311  ..... Nova Bréscia                                 431300                            
+ 77 312  ..... Nova Candelária                              431301                            
+ 77 313  ..... Nova Esperança do Sul                        431303                            
+ 77 314  ..... Nova Palma                                   431310                            
+ 77 315  ..... Nova Petrópolis                              431320                            
+ 77 316  ..... Nova Prata                                   431330                            
+ 77 317  ..... Nova Ramada                                  431333                            
+ 77 318  ..... Nova Roma do Sul                             431335                            
+ 77 319  ..... Novo Barreiro                                431349                            
+ 77 320  ..... Novo Cabrais                                 431339                            
+ 77 321  ..... Novo Machado                                 431342                            
+ 77 322  ..... Novo Tiradentes                              431344                            
+ 77 323  ..... Novo Xingu                                   431346                            
+ 77 324  ..... Paim Filho                                   431360                            
+ 77 325  ..... Palmeira das Missões                         431370                            
+ 77 326  ..... Palmitinho                                   431380                            
+ 77 327  ..... Panambi                                      431390                            
+ 77 328  ..... Pantano Grande                               431395                            
+ 77 329  ..... Paraí                                        431400                            
+ 77 330  ..... Paraíso do Sul                               431402                            
+ 77 331  ..... Pareci Novo                                  431403                            
+ 77 332  ..... Passa Sete                                   431406                            
+ 77 333  ..... Passo do Sobrado                             431407                            
+ 77 334  ..... Passo Fundo                                  431410                            
+ 77 335  ..... Paulo Bento                                  431413                            
+ 77 336  ..... Paverama                                     431415                            
+ 77 337  ..... Pedras Altas                                 431417                            
+ 77 338  ..... Pedro Osório                                 431420                            
+ 77 339  ..... Pejuçara                                     431430                            
+ 77 340  ..... Picada Café                                  431442                            
+ 77 341  ..... Pinhal                                       431445                            
+ 77 342  ..... Pinhal da Serra                              431446                            
+ 77 343  ..... Pinhal Grande                                431447                            
+ 77 344  ..... Pinheirinho do Vale                          431449                            
+ 77 345  ..... Pinheiro Machado                             431450                            
+ 77 346  ..... Pirapó                                       431455                            
+ 77 347  ..... Piratini                                     431460                            
+ 77 348  ..... Planalto                                     431470                            
+ 77 349  ..... Poço das Antas                               431475                            
+ 77 350  ..... Pontão                                       431477                            
+ 77 351  ..... Ponte Preta                                  431478                            
+ 77 352  ..... Porto Lucena                                 431500                            
+ 77 353  ..... Porto Mauá                                   431505                            
+ 77 354  ..... Porto Vera Cruz                              431507                            
+ 77 355  ..... Porto Xavier                                 431510                            
+ 77 356  ..... Pouso Novo                                   431513                            
+ 77 357  ..... Presidente Lucena                            431514                            
+ 77 358  ..... Progresso                                    431515                            
+ 77 359  ..... Protásio Alves                               431517                            
+ 77 360  ..... Putinga                                      431520                            
+ 77 361  ..... Quaraí                                       431530                            
+ 77 362  ..... Quatro Irmãos                                431531                            
+ 77 363  ..... Quevedos                                     431532                            
+ 77 364  ..... Quinze de Novembro                           431535                            
+ 77 365  ..... Redentora                                    431540                            
+ 77 366  ..... Relvado                                      431545                            
+ 77 367  ..... Restinga Sêca                                431550                            
+ 77 368  ..... Rio dos Índios                               431555                            
+ 77 369  ..... Rio Pardo                                    431570                            
+ 77 370  ..... Riozinho                                     431575                            
+ 77 371  ..... Roca Sales                                   431580                            
+ 77 372  ..... Rodeio Bonito                                431590                            
+ 77 373  ..... Rolador                                      431595                            
+ 77 374  ..... Ronda Alta                                   431610                            
+ 77 375  ..... Rondinha                                     431620                            
+ 77 376  ..... Roque Gonzales                               431630                            
+ 77 377  ..... Rosário do Sul                               431640                            
+ 77 378  ..... Sagrada Família                              431642                            
+ 77 379  ..... Saldanha Marinho                             431643                            
+ 77 380  ..... Salto do Jacuí                               431645                            
+ 77 381  ..... Salvador das Missões                         431647                            
+ 77 382  ..... Salvador do Sul                              431650                            
+ 77 383  ..... Sananduva                                    431660                            
+ 77 384  ..... Sant'Ana do Livramento                       431710                            
+ 77 385  ..... Santa Bárbara do Sul                         431670                            
+ 77 386  ..... Santa Cecília do Sul                         431673                            
+ 77 387  ..... Santa Clara do Sul                           431675                            
+ 77 388  ..... Santa Cruz do Sul                            431680                            
+ 77 389  ..... Santa Margarida do Sul                       431697                            
+ 77 390  ..... Santa Maria                                  431690                            
+ 77 391  ..... Santa Maria do Herval                        431695                            
+ 77 392  ..... Santa Rosa                                   431720                            
+ 77 393  ..... Santa Vitória do Palmar                      431730                            
+ 77 394  ..... Santana da Boa Vista                         431700                            
+ 77 395  ..... Santiago                                     431740                            
+ 77 396  ..... Santo Ângelo                                 431750                            
+ 77 397  ..... Santo Antônio das Missões                    431770                            
+ 77 398  ..... Santo Antônio do Palma                       431755                            
+ 77 399  ..... Santo Antônio do Planalto                    431775                            
+ 77 400  ..... Santo Augusto                                431780                            
+ 77 401  ..... Santo Cristo                                 431790                            
+ 77 402  ..... Santo Expedito do Sul                        431795                            
+ 77 403  ..... São Borja                                    431800                            
+ 77 404  ..... São Domingos do Sul                          431805                            
+ 77 405  ..... São Francisco de Assis                       431810                            
+ 77 406  ..... São Francisco de Paula                       431820                            
+ 77 407  ..... São Gabriel                                  431830                            
+ 77 408  ..... São João da Urtiga                           431842                            
+ 77 409  ..... São João do Polêsine                         431843                            
+ 77 410  ..... São Jorge                                    431844                            
+ 77 411  ..... São José das Missões                         431845                            
+ 77 412  ..... São José do Herval                           431846                            
+ 77 413  ..... São José do Hortêncio                        431848                            
+ 77 414  ..... São José do Inhacorá                         431849                            
+ 77 415  ..... São José do Ouro                             431860                            
+ 77 416  ..... São José do Sul                              431861                            
+ 77 417  ..... São José dos Ausentes                        431862                            
+ 77 418  ..... São Lourenço do Sul                          431880                            
+ 77 419  ..... São Luiz Gonzaga                             431890                            
+ 77 420  ..... São Martinho                                 431910                            
+ 77 421  ..... São Martinho da Serra                        431912                            
+ 77 422  ..... São Miguel das Missões                       431915                            
+ 77 423  ..... São Nicolau                                  431920                            
+ 77 424  ..... São Paulo das Missões                        431930                            
+ 77 425  ..... São Pedro da Serra                           431935                            
+ 77 426  ..... São Pedro das Missões                        431936                            
+ 77 427  ..... São Pedro do Butiá                           431937                            
+ 77 428  ..... São Pedro do Sul                             431940                            
+ 77 429  ..... São Sepé                                     431960                            
+ 77 430  ..... São Valentim                                 431970                            
+ 77 431  ..... São Valentim do Sul                          431971                            
+ 77 432  ..... São Valério do Sul                           431973                            
+ 77 433  ..... São Vendelino                                431975                            
+ 77 434  ..... São Vicente do Sul                           431980                            
+ 77 435  ..... Sarandi                                      432010                            
+ 77 436  ..... Seberi                                       432020                            
+ 77 437  ..... Sede Nova                                    432023                            
+ 77 438  ..... Segredo                                      432026                            
+ 77 439  ..... Selbach                                      432030                            
+ 77 440  ..... Senador Salgado Filho                        432032                            
+ 77 441  ..... Sentinela do Sul                             432035                            
+ 77 442  ..... Serafina Corrêa                              432040                            
+ 77 443  ..... Sério                                        432045                            
+ 77 444  ..... Sertão                                       432050                            
+ 77 445  ..... Sertão Santana                               432055                            
+ 77 446  ..... Sete de Setembro                             432057                            
+ 77 447  ..... Severiano de Almeida                         432060                            
+ 77 448  ..... Silveira Martins                             432065                            
+ 77 449  ..... Sinimbu                                      432067                            
+ 77 450  ..... Sobradinho                                   432070                            
+ 77 451  ..... Soledade                                     432080                            
+ 77 452  ..... Tabaí                                        432085                            
+ 77 453  ..... Tapejara                                     432090                            
+ 77 454  ..... Tapera                                       432100                            
+ 77 455  ..... Tapes                                        432110                            
+ 77 456  ..... Taquari                                      432130                            
+ 77 457  ..... Taquaruçu do Sul                             432132                            
+ 77 458  ..... Tavares                                      432135                            
+ 77 459  ..... Tenente Portela                              432140                            
+ 77 460  ..... Teutônia                                     432145                            
+ 77 461  ..... Tio Hugo                                     432146                            
+ 77 462  ..... Tiradentes do Sul                            432147                            
+ 77 463  ..... Toropi                                       432149                            
+ 77 464  ..... Travesseiro                                  432162                            
+ 77 465  ..... Três Arroios                                 432163                            
+ 77 466  ..... Três Coroas                                  432170                            
+ 77 467  ..... Três de Maio                                 432180                            
+ 77 468  ..... Três Palmeiras                               432185                            
+ 77 469  ..... Três Passos                                  432190                            
+ 77 470  ..... Trindade do Sul                              432195                            
+ 77 471  ..... Tucunduva                                    432210                            
+ 77 472  ..... Tunas                                        432215                            
+ 77 473  ..... Tupanci do Sul                               432218                            
+ 77 474  ..... Tupanciretã                                  432220                            
+ 77 475  ..... Tupandi                                      432225                            
+ 77 476  ..... Tuparendi                                    432230                            
+ 77 477  ..... Turuçu                                       432232                            
+ 77 478  ..... Ubiretama                                    432234                            
+ 77 479  ..... União da Serra                               432235                            
+ 77 480  ..... Unistalda                                    432237                            
+ 77 481  ..... Uruguaiana                                   432240                            
+ 77 482  ..... Vacaria                                      432250                            
+ 77 483  ..... Vale do Sol                                  432253                            
+ 77 484  ..... Vale Real                                    432254                            
+ 77 485  ..... Vale Verde                                   432252                            
+ 77 486  ..... Vanini                                       432255                            
+ 77 487  ..... Venâncio Aires                               432260                            
+ 77 488  ..... Vera Cruz                                    432270                            
+ 77 489  ..... Veranópolis                                  432280                            
+ 77 490  ..... Vespasiano Corrêa                            432285                            
+ 77 491  ..... Viadutos                                     432290                            
+ 77 492  ..... Vicente Dutra                                432310                            
+ 77 493  ..... Victor Graeff                                432320                            
+ 77 494  ..... Vila Flores                                  432330                            
+ 77 495  ..... Vila Lângaro                                 432335                            
+ 77 496  ..... Vila Maria                                   432340                            
+ 77 497  ..... Vila Nova do Sul                             432345                            
+ 77 498  ..... Vista Alegre                                 432350                            
+ 77 499  ..... Vista Alegre do Prata                        432360                            
+ 77 500  ..... Vista Gaúcha                                 432370                            
+ 77 501  ..... Vitória das Missões                          432375                            
+ 77 502  ..... Westfália                                    432377                            
+    503  43000 Ignorado - RS                                430000,439999                     

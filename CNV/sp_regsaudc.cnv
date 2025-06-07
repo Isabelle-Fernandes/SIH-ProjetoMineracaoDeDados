@@ -1,0 +1,646 @@
+63 6
+      1  35011 Alto do Tietê                                350390
+      1  35011 Alto do Tietê                                350660
+      1  35011 Alto do Tietê                                351570
+      1  35011 Alto do Tietê                                351830
+      1  35011 Alto do Tietê                                351880
+      1  35011 Alto do Tietê                                352310
+      1  35011 Alto do Tietê                                353060
+      1  35011 Alto do Tietê                                353980
+      1  35011 Alto do Tietê                                354500
+      1  35011 Alto do Tietê                                354680
+      1  35011 Alto do Tietê                                355250
+      2  35012 Franco da Rocha                              350900
+      2  35012 Franco da Rocha                              350920
+      2  35012 Franco da Rocha                              351630
+      2  35012 Franco da Rocha                              351640
+      2  35012 Franco da Rocha                              352850
+      3  35013 Mananciais                                   351300
+      3  35013 Mananciais                                   351500
+      3  35013 Mananciais                                   351510
+      3  35013 Mananciais                                   352220
+      3  35013 Mananciais                                   352620
+      3  35013 Mananciais                                   354995
+      3  35013 Mananciais                                   355280
+      3  35013 Mananciais                                   355645
+      4  35014 Rota dos Bandeirantes                        350570
+      4  35014 Rota dos Bandeirantes                        351060
+      4  35014 Rota dos Bandeirantes                        352250
+      4  35014 Rota dos Bandeirantes                        352500
+      4  35014 Rota dos Bandeirantes                        353440
+      4  35014 Rota dos Bandeirantes                        353910
+      4  35014 Rota dos Bandeirantes                        354730
+      5  35015 Grande ABC                                   351380
+      5  35015 Grande ABC                                   352940
+      5  35015 Grande ABC                                   354330
+      5  35015 Grande ABC                                   354410
+      5  35015 Grande ABC                                   354780
+      5  35015 Grande ABC                                   354870
+      5  35015 Grande ABC                                   354880
+      6  35016 São Paulo                                    355030
+      7  35021 Central do DRS II                            350280
+      7  35021 Central do DRS II                            350420
+      7  35021 Central do DRS II                            350620
+      7  35021 Central do DRS II                            350640
+      7  35021 Central do DRS II                            351820
+      7  35021 Central do DRS II                            351890
+      7  35021 Central do DRS II                            353286
+      7  35021 Central do DRS II                            353330
+      7  35021 Central do DRS II                            354440
+      7  35021 Central do DRS II                            354805
+      7  35021 Central do DRS II                            355630
+      8  35022 Lagos do DRS II                              350210
+      8  35022 Lagos do DRS II                              351100
+      8  35022 Lagos do DRS II                              351780
+      8  35022 Lagos do DRS II                              352044
+      8  35022 Lagos do DRS II                              352300
+      8  35022 Lagos do DRS II                              352650
+      8  35022 Lagos do DRS II                              353010
+      8  35022 Lagos do DRS II                              353210
+      8  35022 Lagos do DRS II                              353320
+      8  35022 Lagos do DRS II                              353740
+      8  35022 Lagos do DRS II                              355230
+      8  35022 Lagos do DRS II                              355255
+      9  35023 Consórcios do DRS II                         350110
+      9  35023 Consórcios do DRS II                         350440
+      9  35023 Consórcios do DRS II                         350510
+      9  35023 Consórcios do DRS II                         350650
+      9  35023 Consórcios do DRS II                         350770
+      9  35023 Consórcios do DRS II                         350775
+      9  35023 Consórcios do DRS II                         350810
+      9  35023 Consórcios do DRS II                         351190
+      9  35023 Consórcios do DRS II                         351250
+      9  35023 Consórcios do DRS II                         351650
+      9  35023 Consórcios do DRS II                         351710
+      9  35023 Consórcios do DRS II                         352725
+      9  35023 Consórcios do DRS II                         352770
+      9  35023 Consórcios do DRS II                         353730
+      9  35023 Consórcios do DRS II                         353770
+      9  35023 Consórcios do DRS II                         354840
+      9  35023 Consórcios do DRS II                         355520
+     10  35031 Central do DRS III                           350170
+     10  35031 Central do DRS III                           350320
+     10  35031 Central do DRS III                           350670
+     10  35031 Central do DRS III                           351685
+     10  35031 Central do DRS III                           353205
+     10  35031 Central do DRS III                           354370
+     10  35031 Central do DRS III                           354690
+     10  35031 Central do DRS III                           355475
+     11  35032 Centro Oeste do DRS III                      350740
+     11  35032 Centro Oeste do DRS III                      351960
+     11  35032 Centro Oeste do DRS III                      352270
+     11  35032 Centro Oeste do DRS III                      353290
+     11  35032 Centro Oeste do DRS III                      355270
+     12  35033 Norte do DRS III                             351010
+     12  35033 Norte do DRS III                             351400
+     12  35033 Norte do DRS III                             352930
+     12  35033 Norte do DRS III                             354650
+     12  35033 Norte do DRS III                             355370
+     13  35034 Coração do DRS III                           351370
+     13  35034 Coração do DRS III                           351430
+     13  35034 Coração do DRS III                           351930
+     13  35034 Coração do DRS III                           354070
+     13  35034 Coração do DRS III                           354290
+     13  35034 Coração do DRS III                           354890
+     14  35041 Baixada Santista                             350635
+     14  35041 Baixada Santista                             351350
+     14  35041 Baixada Santista                             351870
+     14  35041 Baixada Santista                             352210
+     14  35041 Baixada Santista                             353110
+     14  35041 Baixada Santista                             353760
+     14  35041 Baixada Santista                             354100
+     14  35041 Baixada Santista                             354850
+     14  35041 Baixada Santista                             355100
+     15  35051 Norte - Barretos                             350090
+     15  35051 Norte - Barretos                             350550
+     15  35051 Norte - Barretos                             350930
+     15  35051 Norte - Barretos                             351200
+     15  35051 Norte - Barretos                             351210
+     15  35051 Norte - Barretos                             351740
+     15  35051 Norte - Barretos                             351790
+     15  35051 Norte - Barretos                             352420
+     15  35051 Norte - Barretos                             353390
+     15  35051 Norte - Barretos                             355190
+     16  35052 Sul - Barretos                               350610
+     16  35052 Sul - Barretos                               353150
+     16  35052 Sul - Barretos                               355310
+     16  35052 Sul - Barretos                               355320
+     16  35052 Sul - Barretos                               355365
+     16  35052 Sul - Barretos                               355440
+     16  35052 Sul - Barretos                               355680
+     16  35052 Sul - Barretos                               355690
+     17  35061 Vale do Jurumirim                            350055
+     17  35061 Vale do Jurumirim                            350310
+     17  35061 Vale do Jurumirim                            350450
+     17  35061 Vale do Jurumirim                            350500
+     17  35061 Vale do Jurumirim                            351140
+     17  35061 Vale do Jurumirim                            351260
+     17  35061 Vale do Jurumirim                            351540
+     17  35061 Vale do Jurumirim                            351925
+     17  35061 Vale do Jurumirim                            352180
+     17  35061 Vale do Jurumirim                            352280
+     17  35061 Vale do Jurumirim                            352860
+     17  35061 Vale do Jurumirim                            353580
+     17  35061 Vale do Jurumirim                            353880
+     17  35061 Vale do Jurumirim                            355120
+     17  35061 Vale do Jurumirim                            355300
+     17  35061 Vale do Jurumirim                            355380
+     17  35061 Vale do Jurumirim                            355420
+     18  35062 Bauru                                        350070
+     18  35062 Bauru                                        350340
+     18  35062 Bauru                                        350430
+     18  35062 Bauru                                        350470
+     18  35062 Bauru                                        350600
+     18  35062 Bauru                                        350745
+     18  35062 Bauru                                        350830
+     18  35062 Bauru                                        351450
+     18  35062 Bauru                                        351910
+     18  35062 Bauru                                        352680
+     18  35062 Bauru                                        352750
+     18  35062 Bauru                                        352800
+     18  35062 Bauru                                        353657
+     18  35062 Bauru                                        353670
+     18  35062 Bauru                                        353890
+     18  35062 Bauru                                        353940
+     18  35062 Bauru                                        354110
+     18  35062 Bauru                                        354250
+     19  35063 Polo Cuesta                                  350230
+     19  35063 Polo Cuesta                                  350360
+     19  35063 Polo Cuesta                                  350690
+     19  35063 Polo Cuesta                                  350750
+     19  35063 Polo Cuesta                                  351230
+     19  35063 Polo Cuesta                                  352350
+     19  35063 Polo Cuesta                                  352640
+     19  35063 Polo Cuesta                                  353610
+     19  35063 Polo Cuesta                                  353750
+     19  35063 Polo Cuesta                                  354050
+     19  35063 Polo Cuesta                                  354105
+     19  35063 Polo Cuesta                                  355010
+     19  35063 Polo Cuesta                                  355465
+     20  35064 Jaú                                          350520
+     20  35064 Jaú                                          350530
+     20  35064 Jaú                                          350680
+     20  35064 Jaú                                          350730
+     20  35064 Jaú                                          350790
+     20  35064 Jaú                                          351410
+     20  35064 Jaú                                          352000
+     20  35064 Jaú                                          352200
+     20  35064 Jaú                                          352290
+     20  35064 Jaú                                          352530
+     20  35064 Jaú                                          352980
+     20  35064 Jaú                                          355470
+     21  35065 Lins                                         350880
+     21  35065 Lins                                         351700
+     21  35065 Lins                                         351720
+     21  35065 Lins                                         352710
+     21  35065 Lins                                         354010
+     21  35065 Lins                                         354160
+     21  35065 Lins                                         354460
+     21  35065 Lins                                         355590
+     22  35071 Bragança                                     350410
+     22  35071 Bragança                                     350710
+     22  35071 Bragança                                     350760
+     22  35071 Bragança                                     352550
+     22  35071 Bragança                                     353240
+     22  35071 Bragança                                     353680
+     22  35071 Bragança                                     353820
+     22  35071 Bragança                                     353860
+     22  35071 Bragança                                     355210
+     22  35071 Bragança                                     355495
+     22  35071 Bragança                                     355635
+     23  35072 Região Metropolitana de Campinas             350160
+     23  35072 Região Metropolitana de Campinas             350380
+     23  35072 Região Metropolitana de Campinas             350950
+     23  35072 Região Metropolitana de Campinas             351280
+     23  35072 Região Metropolitana de Campinas             351905
+     23  35072 Região Metropolitana de Campinas             351907
+     23  35072 Região Metropolitana de Campinas             352050
+     23  35072 Região Metropolitana de Campinas             352340
+     23  35072 Região Metropolitana de Campinas             352470
+     23  35072 Região Metropolitana de Campinas             353180
+     23  35072 Região Metropolitana de Campinas             353200
+     23  35072 Região Metropolitana de Campinas             353340
+     23  35072 Região Metropolitana de Campinas             353650
+     23  35072 Região Metropolitana de Campinas             353710
+     23  35072 Região Metropolitana de Campinas             354580
+     23  35072 Região Metropolitana de Campinas             354800
+     23  35072 Região Metropolitana de Campinas             355240
+     23  35072 Região Metropolitana de Campinas             355620
+     23  35072 Região Metropolitana de Campinas             355670
+     24  35073 Jundiaí                                      350840
+     24  35073 Jundiaí                                      350960
+     24  35073 Jundiaí                                      352400
+     24  35073 Jundiaí                                      352520
+     24  35073 Jundiaí                                      352590
+     24  35073 Jundiaí                                      352730
+     24  35073 Jundiaí                                      355650
+     25  35074 Circuito das Águas                           350050
+     25  35074 Circuito das Águas                           350190
+     25  35074 Circuito das Águas                           352700
+     25  35074 Circuito das Águas                           353120
+     25  35074 Circuito das Águas                           355160
+     26  35081 Três Colinas                                 351320
+     26  35081 Três Colinas                                 351620
+     26  35081 Três Colinas                                 352370
+     26  35081 Três Colinas                                 352540
+     26  35081 Três Colinas                                 353630
+     26  35081 Três Colinas                                 353700
+     26  35081 Três Colinas                                 354270
+     26  35081 Três Colinas                                 354310
+     26  35081 Três Colinas                                 354360
+     26  35081 Três Colinas                                 354950
+     27  35082 Alta Anhanguera                              352130
+     27  35082 Alta Anhanguera                              353190
+     27  35082 Alta Anhanguera                              353360
+     27  35082 Alta Anhanguera                              353430
+     27  35082 Alta Anhanguera                              354490
+     27  35082 Alta Anhanguera                              354940
+     28  35083 Alta Mogiana                                 350300
+     28  35083 Alta Mogiana                                 350820
+     28  35083 Alta Mogiana                                 351770
+     28  35083 Alta Mogiana                                 352010
+     28  35083 Alta Mogiana                                 352410
+     28  35083 Alta Mogiana                                 352970
+     29  35091 Adamantina                                   350010
+     29  35091 Adamantina                                   351600
+     29  35091 Adamantina                                   352080
+     29  35091 Adamantina                                   352740
+     29  35091 Adamantina                                   352890
+     29  35091 Adamantina                                   353460
+     29  35091 Adamantina                                   353490
+     29  35091 Adamantina                                   354085
+     29  35091 Adamantina                                   354470
+     29  35091 Adamantina                                   354510
+     30  35092 Assis                                        350400
+     30  35092 Assis                                        350720
+     30  35092 Assis                                        351000
+     30  35092 Assis                                        351330
+     30  35092 Assis                                        351610
+     30  35092 Assis                                        352790
+     30  35092 Assis                                        352880
+     30  35092 Assis                                        353530
+     30  35092 Assis                                        353550
+     30  35092 Assis                                        353715
+     30  35092 Assis                                        353970
+     30  35092 Assis                                        355395
+     31  35093 Marília                                      350140
+     31  35093 Marília                                      350150
+     31  35093 Marília                                      350980
+     31  35093 Marília                                      351470
+     31  35093 Marília                                      351565
+     31  35093 Marília                                      351660
+     31  35093 Marília                                      351670
+     31  35093 Marília                                      351730
+     31  35093 Marília                                      351810
+     31  35093 Marília                                      352580
+     31  35093 Marília                                      352780
+     31  35093 Marília                                      352900
+     31  35093 Marília                                      353370
+     31  35093 Marília                                      353410
+     31  35093 Marília                                      353450
+     31  35093 Marília                                      354000
+     31  35093 Marília                                      354200
+     31  35093 Marília                                      355550
+     31  35093 Marília                                      355660
+     32  35094 Ourinhos                                     350630
+     32  35094 Ourinhos                                     351015
+     32  35094 Ourinhos                                     351519
+     32  35094 Ourinhos                                     351950
+     32  35094 Ourinhos                                     352090
+     32  35094 Ourinhos                                     353380
+     32  35094 Ourinhos                                     353470
+     32  35094 Ourinhos                                     354320
+     32  35094 Ourinhos                                     354540
+     32  35094 Ourinhos                                     354640
+     32  35094 Ourinhos                                     355050
+     32  35094 Ourinhos                                     355460
+     32  35094 Ourinhos                                     355720
+     33  35095 Tupã                                         350335
+     33  35095 Tupã                                         350580
+     33  35095 Tupã                                         351900
+     33  35095 Tupã                                         351920
+     33  35095 Tupã                                         353600
+     33  35095 Tupã                                         354180
+     33  35095 Tupã                                         354380
+     33  35095 Tupã                                         355500
+     34  35101 Araras                                       350330
+     34  35101 Araras                                       351220
+     34  35101 Araras                                       352670
+     34  35101 Araras                                       353930
+     34  35101 Araras                                       354620
+     35  35102 Limeira                                      351240
+     35  35102 Limeira                                      351515
+     35  35102 Limeira                                      352140
+     35  35102 Limeira                                      352690
+     36  35103 Piracicaba                                   350060
+     36  35103 Piracicaba                                   351040
+     36  35103 Piracicaba                                   351170
+     36  35103 Piracicaba                                   351490
+     36  35103 Piracicaba                                   353090
+     36  35103 Piracicaba                                   353870
+     36  35103 Piracicaba                                   354210
+     36  35103 Piracicaba                                   354400
+     36  35103 Piracicaba                                   354515
+     36  35103 Piracicaba                                   354700
+     36  35103 Piracicaba                                   355040
+     37  35104 Rio Claro                                    350200
+     37  35104 Rio Claro                                    351270
+     37  35104 Rio Claro                                    352110
+     37  35104 Rio Claro                                    352360
+     37  35104 Rio Claro                                    354390
+     37  35104 Rio Claro                                    354670
+     38  35111 Alta Paulista                                351440
+     38  35111 Alta Paulista                                351580
+     38  35111 Alta Paulista                                352160
+     38  35111 Alta Paulista                                352600
+     38  35111 Alta Paulista                                353160
+     38  35111 Alta Paulista                                353310
+     38  35111 Alta Paulista                                353480
+     38  35111 Alta Paulista                                353540
+     38  35111 Alta Paulista                                353640
+     38  35111 Alta Paulista                                354710
+     38  35111 Alta Paulista                                354930
+     38  35111 Alta Paulista                                355510
+     39  35112 Alta Sorocabana                              350080
+     39  35112 Alta Sorocabana                              350130
+     39  35112 Alta Sorocabana                              350240
+     39  35112 Alta Sorocabana                              350890
+     39  35112 Alta Sorocabana                              351512
+     39  35112 Alta Sorocabana                              351530
+     39  35112 Alta Sorocabana                              352060
+     39  35112 Alta Sorocabana                              352920
+     39  35112 Alta Sorocabana                              353220
+     39  35112 Alta Sorocabana                              353920
+     39  35112 Alta Sorocabana                              354120
+     39  35112 Alta Sorocabana                              354140
+     39  35112 Alta Sorocabana                              354240
+     39  35112 Alta Sorocabana                              354323
+     39  35112 Alta Sorocabana                              354550
+     39  35112 Alta Sorocabana                              354770
+     39  35112 Alta Sorocabana                              354830
+     39  35112 Alta Sorocabana                              355290
+     39  35112 Alta Sorocabana                              355390
+     40  35113 Alto Capivari                                351990
+     40  35113 Alto Capivari                                352560
+     40  35113 Alto Capivari                                353215
+     40  35113 Alto Capivari                                354170
+     40  35113 Alto Capivari                                354220
+     41  35114 Extremo Oeste Paulista                       350910
+     41  35114 Extremo Oeste Paulista                       352870
+     41  35114 Extremo Oeste Paulista                       353830
+     41  35114 Extremo Oeste Paulista                       354130
+     41  35114 Extremo Oeste Paulista                       354150
+     42  35115 Pontal do Paranapanema                       351535
+     42  35115 Pontal do Paranapanema                       353020
+     42  35115 Pontal do Paranapanema                       354425
+     42  35115 Pontal do Paranapanema                       355430
+     43  35121 Vale do Ribeira                              350540
+     43  35121 Vale do Ribeira                              350925
+     43  35121 Vale do Ribeira                              350990
+     43  35121 Vale do Ribeira                              351480
+     43  35121 Vale do Ribeira                              352030
+     43  35121 Vale do Ribeira                              352042
+     43  35121 Vale do Ribeira                              352120
+     43  35121 Vale do Ribeira                              352330
+     43  35121 Vale do Ribeira                              352460
+     43  35121 Vale do Ribeira                              352610
+     43  35121 Vale do Ribeira                              352990
+     43  35121 Vale do Ribeira                              353620
+     43  35121 Vale do Ribeira                              353720
+     43  35121 Vale do Ribeira                              354260
+     43  35121 Vale do Ribeira                              355180
+     44  35131 Horizonte Verde                              350560
+     44  35131 Horizonte Verde                              351460
+     44  35131 Horizonte Verde                              351860
+     44  35131 Horizonte Verde                              352430
+     44  35131 Horizonte Verde                              353130
+     44  35131 Horizonte Verde                              353950
+     44  35131 Horizonte Verde                              354020
+     44  35131 Horizonte Verde                              354090
+     44  35131 Horizonte Verde                              355170
+     45  35132 Aquífero Guarani                             351310
+     45  35132 Aquífero Guarani                             351885
+     45  35132 Aquífero Guarani                             352510
+     45  35132 Aquífero Guarani                             352760
+     45  35132 Aquífero Guarani                             354340
+     45  35132 Aquífero Guarani                             354750
+     45  35132 Aquífero Guarani                             354760
+     45  35132 Aquífero Guarani                             355090
+     45  35132 Aquífero Guarani                             355140
+     45  35132 Aquífero Guarani                             355150
+     46  35133 Vale das Cachoeiras                          350100
+     46  35133 Vale das Cachoeiras                          350590
+     46  35133 Vale das Cachoeiras                          350780
+     46  35133 Vale das Cachoeiras                          350940
+     46  35133 Vale das Cachoeiras                          351090
+     46  35133 Vale das Cachoeiras                          354625
+     46  35133 Vale das Cachoeiras                          354790
+     47  35141 Baixa Mogiana                                352260
+     47  35141 Baixa Mogiana                                353070
+     47  35141 Baixa Mogiana                                353080
+     47  35141 Baixa Mogiana                                355730
+     48  35142 Mantiqueira                                  350030
+     48  35142 Mantiqueira                                  350040
+     48  35142 Mantiqueira                                  351518
+     48  35142 Mantiqueira                                  354630
+     48  35142 Mantiqueira                                  354810
+     48  35142 Mantiqueira                                  354910
+     48  35142 Mantiqueira                                  355330
+     48  35142 Mantiqueira                                  355640
+     49  35143 Rio Pardo                                    350870
+     49  35143 Rio Pardo                                    351080
+     49  35143 Rio Pardo                                    351390
+     49  35143 Rio Pardo                                    352380
+     49  35143 Rio Pardo                                    353050
+     49  35143 Rio Pardo                                    354970
+     49  35143 Rio Pardo                                    355080
+     49  35143 Rio Pardo                                    355360
+     50  35151 Catanduva                                    350370
+     50  35151 Catanduva                                    351110
+     50  35151 Catanduva                                    351120
+     50  35151 Catanduva                                    351492
+     50  35151 Catanduva                                    351495
+     50  35151 Catanduva                                    351560
+     50  35151 Catanduva                                    352150
+     50  35151 Catanduva                                    352190
+     50  35151 Catanduva                                    352885
+     50  35151 Catanduva                                    353325
+     50  35151 Catanduva                                    353350
+     50  35151 Catanduva                                    353510
+     50  35151 Catanduva                                    353570
+     50  35151 Catanduva                                    353810
+     50  35151 Catanduva                                    353900
+     50  35151 Catanduva                                    354480
+     50  35151 Catanduva                                    354560
+     50  35151 Catanduva                                    355260
+     50  35151 Catanduva                                    355600
+     51  35152 Santa Fé do Sul                              353284
+     51  35152 Santa Fé do Sul                              354450
+     51  35152 Santa Fé do Sul                              354610
+     51  35152 Santa Fé do Sul                              354660
+     51  35152 Santa Fé do Sul                              354740
+     51  35152 Santa Fé do Sul                              355490
+     52  35153 Jales                                        350260
+     52  35153 Jales                                        350395
+     52  35153 Jales                                        351385
+     52  35153 Jales                                        351420
+     52  35153 Jales                                        352480
+     52  35153 Jales                                        352910
+     52  35153 Jales                                        352965
+     52  35153 Jales                                        353520
+     52  35153 Jales                                        353590
+     52  35153 Jales                                        354025
+     52  35153 Jales                                        354570
+     52  35153 Jales                                        354720
+     52  35153 Jales                                        354765
+     52  35153 Jales                                        354900
+     52  35153 Jales                                        355580
+     52  35153 Jales                                        355695
+     53  35154 Fernandópolis                                351520
+     53  35154 Fernandópolis                                351550
+     53  35154 Fernandópolis                                351800
+     53  35154 Fernandópolis                                352070
+     53  35154 Fernandópolis                                352820
+     53  35154 Fernandópolis                                352960
+     53  35154 Fernandópolis                                353000
+     53  35154 Fernandópolis                                353475
+     53  35154 Fernandópolis                                353690
+     53  35154 Fernandópolis                                354040
+     53  35154 Fernandópolis                                354920
+     53  35154 Fernandópolis                                354925
+     53  35154 Fernandópolis                                355530
+     54  35155 São José do Rio Preto                        350460
+     54  35155 São José do Rio Preto                        350480
+     54  35155 São José do Rio Preto                        351130
+     54  35155 São José do Rio Preto                        351750
+     54  35155 São José do Rio Preto                        351940
+     54  35155 São José do Rio Preto                        351980
+     54  35155 São José do Rio Preto                        352115
+     54  35155 São José do Rio Preto                        353030
+     54  35155 São José do Rio Preto                        353040
+     54  35155 São José do Rio Preto                        353250
+     54  35155 São José do Rio Preto                        353280
+     54  35155 São José do Rio Preto                        353300
+     54  35155 São José do Rio Preto                        353400
+     54  35155 São José do Rio Preto                        353420
+     54  35155 São José do Rio Preto                        353500
+     54  35155 São José do Rio Preto                        353660
+     54  35155 São José do Rio Preto                        354080
+     54  35155 São José do Rio Preto                        354980
+     54  35155 São José do Rio Preto                        355340
+     54  35155 São José do Rio Preto                        355560
+     55  35156 José Bonifácio                               350020
+     55  35156 José Bonifácio                               352450
+     55  35156 José Bonifácio                               352570
+     55  35156 José Bonifácio                               352950
+     55  35156 José Bonifácio                               353140
+     55  35156 José Bonifácio                               353270
+     55  35156 José Bonifácio                               353960
+     55  35156 José Bonifácio                               353990
+     55  35156 José Bonifácio                               355535
+     55  35156 José Bonifácio                               355570
+     55  35156 José Bonifácio                               355715
+     56  35157 Votuporanga                                  350120
+     56  35157 Votuporanga                                  350180
+     56  35157 Votuporanga                                  351070
+     56  35157 Votuporanga                                  351290
+     56  35157 Votuporanga                                  351590
+     56  35157 Votuporanga                                  351680
+     56  35157 Votuporanga                                  351690
+     56  35157 Votuporanga                                  352810
+     56  35157 Votuporanga                                  352830
+     56  35157 Votuporanga                                  353100
+     56  35157 Votuporanga                                  353260
+     56  35157 Votuporanga                                  353625
+     56  35157 Votuporanga                                  354030
+     56  35157 Votuporanga                                  354420
+     56  35157 Votuporanga                                  355130
+     56  35157 Votuporanga                                  355610
+     56  35157 Votuporanga                                  355710
+     57  35161 Itapetininga                                 350075
+     57  35161 Itapetininga                                 350220
+     57  35161 Itapetininga                                 350945
+     57  35161 Itapetininga                                 351020
+     57  35161 Itapetininga                                 351150
+     57  35161 Itapetininga                                 351160
+     57  35161 Itapetininga                                 351850
+     57  35161 Itapetininga                                 352230
+     57  35161 Itapetininga                                 354165
+     57  35161 Itapetininga                                 354325
+     57  35161 Itapetininga                                 355020
+     57  35161 Itapetininga                                 355110
+     57  35161 Itapetininga                                 355400
+     58  35162 Itapeva                                      350270
+     58  35162 Itapeva                                      350535
+     58  35162 Itapeva                                      350715
+     58  35162 Itapeva                                      350800
+     58  35162 Itapeva                                      351760
+     58  35162 Itapeva                                      352170
+     58  35162 Itapeva                                      352215
+     58  35162 Itapeva                                      352240
+     58  35162 Itapeva                                      352265
+     58  35162 Itapeva                                      352320
+     58  35162 Itapeva                                      353282
+     58  35162 Itapeva                                      354280
+     58  35162 Itapeva                                      354300
+     58  35162 Itapeva                                      354350
+     58  35162 Itapeva                                      355385
+     59  35163 Sorocaba                                     350115
+     59  35163 Sorocaba                                     350275
+     59  35163 Sorocaba                                     350290
+     59  35163 Sorocaba                                     350700
+     59  35163 Sorocaba                                     351030
+     59  35163 Sorocaba                                     351970
+     59  35163 Sorocaba                                     352100
+     59  35163 Sorocaba                                     352390
+     59  35163 Sorocaba                                     352585
+     59  35163 Sorocaba                                     352840
+     59  35163 Sorocaba                                     353780
+     59  35163 Sorocaba                                     353790
+     59  35163 Sorocaba                                     354060
+     59  35163 Sorocaba                                     354520
+     59  35163 Sorocaba                                     354530
+     59  35163 Sorocaba                                     355060
+     59  35163 Sorocaba                                     355220
+     59  35163 Sorocaba                                     355350
+     59  35163 Sorocaba                                     355450
+     59  35163 Sorocaba                                     355700
+     60  35171 Alto Vale do Paraíba                         350850
+     60  35171 Alto Vale do Paraíba                         352020
+     60  35171 Alto Vale do Paraíba                         352440
+     60  35171 Alto Vale do Paraíba                         352490
+     60  35171 Alto Vale do Paraíba                         353170
+     60  35171 Alto Vale do Paraíba                         353560
+     60  35171 Alto Vale do Paraíba                         354600
+     60  35171 Alto Vale do Paraíba                         354990
+     61  35172 Circuito da Fé e Vale Histórico              350250
+     61  35172 Circuito da Fé e Vale Histórico              350315
+     61  35172 Circuito da Fé e Vale Histórico              350350
+     61  35172 Circuito da Fé e Vale Histórico              350490
+     61  35172 Circuito da Fé e Vale Histórico              350860
+     61  35172 Circuito da Fé e Vale Histórico              350995
+     61  35172 Circuito da Fé e Vale Histórico              351340
+     61  35172 Circuito da Fé e Vale Histórico              351360
+     61  35172 Circuito da Fé e Vale Histórico              351840
+     61  35172 Circuito da Fé e Vale Histórico              352660
+     61  35172 Circuito da Fé e Vale Histórico              352720
+     61  35172 Circuito da Fé e Vale Histórico              353850
+     61  35172 Circuito da Fé e Vale Histórico              354075
+     61  35172 Circuito da Fé e Vale Histórico              354190
+     61  35172 Circuito da Fé e Vale Histórico              354430
+     61  35172 Circuito da Fé e Vale Histórico              354960
+     61  35172 Circuito da Fé e Vale Histórico              355200
+     62  35173 Litoral Norte                                351050
+     62  35173 Litoral Norte                                352040
+     62  35173 Litoral Norte                                355070
+     62  35173 Litoral Norte                                355540
+     63  35174 Vale do Paraíba/Região Serrana               350970
+     63  35174 Vale do Paraíba/Região Serrana               352630
+     63  35174 Vale do Paraíba/Região Serrana               353230
+     63  35174 Vale do Paraíba/Região Serrana               353800
+     63  35174 Vale do Paraíba/Região Serrana               354230
+     63  35174 Vale do Paraíba/Região Serrana               354820
+     63  35174 Vale do Paraíba/Região Serrana               354860
+     63  35174 Vale do Paraíba/Região Serrana               355000
+     63  35174 Vale do Paraíba/Região Serrana               355410
+     63  35174 Vale do Paraíba/Região Serrana               355480

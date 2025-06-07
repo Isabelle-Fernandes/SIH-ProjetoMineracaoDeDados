@@ -1,0 +1,146 @@
+14 6
+      1  15001 Araguaia                                     150034
+      1  15001 Araguaia                                     150125
+      1  15001 Araguaia                                     150270
+      1  15001 Araguaia                                     150276
+      1  15001 Araguaia                                     150304
+      1  15001 Araguaia                                     150543
+      1  15001 Araguaia                                     150555
+      1  15001 Araguaia                                     150613
+      1  15001 Araguaia                                     150616
+      1  15001 Araguaia                                     150658
+      1  15001 Araguaia                                     150670
+      1  15001 Araguaia                                     150730
+      1  15001 Araguaia                                     150775
+      1  15001 Araguaia                                     150808
+      1  15001 Araguaia                                     150840
+      2  15002 Baixo Amazonas                               150040
+      2  15002 Baixo Amazonas                               150050
+      2  15002 Baixo Amazonas                               150145
+      2  15002 Baixo Amazonas                               150285
+      2  15002 Baixo Amazonas                               150300
+      2  15002 Baixo Amazonas                               150390
+      2  15002 Baixo Amazonas                               150475
+      2  15002 Baixo Amazonas                               150480
+      2  15002 Baixo Amazonas                               150510
+      2  15002 Baixo Amazonas                               150530
+      2  15002 Baixo Amazonas                               150565
+      2  15002 Baixo Amazonas                               150600
+      2  15002 Baixo Amazonas                               150680
+      2  15002 Baixo Amazonas                               150797
+      3  15003 Carajás                                      150013
+      3  15003 Carajás                                      150157
+      3  15003 Carajás                                      150175
+      3  15003 Carajás                                      150215
+      3  15003 Carajás                                      150277
+      3  15003 Carajás                                      150293
+      3  15003 Carajás                                      150295
+      3  15003 Carajás                                      150370
+      3  15003 Carajás                                      150420
+      3  15003 Carajás                                      150497
+      3  15003 Carajás                                      150549
+      3  15003 Carajás                                      150553
+      3  15003 Carajás                                      150563
+      3  15003 Carajás                                      150618
+      3  15003 Carajás                                      150715
+      3  15003 Carajás                                      150745
+      3  15003 Carajás                                      150750
+      4  15004 Lago de Tucuruí                              150178
+      4  15004 Lago de Tucuruí                              150309
+      4  15004 Lago de Tucuruí                              150380
+      4  15004 Lago de Tucuruí                              150506
+      4  15004 Lago de Tucuruí                              150810
+      5  15006 Metropolitana I                              150080
+      5  15006 Metropolitana I                              150140
+      5  15006 Metropolitana I                              150150
+      5  15006 Metropolitana I                              150442
+      5  15006 Metropolitana I                              150635
+      6  15007 Metropolitana II                             150020
+      6  15007 Metropolitana II                             150190
+      6  15007 Metropolitana II                             150260
+      6  15007 Metropolitana II                             150275
+      6  15007 Metropolitana II                             150650
+      6  15007 Metropolitana II                             150700
+      6  15007 Metropolitana II                             150710
+      6  15007 Metropolitana II                             150800
+      6  15007 Metropolitana II                             150820
+      7  15008 Metropolitana III                            150095
+      7  15008 Metropolitana III                            150230
+      7  15008 Metropolitana III                            150240
+      7  15008 Metropolitana III                            150290
+      7  15008 Metropolitana III                            150307
+      7  15008 Metropolitana III                            150320
+      7  15008 Metropolitana III                            150340
+      7  15008 Metropolitana III                            150345
+      7  15008 Metropolitana III                            150350
+      7  15008 Metropolitana III                            150405
+      7  15008 Metropolitana III                            150410
+      7  15008 Metropolitana III                            150430
+      7  15008 Metropolitana III                            150440
+      7  15008 Metropolitana III                            150495
+      7  15008 Metropolitana III                            150550
+      7  15008 Metropolitana III                            150660
+      7  15008 Metropolitana III                            150720
+      7  15008 Metropolitana III                            150740
+      7  15008 Metropolitana III                            150746
+      7  15008 Metropolitana III                            150760
+      7  15008 Metropolitana III                            150796
+      7  15008 Metropolitana III                            150812
+      8  15009 Rio Caetés                                   150090
+      8  15009 Rio Caetés                                   150160
+      8  15009 Rio Caetés                                   150170
+      8  15009 Rio Caetés                                   150195
+      8  15009 Rio Caetés                                   150220
+      8  15009 Rio Caetés                                   150500
+      8  15009 Rio Caetés                                   150540
+      8  15009 Rio Caetés                                   150560
+      8  15009 Rio Caetés                                   150610
+      8  15009 Rio Caetés                                   150611
+      8  15009 Rio Caetés                                   150620
+      8  15009 Rio Caetés                                   150655
+      8  15009 Rio Caetés                                   150690
+      8  15009 Rio Caetés                                   150747
+      8  15009 Rio Caetés                                   150803
+      8  15009 Rio Caetés                                   150830
+      9  15010 Tapajós                                      150100
+      9  15010 Tapajós                                      150360
+      9  15010 Tapajós                                      150375
+      9  15010 Tapajós                                      150503
+      9  15010 Tapajós                                      150619
+      9  15010 Tapajós                                      150805
+     10  15011 Tocantins                                    150010
+     10  15011 Tocantins                                    150120
+     10  15011 Tocantins                                    150130
+     10  15011 Tocantins                                    150210
+     10  15011 Tocantins                                    150330
+     10  15011 Tocantins                                    150400
+     10  15011 Tocantins                                    150460
+     10  15011 Tocantins                                    150470
+     10  15011 Tocantins                                    150520
+     10  15011 Tocantins                                    150795
+     11  15012 Xingu                                        150060
+     11  15012 Xingu                                        150085
+     11  15012 Xingu                                        150172
+     11  15012 Xingu                                        150445
+     11  15012 Xingu                                        150548
+     11  15012 Xingu                                        150590
+     11  15012 Xingu                                        150780
+     11  15012 Xingu                                        150815
+     11  15012 Xingu                                        150835
+     12  15013 Marajó I                                     150030
+     12  15013 Marajó I                                     150200
+     12  15013 Marajó I                                     150250
+     12  15013 Marajó I                                     150490
+     12  15013 Marajó I                                     150570
+     12  15013 Marajó I                                     150630
+     12  15013 Marajó I                                     150640
+     12  15013 Marajó I                                     150770
+     12  15013 Marajó I                                     150790
+     13  15014 Marajó II                                    150070
+     13  15014 Marajó II                                    150110
+     13  15014 Marajó II                                    150180
+     13  15014 Marajó II                                    150280
+     13  15014 Marajó II                                    150310
+     13  15014 Marajó II                                    150450
+     13  15014 Marajó II                                    150580
+     14  Ignorado - PA                                      150000,159999

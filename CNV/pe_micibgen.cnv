@@ -1,0 +1,187 @@
+20  6                                                                                    
+      1  26009 PE Alto Capibaribe                           260415                            
+      1  26009 PE Alto Capibaribe                           260580                            
+      1  26009 PE Alto Capibaribe                           261250                            
+      1  26009 PE Alto Capibaribe                           261270                            
+      1  26009 PE Alto Capibaribe                           261450                            
+      1  26009 PE Alto Capibaribe                           261500                            
+      1  26009 PE Alto Capibaribe                           261540                            
+      1  26009 PE Alto Capibaribe                           261618                            
+      1  26009 PE Alto Capibaribe                           261620                            
+      2  26001 PE Araripina                                 260110                            
+      2  26001 PE Araripina                                 260200                            
+      2  26001 PE Araripina                                 260530                            
+      2  26001 PE Araripina                                 260630                            
+      2  26001 PE Araripina                                 260730                            
+      2  26001 PE Araripina                                 260990                            
+      2  26001 PE Araripina                                 261245                            
+      2  26001 PE Araripina                                 261255                            
+      2  26001 PE Araripina                                 261430                            
+      2  26001 PE Araripina                                 261560                            
+      3  26012 PE Brejo Pernambucano                        260030                            
+      3  26012 PE Brejo Pernambucano                        260080                            
+      3  26012 PE Brejo Pernambucano                        260130                            
+      3  26012 PE Brejo Pernambucano                        260230                            
+      3  26012 PE Brejo Pernambucano                        260350                            
+      3  26012 PE Brejo Pernambucano                        260500                            
+      3  26012 PE Brejo Pernambucano                        260670                            
+      3  26012 PE Brejo Pernambucano                        260870                            
+      3  26012 PE Brejo Pernambucano                        261020                            
+      3  26012 PE Brejo Pernambucano                        261200                            
+      3  26012 PE Brejo Pernambucano                        261330                            
+      4  26019 PE Fernando de Noronha                       260545,200010                     
+      5  26011 PE Garanhuns                                 260100                            
+      5  26011 PE Garanhuns                                 260210                            
+      5  26011 PE Garanhuns                                 260240                            
+      5  26011 PE Garanhuns                                 260320                            
+      5  26011 PE Garanhuns                                 260330                            
+      5  26011 PE Garanhuns                                 260370                            
+      5  26011 PE Garanhuns                                 260470                            
+      5  26011 PE Garanhuns                                 260600                            
+      5  26011 PE Garanhuns                                 260650                            
+      5  26011 PE Garanhuns                                 260825                            
+      5  26011 PE Garanhuns                                 260830                            
+      5  26011 PE Garanhuns                                 260840                            
+      5  26011 PE Garanhuns                                 260860                            
+      5  26011 PE Garanhuns                                 260880                            
+      5  26011 PE Garanhuns                                 261010                            
+      5  26011 PE Garanhuns                                 261030                            
+      5  26011 PE Garanhuns                                 261230                            
+      5  26011 PE Garanhuns                                 261320                            
+      5  26011 PE Garanhuns                                 261510                            
+      6  26016 PE Itamaracá                                 260105                            
+      6  26016 PE Itamaracá                                 260680                            
+      6  26016 PE Itamaracá                                 260760                            
+      6  26016 PE Itamaracá                                 260775                            
+      7  26006 PE Itaparica                                 260160                            
+      7  26006 PE Itaparica                                 260392                            
+      7  26006 PE Itaparica                                 260570                            
+      7  26006 PE Itaparica                                 260740                            
+      7  26006 PE Itaparica                                 260805                            
+      7  26006 PE Itaparica                                 261100                            
+      7  26006 PE Itaparica                                 261480                            
+      8  26015 PE Mata Meridional Pernambucana              260040                            
+      8  26015 PE Mata Meridional Pernambucana              260090                            
+      8  26015 PE Mata Meridional Pernambucana              260140                            
+      8  26015 PE Mata Meridional Pernambucana              260150                            
+      8  26015 PE Mata Meridional Pernambucana              260420                            
+      8  26015 PE Mata Meridional Pernambucana              260480                            
+      8  26015 PE Mata Meridional Pernambucana              260520                            
+      8  26015 PE Mata Meridional Pernambucana              260590                            
+      8  26015 PE Mata Meridional Pernambucana              260795                            
+      8  26015 PE Mata Meridional Pernambucana              260820                            
+      8  26015 PE Mata Meridional Pernambucana              260920                            
+      8  26015 PE Mata Meridional Pernambucana              261000                            
+      8  26015 PE Mata Meridional Pernambucana              261140                            
+      8  26015 PE Mata Meridional Pernambucana              261150                            
+      8  26015 PE Mata Meridional Pernambucana              261180                            
+      8  26015 PE Mata Meridional Pernambucana              261190                            
+      8  26015 PE Mata Meridional Pernambucana              261290                            
+      8  26015 PE Mata Meridional Pernambucana              261340                            
+      8  26015 PE Mata Meridional Pernambucana              261420                            
+      8  26015 PE Mata Meridional Pernambucana              261485                            
+      8  26015 PE Mata Meridional Pernambucana              261650                            
+      9  26013 PE Mata Setentrional Pernambucana            260070                            
+      9  26013 PE Mata Setentrional Pernambucana            260270                            
+      9  26013 PE Mata Setentrional Pernambucana            260360                            
+      9  26013 PE Mata Setentrional Pernambucana            260400                            
+      9  26013 PE Mata Setentrional Pernambucana            260460                            
+      9  26013 PE Mata Setentrional Pernambucana            260550                            
+      9  26013 PE Mata Setentrional Pernambucana            260620                            
+      9  26013 PE Mata Setentrional Pernambucana            260765                            
+      9  26013 PE Mata Setentrional Pernambucana            260780                            
+      9  26013 PE Mata Setentrional Pernambucana            260845                            
+      9  26013 PE Mata Setentrional Pernambucana            260850                            
+      9  26013 PE Mata Setentrional Pernambucana            260900                            
+      9  26013 PE Mata Setentrional Pernambucana            260950                            
+      9  26013 PE Mata Setentrional Pernambucana            261060                            
+      9  26013 PE Mata Setentrional Pernambucana            261530                            
+      9  26013 PE Mata Setentrional Pernambucana            261550                            
+      9  26013 PE Mata Setentrional Pernambucana            261630                            
+     10  26010 PE Médio Capibaribe                          260220                            
+     10  26010 PE Médio Capibaribe                          260490                            
+     10  26010 PE Médio Capibaribe                          260540                            
+     10  26010 PE Médio Capibaribe                          260810                            
+     10  26010 PE Médio Capibaribe                          260890                            
+     10  26010 PE Médio Capibaribe                          260910                            
+     10  26010 PE Médio Capibaribe                          260970                            
+     10  26010 PE Médio Capibaribe                          261050                            
+     10  26010 PE Médio Capibaribe                          261210                            
+     10  26010 PE Médio Capibaribe                          261380                            
+     11  26003 PE Pajeú                                     260010                            
+     11  26003 PE Pajeú                                     260250                            
+     11  26003 PE Pajeú                                     260340                            
+     11  26003 PE Pajeú                                     260390                            
+     11  26003 PE Pajeú                                     260560                            
+     11  26003 PE Pajeú                                     260690                            
+     11  26003 PE Pajeú                                     260710                            
+     11  26003 PE Pajeú                                     260770                            
+     11  26003 PE Pajeú                                     261153                            
+     11  26003 PE Pajeú                                     261247                            
+     11  26003 PE Pajeú                                     261280                            
+     11  26003 PE Pajeú                                     261360                            
+     11  26003 PE Pajeú                                     261390                            
+     11  26003 PE Pajeú                                     261440                            
+     11  26003 PE Pajeú                                     261460                            
+     11  26003 PE Pajeú                                     261570                            
+     11  26003 PE Pajeú                                     261590                            
+     12  26005 PE Petrolina                                 260020                            
+     12  26005 PE Petrolina                                 260300                            
+     12  26005 PE Petrolina                                 260515                            
+     12  26005 PE Petrolina                                 260875                            
+     12  26005 PE Petrolina                                 260980                            
+     12  26005 PE Petrolina                                 261110                            
+     12  26005 PE Petrolina                                 261260                            
+     12  26005 PE Petrolina                                 261520                            
+     13  26017 PE Recife                                    260005                            
+     13  26017 PE Recife                                    260345                            
+     13  26017 PE Recife                                    260790                            
+     13  26017 PE Recife                                    260940                            
+     13  26017 PE Recife                                    260960                            
+     13  26017 PE Recife                                    261070                            
+     13  26017 PE Recife                                    261160                            
+     13  26017 PE Recife                                    261370                            
+     14  26002 PE Salgueiro                                 260430                            
+     14  26002 PE Salgueiro                                 260930                            
+     14  26002 PE Salgueiro                                 261040                            
+     14  26002 PE Salgueiro                                 261220                            
+     14  26002 PE Salgueiro                                 261350                            
+     14  26002 PE Salgueiro                                 261400                            
+     14  26002 PE Salgueiro                                 261610                            
+     15  26004 PE Sertão do Moxotó                          260120                            
+     15  26004 PE Sertão do Moxotó                          260180                            
+     15  26004 PE Sertão do Moxotó                          260510                            
+     15  26004 PE Sertão do Moxotó                          260660                            
+     15  26004 PE Sertão do Moxotó                          260700                            
+     15  26004 PE Sertão do Moxotó                          260915                            
+     15  26004 PE Sertão do Moxotó                          261410                            
+     16  26018 PE Suape                                     260290                            
+     16  26018 PE Suape                                     260720                            
+     17  26007 PE Vale do Ipanema                           260050                            
+     17  26007 PE Vale do Ipanema                           260280                            
+     17  26007 PE Vale do Ipanema                           260750                            
+     17  26007 PE Vale do Ipanema                           261080                            
+     17  26007 PE Vale do Ipanema                           261580                            
+     17  26007 PE Vale do Ipanema                           261600                            
+     18  26008 PE Vale do Ipojuca                           260060                            
+     18  26008 PE Vale do Ipojuca                           260170                            
+     18  26008 PE Vale do Ipojuca                           260190                            
+     18  26008 PE Vale do Ipojuca                           260260                            
+     18  26008 PE Vale do Ipojuca                           260310                            
+     18  26008 PE Vale do Ipojuca                           260380                            
+     18  26008 PE Vale do Ipojuca                           260410                            
+     18  26008 PE Vale do Ipojuca                           260640                            
+     18  26008 PE Vale do Ipojuca                           260800                            
+     18  26008 PE Vale do Ipojuca                           261090                            
+     18  26008 PE Vale do Ipojuca                           261120                            
+     18  26008 PE Vale do Ipojuca                           261170                            
+     18  26008 PE Vale do Ipojuca                           261240                            
+     18  26008 PE Vale do Ipojuca                           261300                            
+     18  26008 PE Vale do Ipojuca                           261310                            
+     18  26008 PE Vale do Ipojuca                           261470                            
+     19  26014 PE Vitória de Santo Antão                    260440                            
+     19  26014 PE Vitória de Santo Antão                    260450                            
+     19  26014 PE Vitória de Santo Antão                    260610                            
+     19  26014 PE Vitória de Santo Antão                    261130                            
+     19  26014 PE Vitória de Santo Antão                    261640                            
+     20  26000 PE Município ignorado - PE                   260000,269999                     

@@ -1,0 +1,144 @@
+17 6
+      1  51001 Alto Tapajós                                 510025
+      1  51001 Alto Tapajós                                 510080
+      1  51001 Alto Tapajós                                 510279
+      1  51001 Alto Tapajós                                 510615
+      1  51001 Alto Tapajós                                 510629
+      1  51001 Alto Tapajós                                 510895
+      2  51002 Baixada Cuiabana                             510010
+      2  51002 Baixada Cuiabana                             510160
+      2  51002 Baixada Cuiabana                             510300
+      2  51002 Baixada Cuiabana                             510340
+      2  51002 Baixada Cuiabana                             510490
+      2  51002 Baixada Cuiabana                             510610
+      2  51002 Baixada Cuiabana                             510620
+      2  51002 Baixada Cuiabana                             510645
+      2  51002 Baixada Cuiabana                             510650
+      2  51002 Baixada Cuiabana                             510780
+      2  51002 Baixada Cuiabana                             510840
+      3  51003 Araguaia Xingu                               510269
+      3  51003 Araguaia Xingu                               510335
+      3  51003 Araguaia Xingu                               510677
+      3  51003 Araguaia Xingu                               510735
+      3  51003 Araguaia Xingu                               510774
+      3  51003 Araguaia Xingu                               510777
+      3  51003 Araguaia Xingu                               510860
+      4  51004 Centro Norte                                 510050
+      4  51004 Centro Norte                                 510350
+      4  51004 Centro Norte                                 510590
+      4  51004 Centro Norte                                 510600
+      4  51004 Centro Norte                                 510730
+      4  51004 Centro Norte                                 510770
+      4  51004 Centro Norte                                 510890
+      5  51005 Garças Araguaia                              510100
+      5  51005 Garças Araguaia                              510180
+      5  51005 Garças Araguaia                              510260
+      5  51005 Garças Araguaia                              510390
+      5  51005 Garças Araguaia                              510625
+      5  51005 Garças Araguaia                              510628
+      5  51005 Garças Araguaia                              510665
+      5  51005 Garças Araguaia                              510670
+      5  51005 Garças Araguaia                              510719
+      5  51005 Garças Araguaia                              510820
+      6  51006 Médio Araguaia                               510020
+      6  51006 Médio Araguaia                               510185
+      6  51006 Médio Araguaia                               510270
+      6  51006 Médio Araguaia                               510310
+      6  51006 Médio Araguaia                               510385
+      6  51006 Médio Araguaia                               510617
+      6  51006 Médio Araguaia                               510706
+      6  51006 Médio Araguaia                               510718
+      7  51007 Médio Norte Matogrossense                    510130
+      7  51007 Médio Norte Matogrossense                    510170
+      7  51007 Médio Norte Matogrossense                    510263
+      7  51007 Médio Norte Matogrossense                    510345
+      7  51007 Médio Norte Matogrossense                    510623
+      7  51007 Médio Norte Matogrossense                    510685
+      7  51007 Médio Norte Matogrossense                    510726
+      7  51007 Médio Norte Matogrossense                    510787
+      7  51007 Médio Norte Matogrossense                    510795
+      7  51007 Médio Norte Matogrossense                    510885
+      8  51008 Noroeste Matogrossense                       510140
+      8  51008 Noroeste Matogrossense                       510190
+      8  51008 Noroeste Matogrossense                       510285
+      8  51008 Noroeste Matogrossense                       510325
+      8  51008 Noroeste Matogrossense                       510337
+      8  51008 Noroeste Matogrossense                       510515
+      8  51008 Noroeste Matogrossense                       510517
+      9  51009 Norte Araguaia Karajá                        510035
+      9  51009 Norte Araguaia Karajá                        510530
+      9  51009 Norte Araguaia Karajá                        510631
+      9  51009 Norte Araguaia Karajá                        510785
+      9  51009 Norte Araguaia Karajá                        510788
+     10  51010 Norte Matogrossense                          510320
+     10  51010 Norte Matogrossense                          510455
+     10  51010 Norte Matogrossense                          510558
+     10  51010 Norte Matogrossense                          510619
+     10  51010 Norte Matogrossense                          510621
+     10  51010 Norte Matogrossense                          510880
+     11  51011 Oeste Matogrossense                          510125
+     11  51011 Oeste Matogrossense                          510250
+     11  51011 Oeste Matogrossense                          510343
+     11  51011 Oeste Matogrossense                          510395
+     11  51011 Oeste Matogrossense                          510450
+     11  51011 Oeste Matogrossense                          510523
+     11  51011 Oeste Matogrossense                          510562
+     11  51011 Oeste Matogrossense                          510682
+     11  51011 Oeste Matogrossense                          510710
+     11  51011 Oeste Matogrossense                          510715
+     11  51011 Oeste Matogrossense                          510720
+     11  51011 Oeste Matogrossense                          510775
+     12  51012 Sudoeste Matogrossense                       510268
+     12  51012 Sudoeste Matogrossense                       510330
+     12  51012 Sudoeste Matogrossense                       510336
+     12  51012 Sudoeste Matogrossense                       510380
+     12  51012 Sudoeste Matogrossense                       510500
+     12  51012 Sudoeste Matogrossense                       510550
+     12  51012 Sudoeste Matogrossense                       510618
+     12  51012 Sudoeste Matogrossense                       510675
+     12  51012 Sudoeste Matogrossense                       510757
+     12  51012 Sudoeste Matogrossense                       510835
+     13  51013 Sul Matogrossense                            510030
+     13  51013 Sul Matogrossense                            510040
+     13  51013 Sul Matogrossense                            510060
+     13  51013 Sul Matogrossense                            510120
+     13  51013 Sul Matogrossense                            510267
+     13  51013 Sul Matogrossense                            510360
+     13  51013 Sul Matogrossense                            510420
+     13  51013 Sul Matogrossense                            510460
+     13  51013 Sul Matogrossense                            510480
+     13  51013 Sul Matogrossense                            510520
+     13  51013 Sul Matogrossense                            510630
+     13  51013 Sul Matogrossense                            510637
+     13  51013 Sul Matogrossense                            510700
+     13  51013 Sul Matogrossense                            510704
+     13  51013 Sul Matogrossense                            510729
+     13  51013 Sul Matogrossense                            510740
+     13  51013 Sul Matogrossense                            510760
+     13  51013 Sul Matogrossense                            510779
+     13  51013 Sul Matogrossense                            510810
+     14  51014 Teles Pires                                  510183
+     14  51014 Teles Pires                                  510305
+     14  51014 Teles Pires                                  510370
+     14  51014 Teles Pires                                  510452
+     14  51014 Teles Pires                                  510454
+     14  51014 Teles Pires                                  510525
+     14  51014 Teles Pires                                  510622
+     14  51014 Teles Pires                                  510624
+     14  51014 Teles Pires                                  510724
+     14  51014 Teles Pires                                  510776
+     14  51014 Teles Pires                                  510790
+     14  51014 Teles Pires                                  510792
+     14  51014 Teles Pires                                  510800
+     14  51014 Teles Pires                                  510830
+     14  51014 Teles Pires                                  510850
+     15  51015 Vale do Peixoto                              510410
+     15  51015 Vale do Peixoto                              510560
+     15  51015 Vale do Peixoto                              510626
+     15  51015 Vale do Peixoto                              510642
+     15  51015 Vale do Peixoto                              510805
+     16  51016 Vale dos Arinos                              510510
+     16  51016 Vale dos Arinos                              510627
+     16  51016 Vale dos Arinos                              510680
+     16  51016 Vale dos Arinos                              510794
+     17  Ignorado - MT                                      510000,519999

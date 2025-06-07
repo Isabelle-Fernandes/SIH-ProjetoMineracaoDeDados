@@ -1,0 +1,248 @@
+6 6
+      1  5206 MACRORREGIAO SUDOESTE                         520013
+      1  5206 MACRORREGIAO SUDOESTE                         520145
+      1  5206 MACRORREGIAO SUDOESTE                         520150
+      1  5206 MACRORREGIAO SUDOESTE                         520410
+      1  5206 MACRORREGIAO SUDOESTE                         520430
+      1  5206 MACRORREGIAO SUDOESTE                         520440
+      1  5206 MACRORREGIAO SUDOESTE                         520505
+      1  5206 MACRORREGIAO SUDOESTE                         520547
+      1  5206 MACRORREGIAO SUDOESTE                         520725
+      1  5206 MACRORREGIAO SUDOESTE                         521080
+      1  5206 MACRORREGIAO SUDOESTE                         521130
+      1  5206 MACRORREGIAO SUDOESTE                         521190
+      1  5206 MACRORREGIAO SUDOESTE                         521225
+      1  5206 MACRORREGIAO SUDOESTE                         521300
+      1  5206 MACRORREGIAO SUDOESTE                         521310
+      1  5206 MACRORREGIAO SUDOESTE                         521375
+      1  5206 MACRORREGIAO SUDOESTE                         521630
+      1  5206 MACRORREGIAO SUDOESTE                         521645
+      1  5206 MACRORREGIAO SUDOESTE                         521805
+      1  5206 MACRORREGIAO SUDOESTE                         521810
+      1  5206 MACRORREGIAO SUDOESTE                         521850
+      1  5206 MACRORREGIAO SUDOESTE                         521880
+      1  5206 MACRORREGIAO SUDOESTE                         521930
+      1  5206 MACRORREGIAO SUDOESTE                         521940
+      1  5206 MACRORREGIAO SUDOESTE                         521971
+      1  5206 MACRORREGIAO SUDOESTE                         522040
+      1  5206 MACRORREGIAO SUDOESTE                         522050
+      1  5206 MACRORREGIAO SUDOESTE                         522155
+      2  5207 MACRORREGIAO NORDESTE                         520017
+      2  5207 MACRORREGIAO NORDESTE                         520025
+      2  5207 MACRORREGIAO NORDESTE                         520060
+      2  5207 MACRORREGIAO NORDESTE                         520080
+      2  5207 MACRORREGIAO NORDESTE                         520396
+      2  5207 MACRORREGIAO NORDESTE                         520400
+      2  5207 MACRORREGIAO NORDESTE                         520490
+      2  5207 MACRORREGIAO NORDESTE                         520530
+      2  5207 MACRORREGIAO NORDESTE                         520549
+      2  5207 MACRORREGIAO NORDESTE                         520620
+      2  5207 MACRORREGIAO NORDESTE                         520670
+      2  5207 MACRORREGIAO NORDESTE                         520790
+      2  5207 MACRORREGIAO NORDESTE                         520800
+      2  5207 MACRORREGIAO NORDESTE                         520830
+      2  5207 MACRORREGIAO NORDESTE                         520940
+      2  5207 MACRORREGIAO NORDESTE                         520990
+      2  5207 MACRORREGIAO NORDESTE                         521250
+      2  5207 MACRORREGIAO NORDESTE                         521270
+      2  5207 MACRORREGIAO NORDESTE                         521350
+      2  5207 MACRORREGIAO NORDESTE                         521490
+      2  5207 MACRORREGIAO NORDESTE                         521523
+      2  5207 MACRORREGIAO NORDESTE                         521760
+      2  5207 MACRORREGIAO NORDESTE                         521830
+      2  5207 MACRORREGIAO NORDESTE                         521975
+      2  5207 MACRORREGIAO NORDESTE                         521980
+      2  5207 MACRORREGIAO NORDESTE                         522000
+      2  5207 MACRORREGIAO NORDESTE                         522068
+      2  5207 MACRORREGIAO NORDESTE                         522070
+      2  5207 MACRORREGIAO NORDESTE                         522108
+      2  5207 MACRORREGIAO NORDESTE                         522185
+      2  5207 MACRORREGIAO NORDESTE                         522220
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520005
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520015
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520085
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520090
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520130
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520160
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520170
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520215
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520235
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520250
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520260
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520280
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520310
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520340
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520360
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520380
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520393
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520420
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520460
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520520
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520570
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520680
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520710
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520753
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520760
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520780
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520870
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520880
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520890
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520920
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520929
+      3  5208 MACRORREGIAO CENTRO-OESTE                     520960
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521000
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521020
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521030
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521040
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521056
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521100
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521120
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521140
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521160
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521200
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521205
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521220
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521295
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521340
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521370
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521390
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521400
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521440
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521450
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521483
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521500
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521520
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521540
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521565
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521570
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521590
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521640
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521680
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521720
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521900
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521910
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521925
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521950
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521973
+      3  5208 MACRORREGIAO CENTRO-OESTE                     521990
+      3  5208 MACRORREGIAO CENTRO-OESTE                     522005
+      3  5208 MACRORREGIAO CENTRO-OESTE                     522010
+      3  5208 MACRORREGIAO CENTRO-OESTE                     522100
+      3  5208 MACRORREGIAO CENTRO-OESTE                     522140
+      3  5208 MACRORREGIAO CENTRO-OESTE                     522150
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520010
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520030
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520055
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520082
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520110
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520320
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520357
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520465
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520470
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520485
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520495
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520500
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520540
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520551
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520552
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520580
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520640
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520750
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520810
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520815
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520840
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520860
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520945
+      4  5209 MACRORREGIAO CENTRO-NORTE                     520980
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521015
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521060
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521090
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521180
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521280
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521305
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521308
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521377
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521385
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521405
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521410
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521460
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521470
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521486
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521487
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521525
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521560
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521690
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521730
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521800
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521860
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521870
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521890
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521935
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521945
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521960
+      4  5209 MACRORREGIAO CENTRO-NORTE                     521970
+      4  5209 MACRORREGIAO CENTRO-NORTE                     522015
+      4  5209 MACRORREGIAO CENTRO-NORTE                     522020
+      4  5209 MACRORREGIAO CENTRO-NORTE                     522028
+      4  5209 MACRORREGIAO CENTRO-NORTE                     522119
+      4  5209 MACRORREGIAO CENTRO-NORTE                     522145
+      4  5209 MACRORREGIAO CENTRO-NORTE                     522157
+      4  5209 MACRORREGIAO CENTRO-NORTE                     522160
+      4  5209 MACRORREGIAO CENTRO-NORTE                     522170
+      4  5209 MACRORREGIAO CENTRO-NORTE                     522230
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520020
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520050
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520120
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520140
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520180
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520330
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520350
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520355
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520390
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520425
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520450
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520455
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520480
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520510
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520545
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520590
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520630
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520650
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520660
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520690
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520735
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520740
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520850
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520910
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520915
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520970
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520993
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   520995
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521010
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521150
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521170
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521210
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521230
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521260
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521290
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521380
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521480
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521530
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521550
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521580
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521600
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521710
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521740
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521770
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521839
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521878
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   521920
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   522026
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   522045
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   522060
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   522130
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   522180
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   522190
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   522200
+      5  5210 MACRORREGIAO CENTRO SUDESTE                   522205
+      6  Ignorado - GO                                      520000,529999

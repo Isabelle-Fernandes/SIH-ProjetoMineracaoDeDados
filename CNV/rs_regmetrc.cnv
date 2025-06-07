@@ -1,0 +1,499 @@
+6  6                                                                                    
+      1  Litoral Norte - RS                                 430105                            
+      1  Litoral Norte - RS                                 430163                            
+      1  Litoral Norte - RS                                 430463                            
+      1  Litoral Norte - RS                                 430467                            
+      1  Litoral Norte - RS                                 430471                            
+      1  Litoral Norte - RS                                 430545                            
+      1  Litoral Norte - RS                                 430655                            
+      1  Litoral Norte - RS                                 431033                            
+      1  Litoral Norte - RS                                 431065                            
+      1  Litoral Norte - RS                                 431173                            
+      1  Litoral Norte - RS                                 431177                            
+      1  Litoral Norte - RS                                 431244                            
+      1  Litoral Norte - RS                                 431350                            
+      1  Litoral Norte - RS                                 431365                            
+      1  Litoral Norte - RS                                 432143                            
+      1  Litoral Norte - RS                                 432150                            
+      1  Litoral Norte - RS                                 432160                            
+      1  Litoral Norte - RS                                 432166                            
+      1  Litoral Norte - RS                                 432183                            
+      1  Litoral Norte - RS                                 432380                            
+      2  Porto Alegre - RS                                  430060                            
+      2  Porto Alegre - RS                                  430087                            
+      2  Porto Alegre - RS                                  430110                            
+      2  Porto Alegre - RS                                  430310                            
+      2  Porto Alegre - RS                                  430390                            
+      2  Porto Alegre - RS                                  430460                            
+      2  Porto Alegre - RS                                  430468                            
+      2  Porto Alegre - RS                                  430535                            
+      2  Porto Alegre - RS                                  430640                            
+      2  Porto Alegre - RS                                  430676                            
+      2  Porto Alegre - RS                                  430760                            
+      2  Porto Alegre - RS                                  430770                            
+      2  Porto Alegre - RS                                  430905                            
+      2  Porto Alegre - RS                                  430920                            
+      2  Porto Alegre - RS                                  430930                            
+      2  Porto Alegre - RS                                  431010                            
+      2  Porto Alegre - RS                                  431080                            
+      2  Porto Alegre - RS                                  431240                            
+      2  Porto Alegre - RS                                  431306                            
+      2  Porto Alegre - RS                                  431337                            
+      2  Porto Alegre - RS                                  431340                            
+      2  Porto Alegre - RS                                  431405                            
+      2  Porto Alegre - RS                                  431480                            
+      2  Porto Alegre - RS                                  431490                            
+      2  Porto Alegre - RS                                  431600                            
+      2  Porto Alegre - RS                                  431760                            
+      2  Porto Alegre - RS                                  431840                            
+      2  Porto Alegre - RS                                  431870                            
+      2  Porto Alegre - RS                                  431950                            
+      2  Porto Alegre - RS                                  431990                            
+      2  Porto Alegre - RS                                  432000                            
+      2  Porto Alegre - RS                                  432120                            
+      2  Porto Alegre - RS                                  432200                            
+      2  Porto Alegre - RS                                  432300                            
+      3  Serra Gaúcha - RS                                  430080                            
+      3  Serra Gaúcha - RS                                  430210                            
+      3  Serra Gaúcha - RS                                  430480                            
+      3  Serra Gaúcha - RS                                  430510                            
+      3  Serra Gaúcha - RS                                  430790                            
+      3  Serra Gaúcha - RS                                  430820                            
+      3  Serra Gaúcha - RS                                  430860                            
+      3  Serra Gaúcha - RS                                  431043                            
+      3  Serra Gaúcha - RS                                  431238                            
+      3  Serra Gaúcha - RS                                  431308                            
+      3  Serra Gaúcha - RS                                  431454,430145,431453              
+      3  Serra Gaúcha - RS                                  431725                            
+      3  Serra Gaúcha - RS                                  431900                            
+      4  Sul - RS                                           430107                            
+      4  Sul - RS                                           430466                            
+      4  Sul - RS                                           431440                            
+      4  Sul - RS                                           431560                            
+      4  Sul - RS                                           431850                            
+      5  Fora de Reg.Metrop. - RS                           430003                            
+      5  Fora de Reg.Metrop. - RS                           430005                            
+      5  Fora de Reg.Metrop. - RS                           430010                            
+      5  Fora de Reg.Metrop. - RS                           430020                            
+      5  Fora de Reg.Metrop. - RS                           430030                            
+      5  Fora de Reg.Metrop. - RS                           430040                            
+      5  Fora de Reg.Metrop. - RS                           430045                            
+      5  Fora de Reg.Metrop. - RS                           430047                            
+      5  Fora de Reg.Metrop. - RS                           430050                            
+      5  Fora de Reg.Metrop. - RS                           430055                            
+      5  Fora de Reg.Metrop. - RS                           430057                            
+      5  Fora de Reg.Metrop. - RS                           430063                            
+      5  Fora de Reg.Metrop. - RS                           430064                            
+      5  Fora de Reg.Metrop. - RS                           430066                            
+      5  Fora de Reg.Metrop. - RS                           430070                            
+      5  Fora de Reg.Metrop. - RS                           430085                            
+      5  Fora de Reg.Metrop. - RS                           430090                            
+      5  Fora de Reg.Metrop. - RS                           430100                            
+      5  Fora de Reg.Metrop. - RS                           430120                            
+      5  Fora de Reg.Metrop. - RS                           430130                            
+      5  Fora de Reg.Metrop. - RS                           430140                            
+      5  Fora de Reg.Metrop. - RS                           430150                            
+      5  Fora de Reg.Metrop. - RS                           430155                            
+      5  Fora de Reg.Metrop. - RS                           430160                            
+      5  Fora de Reg.Metrop. - RS                           430165                            
+      5  Fora de Reg.Metrop. - RS                           430170                            
+      5  Fora de Reg.Metrop. - RS                           430175                            
+      5  Fora de Reg.Metrop. - RS                           430180                            
+      5  Fora de Reg.Metrop. - RS                           430185                            
+      5  Fora de Reg.Metrop. - RS                           430187                            
+      5  Fora de Reg.Metrop. - RS                           430190                            
+      5  Fora de Reg.Metrop. - RS                           430192                            
+      5  Fora de Reg.Metrop. - RS                           430195                            
+      5  Fora de Reg.Metrop. - RS                           430200                            
+      5  Fora de Reg.Metrop. - RS                           430205                            
+      5  Fora de Reg.Metrop. - RS                           430215                            
+      5  Fora de Reg.Metrop. - RS                           430220                            
+      5  Fora de Reg.Metrop. - RS                           430222                            
+      5  Fora de Reg.Metrop. - RS                           430223                            
+      5  Fora de Reg.Metrop. - RS                           430225                            
+      5  Fora de Reg.Metrop. - RS                           430230                            
+      5  Fora de Reg.Metrop. - RS                           430235                            
+      5  Fora de Reg.Metrop. - RS                           430237                            
+      5  Fora de Reg.Metrop. - RS                           430240                            
+      5  Fora de Reg.Metrop. - RS                           430245                            
+      5  Fora de Reg.Metrop. - RS                           430250                            
+      5  Fora de Reg.Metrop. - RS                           430258                            
+      5  Fora de Reg.Metrop. - RS                           430260                            
+      5  Fora de Reg.Metrop. - RS                           430265                            
+      5  Fora de Reg.Metrop. - RS                           430270                            
+      5  Fora de Reg.Metrop. - RS                           430280                            
+      5  Fora de Reg.Metrop. - RS                           430290                            
+      5  Fora de Reg.Metrop. - RS                           430300                            
+      5  Fora de Reg.Metrop. - RS                           430320                            
+      5  Fora de Reg.Metrop. - RS                           430330                            
+      5  Fora de Reg.Metrop. - RS                           430340                            
+      5  Fora de Reg.Metrop. - RS                           430350                            
+      5  Fora de Reg.Metrop. - RS                           430355                            
+      5  Fora de Reg.Metrop. - RS                           430360                            
+      5  Fora de Reg.Metrop. - RS                           430367                            
+      5  Fora de Reg.Metrop. - RS                           430370                            
+      5  Fora de Reg.Metrop. - RS                           430380                            
+      5  Fora de Reg.Metrop. - RS                           430400                            
+      5  Fora de Reg.Metrop. - RS                           430410                            
+      5  Fora de Reg.Metrop. - RS                           430420                            
+      5  Fora de Reg.Metrop. - RS                           430430                            
+      5  Fora de Reg.Metrop. - RS                           430435                            
+      5  Fora de Reg.Metrop. - RS                           430440                            
+      5  Fora de Reg.Metrop. - RS                           430450                            
+      5  Fora de Reg.Metrop. - RS                           430461                            
+      5  Fora de Reg.Metrop. - RS                           430462                            
+      5  Fora de Reg.Metrop. - RS                           430465                            
+      5  Fora de Reg.Metrop. - RS                           430469                            
+      5  Fora de Reg.Metrop. - RS                           430470                            
+      5  Fora de Reg.Metrop. - RS                           430485                            
+      5  Fora de Reg.Metrop. - RS                           430490                            
+      5  Fora de Reg.Metrop. - RS                           430495                            
+      5  Fora de Reg.Metrop. - RS                           430500                            
+      5  Fora de Reg.Metrop. - RS                           430511                            
+      5  Fora de Reg.Metrop. - RS                           430512                            
+      5  Fora de Reg.Metrop. - RS                           430513                            
+      5  Fora de Reg.Metrop. - RS                           430515                            
+      5  Fora de Reg.Metrop. - RS                           430517                            
+      5  Fora de Reg.Metrop. - RS                           430520                            
+      5  Fora de Reg.Metrop. - RS                           430530                            
+      5  Fora de Reg.Metrop. - RS                           430537                            
+      5  Fora de Reg.Metrop. - RS                           430540                            
+      5  Fora de Reg.Metrop. - RS                           430543                            
+      5  Fora de Reg.Metrop. - RS                           430544                            
+      5  Fora de Reg.Metrop. - RS                           430550                            
+      5  Fora de Reg.Metrop. - RS                           430558                            
+      5  Fora de Reg.Metrop. - RS                           430560                            
+      5  Fora de Reg.Metrop. - RS                           430570                            
+      5  Fora de Reg.Metrop. - RS                           430580                            
+      5  Fora de Reg.Metrop. - RS                           430583                            
+      5  Fora de Reg.Metrop. - RS                           430585                            
+      5  Fora de Reg.Metrop. - RS                           430587                            
+      5  Fora de Reg.Metrop. - RS                           430590                            
+      5  Fora de Reg.Metrop. - RS                           430593                            
+      5  Fora de Reg.Metrop. - RS                           430595                            
+      5  Fora de Reg.Metrop. - RS                           430597                            
+      5  Fora de Reg.Metrop. - RS                           430600                            
+      5  Fora de Reg.Metrop. - RS                           430605                            
+      5  Fora de Reg.Metrop. - RS                           430607                            
+      5  Fora de Reg.Metrop. - RS                           430610                            
+      5  Fora de Reg.Metrop. - RS                           430613                            
+      5  Fora de Reg.Metrop. - RS                           430620                            
+      5  Fora de Reg.Metrop. - RS                           430630                            
+      5  Fora de Reg.Metrop. - RS                           430632                            
+      5  Fora de Reg.Metrop. - RS                           430635                            
+      5  Fora de Reg.Metrop. - RS                           430637                            
+      5  Fora de Reg.Metrop. - RS                           430642                            
+      5  Fora de Reg.Metrop. - RS                           430645                            
+      5  Fora de Reg.Metrop. - RS                           430650                            
+      5  Fora de Reg.Metrop. - RS                           430660                            
+      5  Fora de Reg.Metrop. - RS                           430670                            
+      5  Fora de Reg.Metrop. - RS                           430673                            
+      5  Fora de Reg.Metrop. - RS                           430675                            
+      5  Fora de Reg.Metrop. - RS                           430680                            
+      5  Fora de Reg.Metrop. - RS                           430690                            
+      5  Fora de Reg.Metrop. - RS                           430692                            
+      5  Fora de Reg.Metrop. - RS                           430693                            
+      5  Fora de Reg.Metrop. - RS                           430695                            
+      5  Fora de Reg.Metrop. - RS                           430697                            
+      5  Fora de Reg.Metrop. - RS                           430700                            
+      5  Fora de Reg.Metrop. - RS                           430705                            
+      5  Fora de Reg.Metrop. - RS                           430710                            
+      5  Fora de Reg.Metrop. - RS                           430720                            
+      5  Fora de Reg.Metrop. - RS                           430730                            
+      5  Fora de Reg.Metrop. - RS                           430740                            
+      5  Fora de Reg.Metrop. - RS                           430745                            
+      5  Fora de Reg.Metrop. - RS                           430750                            
+      5  Fora de Reg.Metrop. - RS                           430755                            
+      5  Fora de Reg.Metrop. - RS                           430780                            
+      5  Fora de Reg.Metrop. - RS                           430781                            
+      5  Fora de Reg.Metrop. - RS                           430783                            
+      5  Fora de Reg.Metrop. - RS                           430786                            
+      5  Fora de Reg.Metrop. - RS                           430800                            
+      5  Fora de Reg.Metrop. - RS                           430805                            
+      5  Fora de Reg.Metrop. - RS                           430807                            
+      5  Fora de Reg.Metrop. - RS                           430810                            
+      5  Fora de Reg.Metrop. - RS                           430825                            
+      5  Fora de Reg.Metrop. - RS                           430830                            
+      5  Fora de Reg.Metrop. - RS                           430840                            
+      5  Fora de Reg.Metrop. - RS                           430843                            
+      5  Fora de Reg.Metrop. - RS                           430845                            
+      5  Fora de Reg.Metrop. - RS                           430850                            
+      5  Fora de Reg.Metrop. - RS                           430865                            
+      5  Fora de Reg.Metrop. - RS                           430870                            
+      5  Fora de Reg.Metrop. - RS                           430880                            
+      5  Fora de Reg.Metrop. - RS                           430885                            
+      5  Fora de Reg.Metrop. - RS                           430890                            
+      5  Fora de Reg.Metrop. - RS                           430900                            
+      5  Fora de Reg.Metrop. - RS                           430910                            
+      5  Fora de Reg.Metrop. - RS                           430912                            
+      5  Fora de Reg.Metrop. - RS                           430915                            
+      5  Fora de Reg.Metrop. - RS                           430925                            
+      5  Fora de Reg.Metrop. - RS                           430940                            
+      5  Fora de Reg.Metrop. - RS                           430950                            
+      5  Fora de Reg.Metrop. - RS                           430955                            
+      5  Fora de Reg.Metrop. - RS                           430957                            
+      5  Fora de Reg.Metrop. - RS                           430960                            
+      5  Fora de Reg.Metrop. - RS                           430965                            
+      5  Fora de Reg.Metrop. - RS                           430970                            
+      5  Fora de Reg.Metrop. - RS                           430975                            
+      5  Fora de Reg.Metrop. - RS                           430980                            
+      5  Fora de Reg.Metrop. - RS                           430990                            
+      5  Fora de Reg.Metrop. - RS                           430995                            
+      5  Fora de Reg.Metrop. - RS                           431000                            
+      5  Fora de Reg.Metrop. - RS                           431020                            
+      5  Fora de Reg.Metrop. - RS                           431030                            
+      5  Fora de Reg.Metrop. - RS                           431036                            
+      5  Fora de Reg.Metrop. - RS                           431040                            
+      5  Fora de Reg.Metrop. - RS                           431041                            
+      5  Fora de Reg.Metrop. - RS                           431046                            
+      5  Fora de Reg.Metrop. - RS                           431050                            
+      5  Fora de Reg.Metrop. - RS                           431053                            
+      5  Fora de Reg.Metrop. - RS                           431055                            
+      5  Fora de Reg.Metrop. - RS                           431057                            
+      5  Fora de Reg.Metrop. - RS                           431060                            
+      5  Fora de Reg.Metrop. - RS                           431070                            
+      5  Fora de Reg.Metrop. - RS                           431075                            
+      5  Fora de Reg.Metrop. - RS                           431085                            
+      5  Fora de Reg.Metrop. - RS                           431087                            
+      5  Fora de Reg.Metrop. - RS                           431090                            
+      5  Fora de Reg.Metrop. - RS                           431100                            
+      5  Fora de Reg.Metrop. - RS                           431110                            
+      5  Fora de Reg.Metrop. - RS                           431112                            
+      5  Fora de Reg.Metrop. - RS                           431113                            
+      5  Fora de Reg.Metrop. - RS                           431115                            
+      5  Fora de Reg.Metrop. - RS                           431120                            
+      5  Fora de Reg.Metrop. - RS                           431123                            
+      5  Fora de Reg.Metrop. - RS                           431125                            
+      5  Fora de Reg.Metrop. - RS                           431127                            
+      5  Fora de Reg.Metrop. - RS                           431130                            
+      5  Fora de Reg.Metrop. - RS                           431140                            
+      5  Fora de Reg.Metrop. - RS                           431142                            
+      5  Fora de Reg.Metrop. - RS                           431150                            
+      5  Fora de Reg.Metrop. - RS                           431160                            
+      5  Fora de Reg.Metrop. - RS                           431162                            
+      5  Fora de Reg.Metrop. - RS                           431164                            
+      5  Fora de Reg.Metrop. - RS                           431170                            
+      5  Fora de Reg.Metrop. - RS                           431171                            
+      5  Fora de Reg.Metrop. - RS                           431175                            
+      5  Fora de Reg.Metrop. - RS                           431179                            
+      5  Fora de Reg.Metrop. - RS                           431180                            
+      5  Fora de Reg.Metrop. - RS                           431190                            
+      5  Fora de Reg.Metrop. - RS                           431198                            
+      5  Fora de Reg.Metrop. - RS                           431200                            
+      5  Fora de Reg.Metrop. - RS                           431205                            
+      5  Fora de Reg.Metrop. - RS                           431210                            
+      5  Fora de Reg.Metrop. - RS                           431213                            
+      5  Fora de Reg.Metrop. - RS                           431215                            
+      5  Fora de Reg.Metrop. - RS                           431217                            
+      5  Fora de Reg.Metrop. - RS                           431220                            
+      5  Fora de Reg.Metrop. - RS                           431225                            
+      5  Fora de Reg.Metrop. - RS                           431230                            
+      5  Fora de Reg.Metrop. - RS                           431235                            
+      5  Fora de Reg.Metrop. - RS                           431237                            
+      5  Fora de Reg.Metrop. - RS                           431242                            
+      5  Fora de Reg.Metrop. - RS                           431245                            
+      5  Fora de Reg.Metrop. - RS                           431247                            
+      5  Fora de Reg.Metrop. - RS                           431250                            
+      5  Fora de Reg.Metrop. - RS                           431260                            
+      5  Fora de Reg.Metrop. - RS                           431261                            
+      5  Fora de Reg.Metrop. - RS                           431262                            
+      5  Fora de Reg.Metrop. - RS                           431265                            
+      5  Fora de Reg.Metrop. - RS                           431267                            
+      5  Fora de Reg.Metrop. - RS                           431270                            
+      5  Fora de Reg.Metrop. - RS                           431275                            
+      5  Fora de Reg.Metrop. - RS                           431280                            
+      5  Fora de Reg.Metrop. - RS                           431290                            
+      5  Fora de Reg.Metrop. - RS                           431295                            
+      5  Fora de Reg.Metrop. - RS                           431300                            
+      5  Fora de Reg.Metrop. - RS                           431301                            
+      5  Fora de Reg.Metrop. - RS                           431303                            
+      5  Fora de Reg.Metrop. - RS                           431310                            
+      5  Fora de Reg.Metrop. - RS                           431320                            
+      5  Fora de Reg.Metrop. - RS                           431330                            
+      5  Fora de Reg.Metrop. - RS                           431333                            
+      5  Fora de Reg.Metrop. - RS                           431335                            
+      5  Fora de Reg.Metrop. - RS                           431339                            
+      5  Fora de Reg.Metrop. - RS                           431342                            
+      5  Fora de Reg.Metrop. - RS                           431344                            
+      5  Fora de Reg.Metrop. - RS                           431346                            
+      5  Fora de Reg.Metrop. - RS                           431349                            
+      5  Fora de Reg.Metrop. - RS                           431360                            
+      5  Fora de Reg.Metrop. - RS                           431370                            
+      5  Fora de Reg.Metrop. - RS                           431380                            
+      5  Fora de Reg.Metrop. - RS                           431390                            
+      5  Fora de Reg.Metrop. - RS                           431395                            
+      5  Fora de Reg.Metrop. - RS                           431400                            
+      5  Fora de Reg.Metrop. - RS                           431402                            
+      5  Fora de Reg.Metrop. - RS                           431403                            
+      5  Fora de Reg.Metrop. - RS                           431406                            
+      5  Fora de Reg.Metrop. - RS                           431407                            
+      5  Fora de Reg.Metrop. - RS                           431410                            
+      5  Fora de Reg.Metrop. - RS                           431413                            
+      5  Fora de Reg.Metrop. - RS                           431415                            
+      5  Fora de Reg.Metrop. - RS                           431417                            
+      5  Fora de Reg.Metrop. - RS                           431420                            
+      5  Fora de Reg.Metrop. - RS                           431430                            
+      5  Fora de Reg.Metrop. - RS                           431442                            
+      5  Fora de Reg.Metrop. - RS                           431445                            
+      5  Fora de Reg.Metrop. - RS                           431446                            
+      5  Fora de Reg.Metrop. - RS                           431447                            
+      5  Fora de Reg.Metrop. - RS                           431449                            
+      5  Fora de Reg.Metrop. - RS                           431450                            
+      5  Fora de Reg.Metrop. - RS                           431455                            
+      5  Fora de Reg.Metrop. - RS                           431460                            
+      5  Fora de Reg.Metrop. - RS                           431470                            
+      5  Fora de Reg.Metrop. - RS                           431475                            
+      5  Fora de Reg.Metrop. - RS                           431477                            
+      5  Fora de Reg.Metrop. - RS                           431478                            
+      5  Fora de Reg.Metrop. - RS                           431500                            
+      5  Fora de Reg.Metrop. - RS                           431505                            
+      5  Fora de Reg.Metrop. - RS                           431507                            
+      5  Fora de Reg.Metrop. - RS                           431510                            
+      5  Fora de Reg.Metrop. - RS                           431513                            
+      5  Fora de Reg.Metrop. - RS                           431514                            
+      5  Fora de Reg.Metrop. - RS                           431515                            
+      5  Fora de Reg.Metrop. - RS                           431517                            
+      5  Fora de Reg.Metrop. - RS                           431520                            
+      5  Fora de Reg.Metrop. - RS                           431530                            
+      5  Fora de Reg.Metrop. - RS                           431531                            
+      5  Fora de Reg.Metrop. - RS                           431532                            
+      5  Fora de Reg.Metrop. - RS                           431535                            
+      5  Fora de Reg.Metrop. - RS                           431540                            
+      5  Fora de Reg.Metrop. - RS                           431545                            
+      5  Fora de Reg.Metrop. - RS                           431550                            
+      5  Fora de Reg.Metrop. - RS                           431555                            
+      5  Fora de Reg.Metrop. - RS                           431570                            
+      5  Fora de Reg.Metrop. - RS                           431575                            
+      5  Fora de Reg.Metrop. - RS                           431580                            
+      5  Fora de Reg.Metrop. - RS                           431590                            
+      5  Fora de Reg.Metrop. - RS                           431595                            
+      5  Fora de Reg.Metrop. - RS                           431610                            
+      5  Fora de Reg.Metrop. - RS                           431620                            
+      5  Fora de Reg.Metrop. - RS                           431630                            
+      5  Fora de Reg.Metrop. - RS                           431640                            
+      5  Fora de Reg.Metrop. - RS                           431642                            
+      5  Fora de Reg.Metrop. - RS                           431643                            
+      5  Fora de Reg.Metrop. - RS                           431645                            
+      5  Fora de Reg.Metrop. - RS                           431647                            
+      5  Fora de Reg.Metrop. - RS                           431650                            
+      5  Fora de Reg.Metrop. - RS                           431660                            
+      5  Fora de Reg.Metrop. - RS                           431670                            
+      5  Fora de Reg.Metrop. - RS                           431673                            
+      5  Fora de Reg.Metrop. - RS                           431675                            
+      5  Fora de Reg.Metrop. - RS                           431680                            
+      5  Fora de Reg.Metrop. - RS                           431690                            
+      5  Fora de Reg.Metrop. - RS                           431695                            
+      5  Fora de Reg.Metrop. - RS                           431697                            
+      5  Fora de Reg.Metrop. - RS                           431700                            
+      5  Fora de Reg.Metrop. - RS                           431710                            
+      5  Fora de Reg.Metrop. - RS                           431720                            
+      5  Fora de Reg.Metrop. - RS                           431730                            
+      5  Fora de Reg.Metrop. - RS                           431740                            
+      5  Fora de Reg.Metrop. - RS                           431750                            
+      5  Fora de Reg.Metrop. - RS                           431755                            
+      5  Fora de Reg.Metrop. - RS                           431770                            
+      5  Fora de Reg.Metrop. - RS                           431775                            
+      5  Fora de Reg.Metrop. - RS                           431780                            
+      5  Fora de Reg.Metrop. - RS                           431790                            
+      5  Fora de Reg.Metrop. - RS                           431795                            
+      5  Fora de Reg.Metrop. - RS                           431800                            
+      5  Fora de Reg.Metrop. - RS                           431805                            
+      5  Fora de Reg.Metrop. - RS                           431810                            
+      5  Fora de Reg.Metrop. - RS                           431820                            
+      5  Fora de Reg.Metrop. - RS                           431830                            
+      5  Fora de Reg.Metrop. - RS                           431842                            
+      5  Fora de Reg.Metrop. - RS                           431843                            
+      5  Fora de Reg.Metrop. - RS                           431844                            
+      5  Fora de Reg.Metrop. - RS                           431845                            
+      5  Fora de Reg.Metrop. - RS                           431846                            
+      5  Fora de Reg.Metrop. - RS                           431848                            
+      5  Fora de Reg.Metrop. - RS                           431849                            
+      5  Fora de Reg.Metrop. - RS                           431860                            
+      5  Fora de Reg.Metrop. - RS                           431861                            
+      5  Fora de Reg.Metrop. - RS                           431862                            
+      5  Fora de Reg.Metrop. - RS                           431880                            
+      5  Fora de Reg.Metrop. - RS                           431890                            
+      5  Fora de Reg.Metrop. - RS                           431910                            
+      5  Fora de Reg.Metrop. - RS                           431912                            
+      5  Fora de Reg.Metrop. - RS                           431915                            
+      5  Fora de Reg.Metrop. - RS                           431920                            
+      5  Fora de Reg.Metrop. - RS                           431930                            
+      5  Fora de Reg.Metrop. - RS                           431935                            
+      5  Fora de Reg.Metrop. - RS                           431936                            
+      5  Fora de Reg.Metrop. - RS                           431937                            
+      5  Fora de Reg.Metrop. - RS                           431940                            
+      5  Fora de Reg.Metrop. - RS                           431960                            
+      5  Fora de Reg.Metrop. - RS                           431970                            
+      5  Fora de Reg.Metrop. - RS                           431971                            
+      5  Fora de Reg.Metrop. - RS                           431973                            
+      5  Fora de Reg.Metrop. - RS                           431975                            
+      5  Fora de Reg.Metrop. - RS                           431980                            
+      5  Fora de Reg.Metrop. - RS                           432010                            
+      5  Fora de Reg.Metrop. - RS                           432020                            
+      5  Fora de Reg.Metrop. - RS                           432023                            
+      5  Fora de Reg.Metrop. - RS                           432026                            
+      5  Fora de Reg.Metrop. - RS                           432030                            
+      5  Fora de Reg.Metrop. - RS                           432032                            
+      5  Fora de Reg.Metrop. - RS                           432035                            
+      5  Fora de Reg.Metrop. - RS                           432040                            
+      5  Fora de Reg.Metrop. - RS                           432045                            
+      5  Fora de Reg.Metrop. - RS                           432050                            
+      5  Fora de Reg.Metrop. - RS                           432055                            
+      5  Fora de Reg.Metrop. - RS                           432057                            
+      5  Fora de Reg.Metrop. - RS                           432060                            
+      5  Fora de Reg.Metrop. - RS                           432065                            
+      5  Fora de Reg.Metrop. - RS                           432067                            
+      5  Fora de Reg.Metrop. - RS                           432070                            
+      5  Fora de Reg.Metrop. - RS                           432080                            
+      5  Fora de Reg.Metrop. - RS                           432085                            
+      5  Fora de Reg.Metrop. - RS                           432090                            
+      5  Fora de Reg.Metrop. - RS                           432100                            
+      5  Fora de Reg.Metrop. - RS                           432110                            
+      5  Fora de Reg.Metrop. - RS                           432130                            
+      5  Fora de Reg.Metrop. - RS                           432132                            
+      5  Fora de Reg.Metrop. - RS                           432135                            
+      5  Fora de Reg.Metrop. - RS                           432140                            
+      5  Fora de Reg.Metrop. - RS                           432145                            
+      5  Fora de Reg.Metrop. - RS                           432146                            
+      5  Fora de Reg.Metrop. - RS                           432147                            
+      5  Fora de Reg.Metrop. - RS                           432149                            
+      5  Fora de Reg.Metrop. - RS                           432162                            
+      5  Fora de Reg.Metrop. - RS                           432163                            
+      5  Fora de Reg.Metrop. - RS                           432170                            
+      5  Fora de Reg.Metrop. - RS                           432180                            
+      5  Fora de Reg.Metrop. - RS                           432185                            
+      5  Fora de Reg.Metrop. - RS                           432190                            
+      5  Fora de Reg.Metrop. - RS                           432195                            
+      5  Fora de Reg.Metrop. - RS                           432210                            
+      5  Fora de Reg.Metrop. - RS                           432215                            
+      5  Fora de Reg.Metrop. - RS                           432218                            
+      5  Fora de Reg.Metrop. - RS                           432220                            
+      5  Fora de Reg.Metrop. - RS                           432225                            
+      5  Fora de Reg.Metrop. - RS                           432230                            
+      5  Fora de Reg.Metrop. - RS                           432232                            
+      5  Fora de Reg.Metrop. - RS                           432234                            
+      5  Fora de Reg.Metrop. - RS                           432235                            
+      5  Fora de Reg.Metrop. - RS                           432237                            
+      5  Fora de Reg.Metrop. - RS                           432240                            
+      5  Fora de Reg.Metrop. - RS                           432250                            
+      5  Fora de Reg.Metrop. - RS                           432252                            
+      5  Fora de Reg.Metrop. - RS                           432253                            
+      5  Fora de Reg.Metrop. - RS                           432254                            
+      5  Fora de Reg.Metrop. - RS                           432255                            
+      5  Fora de Reg.Metrop. - RS                           432260                            
+      5  Fora de Reg.Metrop. - RS                           432270                            
+      5  Fora de Reg.Metrop. - RS                           432280                            
+      5  Fora de Reg.Metrop. - RS                           432285                            
+      5  Fora de Reg.Metrop. - RS                           432290                            
+      5  Fora de Reg.Metrop. - RS                           432310                            
+      5  Fora de Reg.Metrop. - RS                           432320                            
+      5  Fora de Reg.Metrop. - RS                           432330                            
+      5  Fora de Reg.Metrop. - RS                           432335                            
+      5  Fora de Reg.Metrop. - RS                           432340                            
+      5  Fora de Reg.Metrop. - RS                           432345                            
+      5  Fora de Reg.Metrop. - RS                           432350                            
+      5  Fora de Reg.Metrop. - RS                           432360                            
+      5  Fora de Reg.Metrop. - RS                           432370                            
+      5  Fora de Reg.Metrop. - RS                           432375                            
+      5  Fora de Reg.Metrop. - RS                           432377                            
+      6  Ignorado - RS                                      430000,439999                     

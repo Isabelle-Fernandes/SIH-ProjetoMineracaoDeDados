@@ -1,0 +1,225 @@
+24  6                                                                                    
+      1  PB Brejo Paraibano                                 250030                            
+      1  PB Brejo Paraibano                                 250040                            
+      1  PB Brejo Paraibano                                 250110                            
+      1  PB Brejo Paraibano                                 250150                            
+      1  PB Brejo Paraibano                                 250270                            
+      1  PB Brejo Paraibano                                 250933                            
+      1  PB Brejo Paraibano                                 251160                            
+      1  PB Brejo Paraibano                                 251590                            
+      2  PB Cajazeiras                                      250070                            
+      2  PB Cajazeiras                                      250205                            
+      2  PB Cajazeiras                                      250220                            
+      2  PB Cajazeiras                                      250240                            
+      2  PB Cajazeiras                                      250330                            
+      2  PB Cajazeiras                                      250370                            
+      2  PB Cajazeiras                                      250410                            
+      2  PB Cajazeiras                                      250960                            
+      2  PB Cajazeiras                                      251203                            
+      2  PB Cajazeiras                                      251207                            
+      2  PB Cajazeiras                                      251330                            
+      2  PB Cajazeiras                                      251365                            
+      2  PB Cajazeiras                                      251450                            
+      2  PB Cajazeiras                                      251680                            
+      2  PB Cajazeiras                                      251690                            
+      3  PB Campina Grande                                  250215                            
+      3  PB Campina Grande                                  250400,254009                     
+      3  PB Campina Grande                                  250610                            
+      3  PB Campina Grande                                  250830                            
+      3  PB Campina Grande                                  250920                            
+      3  PB Campina Grande                                  251240                            
+      3  PB Campina Grande                                  251250                            
+      3  PB Campina Grande                                  251580                            
+      4  PB Cariri Ocidental                                250073                            
+      4  PB Cariri Ocidental                                250135                            
+      4  PB Cariri Ocidental                                250390                            
+      4  PB Cariri Ocidental                                250470                            
+      4  PB Cariri Ocidental                                250485                            
+      4  PB Cariri Ocidental                                250850                            
+      4  PB Cariri Ocidental                                250970                            
+      4  PB Cariri Ocidental                                251060                            
+      4  PB Cariri Ocidental                                251065                            
+      4  PB Cariri Ocidental                                251220                            
+      4  PB Cariri Ocidental                                251410                            
+      4  PB Cariri Ocidental                                251480                            
+      4  PB Cariri Ocidental                                251520                            
+      4  PB Cariri Ocidental                                251550                            
+      4  PB Cariri Ocidental                                251630                            
+      4  PB Cariri Ocidental                                251650                            
+      4  PB Cariri Ocidental                                251740                            
+      5  PB Cariri Oriental                                 250053                            
+      5  PB Cariri Oriental                                 250157                            
+      5  PB Cariri Oriental                                 250170                            
+      5  PB Cariri Oriental                                 250250                            
+      5  PB Cariri Oriental                                 250310                            
+      5  PB Cariri Oriental                                 250407                            
+      5  PB Cariri Oriental                                 250435                            
+      5  PB Cariri Oriental                                 250650                            
+      5  PB Cariri Oriental                                 251278                            
+      5  PB Cariri Oriental                                 251385                            
+      5  PB Cariri Oriental                                 251394                            
+      5  PB Cariri Oriental                                 251400                            
+      6  PB Catolé do Rocha                                 250200                            
+      6  PB Catolé do Rocha                                 250230                            
+      6  PB Catolé do Rocha                                 250280                            
+      6  PB Catolé do Rocha                                 250290                            
+      6  PB Catolé do Rocha                                 250430                            
+      6  PB Catolé do Rocha                                 250740                            
+      6  PB Catolé do Rocha                                 250810                            
+      6  PB Catolé do Rocha                                 250937                            
+      6  PB Catolé do Rocha                                 251280                            
+      6  PB Catolé do Rocha                                 251390                            
+      6  PB Catolé do Rocha                                 251465                            
+      7  PB Curimataú Ocidental                             250057                            
+      7  PB Curimataú Ocidental                             250090,250908                     
+      7  PB Curimataú Ocidental                             250160                            
+      7  PB Curimataú Ocidental                             250510                            
+      7  PB Curimataú Ocidental                             250535                            
+      7  PB Curimataú Ocidental                             251010                            
+      7  PB Curimataú Ocidental                             251050                            
+      7  PB Curimataú Ocidental                             251200                            
+      7  PB Curimataú Ocidental                             251270                            
+      7  PB Curimataú Ocidental                             251610                            
+      7  PB Curimataú Ocidental                             251615                            
+      8  PB Curimataú Oriental                              250100                            
+      8  PB Curimataú Oriental                              250350                            
+      8  PB Curimataú Oriental                              250415                            
+      8  PB Curimataú Oriental                              250570                            
+      8  PB Curimataú Oriental                              251274                            
+      8  PB Curimataú Oriental                              251600                            
+      8  PB Curimataú Oriental                              251640                            
+      9  PB Esperança                                       250120                            
+      9  PB Esperança                                       250600                            
+      9  PB Esperança                                       250950                            
+      9  PB Esperança                                       251510                            
+     10  PB Guarabira                                       250050,250502                     
+     10  PB Guarabira                                       250080                            
+     10  PB Guarabira                                       250190                            
+     10  PB Guarabira                                       250360                            
+     10  PB Guarabira                                       250520                            
+     10  PB Guarabira                                       250580                            
+     10  PB Guarabira                                       250630                            
+     10  PB Guarabira                                       250820                            
+     10  PB Guarabira                                       250855                            
+     10  PB Guarabira                                       250980                            
+     10  PB Guarabira                                       251170                            
+     10  PB Guarabira                                       251180                            
+     10  PB Guarabira                                       251560                            
+     10  PB Guarabira                                       251593                            
+     11  PB Itabaiana                                       250380                            
+     11  PB Itabaiana                                       250640                            
+     11  PB Itabaiana                                       250680                            
+     11  PB Itabaiana                                       250690                            
+     11  PB Itabaiana                                       250720                            
+     11  PB Itabaiana                                       250760                            
+     11  PB Itabaiana                                       250940                            
+     11  PB Itabaiana                                       251275                            
+     11  PB Itabaiana                                       251310                            
+     12  PB Itaporanga                                      250210                            
+     12  PB Itaporanga                                      250440                            
+     12  PB Itaporanga                                      250530                            
+     12  PB Itaporanga                                      250560                            
+     12  PB Itaporanga                                      250660                            
+     12  PB Itaporanga                                      250700                            
+     12  PB Itaporanga                                      251100                            
+     12  PB Itaporanga                                      251335                            
+     12  PB Itaporanga                                      251350                            
+     12  PB Itaporanga                                      251430                            
+     12  PB Itaporanga                                      251570                            
+     13  PB João Pessoa                                     250180                            
+     13  PB João Pessoa                                     250320                            
+     13  PB João Pessoa                                     250460                            
+     13  PB João Pessoa                                     250750,257507                     
+     13  PB João Pessoa                                     250860                            
+     13  PB João Pessoa                                     251370                            
+     14  PB Litoral Norte                                   250140                            
+     14  PB Litoral Norte                                   250403                            
+     14  PB Litoral Norte                                   250523                            
+     14  PB Litoral Norte                                   250527                            
+     14  PB Litoral Norte                                   250710                            
+     14  PB Litoral Norte                                   250730                            
+     14  PB Litoral Norte                                   250890                            
+     14  PB Litoral Norte                                   250905                            
+     14  PB Litoral Norte                                   250930                            
+     14  PB Litoral Norte                                   251272                            
+     14  PB Litoral Norte                                   251290                            
+     15  PB Litoral Sul                                     250060                            
+     15  PB Litoral Sul                                     250300                            
+     15  PB Litoral Sul                                     251120                            
+     15  PB Litoral Sul                                     251190                            
+     16  PB Patos                                           250115                            
+     16  PB Patos                                           250340                            
+     16  PB Patos                                           250870                            
+     16  PB Patos                                           251070                            
+     16  PB Patos                                           251080                            
+     16  PB Patos                                           251260                            
+     16  PB Patos                                           251380                            
+     16  PB Patos                                           251440                            
+     16  PB Patos                                           251460                            
+     17  PB Piancó                                          250020                            
+     17  PB Piancó                                          250260                            
+     17  PB Piancó                                          250420                            
+     17  PB Piancó                                          250480                            
+     17  PB Piancó                                          250590                            
+     17  PB Piancó                                          251020                            
+     17  PB Piancó                                          251040                            
+     17  PB Piancó                                          251130                            
+     17  PB Piancó                                          251360                            
+     18  PB Sapé                                            250490                            
+     18  PB Sapé                                            250790                            
+     18  PB Sapé                                            250910                            
+     18  PB Sapé                                            251150                            
+     18  PB Sapé                                            251276                            
+     18  PB Sapé                                            251445                            
+     18  PB Sapé                                            251500                            
+     18  PB Sapé                                            251530                            
+     18  PB Sapé                                            251597                            
+     19  PB Seridó Ocidental Paraibano                      250780                            
+     19  PB Seridó Ocidental Paraibano                      251300                            
+     19  PB Seridó Ocidental Paraibano                      251340                            
+     19  PB Seridó Ocidental Paraibano                      251470                            
+     19  PB Seridó Ocidental Paraibano                      251490                            
+     19  PB Seridó Ocidental Paraibano                      251710                            
+     20  PB Seridó Oriental Paraibano                       250153                            
+     20  PB Seridó Oriental Paraibano                       250500                            
+     20  PB Seridó Oriental Paraibano                       250620                            
+     20  PB Seridó Oriental Paraibano                       250770                            
+     20  PB Seridó Oriental Paraibano                       251030                            
+     20  PB Seridó Oriental Paraibano                       251110                            
+     20  PB Seridó Oriental Paraibano                       251140                            
+     20  PB Seridó Oriental Paraibano                       251540                            
+     20  PB Seridó Oriental Paraibano                       251675                            
+     21  PB Serra do Teixeira                               250010                            
+     21  PB Serra do Teixeira                               250355                            
+     21  PB Serra do Teixeira                               250540                            
+     21  PB Serra do Teixeira                               250670                            
+     21  PB Serra do Teixeira                               250800                            
+     21  PB Serra do Teixeira                               250900                            
+     21  PB Serra do Teixeira                               250939                            
+     21  PB Serra do Teixeira                               251230                            
+     21  PB Serra do Teixeira                               251455                            
+     21  PB Serra do Teixeira                               251660                            
+     21  PB Serra do Teixeira                               251670                            
+     22  PB Sousa                                           250077                            
+     22  PB Sousa                                           250375                            
+     22  PB Sousa                                           250450                            
+     22  PB Sousa                                           250550                            
+     22  PB Sousa                                           250840                            
+     22  PB Sousa                                           250880                            
+     22  PB Sousa                                           250915                            
+     22  PB Sousa                                           251000                            
+     22  PB Sousa                                           251090                            
+     22  PB Sousa                                           251210                            
+     22  PB Sousa                                           251320                            
+     22  PB Sousa                                           251392                            
+     22  PB Sousa                                           251396                            
+     22  PB Sousa                                           251398                            
+     22  PB Sousa                                           251420                            
+     22  PB Sousa                                           251620                            
+     22  PB Sousa                                           251720                            
+     23  PB Umbuzeiro                                       250130                            
+     23  PB Umbuzeiro                                       250625                            
+     23  PB Umbuzeiro                                       250990                            
+     23  PB Umbuzeiro                                       251315                            
+     23  PB Umbuzeiro                                       251700                            
+     24  PB Município ignorado - PB                         250000,259999                     

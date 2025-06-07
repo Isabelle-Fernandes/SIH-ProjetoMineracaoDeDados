@@ -1,0 +1,248 @@
+19  6                                                       52X001                            
+      1  52001 GO Central                                   520005                            
+      1  52001 GO Central                                   520130                            
+      1  52001 GO Central                                   520160                            
+      1  52001 GO Central                                   520280                            
+      1  52001 GO Central                                   520360                            
+      1  52001 GO Central                                   520460                            
+      1  52001 GO Central                                   520520                            
+      1  52001 GO Central                                   520680                            
+      1  52001 GO Central                                   520870,528707                     
+      1  52001 GO Central                                   520880                            
+      1  52001 GO Central                                   520920                            
+      1  52001 GO Central                                   521000                            
+      1  52001 GO Central                                   521056                            
+      1  52001 GO Central                                   521140                            
+      1  52001 GO Central                                   521205                            
+      1  52001 GO Central                                   521440                            
+      1  52001 GO Central                                   521450                            
+      1  52001 GO Central                                   521500                            
+      1  52001 GO Central                                   521540                            
+      1  52001 GO Central                                   521680                            
+      1  52001 GO Central                                   521910                            
+      1  52001 GO Central                                   521950                            
+      1  52001 GO Central                                   521973                            
+      1  52001 GO Central                                   521990                            
+      1  52001 GO Central                                   522100                            
+      2  52002 Centro Sul                                   52X002                            
+      2  52002 GO Centro Sul                                520140                            
+      2  52002 GO Centro Sul                                520180                            
+      2  52002 GO Centro Sul                                520330                            
+      2  52002 GO Centro Sul                                520355                            
+      2  52002 GO Centro Sul                                520455                            
+      2  52002 GO Centro Sul                                520545                            
+      2  52002 GO Centro Sul                                520630                            
+      2  52002 GO Centro Sul                                520650                            
+      2  52002 GO Centro Sul                                520735                            
+      2  52002 GO Centro Sul                                520740                            
+      2  52002 GO Centro Sul                                520970                            
+      2  52002 GO Centro Sul                                520995                            
+      2  52002 GO Centro Sul                                521170                            
+      2  52002 GO Centro Sul                                521230                            
+      2  52002 GO Centro Sul                                521260                            
+      2  52002 GO Centro Sul                                521530                            
+      2  52002 GO Centro Sul                                521710                            
+      2  52002 GO Centro Sul                                521770                            
+      2  52002 GO Centro Sul                                521839                            
+      2  52002 GO Centro Sul                                522026                            
+      2  52002 GO Centro Sul                                522045                            
+      2  52002 GO Centro Sul                                522060                            
+      2  52002 GO Centro Sul                                522190                            
+      2  52002 GO Centro Sul                                522200                            
+      3  52003 Entorno Norte                                52X003                            
+      3  52003 GO Entorno Norte                             520017                            
+      3  52003 GO Entorno Norte                             520060                            
+      3  52003 GO Entorno Norte                             520400                            
+      3  52003 GO Entorno Norte                             520790                            
+      3  52003 GO Entorno Norte                             520800                            
+      3  52003 GO Entorno Norte                             521760                            
+      3  52003 GO Entorno Norte                             522000                            
+      4  52004 Entorno Sul                                  52X004                            
+      4  52004 GO Entorno Sul                               520025                            
+      4  52004 GO Entorno Sul                               520549                            
+      4  52004 GO Entorno Sul                               520620                            
+      4  52004 GO Entorno Sul                               521250                            
+      4  52004 GO Entorno Sul                               521523                            
+      4  52004 GO Entorno Sul                               521975                            
+      5  52005 Estrada de Ferro                             52X005                            
+      5  52005 GO Estrada de Ferro                          520120                            
+      5  52005 GO Estrada de Ferro                          520450                            
+      5  52005 GO Estrada de Ferro                          520480                            
+      5  52005 GO Estrada de Ferro                          520510                            
+      5  52005 GO Estrada de Ferro                          520590                            
+      5  52005 GO Estrada de Ferro                          520660                            
+      5  52005 GO Estrada de Ferro                          520690                            
+      5  52005 GO Estrada de Ferro                          520850                            
+      5  52005 GO Estrada de Ferro                          521010                            
+      5  52005 GO Estrada de Ferro                          521290                            
+      5  52005 GO Estrada de Ferro                          521480                            
+      5  52005 GO Estrada de Ferro                          521550                            
+      5  52005 GO Estrada de Ferro                          521580                            
+      5  52005 GO Estrada de Ferro                          521740                            
+      5  52005 GO Estrada de Ferro                          521878                            
+      5  52005 GO Estrada de Ferro                          521920                            
+      5  52005 GO Estrada de Ferro                          522130                            
+      6  52006 Nordeste I                                   52X006                            
+      6  52006 GO Nordeste I                                520490                            
+      6  52006 GO Nordeste I                                520530                            
+      6  52006 GO Nordeste I                                520830                            
+      6  52006 GO Nordeste I                                521350                            
+      7  52007 Nordeste II                                  52X007                            
+      7  52007 GO Nordeste II                               520080                            
+      7  52007 GO Nordeste II                               520396                            
+      7  52007 GO Nordeste II                               520670                            
+      7  52007 GO Nordeste II                               520940                            
+      7  52007 GO Nordeste II                               520990                            
+      7  52007 GO Nordeste II                               521270                            
+      7  52007 GO Nordeste II                               521490                            
+      7  52007 GO Nordeste II                               521830                            
+      7  52007 GO Nordeste II                               521980                            
+      7  52007 GO Nordeste II                               522068                            
+      8  52008 Norte                                        52X008                            
+      8  52008 GO Norte                                     520357                            
+      8  52008 GO Norte                                     520465                            
+      8  52008 GO Norte                                     520750                            
+      8  52008 GO Norte                                     520810                            
+      8  52008 GO Norte                                     521308                            
+      8  52008 GO Norte                                     521377                            
+      8  52008 GO Norte                                     521405                            
+      8  52008 GO Norte                                     521410                            
+      8  52008 GO Norte                                     521525                            
+      8  52008 GO Norte                                     521800                            
+      8  52008 GO Norte                                     521960                            
+      8  52008 GO Norte                                     522020                            
+      9  52009 Oeste I                                      52X009                            
+      9  52009 GO Oeste I                                   520090                            
+      9  52009 GO Oeste I                                   520170                            
+      9  52009 GO Oeste I                                   520235                            
+      9  52009 GO Oeste I                                   520310                            
+      9  52009 GO Oeste I                                   520340                            
+      9  52009 GO Oeste I                                   520710                            
+      9  52009 GO Oeste I                                   520760                            
+      9  52009 GO Oeste I                                   521020                            
+      9  52009 GO Oeste I                                   521030                            
+      9  52009 GO Oeste I                                   521160                            
+      9  52009 GO Oeste I                                   521200                            
+      9  52009 GO Oeste I                                   521340                            
+      9  52009 GO Oeste I                                   521370                            
+      9  52009 GO Oeste I                                   521520                            
+      9  52009 GO Oeste I                                   521565                            
+     10  52010 Oeste II                                     52X010                            
+     10  52010 GO Oeste II                                  520015                            
+     10  52010 GO Oeste II                                  520260                            
+     10  52010 GO Oeste II                                  520393                            
+     10  52010 GO Oeste II                                  520420                            
+     10  52010 GO Oeste II                                  520570                            
+     10  52010 GO Oeste II                                  520780                            
+     10  52010 GO Oeste II                                  521570                            
+     10  52010 GO Oeste II                                  521590                            
+     10  52010 GO Oeste II                                  521640                            
+     10  52010 GO Oeste II                                  521900                            
+     10  52010 GO Oeste II                                  522005                            
+     10  52010 GO Oeste II                                  522010                            
+     11  52011 Pirineus                                     52X011                            
+     11  52011 GO Pirineus                                  520010                            
+     11  52011 GO Pirineus                                  520030                            
+     11  52011 GO Pirineus                                  520110                            
+     11  52011 GO Pirineus                                  520485                            
+     11  52011 GO Pirineus                                  520551                            
+     11  52011 GO Pirineus                                  520580                            
+     11  52011 GO Pirineus                                  520815                            
+     11  52011 GO Pirineus                                  520840                            
+     11  52011 GO Pirineus                                  521730                            
+     12  52012 Rio Vermelho                                 52X012                            
+     12  52012 GO Rio Vermelho                              520085                            
+     12  52012 GO Rio Vermelho                              520215                            
+     12  52012 GO Rio Vermelho                              520250                            
+     12  52012 GO Rio Vermelho                              520380                            
+     12  52012 GO Rio Vermelho                              520753                            
+     12  52012 GO Rio Vermelho                              520890                            
+     12  52012 GO Rio Vermelho                              520929                            
+     12  52012 GO Rio Vermelho                              520960                            
+     12  52012 GO Rio Vermelho                              521040                            
+     12  52012 GO Rio Vermelho                              521100                            
+     12  52012 GO Rio Vermelho                              521120                            
+     12  52012 GO Rio Vermelho                              521220                            
+     12  52012 GO Rio Vermelho                              521295                            
+     12  52012 GO Rio Vermelho                              521390                            
+     12  52012 GO Rio Vermelho                              521400                            
+     12  52012 GO Rio Vermelho                              521483                            
+     13  52014 Serra da Mesa                                52X014                            
+     13  52014 GO Serra da Mesa                             520055                            
+     13  52014 GO Serra da Mesa                             520082                            
+     13  52014 GO Serra da Mesa                             520470                            
+     13  52014 GO Serra da Mesa                             520552                            
+     13  52014 GO Serra da Mesa                             520980                            
+     13  52014 GO Serra da Mesa                             521280                            
+     13  52014 GO Serra da Mesa                             521460                            
+     13  52014 GO Serra da Mesa                             521487                            
+     14  52015 Sudoeste I                                   52X015                            
+     14  52015 GO Sudoeste I                                520013                            
+     14  52015 GO Sudoeste I                                520145                            
+     14  52015 GO Sudoeste I                                520410                            
+     14  52015 GO Sudoeste I                                520430                            
+     14  52015 GO Sudoeste I                                520505                            
+     14  52015 GO Sudoeste I                                521080                            
+     14  52015 GO Sudoeste I                                521130                            
+     14  52015 GO Sudoeste I                                521225                            
+     14  52015 GO Sudoeste I                                521300                            
+     14  52015 GO Sudoeste I                                521375                            
+     14  52015 GO Sudoeste I                                521630                            
+     14  52015 GO Sudoeste I                                521805                            
+     14  52015 GO Sudoeste I                                521850                            
+     14  52015 GO Sudoeste I                                521880                            
+     14  52015 GO Sudoeste I                                521930                            
+     14  52015 GO Sudoeste I                                521971                            
+     14  52015 GO Sudoeste I                                522040                            
+     15  52016 Sudoeste II                                  52X016                            
+     15  52016 GO Sudoeste II                               520150                            
+     15  52016 GO Sudoeste II                               520440                            
+     15  52016 GO Sudoeste II                               520547                            
+     15  52016 GO Sudoeste II                               520725                            
+     15  52016 GO Sudoeste II                               521190                            
+     15  52016 GO Sudoeste II                               521310                            
+     15  52016 GO Sudoeste II                               521645                            
+     15  52016 GO Sudoeste II                               521810                            
+     15  52016 GO Sudoeste II                               521940                            
+     16  52017 Sul                                          52X017                            
+     16  52017 GO Sul                                       520020                            
+     16  52017 GO Sul                                       520050                            
+     16  52017 GO Sul                                       520350                            
+     16  52017 GO Sul                                       520390                            
+     16  52017 GO Sul                                       520425                            
+     16  52017 GO Sul                                       520910                            
+     16  52017 GO Sul                                       520915                            
+     16  52017 GO Sul                                       520993                            
+     16  52017 GO Sul                                       521150                            
+     16  52017 GO Sul                                       521210                            
+     16  52017 GO Sul                                       521380                            
+     17  52013 São Patrício I                               52X013                            
+     17  52013 GO São Patrício I                            520495                            
+     17  52013 GO São Patrício I                            520500                            
+     17  52013 GO São Patrício I                            520540                            
+     17  52013 GO São Patrício I                            520640                            
+     17  52013 GO São Patrício I                            520945                            
+     17  52013 GO São Patrício I                            521015                            
+     17  52013 GO São Patrício I                            521090                            
+     17  52013 GO São Patrício I                            521385                            
+     17  52013 GO São Patrício I                            521470                            
+     17  52013 GO São Patrício I                            521486                            
+     17  52013 GO São Patrício I                            521690                            
+     17  52013 GO São Patrício I                            521860                            
+     17  52013 GO São Patrício I                            521870                            
+     17  52013 GO São Patrício I                            521890                            
+     17  52013 GO São Patrício I                            521935                            
+     17  52013 GO São Patrício I                            521970                            
+     17  52013 GO São Patrício I                            522015                            
+     17  52013 GO São Patrício I                            522028                            
+     17  52013 GO São Patrício I                            522157                            
+     18  52018 São Patrício II                              52X018                            
+     18  52018 GO São Patrício II                           520320                            
+     18  52018 GO São Patrício II                           520860                            
+     18  52018 GO São Patrício II                           521060                            
+     18  52018 GO São Patrício II                           521180                            
+     18  52018 GO São Patrício II                           521305                            
+     18  52018 GO São Patrício II                           521560                            
+     18  52018 GO São Patrício II                           521945                            
+     19  52000 Ignorado - GO                                52X000                            
+     19  52000 GO Município ignorado - GO                   520000,529999                     

@@ -1,0 +1,82 @@
+N 81 6
+        1  3205 SUL                                                                                             320020,320030,320040,320050,320070,320110,320120,320140,320180,320200,320230,320255,320260,320265,320280,320300,320310,320332,320340,320370,320380,320420,320430,320440,320480,320503
+   1    2  .....  RIO NOVO DO SUL                                                                               320440
+   1    3  .....  CASTELO                                                                                       320140
+   1    4  .....  MUQUI                                                                                         320380
+   1    5  .....  ATILIO VIVACQUA                                                                               320070
+   1    6  .....  ALEGRE                                                                                        320020
+   1    7  .....  ANCHIETA                                                                                      320040
+   1    8  .....  APIACA                                                                                        320050
+   1    9  .....  MARATAIZES                                                                                    320332
+   1   10  .....  JERONIMO MONTEIRO                                                                             320310
+   1   11  .....  SAO JOSE DO CALCADO                                                                           320480
+   1   12  .....  IRUPI                                                                                         320265
+   1   13  .....  ICONHA                                                                                        320260
+   1   14  .....  GUACUI                                                                                        320230
+   1   15  .....  VARGEM ALTA                                                                                   320503
+   1   16  .....  PIUMA                                                                                         320420
+   1   17  .....  DORES DO RIO PRETO                                                                            320200
+   1   18  .....  ITAPEMIRIM                                                                                    320280
+   1   19  .....  CACHOEIRO DE ITAPEMIRIM                                                                       320120
+   1   20  .....  MUNIZ FREIRE                                                                                  320370
+   1   21  .....  BOM JESUS DO NORTE                                                                            320110
+   1   22  .....  DIVINO DE SAO LOURENCO                                                                        320180
+   1   23  .....  IUNA                                                                                          320300
+   1   24  .....  PRESIDENTE KENNEDY                                                                            320430
+   1   25  .....  IBITIRAMA                                                                                     320255
+   1   26  .....  MIMOSO DO SUL                                                                                 320340
+   1   27  .....  ALFREDO CHAVES                                                                                320030
+       28  3207 METROPOLITANA                                                                                   320010,320060,320115,320130,320170,320190,320220,320240,320245,320250,320270,320290,320313,320316,320334,320450,320455,320460,320500,320506,320510,320520,320530
+  28   29  .....  SANTA TERESA                                                                                  320460
+  28   30  .....  SANTA LEOPOLDINA                                                                              320450
+  28   31  .....  DOMINGOS MARTINS                                                                              320190
+  28   32  .....  CONCEICAO DO CASTELO                                                                          320170
+  28   33  .....  BREJETUBA                                                                                     320115
+  28   34  .....  IBATIBA                                                                                       320245
+  28   35  .....  CARIACICA                                                                                     320130
+  28   36  .....  ITAGUACU                                                                                      320270
+  28   37  .....  MARECHAL FLORIANO                                                                             320334
+  28   38  .....  ARACRUZ                                                                                       320060
+  28   39  .....  LARANJA DA TERRA                                                                              320316
+  28   40  .....  FUNDAO                                                                                        320220
+  28   41  .....  VITORIA                                                                                       320530
+  28   42  .....  GUARAPARI                                                                                     320240
+  28   43  .....  VENDA NOVA DO IMIGRANTE                                                                       320506
+  28   44  .....  VILA VELHA                                                                                    320520
+  28   45  .....  JOAO NEIVA                                                                                    320313
+  28   46  .....  SERRA                                                                                         320500
+  28   47  .....  ITARANA                                                                                       320290
+  28   48  .....  IBIRACU                                                                                       320250
+  28   49  .....  VIANA                                                                                         320510
+  28   50  .....  AFONSO CLAUDIO                                                                                320010
+  28   51  .....  SANTA MARIA DE JETIBA                                                                         320455
+       52  3209 CENTRAL NORTE                                                                                   320013,320016,320035,320080,320090,320100,320150,320160,320210,320225,320305,320320,320330,320335,320350,320360,320390,320400,320405,320410,320425,320435,320465,320470,320490,320495,320501,320515,320517
+  52   53  .....  RIO BANANAL                                                                                   320435
+  52   54  .....  PINHEIROS                                                                                     320410
+  52   55  .....  PONTO BELO                                                                                    320425
+  52   56  .....  SAO GABRIEL DA PALHA                                                                          320470
+  52   57  .....  COLATINA                                                                                      320150
+  52   58  .....  NOVA VENECIA                                                                                  320390
+  52   59  .....  JAGUARE                                                                                       320305
+  52   60  .....  GOVERNADOR LINDENBERG                                                                         320225
+  52   61  .....  MARILANDIA                                                                                    320335
+  52   62  .....  LINHARES                                                                                      320320
+  52   63  .....  PANCAS                                                                                        320400
+  52   64  .....  VILA PAVAO                                                                                    320515
+  52   65  .....  VILA VALERIO                                                                                  320517
+  52   66  .....  MANTENOPOLIS                                                                                  320330
+  52   67  .....  SAO ROQUE DO CANAA                                                                            320495
+  52   68  .....  SAO MATEUS                                                                                    320490
+  52   69  .....  SAO DOMINGOS DO NORTE                                                                         320465
+  52   70  .....  AGUIA BRANCA                                                                                  320013
+  52   71  .....  MUCURICI                                                                                      320360
+  52   72  .....  BAIXO GUANDU                                                                                  320080
+  52   73  .....  BARRA DE SAO FRANCISCO                                                                        320090
+  52   74  .....  BOA ESPERANCA                                                                                 320100
+  52   75  .....  AGUA DOCE DO NORTE                                                                            320016
+  52   76  .....  MONTANHA                                                                                      320350
+  52   77  .....  CONCEICAO DA BARRA                                                                            320160
+  52   78  .....  SOORETAMA                                                                                     320501
+  52   79  .....  PEDRO CANARIO                                                                                 320405
+  52   80  .....  ECOPORANGA                                                                                    320210
+  52   81  .....  ALTO RIO NOVO                                                                                 320035

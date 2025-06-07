@@ -1,0 +1,249 @@
+248  6                                                                                    
+      1  5290 Sem div.adm.estadual GO                       520005                            
+  1   2  .... Abadia de Goiás                               520005                            
+  1   3  .... Abadiânia                                     520010                            
+  1   4  .... Acreúna                                       520013                            
+  1   5  .... Adelândia                                     520015                            
+  1   6  .... Água Fria de Goiás                            520017                            
+  1   7  .... Água Limpa                                    520020                            
+  1   8  .... Águas Lindas de Goiás                         520025                            
+  1   9  .... Alexânia                                      520030                            
+  1  10  .... Aloândia                                      520050                            
+  1  11  .... Alto Horizonte                                520055                            
+  1  12  .... Alto Paraíso de Goiás                         520060                            
+  1  13  .... Alvorada do Norte                             520080                            
+  1  14  .... Amaralina                                     520082                            
+  1  15  .... Americano do Brasil                           520085                            
+  1  16  .... Amorinópolis                                  520090                            
+  1  17  .... Anápolis                                      520110                            
+  1  18  .... Anhanguera                                    520120                            
+  1  19  .... Anicuns                                       520130                            
+  1  20  .... Aparecida de Goiânia                          520140                            
+  1  21  .... Aparecida do Rio Doce                         520145                            
+  1  22  .... Aporé                                         520150                            
+  1  23  .... Araçu                                         520160                            
+  1  24  .... Aragarças                                     520170                            
+  1  25  .... Aragoiânia                                    520180                            
+  1  26  .... Araguapaz                                     520215                            
+  1  27  .... Arenópolis                                    520235                            
+  1  28  .... Aruanã                                        520250                            
+  1  29  .... Aurilândia                                    520260                            
+  1  30  .... Avelinópolis                                  520280                            
+  1  31  .... Baliza                                        520310                            
+  1  32  .... Barro Alto                                    520320                            
+  1  33  .... Bela Vista de Goiás                           520330                            
+  1  34  .... Bom Jardim de Goiás                           520340                            
+  1  35  .... Bom Jesus de Goiás                            520350                            
+  1  36  .... Bonfinópolis                                  520355                            
+  1  37  .... Bonópolis                                     520357                            
+  1  38  .... Brazabrantes                                  520360                            
+  1  39  .... Britânia                                      520380                            
+  1  40  .... Buriti Alegre                                 520390                            
+  1  41  .... Buriti de Goiás                               520393                            
+  1  42  .... Buritinópolis                                 520396                            
+  1  43  .... Cabeceiras                                    520400                            
+  1  44  .... Cachoeira Alta                                520410                            
+  1  45  .... Cachoeira de Goiás                            520420                            
+  1  46  .... Cachoeira Dourada                             520425                            
+  1  47  .... Caçu                                          520430                            
+  1  48  .... Caiapônia                                     520440                            
+  1  49  .... Caldas Novas                                  520450                            
+  1  50  .... Caldazinha                                    520455                            
+  1  51  .... Campestre de Goiás                            520460                            
+  1  52  .... Campinaçu                                     520465                            
+  1  53  .... Campinorte                                    520470                            
+  1  54  .... Campo Alegre de Goiás                         520480                            
+  1  55  .... Campo Limpo de Goiás                          520485                            
+  1  56  .... Campos Belos                                  520490                            
+  1  57  .... Campos Verdes                                 520495                            
+  1  58  .... Carmo do Rio Verde                            520500                            
+  1  59  .... Castelândia                                   520505                            
+  1  60  .... Catalão                                       520510                            
+  1  61  .... Caturaí                                       520520                            
+  1  62  .... Cavalcante                                    520530                            
+  1  63  .... Ceres                                         520540                            
+  1  64  .... Cezarina                                      520545                            
+  1  65  .... Chapadão do Céu                               520547                            
+  1  66  .... Cidade Ocidental                              520549                            
+  1  67  .... Cocalzinho de Goiás                           520551                            
+  1  68  .... Colinas do Sul                                520552                            
+  1  69  .... Córrego do Ouro                               520570                            
+  1  70  .... Corumbá de Goiás                              520580                            
+  1  71  .... Corumbaíba                                    520590                            
+  1  72  .... Cristalina                                    520620                            
+  1  73  .... Cristianópolis                                520630                            
+  1  74  .... Crixás                                        520640                            
+  1  75  .... Cromínia                                      520650                            
+  1  76  .... Cumari                                        520660                            
+  1  77  .... Damianópolis                                  520670                            
+  1  78  .... Damolândia                                    520680                            
+  1  79  .... Davinópolis                                   520690                            
+  1  80  .... Diorama                                       520710                            
+  1  81  .... Divinópolis de Goiás                          520830                            
+  1  82  .... Doverlândia                                   520725                            
+  1  83  .... Edealina                                      520735                            
+  1  84  .... Edéia                                         520740                            
+  1  85  .... Estrela do Norte                              520750                            
+  1  86  .... Faina                                         520753                            
+  1  87  .... Fazenda Nova                                  520760                            
+  1  88  .... Firminópolis                                  520780                            
+  1  89  .... Flores de Goiás                               520790                            
+  1  90  .... Formosa                                       520800                            
+  1  91  .... Formoso                                       520810                            
+  1  92  .... Gameleira de Goiás                            520815                            
+  1  93  .... Goianápolis                                   520840                            
+  1  94  .... Goiandira                                     520850                            
+  1  95  .... Goianésia                                     520860                            
+  1  96  .... Goiânia                                       520870,528707                     
+  1  97  .... Goianira                                      520880                            
+  1  98  .... Goiás                                         520890                            
+  1  99  .... Goiatuba                                      520910                            
+  1 100  .... Gouvelândia                                   520915                            
+  1 101  .... Guapó                                         520920                            
+  1 102  .... Guaraíta                                      520929                            
+  1 103  .... Guarani de Goiás                              520940                            
+  1 104  .... Guarinos                                      520945                            
+  1 105  .... Heitoraí                                      520960                            
+  1 106  .... Hidrolândia                                   520970                            
+  1 107  .... Hidrolina                                     520980                            
+  1 108  .... Iaciara                                       520990                            
+  1 109  .... Inaciolândia                                  520993                            
+  1 110  .... Indiara                                       520995                            
+  1 111  .... Inhumas                                       521000                            
+  1 112  .... Ipameri                                       521010                            
+  1 113  .... Ipiranga de Goiás                             521015                            
+  1 114  .... Iporá                                         521020                            
+  1 115  .... Israelândia                                   521030                            
+  1 116  .... Itaberaí                                      521040                            
+  1 117  .... Itaguari                                      521056                            
+  1 118  .... Itaguaru                                      521060                            
+  1 119  .... Itajá                                         521080                            
+  1 120  .... Itapaci                                       521090                            
+  1 121  .... Itapirapuã                                    521100                            
+  1 122  .... Itapuranga                                    521120                            
+  1 123  .... Itarumã                                       521130                            
+  1 124  .... Itauçu                                        521140                            
+  1 125  .... Itumbiara                                     521150                            
+  1 126  .... Ivolândia                                     521160                            
+  1 127  .... Jandaia                                       521170                            
+  1 128  .... Jaraguá                                       521180                            
+  1 129  .... Jataí                                         521190                            
+  1 130  .... Jaupaci                                       521200                            
+  1 131  .... Jesúpolis                                     521205                            
+  1 132  .... Joviânia                                      521210                            
+  1 133  .... Jussara                                       521220                            
+  1 134  .... Lagoa Santa                                   521225                            
+  1 135  .... Leopoldo de Bulhões                           521230                            
+  1 136  .... Luziânia                                      521250                            
+  1 137  .... Mairipotaba                                   521260                            
+  1 138  .... Mambaí                                        521270                            
+  1 139  .... Mara Rosa                                     521280                            
+  1 140  .... Marzagão                                      521290                            
+  1 141  .... Matrinchã                                     521295                            
+  1 142  .... Maurilândia                                   521300                            
+  1 143  .... Mimoso de Goiás                               521305                            
+  1 144  .... Minaçu                                        521308                            
+  1 145  .... Mineiros                                      521310                            
+  1 146  .... Moiporá                                       521340                            
+  1 147  .... Monte Alegre de Goiás                         521350                            
+  1 148  .... Montes Claros de Goiás                        521370                            
+  1 149  .... Montividiu                                    521375                            
+  1 150  .... Montividiu do Norte                           521377                            
+  1 151  .... Morrinhos                                     521380                            
+  1 152  .... Morro Agudo de Goiás                          521385                            
+  1 153  .... Mossâmedes                                    521390                            
+  1 154  .... Mozarlândia                                   521400                            
+  1 155  .... Mundo Novo                                    521405                            
+  1 156  .... Mutunópolis                                   521410                            
+  1 157  .... Nazário                                       521440                            
+  1 158  .... Nerópolis                                     521450                            
+  1 159  .... Niquelândia                                   521460                            
+  1 160  .... Nova América                                  521470                            
+  1 161  .... Nova Aurora                                   521480                            
+  1 162  .... Nova Crixás                                   521483                            
+  1 163  .... Nova Glória                                   521486                            
+  1 164  .... Nova Iguaçu de Goiás                          521487                            
+  1 165  .... Nova Roma                                     521490                            
+  1 166  .... Nova Veneza                                   521500                            
+  1 167  .... Novo Brasil                                   521520                            
+  1 168  .... Novo Gama                                     521523                            
+  1 169  .... Novo Planalto                                 521525                            
+  1 170  .... Orizona                                       521530                            
+  1 171  .... Ouro Verde de Goiás                           521540                            
+  1 172  .... Ouvidor                                       521550                            
+  1 173  .... Padre Bernardo                                521560                            
+  1 174  .... Palestina de Goiás                            521565                            
+  1 175  .... Palmeiras de Goiás                            521570                            
+  1 176  .... Palmelo                                       521580                            
+  1 177  .... Palminópolis                                  521590                            
+  1 178  .... Panamá                                        521600                            
+  1 179  .... Paranaiguara                                  521630                            
+  1 180  .... Paraúna                                       521640                            
+  1 181  .... Perolândia                                    521645                            
+  1 182  .... Petrolina de Goiás                            521680                            
+  1 183  .... Pilar de Goiás                                521690                            
+  1 184  .... Piracanjuba                                   521710                            
+  1 185  .... Piranhas                                      521720                            
+  1 186  .... Pirenópolis                                   521730                            
+  1 187  .... Pires do Rio                                  521740                            
+  1 188  .... Planaltina                                    521760                            
+  1 189  .... Pontalina                                     521770                            
+  1 190  .... Porangatu                                     521800                            
+  1 191  .... Porteirão                                     521805                            
+  1 192  .... Portelândia                                   521810                            
+  1 193  .... Posse                                         521830                            
+  1 194  .... Professor Jamil                               521839                            
+  1 195  .... Quirinópolis                                  521850                            
+  1 196  .... Rialma                                        521860                            
+  1 197  .... Rianápolis                                    521870                            
+  1 198  .... Rio Quente                                    521878                            
+  1 199  .... Rio Verde                                     521880                            
+  1 200  .... Rubiataba                                     521890                            
+  1 201  .... Sanclerlândia                                 521900                            
+  1 202  .... Santa Bárbara de Goiás                        521910                            
+  1 203  .... Santa Cruz de Goiás                           521920                            
+  1 204  .... Santa Fé de Goiás                             521925                            
+  1 205  .... Santa Helena de Goiás                         521930                            
+  1 206  .... Santa Isabel                                  521935                            
+  1 207  .... Santa Rita do Araguaia                        521940                            
+  1 208  .... Santa Rita do Novo Destino                    521945                            
+  1 209  .... Santa Rosa de Goiás                           521950                            
+  1 210  .... Santa Tereza de Goiás                         521960                            
+  1 211  .... Santa Terezinha de Goiás                      521970                            
+  1 212  .... Santo Antônio da Barra                        521971                            
+  1 213  .... Santo Antônio de Goiás                        521973                            
+  1 214  .... Santo Antônio do Descoberto                   521975                            
+  1 215  .... São Domingos                                  521980                            
+  1 216  .... São Francisco de Goiás                        521990                            
+  1 217  .... São João d'Aliança                            522000                            
+  1 218  .... São João da Paraúna                           522005                            
+  1 219  .... São Luís de Montes Belos                      522010                            
+  1 220  .... São Luiz do Norte                             522015                            
+  1 221  .... São Miguel do Araguaia                        522020                            
+  1 222  .... São Miguel do Passa Quatro                    522026                            
+  1 223  .... São Patrício                                  522028                            
+  1 224  .... São Simão                                     522040                            
+  1 225  .... Senador Canedo                                522045                            
+  1 226  .... Serranópolis                                  522050                            
+  1 227  .... Silvânia                                      522060                            
+  1 228  .... Simolândia                                    522068                            
+  1 229  .... Sítio d'Abadia                                522070                            
+  1 230  .... Taquaral de Goiás                             522100                            
+  1 231  .... Teresina de Goiás                             522108                            
+  1 232  .... Terezópolis de Goiás                          522119                            
+  1 233  .... Três Ranchos                                  522130                            
+  1 234  .... Trindade                                      522140                            
+  1 235  .... Trombas                                       522145                            
+  1 236  .... Turvânia                                      522150                            
+  1 237  .... Turvelândia                                   522155                            
+  1 238  .... Uirapuru                                      522157                            
+  1 239  .... Uruaçu                                        522160                            
+  1 240  .... Uruana                                        522170                            
+  1 241  .... Urutaí                                        522180                            
+  1 242  .... Valparaíso de Goiás                           522185                            
+  1 243  .... Varjão                                        522190                            
+  1 244  .... Vianópolis                                    522200                            
+  1 245  .... Vicentinópolis                                522205                            
+  1 246  .... Vila Boa                                      522220                            
+  1 247  .... Vila Propício                                 522230                            
+    248  5200 Município ignorado - GO                       520000,529999                     

@@ -1,0 +1,113 @@
+N 112 6
+        1  27001 1ª Região de Saúde                                                                             270050,270060,270220,270280,270430,270470,270520,270644,270690,270770,270790,270890
+   1    2  .....  SANTA LUZIA DO NORTE                                                                          270790
+   1    3  .....  RIO LARGO                                                                                     270770
+   1    4  .....  BARRA DE SANTO ANTONIO                                                                        270050
+   1    5  .....  PILAR                                                                                         270690
+   1    6  .....  MARECHAL DEODORO                                                                              270470
+   1    7  .....  MACEIO                                                                                        270430
+   1    8  .....  SATUBA                                                                                        270890
+   1    9  .....  FLEXEIRAS                                                                                     270280
+   1   10  .....  PARIPUEIRA                                                                                    270644
+   1   11  .....  BARRA DE SAO MIGUEL                                                                           270060
+   1   12  .....  COQUEIRO SECO                                                                                 270220
+   1   13  .....  MESSIAS                                                                                       270520
+       14  27002 2ª Região de Saúde                                                                             270350,270360,270450,270510,270650,270730,270740,270850,270870
+  14   15  .....  SAO MIGUEL DOS MILAGRES                                                                       270870
+  14   16  .....  MARAGOGI                                                                                      270450
+  14   17  .....  PORTO CALVO                                                                                   270730
+  14   18  .....  MATRIZ DE CAMARAGIBE                                                                          270510
+  14   19  .....  PORTO DE PEDRAS                                                                               270740
+  14   20  .....  SAO LUIS DO QUITUNDE                                                                          270850
+  14   21  .....  PASSO DE CAMARAGIBE                                                                           270650
+  14   22  .....  JACUIPE                                                                                       270350
+  14   23  .....  JAPARATINGA                                                                                   270360
+       24  27003 3ª Região de Saúde                                                                             270110,270135,270210,270300,270380,270390,270550,270560,270810,270830,270930
+  24   25  .....  IBATEGUARA                                                                                    270300
+  24   26  .....  CAMPESTRE                                                                                     270135
+  24   27  .....  JUNDIA                                                                                        270390
+  24   28  .....  BRANQUINHA                                                                                    270110
+  24   29  .....  MURICI                                                                                        270550
+  24   30  .....  COLONIA LEOPOLDINA                                                                            270210
+  24   31  .....  NOVO LINO                                                                                     270560
+  24   32  .....  UNIAO DOS PALMARES                                                                            270930
+  24   33  .....  JOAQUIM GOMES                                                                                 270380
+  24   34  .....  SAO JOSE DA LAJE                                                                              270830
+  24   35  .....  SANTANA DO MUNDAU                                                                             270810
+       36  27004 4ª Região de Saúde                                                                             270040,270130,270170,270190,270490,270660,270700,270760,270940
+  36   37  .....  QUEBRANGULO                                                                                   270760
+  36   38  .....  CAJUEIRO                                                                                      270130
+  36   39  .....  CAPELA                                                                                        270170
+  36   40  .....  MAR VERMELHO                                                                                  270490
+  36   41  .....  ATALAIA                                                                                       270040
+  36   42  .....  PINDOBA                                                                                       270700
+  36   43  .....  PAULO JACINTO                                                                                 270660
+  36   44  .....  VICOSA                                                                                        270940
+  36   45  .....  CHA PRETA                                                                                     270190
+       46  27005 5ª Região de Saúde                                                                             270020,270100,270140,270400,270780,270860,270915
+  46   47  .....  TEOTONIO VILELA                                                                               270915
+  46   48  .....  SAO MIGUEL DOS CAMPOS                                                                         270860
+  46   49  .....  CAMPO ALEGRE                                                                                  270140
+  46   50  .....  ANADIA                                                                                        270020
+  46   51  .....  BOCA DA MATA                                                                                  270100
+  46   52  .....  ROTEIRO                                                                                       270780
+  46   53  .....  JUNQUEIRO                                                                                     270400
+       54  27006 6ª Região de Saúde                                                                             270230,270270,270320,270375,270670,270680,270750,270820
+  54   55  .....  PIACABUCU                                                                                     270680
+  54   56  .....  SAO BRAS                                                                                      270820
+  54   57  .....  FELIZ DESERTO                                                                                 270270
+  54   58  .....  PENEDO                                                                                        270670
+  54   59  .....  CORURIPE                                                                                      270230
+  54   60  .....  PORTO REAL DO COLEGIO                                                                         270750
+  54   61  .....  IGREJA NOVA                                                                                   270320
+  54   62  .....  JEQUIA DA PRAIA                                                                               270375
+       63  27007 7ª Região de Saúde                                                                             270030,270070,270090,270150,270200,270235,270260,270290,270340,270370,270410,270420,270440,270590,270880,270910,270920
+  63   64  .....  MAJOR ISIDORO                                                                                 270440
+  63   65  .....  OLHO D'AGUA GRANDE                                                                            270590
+  63   66  .....  TRAIPU                                                                                        270920
+  63   67  .....  LAGOA DA CANOA                                                                                270410
+  63   68  .....  JACARE DOS HOMENS                                                                             270340
+  63   69  .....  GIRAU DO PONCIANO                                                                             270290
+  63   70  .....  FEIRA GRANDE                                                                                  270260
+  63   71  .....  BATALHA                                                                                       270070
+  63   72  .....  SAO SEBASTIAO                                                                                 270880
+  63   73  .....  BELO MONTE                                                                                    270090
+  63   74  .....  LIMOEIRO DE ANADIA                                                                            270420
+  63   75  .....  TAQUARANA                                                                                     270910
+  63   76  .....  ARAPIRACA                                                                                     270030
+  63   77  .....  JARAMATAIA                                                                                    270370
+  63   78  .....  COITE DO NOIA                                                                                 270200
+  63   79  .....  CRAIBAS                                                                                       270235
+  63   80  .....  CAMPO GRANDE                                                                                  270150
+       81  27008 8ª Região de Saúde                                                                             270080,270120,270255,270310,270480,270530,270630,270900
+  81   82  .....  IGACI                                                                                         270310
+  81   83  .....  ESTRELA DE ALAGOAS                                                                            270255
+  81   84  .....  CACIMBINHAS                                                                                   270120
+  81   85  .....  MINADOR DO NEGRAO                                                                             270530
+  81   86  .....  PALMEIRA DOS INDIOS                                                                           270630
+  81   87  .....  TANQUE D'ARCA                                                                                 270900
+  81   88  .....  BELEM                                                                                         270080
+  81   89  .....  MARIBONDO                                                                                     270480
+       90  27009 9ª Região de Saúde                                                                             270160,270180,270250,270460,270540,270570,270600,270610,270620,270640,270720,270800,270840,270895
+  90   91  .....  CANAPI                                                                                        270160
+  90   92  .....  SANTANA DO IPANEMA                                                                            270800
+  90   93  .....  MARAVILHA                                                                                     270460
+  90   94  .....  PALESTINA                                                                                     270620
+  90   95  .....  SAO JOSE DA TAPERA                                                                            270840
+  90   96  .....  POCO DAS TRINCHEIRAS                                                                          270720
+  90   97  .....  DOIS RIACHOS                                                                                  270250
+  90   98  .....  PAO DE ACUCAR                                                                                 270640
+  90   99  .....  CARNEIROS                                                                                     270180
+  90  100  .....  OLIVENCA                                                                                      270600
+  90  101  .....  OURO BRANCO                                                                                   270610
+  90  102  .....  SENADOR RUI PALMEIRA                                                                          270895
+  90  103  .....  MONTEIROPOLIS                                                                                 270540
+  90  104  .....  OLHO D'AGUA DAS FLORES                                                                        270570
+      105  27010 10ª Região de Saúde                                                                            270010,270240,270330,270500,270580,270642,270710
+ 105  106  .....  PARICONHA                                                                                     270642
+ 105  107  .....  DELMIRO GOUVEIA                                                                               270240
+ 105  108  .....  AGUA BRANCA                                                                                   270010
+ 105  109  .....  PIRANHAS                                                                                      270710
+ 105  110  .....  OLHO D'AGUA DO CASADO                                                                         270580
+ 105  111  .....  MATA GRANDE                                                                                   270500
+ 105  112  .....  INHAPI                                                                                        270330

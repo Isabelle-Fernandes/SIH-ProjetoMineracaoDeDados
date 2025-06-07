@@ -1,0 +1,219 @@
+22 6
+      1  21001 LITORAL OCIDENTAL MARANHENSE                 210020
+      1  21001 LITORAL OCIDENTAL MARANHENSE                 210083
+      1  21001 LITORAL OCIDENTAL MARANHENSE                 210130
+      1  21001 LITORAL OCIDENTAL MARANHENSE                 210135
+      1  21001 LITORAL OCIDENTAL MARANHENSE                 210190
+      1  21001 LITORAL OCIDENTAL MARANHENSE                 210240
+      1  21001 LITORAL OCIDENTAL MARANHENSE                 210310
+      1  21001 LITORAL OCIDENTAL MARANHENSE                 210312
+      1  21001 LITORAL OCIDENTAL MARANHENSE                 210370
+      1  21001 LITORAL OCIDENTAL MARANHENSE                 210490
+      1  21001 LITORAL OCIDENTAL MARANHENSE                 210680
+      1  21001 LITORAL OCIDENTAL MARANHENSE                 210905
+      1  21001 LITORAL OCIDENTAL MARANHENSE                 211178
+      2  21002 AGLOMERACAO URBANA DE SAO LUIS               210750
+      2  21002 AGLOMERACAO URBANA DE SAO LUIS               210945
+      2  21002 AGLOMERACAO URBANA DE SAO LUIS               211120
+      2  21002 AGLOMERACAO URBANA DE SAO LUIS               211130
+      3  21003 ROSARIO                                      210110
+      3  21003 ROSARIO                                      210125
+      3  21003 ROSARIO                                      210237
+      3  21003 ROSARIO                                      210510
+      3  21003 ROSARIO                                      210710
+      3  21003 ROSARIO                                      210920
+      3  21003 ROSARIO                                      210960
+      3  21003 ROSARIO                                      211020
+      4  21004 LENCOIS MARANHENSES                          210170
+      4  21004 LENCOIS MARANHENSES                          210500
+      4  21004 LENCOIS MARANHENSES                          210805
+      4  21004 LENCOIS MARANHENSES                          210940
+      4  21004 LENCOIS MARANHENSES                          211027
+      4  21004 LENCOIS MARANHENSES                          211250
+      5  21005 BAIXADA MARANHENSE                           210070
+      5  21005 BAIXADA MARANHENSE                           210100
+      5  21005 BAIXADA MARANHENSE                           210177
+      5  21005 BAIXADA MARANHENSE                           210250
+      5  21005 BAIXADA MARANHENSE                           210355
+      5  21005 BAIXADA MARANHENSE                           210515
+      5  21005 BAIXADA MARANHENSE                           210650
+      5  21005 BAIXADA MARANHENSE                           210690
+      5  21005 BAIXADA MARANHENSE                           210745
+      5  21005 BAIXADA MARANHENSE                           210760
+      5  21005 BAIXADA MARANHENSE                           210825
+      5  21005 BAIXADA MARANHENSE                           210830
+      5  21005 BAIXADA MARANHENSE                           210840
+      5  21005 BAIXADA MARANHENSE                           210860
+      5  21005 BAIXADA MARANHENSE                           210927
+      5  21005 BAIXADA MARANHENSE                           210980
+      5  21005 BAIXADA MARANHENSE                           211050
+      5  21005 BAIXADA MARANHENSE                           211100
+      5  21005 BAIXADA MARANHENSE                           211170
+      5  21005 BAIXADA MARANHENSE                           211280
+      5  21005 BAIXADA MARANHENSE                           211290
+      6  21006 ITAPECURU MIRIM                              210270
+      6  21006 ITAPECURU MIRIM                              210540
+      6  21006 ITAPECURU MIRIM                              210663
+      6  21006 ITAPECURU MIRIM                              210675
+      6  21006 ITAPECURU MIRIM                              210720
+      6  21006 ITAPECURU MIRIM                              210880
+      6  21006 ITAPECURU MIRIM                              210930
+      6  21006 ITAPECURU MIRIM                              211270
+      7  21007 GURUPI                                       210055
+      7  21007 GURUPI                                       210197
+      7  21007 GURUPI                                       210260
+      7  21007 GURUPI                                       210290
+      7  21007 GURUPI                                       210315
+      7  21007 GURUPI                                       210317
+      7  21007 GURUPI                                       210430
+      7  21007 GURUPI                                       210467
+      7  21007 GURUPI                                       210565
+      7  21007 GURUPI                                       210620
+      7  21007 GURUPI                                       210632
+      7  21007 GURUPI                                       210637
+      7  21007 GURUPI                                       211240
+      7  21007 GURUPI                                       211245
+      8  21008 PINDARE                                      210040
+      8  21008 PINDARE                                      210047
+      8  21008 PINDARE                                      210087
+      8  21008 PINDARE                                      210200
+      8  21008 PINDARE                                      210203
+      8  21008 PINDARE                                      210215
+      8  21008 PINDARE                                      210232
+      8  21008 PINDARE                                      210465
+      8  21008 PINDARE                                      210570
+      8  21008 PINDARE                                      210596
+      8  21008 PINDARE                                      210635
+      8  21008 PINDARE                                      210735
+      8  21008 PINDARE                                      210810
+      8  21008 PINDARE                                      210850
+      8  21008 PINDARE                                      210923
+      8  21008 PINDARE                                      210990
+      8  21008 PINDARE                                      211000
+      8  21008 PINDARE                                      211003
+      8  21008 PINDARE                                      211102
+      8  21008 PINDARE                                      211227
+      8  21008 PINDARE                                      211300
+      8  21008 PINDARE                                      211400
+      9  21009 IMPERATRIZ                                   210005
+      9  21009 IMPERATRIZ                                   210060
+      9  21009 IMPERATRIZ                                   210235
+      9  21009 IMPERATRIZ                                   210325
+      9  21009 IMPERATRIZ                                   210375
+      9  21009 IMPERATRIZ                                   210455
+      9  21009 IMPERATRIZ                                   210530
+      9  21009 IMPERATRIZ                                   210542
+      9  21009 IMPERATRIZ                                   210550
+      9  21009 IMPERATRIZ                                   210598
+      9  21009 IMPERATRIZ                                   210700
+      9  21009 IMPERATRIZ                                   210955
+      9  21009 IMPERATRIZ                                   211085
+      9  21009 IMPERATRIZ                                   211153
+      9  21009 IMPERATRIZ                                   211176
+      9  21009 IMPERATRIZ                                   211285
+     10  21010 MEDIO MEARIM                                 210120
+     10  21010 MEDIO MEARIM                                 210193
+     10  21010 MEDIO MEARIM                                 210207
+     10  21010 MEDIO MEARIM                                 210400
+     10  21010 MEDIO MEARIM                                 210520
+     10  21010 MEDIO MEARIM                                 210580
+     10  21010 MEDIO MEARIM                                 210590
+     10  21010 MEDIO MEARIM                                 210594
+     10  21010 MEDIO MEARIM                                 210600
+     10  21010 MEDIO MEARIM                                 210740
+     10  21010 MEDIO MEARIM                                 210820
+     10  21010 MEDIO MEARIM                                 210870
+     10  21010 MEDIO MEARIM                                 210890
+     10  21010 MEDIO MEARIM                                 211030
+     10  21010 MEDIO MEARIM                                 211140
+     10  21010 MEDIO MEARIM                                 211150
+     10  21010 MEDIO MEARIM                                 211163
+     10  21010 MEDIO MEARIM                                 211167
+     10  21010 MEDIO MEARIM                                 211172
+     10  21010 MEDIO MEARIM                                 211223
+     11  21011 ALTO MEARIM E GRAJAU                         210095
+     11  21011 ALTO MEARIM E GRAJAU                         210160
+     11  21011 ALTO MEARIM E GRAJAU                         210408
+     11  21011 ALTO MEARIM E GRAJAU                         210409
+     11  21011 ALTO MEARIM E GRAJAU                         210480
+     11  21011 ALTO MEARIM E GRAJAU                         210535
+     11  21011 ALTO MEARIM E GRAJAU                         210547
+     11  21011 ALTO MEARIM E GRAJAU                         210560
+     11  21011 ALTO MEARIM E GRAJAU                         210975
+     11  21011 ALTO MEARIM E GRAJAU                         211180
+     11  21011 ALTO MEARIM E GRAJAU                         211230
+     12  21012 PRESIDENTE DUTRA                             210380
+     12  21012 PRESIDENTE DUTRA                             210420
+     12  21012 PRESIDENTE DUTRA                             210440
+     12  21012 PRESIDENTE DUTRA                             210450
+     12  21012 PRESIDENTE DUTRA                             210460
+     12  21012 PRESIDENTE DUTRA                             210462
+     12  21012 PRESIDENTE DUTRA                             210470
+     12  21012 PRESIDENTE DUTRA                             210910
+     12  21012 PRESIDENTE DUTRA                             211070
+     12  21012 PRESIDENTE DUTRA                             211125
+     12  21012 PRESIDENTE DUTRA                             211174
+     13  21013 BAIXO PARNAIBA MARANHENSE                    210015
+     13  21013 BAIXO PARNAIBA MARANHENSE                    210090
+     13  21013 BAIXO PARNAIBA MARANHENSE                    210630
+     13  21013 BAIXO PARNAIBA MARANHENSE                    211010
+     13  21013 BAIXO PARNAIBA MARANHENSE                    211023
+     13  21013 BAIXO PARNAIBA MARANHENSE                    211060
+     14  21014 CHAPADINHA                                   210080
+     14  21014 CHAPADINHA                                   210173
+     14  21014 CHAPADINHA                                   210210
+     14  21014 CHAPADINHA                                   210220
+     14  21014 CHAPADINHA                                   210320
+     14  21014 CHAPADINHA                                   210640
+     14  21014 CHAPADINHA                                   210667
+     14  21014 CHAPADINHA                                   211040
+     14  21014 CHAPADINHA                                   211260
+     15  21015 CODO                                         210043
+     15  21015 CODO                                         210275
+     15  21015 CODO                                         210330
+     15  21015 CODO                                         210360
+     15  21015 CODO                                         210845
+     15  21015 CODO                                         211210
+     16  21016 COELHO NETO                                  210010
+     16  21016 COELHO NETO                                  210030
+     16  21016 COELHO NETO                                  210340
+     16  21016 COELHO NETO                                  210390
+     17  21017 CAXIAS                                       210230
+     17  21017 CAXIAS                                       210300
+     17  21017 CAXIAS                                       210660
+     17  21017 CAXIAS                                       210780
+     17  21017 CAXIAS                                       211107
+     17  21017 CAXIAS                                       211220
+     18  21018 CHAPADAS DO ALTO ITAPECURU                   210150
+     18  21018 CHAPADAS DO ALTO ITAPECURU                   210350
+     18  21018 CHAPADAS DO ALTO ITAPECURU                   210545
+     18  21018 CHAPADAS DO ALTO ITAPECURU                   210592
+     18  21018 CHAPADAS DO ALTO ITAPECURU                   210670
+     18  21018 CHAPADAS DO ALTO ITAPECURU                   210730
+     18  21018 CHAPADAS DO ALTO ITAPECURU                   210770
+     18  21018 CHAPADAS DO ALTO ITAPECURU                   210790
+     18  21018 CHAPADAS DO ALTO ITAPECURU                   210800
+     18  21018 CHAPADAS DO ALTO ITAPECURU                   211090
+     18  21018 CHAPADAS DO ALTO ITAPECURU                   211110
+     18  21018 CHAPADAS DO ALTO ITAPECURU                   211190
+     18  21018 CHAPADAS DO ALTO ITAPECURU                   211195
+     19  21019 PORTO FRANCO                                 210255
+     19  21019 PORTO FRANCO                                 210280
+     19  21019 PORTO FRANCO                                 210405
+     19  21019 PORTO FRANCO                                 210900
+     19  21019 PORTO FRANCO                                 211105
+     19  21019 PORTO FRANCO                                 211157
+     20  21020 GERAIS DE BALSAS                             210050
+     20  21020 GERAIS DE BALSAS                             210140
+     20  21020 GERAIS DE BALSAS                             210407
+     20  21020 GERAIS DE BALSAS                             210950
+     20  21020 GERAIS DE BALSAS                             211200
+     21  21021 CHAPADAS DAS MANGABEIRAS                     210180
+     21  21021 CHAPADAS DAS MANGABEIRAS                     210410
+     21  21021 CHAPADAS DAS MANGABEIRAS                     210610
+     21  21021 CHAPADAS DAS MANGABEIRAS                     210725
+     21  21021 CHAPADAS DAS MANGABEIRAS                     210970
+     21  21021 CHAPADAS DAS MANGABEIRAS                     211065
+     21  21021 CHAPADAS DAS MANGABEIRAS                     211080
+     21  21021 CHAPADAS DAS MANGABEIRAS                     211160
+     22  Ignorado - MA                                      210000,219999

@@ -1,0 +1,146 @@
+23 6
+      1  15001 OBIDOS                                       150300
+      1  15001 OBIDOS                                       150390
+      1  15001 OBIDOS                                       150510
+      1  15001 OBIDOS                                       150530
+      1  15001 OBIDOS                                       150797
+      2  15002 SANTAREM                                     150040
+      2  15002 SANTAREM                                     150145
+      2  15002 SANTAREM                                     150285
+      2  15002 SANTAREM                                     150475
+      2  15002 SANTAREM                                     150480
+      2  15002 SANTAREM                                     150565
+      2  15002 SANTAREM                                     150600
+      2  15002 SANTAREM                                     150680
+      3  15003 ALMEIRIM                                     150050
+      3  15003 ALMEIRIM                                     150590
+      4  15004 PORTEL                                       150110
+      4  15004 PORTEL                                       150310
+      4  15004 PORTEL                                       150450
+      4  15004 PORTEL                                       150580
+      5  15005 FUROS DE BREVES                              150030
+      5  15005 FUROS DE BREVES                              150070
+      5  15005 FUROS DE BREVES                              150180
+      5  15005 FUROS DE BREVES                              150280
+      5  15005 FUROS DE BREVES                              150770
+      6  15006 ARARI                                        150200
+      6  15006 ARARI                                        150250
+      6  15006 ARARI                                        150490
+      6  15006 ARARI                                        150570
+      6  15006 ARARI                                        150630
+      6  15006 ARARI                                        150640
+      6  15006 ARARI                                        150790
+      7  15007 BELEM                                        150080
+      7  15007 BELEM                                        150130
+      7  15007 BELEM                                        150140
+      7  15007 BELEM                                        150150
+      7  15007 BELEM                                        150442
+      7  15007 BELEM                                        150635
+      8  15008 CASTANHAL                                    150190
+      8  15008 CASTANHAL                                    150240
+      8  15008 CASTANHAL                                    150340
+      8  15008 CASTANHAL                                    150650
+      8  15008 CASTANHAL                                    150700
+      9  15009 SALGADO                                      150260
+      9  15009 SALGADO                                      150290
+      9  15009 SALGADO                                      150410
+      9  15009 SALGADO                                      150430
+      9  15009 SALGADO                                      150440
+      9  15009 SALGADO                                      150620
+      9  15009 SALGADO                                      150710
+      9  15009 SALGADO                                      150746
+      9  15009 SALGADO                                      150747
+      9  15009 SALGADO                                      150796
+      9  15009 SALGADO                                      150820
+     10  15010 BRAGANTINA                                   150090
+     10  15010 BRAGANTINA                                   150160
+     10  15010 BRAGANTINA                                   150170
+     10  15010 BRAGANTINA                                   150220
+     10  15010 BRAGANTINA                                   150320
+     10  15010 BRAGANTINA                                   150500
+     10  15010 BRAGANTINA                                   150560
+     10  15010 BRAGANTINA                                   150610
+     10  15010 BRAGANTINA                                   150611
+     10  15010 BRAGANTINA                                   150660
+     10  15010 BRAGANTINA                                   150690
+     10  15010 BRAGANTINA                                   150740
+     10  15010 BRAGANTINA                                   150803
+     11  15011 CAMETA                                       150010
+     11  15011 CAMETA                                       150120
+     11  15011 CAMETA                                       150210
+     11  15011 CAMETA                                       150330
+     11  15011 CAMETA                                       150400
+     11  15011 CAMETA                                       150460
+     11  15011 CAMETA                                       150520
+     12  15012 TOME-ACU                                     150020
+     12  15012 TOME-ACU                                     150275
+     12  15012 TOME-ACU                                     150470
+     12  15012 TOME-ACU                                     150795
+     12  15012 TOME-ACU                                     150800
+     13  15013 GUAMA                                        150095
+     13  15013 GUAMA                                        150195
+     13  15013 GUAMA                                        150230
+     13  15013 GUAMA                                        150307
+     13  15013 GUAMA                                        150345
+     13  15013 GUAMA                                        150350
+     13  15013 GUAMA                                        150405
+     13  15013 GUAMA                                        150495
+     13  15013 GUAMA                                        150540
+     13  15013 GUAMA                                        150655
+     13  15013 GUAMA                                        150720
+     13  15013 GUAMA                                        150760
+     13  15013 GUAMA                                        150830
+     14  15014 ITAITUBA                                     150100
+     14  15014 ITAITUBA                                     150360
+     14  15014 ITAITUBA                                     150375
+     14  15014 ITAITUBA                                     150503
+     14  15014 ITAITUBA                                     150619
+     14  15014 ITAITUBA                                     150805
+     15  15015 ALTAMIRA                                     150060
+     15  15015 ALTAMIRA                                     150085
+     15  15015 ALTAMIRA                                     150172
+     15  15015 ALTAMIRA                                     150445
+     15  15015 ALTAMIRA                                     150548
+     15  15015 ALTAMIRA                                     150780
+     15  15015 ALTAMIRA                                     150815
+     15  15015 ALTAMIRA                                     150835
+     16  15016 TUCURUI                                      150178
+     16  15016 TUCURUI                                      150370
+     16  15016 TUCURUI                                      150380
+     16  15016 TUCURUI                                      150497
+     16  15016 TUCURUI                                      150506
+     16  15016 TUCURUI                                      150810
+     17  15017 PARAGOMINAS                                  150013
+     17  15017 PARAGOMINAS                                  150157
+     17  15017 PARAGOMINAS                                  150293
+     17  15017 PARAGOMINAS                                  150309
+     17  15017 PARAGOMINAS                                  150550
+     17  15017 PARAGOMINAS                                  150618
+     17  15017 PARAGOMINAS                                  150812
+     18  15018 SAO FELIX DO XINGU                           150125
+     18  15018 SAO FELIX DO XINGU                           150276
+     18  15018 SAO FELIX DO XINGU                           150543
+     18  15018 SAO FELIX DO XINGU                           150730
+     18  15018 SAO FELIX DO XINGU                           150808
+     19  15019 PARAUAPEBAS                                  150034
+     19  15019 PARAUAPEBAS                                  150215
+     19  15019 PARAUAPEBAS                                  150277
+     19  15019 PARAUAPEBAS                                  150295
+     19  15019 PARAUAPEBAS                                  150553
+     20  15020 MARABA                                       150175
+     20  15020 MARABA                                       150420
+     20  15020 MARABA                                       150549
+     20  15020 MARABA                                       150715
+     20  15020 MARABA                                       150750
+     21  15021 REDENCAO                                     150555
+     21  15021 REDENCAO                                     150563
+     21  15021 REDENCAO                                     150613
+     21  15021 REDENCAO                                     150616
+     21  15021 REDENCAO                                     150745
+     21  15021 REDENCAO                                     150775
+     21  15021 REDENCAO                                     150840
+     22  15022 CONCEICAO DO ARAGUAIA                        150270
+     22  15022 CONCEICAO DO ARAGUAIA                        150304
+     22  15022 CONCEICAO DO ARAGUAIA                        150658
+     22  15022 CONCEICAO DO ARAGUAIA                        150670
+     23  Ignorado - PA                                      150000,159999

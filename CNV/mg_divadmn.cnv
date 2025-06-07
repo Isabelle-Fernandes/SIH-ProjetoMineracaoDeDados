@@ -1,0 +1,855 @@
+29  6                                                                                    
+      1  3109 MG GRS Itabira                                310540                            
+      1  3109 MG GRS Itabira                                310600                            
+      1  3109 MG GRS Itabira                                310770                            
+      1  3109 MG GRS Itabira                                311380                            
+      1  3109 MG GRS Itabira                                311535                            
+      1  3109 MG GRS Itabira                                312260                            
+      1  3109 MG GRS Itabira                                312310                            
+      1  3109 MG GRS Itabira                                312590                            
+      1  3109 MG GRS Itabira                                312800                            
+      1  3109 MG GRS Itabira                                313170                            
+      1  3109 MG GRS Itabira                                313280                            
+      1  3109 MG GRS Itabira                                313620                            
+      1  3109 MG GRS Itabira                                314370                            
+      1  3109 MG GRS Itabira                                314470                            
+      1  3109 MG GRS Itabira                                314750                            
+      1  3109 MG GRS Itabira                                315570                            
+      1  3109 MG GRS Itabira                                315720                            
+      1  3109 MG GRS Itabira                                315800                            
+      1  3109 MG GRS Itabira                                316050                            
+      1  3109 MG GRS Itabira                                316100                            
+      1  3109 MG GRS Itabira                                316190                            
+      1  3109 MG GRS Itabira                                316480                            
+      1  3109 MG GRS Itabira                                316610                            
+      1  3109 MG GRS Itabira                                317180                            
+      2  3125 MG GRS Ituiutaba                              310980                            
+      2  3125 MG GRS Ituiutaba                              311110                            
+      2  3125 MG GRS Ituiutaba                              311180                            
+      2  3125 MG GRS Ituiutaba                              311260                            
+      2  3125 MG GRS Ituiutaba                              311580                            
+      2  3125 MG GRS Ituiutaba                              312910                            
+      2  3125 MG GRS Ituiutaba                              313140                            
+      2  3125 MG GRS Ituiutaba                              313420                            
+      2  3125 MG GRS Ituiutaba                              315980                            
+      3  3129 MG GRS Januária                               310825                            
+      3  3129 MG GRS Januária                               310860                            
+      3  3129 MG GRS Januária                               311115                            
+      3  3129 MG GRS Januária                               311783                            
+      3  3129 MG GRS Januária                               312965                            
+      3  3129 MG GRS Januária                               313005                            
+      3  3129 MG GRS Januária                               313210                            
+      3  3129 MG GRS Januária                               313520                            
+      3  3129 MG GRS Januária                               313535                            
+      3  3129 MG GRS Januária                               313695                            
+      3  3129 MG GRS Januária                               313865                            
+      3  3129 MG GRS Januária                               313868                            
+      3  3129 MG GRS Januária                               313930                            
+      3  3129 MG GRS Januária                               314200                            
+      3  3129 MG GRS Januária                               314225                            
+      3  3129 MG GRS Januária                               314270                            
+      3  3129 MG GRS Januária                               314795                            
+      3  3129 MG GRS Januária                               314915                            
+      3  3129 MG GRS Januária                               315057                            
+      3  3129 MG GRS Januária                               316110                            
+      3  3129 MG GRS Januária                               316240                            
+      3  3129 MG GRS Januária                               316245                            
+      3  3129 MG GRS Januária                               316420                            
+      3  3129 MG GRS Januária                               317000                            
+      3  3129 MG GRS Januária                               317052                            
+      3  3129 MG GRS Januária                               317090                            
+      4  3127 MG GRS Leopoldina                             310150                            
+      4  3127 MG GRS Leopoldina                             310440                            
+      4  3127 MG GRS Leopoldina                             310460                            
+      4  3127 MG GRS Leopoldina                             311530                            
+      4  3127 MG GRS Leopoldina                             312290                            
+      4  3127 MG GRS Leopoldina                             312460                            
+      4  3127 MG GRS Leopoldina                             313260                            
+      4  3127 MG GRS Leopoldina                             313800                            
+      4  3127 MG GRS Leopoldina                             313840                            
+      4  3127 MG GRS Leopoldina                             314670                            
+      4  3127 MG GRS Leopoldina                             315110                            
+      4  3127 MG GRS Leopoldina                             315410                            
+      4  3127 MG GRS Leopoldina                             315840                            
+      4  3127 MG GRS Leopoldina                             316000                            
+      4  3127 MG GRS Leopoldina                             317210                            
+      5  3124 MG GRS Manhumirim                             310030                            
+      5  3124 MG GRS Manhumirim                             310205                            
+      5  3124 MG GRS Manhumirim                             311010                            
+      5  3124 MG GRS Manhumirim                             311210                            
+      5  3124 MG GRS Manhumirim                             311290                            
+      5  3124 MG GRS Manhumirim                             311330                            
+      5  3124 MG GRS Manhumirim                             311600                            
+      5  3124 MG GRS Manhumirim                             311740                            
+      5  3124 MG GRS Manhumirim                             312200                            
+      5  3124 MG GRS Manhumirim                             312352                            
+      5  3124 MG GRS Manhumirim                             312420                            
+      5  3124 MG GRS Manhumirim                             312530                            
+      5  3124 MG GRS Manhumirim                             312595                            
+      5  3124 MG GRS Manhumirim                             313120                            
+      5  3124 MG GRS Manhumirim                             313770                            
+      5  3124 MG GRS Manhumirim                             313867                            
+      5  3124 MG GRS Manhumirim                             313940                            
+      5  3124 MG GRS Manhumirim                             313950                            
+      5  3124 MG GRS Manhumirim                             314053                            
+      5  3124 MG GRS Manhumirim                             314090                            
+      5  3124 MG GRS Manhumirim                             314400                            
+      5  3124 MG GRS Manhumirim                             314587                            
+      5  3124 MG GRS Manhumirim                             314875                            
+      5  3124 MG GRS Manhumirim                             314900                            
+      5  3124 MG GRS Manhumirim                             315190                            
+      5  3124 MG GRS Manhumirim                             315350                            
+      5  3124 MG GRS Manhumirim                             315415                            
+      5  3124 MG GRS Manhumirim                             315790                            
+      5  3124 MG GRS Manhumirim                             315890                            
+      5  3124 MG GRS Manhumirim                             316255                            
+      5  3124 MG GRS Manhumirim                             316360                            
+      5  3124 MG GRS Manhumirim                             316760                            
+      5  3124 MG GRS Manhumirim                             316805                            
+      5  3124 MG GRS Manhumirim                             316920                            
+      6  3119 MG GRS Pedra Azul                             310100                            
+      6  3119 MG GRS Pedra Azul                             310170                            
+      6  3119 MG GRS Pedra Azul                             310270                            
+      6  3119 MG GRS Pedra Azul                             310520                            
+      6  3119 MG GRS Pedra Azul                             311700                            
+      6  3119 MG GRS Pedra Azul                             312235                            
+      6  3119 MG GRS Pedra Azul                             312245                            
+      6  3119 MG GRS Pedra Azul                             312560                            
+      6  3119 MG GRS Pedra Azul                             313330                            
+      6  3119 MG GRS Pedra Azul                             313400                            
+      6  3119 MG GRS Pedra Azul                             313470                            
+      6  3119 MG GRS Pedra Azul                             313580                            
+      6  3119 MG GRS Pedra Azul                             313600                            
+      6  3119 MG GRS Pedra Azul                             313650                            
+      6  3119 MG GRS Pedra Azul                             314055                            
+      6  3119 MG GRS Pedra Azul                             314140                            
+      6  3119 MG GRS Pedra Azul                             314315                            
+      6  3119 MG GRS Pedra Azul                             314675                            
+      6  3119 MG GRS Pedra Azul                             314870                            
+      6  3119 MG GRS Pedra Azul                             315217                            
+      6  3119 MG GRS Pedra Azul                             315510                            
+      6  3119 MG GRS Pedra Azul                             315660                            
+      6  3119 MG GRS Pedra Azul                             315710                            
+      6  3119 MG GRS Pedra Azul                             315810                            
+      6  3119 MG GRS Pedra Azul                             316030                            
+      7  3128 MG GRS Pirapora                               310940                            
+      7  3128 MG GRS Pirapora                               312960                            
+      7  3128 MG GRS Pirapora                               313810                            
+      7  3128 MG GRS Pirapora                               315120                            
+      7  3128 MG GRS Pirapora                               315213                            
+      7  3128 MG GRS Pirapora                               315760                            
+      7  3128 MG GRS Pirapora                               317080                            
+      8  3120 MG GRS São João Del Rei                       310590                            
+      8  3120 MG GRS São João Del Rei                       310800                            
+      8  3120 MG GRS São João Del Rei                       311520                            
+      8  3120 MG GRS São João Del Rei                       311970                            
+      8  3120 MG GRS São João Del Rei                       312140                            
+      8  3120 MG GRS São João Del Rei                       312300                            
+      8  3120 MG GRS São João Del Rei                       312390                            
+      8  3120 MG GRS São João Del Rei                       313000                            
+      8  3120 MG GRS São João Del Rei                       313740                            
+      8  3120 MG GRS São João Del Rei                       313910                            
+      8  3120 MG GRS São João Del Rei                       314450                            
+      8  3120 MG GRS São João Del Rei                       315030                            
+      8  3120 MG GRS São João Del Rei                       315270                            
+      8  3120 MG GRS São João Del Rei                       315420                            
+      8  3120 MG GRS São João Del Rei                       315610                            
+      8  3120 MG GRS São João Del Rei                       315733                            
+      8  3120 MG GRS São João Del Rei                       316250                            
+      8  3120 MG GRS São João Del Rei                       316500                            
+      8  3120 MG GRS São João Del Rei                       316530                            
+      8  3120 MG GRS São João Del Rei                       316880                            
+      9  3118 MG GRS Ubá                                    310310                            
+      9  3118 MG GRS Ubá                                    310550                            
+      9  3118 MG GRS Ubá                                    310870                            
+      9  3118 MG GRS Ubá                                    311670                            
+      9  3118 MG GRS Ubá                                    312190                            
+      9  3118 MG GRS Ubá                                    312330                            
+      9  3118 MG GRS Ubá                                    312400                            
+      9  3118 MG GRS Ubá                                    312490                            
+      9  3118 MG GRS Ubá                                    312840                            
+      9  3118 MG GRS Ubá                                    312880                            
+      9  3118 MG GRS Ubá                                    312900                            
+      9  3118 MG GRS Ubá                                    314160                            
+      9  3118 MG GRS Ubá                                    314210                            
+      9  3118 MG GRS Ubá                                    314220                            
+      9  3118 MG GRS Ubá                                    314390                            
+      9  3118 MG GRS Ubá                                    314820                            
+      9  3118 MG GRS Ubá                                    315130                            
+      9  3118 MG GRS Ubá                                    315310                            
+      9  3118 MG GRS Ubá                                    315580                            
+      9  3118 MG GRS Ubá                                    315630                            
+      9  3118 MG GRS Ubá                                    315645                            
+      9  3118 MG GRS Ubá                                    316140                            
+      9  3118 MG GRS Ubá                                    316150                            
+      9  3118 MG GRS Ubá                                    316443                            
+      9  3118 MG GRS Ubá                                    316570                            
+      9  3118 MG GRS Ubá                                    316730                            
+      9  3118 MG GRS Ubá                                    316790                            
+      9  3118 MG GRS Ubá                                    316900                            
+      9  3118 MG GRS Ubá                                    316990                            
+      9  3118 MG GRS Ubá                                    317140                            
+      9  3118 MG GRS Ubá                                    317200                            
+     10  3126 MG GRS Unaí                                   310450                            
+     10  3126 MG GRS Unaí                                   310820                            
+     10  3126 MG GRS Unaí                                   310930                            
+     10  3126 MG GRS Unaí                                   310945                            
+     10  3126 MG GRS Unaí                                   311615                            
+     10  3126 MG GRS Unaí                                   312247                            
+     10  3126 MG GRS Unaí                                   312620                            
+     10  3126 MG GRS Unaí                                   314437                            
+     10  3126 MG GRS Unaí                                   314700                            
+     10  3126 MG GRS Unaí                                   315445                            
+     10  3126 MG GRS Unaí                                   317040                            
+     10  3126 MG GRS Unaí                                   317047                            
+     11  3121 MG SRS Alfenas                                310160                            
+     11  3121 MG SRS Alfenas                                310200                            
+     11  3121 MG SRS Alfenas                                310410                            
+     11  3121 MG SRS Alfenas                                310430                            
+     11  3121 MG SRS Alfenas                                310530                            
+     11  3121 MG SRS Alfenas                                310840                            
+     11  3121 MG SRS Alfenas                                310950                            
+     11  3121 MG SRS Alfenas                                311100                            
+     11  3121 MG SRS Alfenas                                311130                            
+     11  3121 MG SRS Alfenas                                311160                            
+     11  3121 MG SRS Alfenas                                311440                            
+     11  3121 MG SRS Alfenas                                311470                            
+     11  3121 MG SRS Alfenas                                311710                            
+     11  3121 MG SRS Alfenas                                312240                            
+     11  3121 MG SRS Alfenas                                312520                            
+     11  3121 MG SRS Alfenas                                312830                            
+     11  3121 MG SRS Alfenas                                312870                            
+     11  3121 MG SRS Alfenas                                313690                            
+     11  3121 MG SRS Alfenas                                313900                            
+     11  3121 MG SRS Alfenas                                314300                            
+     11  3121 MG SRS Alfenas                                314410                            
+     11  3121 MG SRS Alfenas                                314510                            
+     11  3121 MG SRS Alfenas                                314720                            
+     11  3121 MG SRS Alfenas                                315170                            
+     11  3121 MG SRS Alfenas                                316390                            
+     11  3121 MG SRS Alfenas                                316690                            
+     12  3103 MG SRS Barbacena                              310163                            
+     12  3103 MG SRS Barbacena                              310210                            
+     12  3103 MG SRS Barbacena                              310290                            
+     12  3103 MG SRS Barbacena                              310560                            
+     12  3103 MG SRS Barbacena                              311220                            
+     12  3103 MG SRS Barbacena                              311310                            
+     12  3103 MG SRS Barbacena                              311320                            
+     12  3103 MG SRS Barbacena                              311490                            
+     12  3103 MG SRS Barbacena                              311540                            
+     12  3103 MG SRS Barbacena                              311630                            
+     12  3103 MG SRS Barbacena                              311800                            
+     12  3103 MG SRS Barbacena                              311830                            
+     12  3103 MG SRS Barbacena                              312040                            
+     12  3103 MG SRS Barbacena                              312150                            
+     12  3103 MG SRS Barbacena                              312940                            
+     12  3103 MG SRS Barbacena                              313390                            
+     12  3103 MG SRS Barbacena                              313540                            
+     12  3103 MG SRS Barbacena                              313790                            
+     12  3103 MG SRS Barbacena                              314590                            
+     12  3103 MG SRS Barbacena                              314660                            
+     12  3103 MG SRS Barbacena                              315080                            
+     12  3103 MG SRS Barbacena                              315380                            
+     12  3103 MG SRS Barbacena                              315440                            
+     12  3103 MG SRS Barbacena                              315520                            
+     12  3103 MG SRS Barbacena                              315730                            
+     12  3103 MG SRS Barbacena                              315870                            
+     12  3103 MG SRS Barbacena                              315910                            
+     12  3103 MG SRS Barbacena                              315940                            
+     12  3103 MG SRS Barbacena                              316090                            
+     12  3103 MG SRS Barbacena                              316600                            
+     12  3103 MG SRS Barbacena                              316620                            
+     13  3101 MG SRS Belo Horizonte                         310620                            
+     13  3101 MG SRS Belo Horizonte                         310640                            
+     13  3101 MG SRS Belo Horizonte                         310670                            
+     13  3101 MG SRS Belo Horizonte                         310810                            
+     13  3101 MG SRS Belo Horizonte                         310900                            
+     13  3101 MG SRS Belo Horizonte                         311000                            
+     13  3101 MG SRS Belo Horizonte                         311750                            
+     13  3101 MG SRS Belo Horizonte                         311787                            
+     13  3101 MG SRS Belo Horizonte                         311860                            
+     13  3101 MG SRS Belo Horizonte                         312060                            
+     13  3101 MG SRS Belo Horizonte                         312410                            
+     13  3101 MG SRS Belo Horizonte                         312600                            
+     13  3101 MG SRS Belo Horizonte                         312980                            
+     13  3101 MG SRS Belo Horizonte                         313010                            
+     13  3101 MG SRS Belo Horizonte                         313190                            
+     13  3101 MG SRS Belo Horizonte                         313460                            
+     13  3101 MG SRS Belo Horizonte                         313660                            
+     13  3101 MG SRS Belo Horizonte                         313665                            
+     13  3101 MG SRS Belo Horizonte                         313760                            
+     13  3101 MG SRS Belo Horizonte                         314000                            
+     13  3101 MG SRS Belo Horizonte                         314015                            
+     13  3101 MG SRS Belo Horizonte                         314070                            
+     13  3101 MG SRS Belo Horizonte                         314110                            
+     13  3101 MG SRS Belo Horizonte                         314230                            
+     13  3101 MG SRS Belo Horizonte                         314480                            
+     13  3101 MG SRS Belo Horizonte                         314610                            
+     13  3101 MG SRS Belo Horizonte                         314930                            
+     13  3101 MG SRS Belo Horizonte                         315040                            
+     13  3101 MG SRS Belo Horizonte                         315390                            
+     13  3101 MG SRS Belo Horizonte                         315460                            
+     13  3101 MG SRS Belo Horizonte                         315480                            
+     13  3101 MG SRS Belo Horizonte                         315530                            
+     13  3101 MG SRS Belo Horizonte                         315670                            
+     13  3101 MG SRS Belo Horizonte                         315780                            
+     13  3101 MG SRS Belo Horizonte                         315900                            
+     13  3101 MG SRS Belo Horizonte                         316292                            
+     13  3101 MG SRS Belo Horizonte                         316295                            
+     13  3101 MG SRS Belo Horizonte                         316553                            
+     13  3101 MG SRS Belo Horizonte                         316830                            
+     13  3101 MG SRS Belo Horizonte                         317120                            
+     14  3123 MG SRS Coronel Fabriciano                     310050                            
+     14  3123 MG SRS Coronel Fabriciano                     310300                            
+     14  3123 MG SRS Coronel Fabriciano                     310630                            
+     14  3123 MG SRS Coronel Fabriciano                     310780                            
+     14  3123 MG SRS Coronel Fabriciano                     310880                            
+     14  3123 MG SRS Coronel Fabriciano                     310925                            
+     14  3123 MG SRS Coronel Fabriciano                     311340                            
+     14  3123 MG SRS Coronel Fabriciano                     311940                            
+     14  3123 MG SRS Coronel Fabriciano                     312000                            
+     14  3123 MG SRS Coronel Fabriciano                     312180                            
+     14  3123 MG SRS Coronel Fabriciano                     312250                            
+     14  3123 MG SRS Coronel Fabriciano                     312385                            
+     14  3123 MG SRS Coronel Fabriciano                     312930                            
+     14  3123 MG SRS Coronel Fabriciano                     313055                            
+     14  3123 MG SRS Coronel Fabriciano                     313090                            
+     14  3123 MG SRS Coronel Fabriciano                     313115                            
+     14  3123 MG SRS Coronel Fabriciano                     313130                            
+     14  3123 MG SRS Coronel Fabriciano                     313500                            
+     14  3123 MG SRS Coronel Fabriciano                     313610                            
+     14  3123 MG SRS Coronel Fabriciano                     314030                            
+     14  3123 MG SRS Coronel Fabriciano                     314170                            
+     14  3123 MG SRS Coronel Fabriciano                     314435                            
+     14  3123 MG SRS Coronel Fabriciano                     314995                            
+     14  3123 MG SRS Coronel Fabriciano                     315015                            
+     14  3123 MG SRS Coronel Fabriciano                     315053                            
+     14  3123 MG SRS Coronel Fabriciano                     315725                            
+     14  3123 MG SRS Coronel Fabriciano                     315895                            
+     14  3123 MG SRS Coronel Fabriciano                     315935                            
+     14  3123 MG SRS Coronel Fabriciano                     316095                            
+     14  3123 MG SRS Coronel Fabriciano                     316260                            
+     14  3123 MG SRS Coronel Fabriciano                     316447                            
+     14  3123 MG SRS Coronel Fabriciano                     316870                            
+     14  3123 MG SRS Coronel Fabriciano                     317005                            
+     14  3123 MG SRS Coronel Fabriciano                     317057                            
+     14  3123 MG SRS Coronel Fabriciano                     317115                            
+     15  3104 MG SRS Diamantina                             310240                            
+     15  3104 MG SRS Diamantina                             310340                            
+     15  3104 MG SRS Diamantina                             310445                            
+     15  3104 MG SRS Diamantina                             310650                            
+     15  3104 MG SRS Diamantina                             311230                            
+     15  3104 MG SRS Diamantina                             311350                            
+     15  3104 MG SRS Diamantina                             311610                            
+     15  3104 MG SRS Diamantina                             311680                            
+     15  3104 MG SRS Diamantina                             311810                            
+     15  3104 MG SRS Diamantina                             311950                            
+     15  3104 MG SRS Diamantina                             312010                            
+     15  3104 MG SRS Diamantina                             312100                            
+     15  3104 MG SRS Diamantina                             312160                            
+     15  3104 MG SRS Diamantina                             312540                            
+     15  3104 MG SRS Diamantina                             312550                            
+     15  3104 MG SRS Diamantina                             312650                            
+     15  3104 MG SRS Diamantina                             312760                            
+     15  3104 MG SRS Diamantina                             313250                            
+     15  3104 MG SRS Diamantina                             313545                            
+     15  3104 MG SRS Diamantina                             313652                            
+     15  3104 MG SRS Diamantina                             313835                            
+     15  3104 MG SRS Diamantina                             314060                            
+     15  3104 MG SRS Diamantina                             314180                            
+     15  3104 MG SRS Diamantina                             315330                            
+     15  3104 MG SRS Diamantina                             315600                            
+     15  3104 MG SRS Diamantina                             315680                            
+     15  3104 MG SRS Diamantina                             316020                            
+     15  3104 MG SRS Diamantina                             316590                            
+     15  3104 MG SRS Diamantina                             316650                            
+     15  3104 MG SRS Diamantina                             316710                            
+     15  3104 MG SRS Diamantina                             316970                            
+     15  3104 MG SRS Diamantina                             317107                            
+     15  3104 MG SRS Diamantina                             317160                            
+     16  3115 MG SRS Divinópolis                            310080                            
+     16  3115 MG SRS Divinópolis                            310390                            
+     16  3115 MG SRS Divinópolis                            310420                            
+     16  3115 MG SRS Divinópolis                            310510                            
+     16  3115 MG SRS Divinópolis                            310740                            
+     16  3115 MG SRS Divinópolis                            311040                            
+     16  3115 MG SRS Divinópolis                            311120                            
+     16  3115 MG SRS Divinópolis                            311190                            
+     16  3115 MG SRS Divinópolis                            311200                            
+     16  3115 MG SRS Divinópolis                            311400                            
+     16  3115 MG SRS Divinópolis                            311420                            
+     16  3115 MG SRS Divinópolis                            311450                            
+     16  3115 MG SRS Divinópolis                            311660                            
+     16  3115 MG SRS Divinópolis                            311760                            
+     16  3115 MG SRS Divinópolis                            311980                            
+     16  3115 MG SRS Divinópolis                            311995                            
+     16  3115 MG SRS Divinópolis                            312020                            
+     16  3115 MG SRS Divinópolis                            312230                            
+     16  3115 MG SRS Divinópolis                            312320                            
+     16  3115 MG SRS Divinópolis                            312470                            
+     16  3115 MG SRS Divinópolis                            312610                            
+     16  3115 MG SRS Divinópolis                            313020                            
+     16  3115 MG SRS Divinópolis                            313030                            
+     16  3115 MG SRS Divinópolis                            313220                            
+     16  3115 MG SRS Divinópolis                            313350                            
+     16  3115 MG SRS Divinópolis                            313370                            
+     16  3115 MG SRS Divinópolis                            313380                            
+     16  3115 MG SRS Divinópolis                            313530                            
+     16  3115 MG SRS Divinópolis                            313720                            
+     16  3115 MG SRS Divinópolis                            313830                            
+     16  3115 MG SRS Divinópolis                            313880                            
+     16  3115 MG SRS Divinópolis                            314050                            
+     16  3115 MG SRS Divinópolis                            314130                            
+     16  3115 MG SRS Divinópolis                            314240                            
+     16  3115 MG SRS Divinópolis                            314520                            
+     16  3115 MG SRS Divinópolis                            314560                            
+     16  3115 MG SRS Divinópolis                            314580                            
+     16  3115 MG SRS Divinópolis                            314650                            
+     16  3115 MG SRS Divinópolis                            314710                            
+     16  3115 MG SRS Divinópolis                            314770                            
+     16  3115 MG SRS Divinópolis                            314890                            
+     16  3115 MG SRS Divinópolis                            314970                            
+     16  3115 MG SRS Divinópolis                            315050                            
+     16  3115 MG SRS Divinópolis                            315060                            
+     16  3115 MG SRS Divinópolis                            315140                            
+     16  3115 MG SRS Divinópolis                            315880                            
+     16  3115 MG SRS Divinópolis                            315990                            
+     16  3115 MG SRS Divinópolis                            316040                            
+     16  3115 MG SRS Divinópolis                            316120                            
+     16  3115 MG SRS Divinópolis                            316180                            
+     16  3115 MG SRS Divinópolis                            316310                            
+     16  3115 MG SRS Divinópolis                            316460                            
+     16  3115 MG SRS Divinópolis                            316660                            
+     16  3115 MG SRS Divinópolis                            316820                            
+     17  3116 MG SRS Governador Valadares                   310060                            
+     17  3116 MG SRS Governador Valadares                   310110                            
+     17  3116 MG SRS Governador Valadares                   310180                            
+     17  3116 MG SRS Governador Valadares                   310220                            
+     17  3116 MG SRS Governador Valadares                   311205                            
+     17  3116 MG SRS Governador Valadares                   311265                            
+     17  3116 MG SRS Governador Valadares                   311570                            
+     17  3116 MG SRS Governador Valadares                   311840                            
+     17  3116 MG SRS Governador Valadares                   311920                            
+     17  3116 MG SRS Governador Valadares                   312083                            
+     17  3116 MG SRS Governador Valadares                   312210                            
+     17  3116 MG SRS Governador Valadares                   312220                            
+     17  3116 MG SRS Governador Valadares                   312370                            
+     17  3116 MG SRS Governador Valadares                   312580                            
+     17  3116 MG SRS Governador Valadares                   312690                            
+     17  3116 MG SRS Governador Valadares                   312695                            
+     17  3116 MG SRS Governador Valadares                   312730                            
+     17  3116 MG SRS Governador Valadares                   312737                            
+     17  3116 MG SRS Governador Valadares                   312750                            
+     17  3116 MG SRS Governador Valadares                   312770                            
+     17  3116 MG SRS Governador Valadares                   313180                            
+     17  3116 MG SRS Governador Valadares                   313320                            
+     17  3116 MG SRS Governador Valadares                   313410                            
+     17  3116 MG SRS Governador Valadares                   313507                            
+     17  3116 MG SRS Governador Valadares                   313655                            
+     17  3116 MG SRS Governador Valadares                   313960                            
+     17  3116 MG SRS Governador Valadares                   314010                            
+     17  3116 MG SRS Governador Valadares                   314150                            
+     17  3116 MG SRS Governador Valadares                   314420                            
+     17  3116 MG SRS Governador Valadares                   314467                            
+     17  3116 MG SRS Governador Valadares                   314840                            
+     17  3116 MG SRS Governador Valadares                   314860                            
+     17  3116 MG SRS Governador Valadares                   315430                            
+     17  3116 MG SRS Governador Valadares                   315750                            
+     17  3116 MG SRS Governador Valadares                   315820                            
+     17  3116 MG SRS Governador Valadares                   315950                            
+     17  3116 MG SRS Governador Valadares                   316105                            
+     17  3116 MG SRS Governador Valadares                   316160                            
+     17  3116 MG SRS Governador Valadares                   316165                            
+     17  3116 MG SRS Governador Valadares                   316257                            
+     17  3116 MG SRS Governador Valadares                   316280                            
+     17  3116 MG SRS Governador Valadares                   316300                            
+     17  3116 MG SRS Governador Valadares                   316350                            
+     17  3116 MG SRS Governador Valadares                   316410                            
+     17  3116 MG SRS Governador Valadares                   316450                            
+     17  3116 MG SRS Governador Valadares                   316550                            
+     17  3116 MG SRS Governador Valadares                   316770                            
+     17  3116 MG SRS Governador Valadares                   316840                            
+     17  3116 MG SRS Governador Valadares                   316950                            
+     17  3116 MG SRS Governador Valadares                   317150                            
+     17  3116 MG SRS Governador Valadares                   317190                            
+     18  3105 MG SRS Juiz de Fora                           310280                            
+     18  3105 MG SRS Juiz de Fora                           310330                            
+     18  3105 MG SRS Juiz de Fora                           310360                            
+     18  3105 MG SRS Juiz de Fora                           310610                            
+     18  3105 MG SRS Juiz de Fora                           310680                            
+     18  3105 MG SRS Juiz de Fora                           310690                            
+     18  3105 MG SRS Juiz de Fora                           310720                            
+     18  3105 MG SRS Juiz de Fora                           310750                            
+     18  3105 MG SRS Juiz de Fora                           311590                            
+     18  3105 MG SRS Juiz de Fora                           311620                            
+     18  3105 MG SRS Juiz de Fora                           311960                            
+     18  3105 MG SRS Juiz de Fora                           312130                            
+     18  3105 MG SRS Juiz de Fora                           312500                            
+     18  3105 MG SRS Juiz de Fora                           312738                            
+     18  3105 MG SRS Juiz de Fora                           312850                            
+     18  3105 MG SRS Juiz de Fora                           313670                            
+     18  3105 MG SRS Juiz de Fora                           313850                            
+     18  3105 MG SRS Juiz de Fora                           313860                            
+     18  3105 MG SRS Juiz de Fora                           313980                            
+     18  3105 MG SRS Juiz de Fora                           314020                            
+     18  3105 MG SRS Juiz de Fora                           314080                            
+     18  3105 MG SRS Juiz de Fora                           314540                            
+     18  3105 MG SRS Juiz de Fora                           314570                            
+     18  3105 MG SRS Juiz de Fora                           314780                            
+     18  3105 MG SRS Juiz de Fora                           314940                            
+     18  3105 MG SRS Juiz de Fora                           314950                            
+     18  3105 MG SRS Juiz de Fora                           315010                            
+     18  3105 MG SRS Juiz de Fora                           315540                            
+     18  3105 MG SRS Juiz de Fora                           315590                            
+     18  3105 MG SRS Juiz de Fora                           315620                            
+     18  3105 MG SRS Juiz de Fora                           315727                            
+     18  3105 MG SRS Juiz de Fora                           315860                            
+     18  3105 MG SRS Juiz de Fora                           315930                            
+     18  3105 MG SRS Juiz de Fora                           316070                            
+     18  3105 MG SRS Juiz de Fora                           316290                            
+     18  3105 MG SRS Juiz de Fora                           316560                            
+     18  3105 MG SRS Juiz de Fora                           316750                            
+     19  3106 MG SRS Montes Claros                          310665                            
+     19  3106 MG SRS Montes Claros                          310730                            
+     19  3106 MG SRS Montes Claros                          310850                            
+     19  3106 MG SRS Montes Claros                          311270                            
+     19  3106 MG SRS Montes Claros                          311547                            
+     19  3106 MG SRS Montes Claros                          311650                            
+     19  3106 MG SRS Montes Claros                          311880                            
+     19  3106 MG SRS Montes Claros                          312030                            
+     19  3106 MG SRS Montes Claros                          312087                            
+     19  3106 MG SRS Montes Claros                          312380                            
+     19  3106 MG SRS Montes Claros                          312430                            
+     19  3106 MG SRS Montes Claros                          312660                            
+     19  3106 MG SRS Montes Claros                          312670                            
+     19  3106 MG SRS Montes Claros                          312707                            
+     19  3106 MG SRS Montes Claros                          312733                            
+     19  3106 MG SRS Montes Claros                          312735                            
+     19  3106 MG SRS Montes Claros                          312780                            
+     19  3106 MG SRS Montes Claros                          312825                            
+     19  3106 MG SRS Montes Claros                          313065                            
+     19  3106 MG SRS Montes Claros                          313200                            
+     19  3106 MG SRS Montes Claros                          313505                            
+     19  3106 MG SRS Montes Claros                          313510                            
+     19  3106 MG SRS Montes Claros                          313560                            
+     19  3106 MG SRS Montes Claros                          313640                            
+     19  3106 MG SRS Montes Claros                          313657                            
+     19  3106 MG SRS Montes Claros                          313680                            
+     19  3106 MG SRS Montes Claros                          313730                            
+     19  3106 MG SRS Montes Claros                          313925                            
+     19  3106 MG SRS Montes Claros                          314085                            
+     19  3106 MG SRS Montes Claros                          314100                            
+     19  3106 MG SRS Montes Claros                          314290                            
+     19  3106 MG SRS Montes Claros                          314330                            
+     19  3106 MG SRS Montes Claros                          314345                            
+     19  3106 MG SRS Montes Claros                          314465                            
+     19  3106 MG SRS Montes Claros                          314505                            
+     19  3106 MG SRS Montes Claros                          314537                            
+     19  3106 MG SRS Montes Claros                          314545                            
+     19  3106 MG SRS Montes Claros                          314625                            
+     19  3106 MG SRS Montes Claros                          314655                            
+     19  3106 MG SRS Montes Claros                          315220                            
+     19  3106 MG SRS Montes Claros                          315450                            
+     19  3106 MG SRS Montes Claros                          315560                            
+     19  3106 MG SRS Montes Claros                          315650                            
+     19  3106 MG SRS Montes Claros                          315700                            
+     19  3106 MG SRS Montes Claros                          315737                            
+     19  3106 MG SRS Montes Claros                          316045                            
+     19  3106 MG SRS Montes Claros                          316225                            
+     19  3106 MG SRS Montes Claros                          316265                            
+     19  3106 MG SRS Montes Claros                          316270                            
+     19  3106 MG SRS Montes Claros                          316695                            
+     19  3106 MG SRS Montes Claros                          316800                            
+     19  3106 MG SRS Montes Claros                          317065                            
+     19  3106 MG SRS Montes Claros                          317103                            
+     20  3122 MG SRS Passos                                 310190                            
+     20  3122 MG SRS Passos                                 310760                            
+     20  3122 MG SRS Passos                                 311240                            
+     20  3122 MG SRS Passos                                 311280                            
+     20  3122 MG SRS Passos                                 311510                            
+     20  3122 MG SRS Passos                                 311640                            
+     20  3122 MG SRS Passos                                 312120                            
+     20  3122 MG SRS Passos                                 312340                            
+     20  3122 MG SRS Passos                                 312630                            
+     20  3122 MG SRS Passos                                 312810                            
+     20  3122 MG SRS Passos                                 312970                            
+     20  3122 MG SRS Passos                                 313290                            
+     20  3122 MG SRS Passos                                 313375                            
+     20  3122 MG SRS Passos                                 313480                            
+     20  3122 MG SRS Passos                                 314320                            
+     20  3122 MG SRS Passos                                 314790                            
+     20  3122 MG SRS Passos                                 315150                            
+     20  3122 MG SRS Passos                                 315290                            
+     20  3122 MG SRS Passos                                 316220                            
+     20  3122 MG SRS Passos                                 316294                            
+     20  3122 MG SRS Passos                                 316430                            
+     20  3122 MG SRS Passos                                 316470                            
+     20  3122 MG SRS Passos                                 316510                            
+     20  3122 MG SRS Passos                                 317060                            
+     21  3107 MG SRS Patos de Minas                         310380                            
+     21  3107 MG SRS Patos de Minas                         310855                            
+     21  3107 MG SRS Patos de Minas                         311430                            
+     21  3107 MG SRS Patos de Minas                         312070                            
+     21  3107 MG SRS Patos de Minas                         312860                            
+     21  3107 MG SRS Patos de Minas                         312890                            
+     21  3107 MG SRS Patos de Minas                         313630                            
+     21  3107 MG SRS Patos de Minas                         313710                            
+     21  3107 MG SRS Patos de Minas                         313750                            
+     21  3107 MG SRS Patos de Minas                         313753                            
+     21  3107 MG SRS Patos de Minas                         314120                            
+     21  3107 MG SRS Patos de Minas                         314800                            
+     21  3107 MG SRS Patos de Minas                         315340                            
+     21  3107 MG SRS Patos de Minas                         315550                            
+     21  3107 MG SRS Patos de Minas                         315970                            
+     21  3107 MG SRS Patos de Minas                         316170                            
+     21  3107 MG SRS Patos de Minas                         316210                            
+     21  3107 MG SRS Patos de Minas                         316680                            
+     21  3107 MG SRS Patos de Minas                         316890                            
+     21  3107 MG SRS Patos de Minas                         317075                            
+     21  3107 MG SRS Patos de Minas                         317100                            
+     22  3108 MG SRS Ponte Nova                             310040                            
+     22  3108 MG SRS Ponte Nova                             310230                            
+     22  3108 MG SRS Ponte Nova                             310250                            
+     22  3108 MG SRS Ponte Nova                             310370                            
+     22  3108 MG SRS Ponte Nova                             310570                            
+     22  3108 MG SRS Ponte Nova                             311020                            
+     22  3108 MG SRS Ponte Nova                             311170                            
+     22  3108 MG SRS Ponte Nova                             312170                            
+     22  3108 MG SRS Ponte Nova                             312270                            
+     22  3108 MG SRS Ponte Nova                             312820                            
+     22  3108 MG SRS Ponte Nova                             313550                            
+     22  3108 MG SRS Ponte Nova                             314585                            
+     22  3108 MG SRS Ponte Nova                             314830                            
+     22  3108 MG SRS Ponte Nova                             314880                            
+     22  3108 MG SRS Ponte Nova                             315020                            
+     22  3108 MG SRS Ponte Nova                             315210                            
+     22  3108 MG SRS Ponte Nova                             315230                            
+     22  3108 MG SRS Ponte Nova                             315400                            
+     22  3108 MG SRS Ponte Nova                             315490                            
+     22  3108 MG SRS Ponte Nova                             315500                            
+     22  3108 MG SRS Ponte Nova                             315740                            
+     22  3108 MG SRS Ponte Nova                             316010                            
+     22  3108 MG SRS Ponte Nova                             316340                            
+     22  3108 MG SRS Ponte Nova                             316380                            
+     22  3108 MG SRS Ponte Nova                             316400                            
+     22  3108 MG SRS Ponte Nova                             316556                            
+     22  3108 MG SRS Ponte Nova                             316630                            
+     22  3108 MG SRS Ponte Nova                             316850                            
+     22  3108 MG SRS Ponte Nova                             317050                            
+     22  3108 MG SRS Ponte Nova                             317130                            
+     23  3110 MG SRS Pouso Alegre                           310140                            
+     23  3110 MG SRS Pouso Alegre                           310260                            
+     23  3110 MG SRS Pouso Alegre                           310790                            
+     23  3110 MG SRS Pouso Alegre                           310830                            
+     23  3110 MG SRS Pouso Alegre                           310890                            
+     23  3110 MG SRS Pouso Alegre                           310910                            
+     23  3110 MG SRS Pouso Alegre                           310970                            
+     23  3110 MG SRS Pouso Alegre                           311030                            
+     23  3110 MG SRS Pouso Alegre                           311050                            
+     23  3110 MG SRS Pouso Alegre                           311060                            
+     23  3110 MG SRS Pouso Alegre                           311360                            
+     23  3110 MG SRS Pouso Alegre                           311720                            
+     23  3110 MG SRS Pouso Alegre                           311780                            
+     23  3110 MG SRS Pouso Alegre                           311790                            
+     23  3110 MG SRS Pouso Alegre                           311850                            
+     23  3110 MG SRS Pouso Alegre                           311990                            
+     23  3110 MG SRS Pouso Alegre                           312110                            
+     23  3110 MG SRS Pouso Alegre                           312440                            
+     23  3110 MG SRS Pouso Alegre                           312450                            
+     23  3110 MG SRS Pouso Alegre                           312510                            
+     23  3110 MG SRS Pouso Alegre                           312740                            
+     23  3110 MG SRS Pouso Alegre                           312920                            
+     23  3110 MG SRS Pouso Alegre                           312990                            
+     23  3110 MG SRS Pouso Alegre                           313060                            
+     23  3110 MG SRS Pouso Alegre                           313150                            
+     23  3110 MG SRS Pouso Alegre                           313240                            
+     23  3110 MG SRS Pouso Alegre                           313360                            
+     23  3110 MG SRS Pouso Alegre                           313490                            
+     23  3110 MG SRS Pouso Alegre                           313990                            
+     23  3110 MG SRS Pouso Alegre                           314040                            
+     23  3110 MG SRS Pouso Alegre                           314340                            
+     23  3110 MG SRS Pouso Alegre                           314380                            
+     23  3110 MG SRS Pouso Alegre                           314440                            
+     23  3110 MG SRS Pouso Alegre                           314600                            
+     23  3110 MG SRS Pouso Alegre                           314730                            
+     23  3110 MG SRS Pouso Alegre                           314910                            
+     23  3110 MG SRS Pouso Alegre                           315090                            
+     23  3110 MG SRS Pouso Alegre                           315100                            
+     23  3110 MG SRS Pouso Alegre                           315180                            
+     23  3110 MG SRS Pouso Alegre                           315250                            
+     23  3110 MG SRS Pouso Alegre                           315920                            
+     23  3110 MG SRS Pouso Alegre                           315960                            
+     23  3110 MG SRS Pouso Alegre                           316200                            
+     23  3110 MG SRS Pouso Alegre                           316230                            
+     23  3110 MG SRS Pouso Alegre                           316320                            
+     23  3110 MG SRS Pouso Alegre                           316440                            
+     23  3110 MG SRS Pouso Alegre                           316540                            
+     23  3110 MG SRS Pouso Alegre                           316557                            
+     23  3110 MG SRS Pouso Alegre                           316580                            
+     23  3110 MG SRS Pouso Alegre                           316740                            
+     23  3110 MG SRS Pouso Alegre                           316905                            
+     23  3110 MG SRS Pouso Alegre                           316910                            
+     23  3110 MG SRS Pouso Alegre                           316980                            
+     23  3110 MG SRS Pouso Alegre                           317220                            
+     24  3114 MG SRS Sete Lagoas                            310020                            
+     24  3114 MG SRS Sete Lagoas                            310320                            
+     24  3114 MG SRS Sete Lagoas                            310480                            
+     24  3114 MG SRS Sete Lagoas                            310500                            
+     24  3114 MG SRS Sete Lagoas                            310700                            
+     24  3114 MG SRS Sete Lagoas                            310920                            
+     24  3114 MG SRS Sete Lagoas                            310960                            
+     24  3114 MG SRS Sete Lagoas                            310990                            
+     24  3114 MG SRS Sete Lagoas                            311250                            
+     24  3114 MG SRS Sete Lagoas                            311560                            
+     24  3114 MG SRS Sete Lagoas                            311890                            
+     24  3114 MG SRS Sete Lagoas                            311910                            
+     24  3114 MG SRS Sete Lagoas                            312090                            
+     24  3114 MG SRS Sete Lagoas                            312570                            
+     24  3114 MG SRS Sete Lagoas                            312640                            
+     24  3114 MG SRS Sete Lagoas                            312720                            
+     24  3114 MG SRS Sete Lagoas                            313100                            
+     24  3114 MG SRS Sete Lagoas                            313110                            
+     24  3114 MG SRS Sete Lagoas                            313570                            
+     24  3114 MG SRS Sete Lagoas                            313970                            
+     24  3114 MG SRS Sete Lagoas                            314250                            
+     24  3114 MG SRS Sete Lagoas                            314350                            
+     24  3114 MG SRS Sete Lagoas                            314360                            
+     24  3114 MG SRS Sete Lagoas                            314640                            
+     24  3114 MG SRS Sete Lagoas                            314690                            
+     24  3114 MG SRS Sete Lagoas                            314740                            
+     24  3114 MG SRS Sete Lagoas                            314960                            
+     24  3114 MG SRS Sete Lagoas                            315200                            
+     24  3114 MG SRS Sete Lagoas                            315320                            
+     24  3114 MG SRS Sete Lagoas                            315360                            
+     24  3114 MG SRS Sete Lagoas                            315370                            
+     24  3114 MG SRS Sete Lagoas                            315850                            
+     24  3114 MG SRS Sete Lagoas                            316060                            
+     24  3114 MG SRS Sete Lagoas                            316720                            
+     24  3114 MG SRS Sete Lagoas                            316935                            
+     25  3117 MG SRS Teófilo Otoni                          310090                            
+     25  3117 MG SRS Teófilo Otoni                          310285                            
+     25  3117 MG SRS Teófilo Otoni                          310470                            
+     25  3117 MG SRS Teófilo Otoni                          310660                            
+     25  3117 MG SRS Teófilo Otoni                          311080                            
+     25  3117 MG SRS Teófilo Otoni                          311300                            
+     25  3117 MG SRS Teófilo Otoni                          311370                            
+     25  3117 MG SRS Teófilo Otoni                          311545                            
+     25  3117 MG SRS Teófilo Otoni                          312015                            
+     25  3117 MG SRS Teófilo Otoni                          312675                            
+     25  3117 MG SRS Teófilo Otoni                          312680                            
+     25  3117 MG SRS Teófilo Otoni                          312705                            
+     25  3117 MG SRS Teófilo Otoni                          313230                            
+     25  3117 MG SRS Teófilo Otoni                          313270                            
+     25  3117 MG SRS Teófilo Otoni                          313700                            
+     25  3117 MG SRS Teófilo Otoni                          313890                            
+     25  3117 MG SRS Teófilo Otoni                          313920                            
+     25  3117 MG SRS Teófilo Otoni                          314430                            
+     25  3117 MG SRS Teófilo Otoni                          314490                            
+     25  3117 MG SRS Teófilo Otoni                          314530                            
+     25  3117 MG SRS Teófilo Otoni                          314535                            
+     25  3117 MG SRS Teófilo Otoni                          314620                            
+     25  3117 MG SRS Teófilo Otoni                          314630                            
+     25  3117 MG SRS Teófilo Otoni                          314850                            
+     25  3117 MG SRS Teófilo Otoni                          315000                            
+     25  3117 MG SRS Teófilo Otoni                          315240                            
+     25  3117 MG SRS Teófilo Otoni                          315765                            
+     25  3117 MG SRS Teófilo Otoni                          316330                            
+     25  3117 MG SRS Teófilo Otoni                          316555                            
+     25  3117 MG SRS Teófilo Otoni                          316670                            
+     25  3117 MG SRS Teófilo Otoni                          316860                            
+     25  3117 MG SRS Teófilo Otoni                          317030                            
+     26  3113 MG SRS Uberaba                                310070                            
+     26  3113 MG SRS Uberaba                                310400                            
+     26  3113 MG SRS Uberaba                                311140                            
+     26  3113 MG SRS Uberaba                                311150                            
+     26  3113 MG SRS Uberaba                                311455                            
+     26  3113 MG SRS Uberaba                                311690                            
+     26  3113 MG SRS Uberaba                                311730                            
+     26  3113 MG SRS Uberaba                                311820                            
+     26  3113 MG SRS Uberaba                                312125                            
+     26  3113 MG SRS Uberaba                                312700                            
+     26  3113 MG SRS Uberaba                                312710                            
+     26  3113 MG SRS Uberaba                                312950                            
+     26  3113 MG SRS Uberaba                                313340                            
+     26  3113 MG SRS Uberaba                                313440                            
+     26  3113 MG SRS Uberaba                                313862                            
+     26  3113 MG SRS Uberaba                                314920                            
+     26  3113 MG SRS Uberaba                                314980                            
+     26  3113 MG SRS Uberaba                                315070                            
+     26  3113 MG SRS Uberaba                                315160                            
+     26  3113 MG SRS Uberaba                                315300                            
+     26  3113 MG SRS Uberaba                                315690                            
+     26  3113 MG SRS Uberaba                                315770                            
+     26  3113 MG SRS Uberaba                                316130                            
+     26  3113 MG SRS Uberaba                                316810                            
+     26  3113 MG SRS Uberaba                                317010                            
+     26  3113 MG SRS Uberaba                                317043                            
+     26  3113 MG SRS Uberaba                                317110                            
+     27  3112 MG SRS Uberlândia                             310010                            
+     27  3112 MG SRS Uberlândia                             310350                            
+     27  3112 MG SRS Uberlândia                             310375                            
+     27  3112 MG SRS Uberlândia                             311500                            
+     27  3112 MG SRS Uberlândia                             311930                            
+     27  3112 MG SRS Uberlândia                             312350                            
+     27  3112 MG SRS Uberlândia                             312480                            
+     27  3112 MG SRS Uberlândia                             312790                            
+     27  3112 MG SRS Uberlândia                             313070                            
+     27  3112 MG SRS Uberlândia                             313160                            
+     27  3112 MG SRS Uberlândia                             314280                            
+     27  3112 MG SRS Uberlândia                             314310                            
+     27  3112 MG SRS Uberlândia                             314500                            
+     27  3112 MG SRS Uberlândia                             314810                            
+     27  3112 MG SRS Uberlândia                             315280                            
+     27  3112 MG SRS Uberlândia                             315640                            
+     27  3112 MG SRS Uberlândia                             316960                            
+     27  3112 MG SRS Uberlândia                             317020                            
+     28  3111 MG SRS Varginha                               310120                            
+     28  3111 MG SRS Varginha                               310130                            
+     28  3111 MG SRS Varginha                               310490                            
+     28  3111 MG SRS Varginha                               310710                            
+     28  3111 MG SRS Varginha                               311070                            
+     28  3111 MG SRS Varginha                               311090                            
+     28  3111 MG SRS Varginha                               311390                            
+     28  3111 MG SRS Varginha                               311410                            
+     28  3111 MG SRS Varginha                               311460                            
+     28  3111 MG SRS Varginha                               311480                            
+     28  3111 MG SRS Varginha                               311550                            
+     28  3111 MG SRS Varginha                               311770                            
+     28  3111 MG SRS Varginha                               311870                            
+     28  3111 MG SRS Varginha                               311900                            
+     28  3111 MG SRS Varginha                               312050                            
+     28  3111 MG SRS Varginha                               312080                            
+     28  3111 MG SRS Varginha                               312280                            
+     28  3111 MG SRS Varginha                               312360                            
+     28  3111 MG SRS Varginha                               313040                            
+     28  3111 MG SRS Varginha                               313050                            
+     28  3111 MG SRS Varginha                               313080                            
+     28  3111 MG SRS Varginha                               313300                            
+     28  3111 MG SRS Varginha                               313310                            
+     28  3111 MG SRS Varginha                               313430                            
+     28  3111 MG SRS Varginha                               313450                            
+     28  3111 MG SRS Varginha                               313590                            
+     28  3111 MG SRS Varginha                               313780                            
+     28  3111 MG SRS Varginha                               313820                            
+     28  3111 MG SRS Varginha                               313870                            
+     28  3111 MG SRS Varginha                               314190                            
+     28  3111 MG SRS Varginha                               314260                            
+     28  3111 MG SRS Varginha                               314460                            
+     28  3111 MG SRS Varginha                               314550                            
+     28  3111 MG SRS Varginha                               314760                            
+     28  3111 MG SRS Varginha                               314990                            
+     28  3111 MG SRS Varginha                               315260                            
+     28  3111 MG SRS Varginha                               315470                            
+     28  3111 MG SRS Varginha                               315830                            
+     28  3111 MG SRS Varginha                               316080                            
+     28  3111 MG SRS Varginha                               316370                            
+     28  3111 MG SRS Varginha                               316490                            
+     28  3111 MG SRS Varginha                               316520                            
+     28  3111 MG SRS Varginha                               316640                            
+     28  3111 MG SRS Varginha                               316700                            
+     28  3111 MG SRS Varginha                               316780                            
+     28  3111 MG SRS Varginha                               316930                            
+     28  3111 MG SRS Varginha                               316940                            
+     28  3111 MG SRS Varginha                               317070                            
+     28  3111 MG SRS Varginha                               317170                            
+     29  3100 MG Município ignorado - MG                    310000,319999                     

@@ -1,0 +1,855 @@
+17 6
+      1  3101 SUL                                           310120
+      1  3101 SUL                                           310130
+      1  3101 SUL                                           310490
+      1  3101 SUL                                           310710
+      1  3101 SUL                                           311070
+      1  3101 SUL                                           311090
+      1  3101 SUL                                           311390
+      1  3101 SUL                                           311410
+      1  3101 SUL                                           311460
+      1  3101 SUL                                           311480
+      1  3101 SUL                                           311550
+      1  3101 SUL                                           311770
+      1  3101 SUL                                           311870
+      1  3101 SUL                                           311900
+      1  3101 SUL                                           312050
+      1  3101 SUL                                           312080
+      1  3101 SUL                                           312280
+      1  3101 SUL                                           312360
+      1  3101 SUL                                           313040
+      1  3101 SUL                                           313050
+      1  3101 SUL                                           313080
+      1  3101 SUL                                           313300
+      1  3101 SUL                                           313310
+      1  3101 SUL                                           313430
+      1  3101 SUL                                           313450
+      1  3101 SUL                                           313590
+      1  3101 SUL                                           313780
+      1  3101 SUL                                           313820
+      1  3101 SUL                                           313870
+      1  3101 SUL                                           314190
+      1  3101 SUL                                           314260
+      1  3101 SUL                                           314460
+      1  3101 SUL                                           314550
+      1  3101 SUL                                           314760
+      1  3101 SUL                                           314990
+      1  3101 SUL                                           315260
+      1  3101 SUL                                           315470
+      1  3101 SUL                                           315830
+      1  3101 SUL                                           316080
+      1  3101 SUL                                           316200
+      1  3101 SUL                                           316370
+      1  3101 SUL                                           316490
+      1  3101 SUL                                           316520
+      1  3101 SUL                                           316640
+      1  3101 SUL                                           316700
+      1  3101 SUL                                           316780
+      1  3101 SUL                                           316930
+      1  3101 SUL                                           316940
+      1  3101 SUL                                           317070
+      1  3101 SUL                                           317170
+      2  3102 CENTRO SUL                                    310163
+      2  3102 CENTRO SUL                                    310210
+      2  3102 CENTRO SUL                                    310290
+      2  3102 CENTRO SUL                                    310560
+      2  3102 CENTRO SUL                                    310590
+      2  3102 CENTRO SUL                                    310800
+      2  3102 CENTRO SUL                                    311220
+      2  3102 CENTRO SUL                                    311310
+      2  3102 CENTRO SUL                                    311320
+      2  3102 CENTRO SUL                                    311490
+      2  3102 CENTRO SUL                                    311520
+      2  3102 CENTRO SUL                                    311540
+      2  3102 CENTRO SUL                                    311630
+      2  3102 CENTRO SUL                                    311800
+      2  3102 CENTRO SUL                                    311830
+      2  3102 CENTRO SUL                                    311970
+      2  3102 CENTRO SUL                                    312040
+      2  3102 CENTRO SUL                                    312140
+      2  3102 CENTRO SUL                                    312150
+      2  3102 CENTRO SUL                                    312300
+      2  3102 CENTRO SUL                                    312390
+      2  3102 CENTRO SUL                                    312940
+      2  3102 CENTRO SUL                                    313000
+      2  3102 CENTRO SUL                                    313390
+      2  3102 CENTRO SUL                                    313540
+      2  3102 CENTRO SUL                                    313740
+      2  3102 CENTRO SUL                                    313790
+      2  3102 CENTRO SUL                                    313910
+      2  3102 CENTRO SUL                                    314450
+      2  3102 CENTRO SUL                                    314590
+      2  3102 CENTRO SUL                                    314660
+      2  3102 CENTRO SUL                                    315030
+      2  3102 CENTRO SUL                                    315080
+      2  3102 CENTRO SUL                                    315270
+      2  3102 CENTRO SUL                                    315380
+      2  3102 CENTRO SUL                                    315420
+      2  3102 CENTRO SUL                                    315440
+      2  3102 CENTRO SUL                                    315520
+      2  3102 CENTRO SUL                                    315610
+      2  3102 CENTRO SUL                                    315730
+      2  3102 CENTRO SUL                                    315733
+      2  3102 CENTRO SUL                                    315870
+      2  3102 CENTRO SUL                                    315910
+      2  3102 CENTRO SUL                                    315940
+      2  3102 CENTRO SUL                                    316090
+      2  3102 CENTRO SUL                                    316250
+      2  3102 CENTRO SUL                                    316500
+      2  3102 CENTRO SUL                                    316530
+      2  3102 CENTRO SUL                                    316600
+      2  3102 CENTRO SUL                                    316620
+      2  3102 CENTRO SUL                                    316880
+      3  3103 CENTRO                                        310020
+      3  3103 CENTRO                                        310320
+      3  3103 CENTRO                                        310480
+      3  3103 CENTRO                                        310500
+      3  3103 CENTRO                                        310540
+      3  3103 CENTRO                                        310600
+      3  3103 CENTRO                                        310620
+      3  3103 CENTRO                                        310640
+      3  3103 CENTRO                                        310670
+      3  3103 CENTRO                                        310700
+      3  3103 CENTRO                                        310770
+      3  3103 CENTRO                                        310810
+      3  3103 CENTRO                                        310900
+      3  3103 CENTRO                                        310920
+      3  3103 CENTRO                                        310960
+      3  3103 CENTRO                                        310990
+      3  3103 CENTRO                                        311000
+      3  3103 CENTRO                                        311250
+      3  3103 CENTRO                                        311380
+      3  3103 CENTRO                                        311535
+      3  3103 CENTRO                                        311560
+      3  3103 CENTRO                                        311787
+      3  3103 CENTRO                                        311860
+      3  3103 CENTRO                                        311890
+      3  3103 CENTRO                                        311910
+      3  3103 CENTRO                                        312060
+      3  3103 CENTRO                                        312090
+      3  3103 CENTRO                                        312260
+      3  3103 CENTRO                                        312310
+      3  3103 CENTRO                                        312410
+      3  3103 CENTRO                                        312570
+      3  3103 CENTRO                                        312590
+      3  3103 CENTRO                                        312600
+      3  3103 CENTRO                                        312640
+      3  3103 CENTRO                                        312720
+      3  3103 CENTRO                                        312800
+      3  3103 CENTRO                                        312980
+      3  3103 CENTRO                                        313010
+      3  3103 CENTRO                                        313100
+      3  3103 CENTRO                                        313110
+      3  3103 CENTRO                                        313170
+      3  3103 CENTRO                                        313190
+      3  3103 CENTRO                                        313280
+      3  3103 CENTRO                                        313460
+      3  3103 CENTRO                                        313570
+      3  3103 CENTRO                                        313620
+      3  3103 CENTRO                                        313660
+      3  3103 CENTRO                                        313665
+      3  3103 CENTRO                                        313760
+      3  3103 CENTRO                                        313970
+      3  3103 CENTRO                                        314000
+      3  3103 CENTRO                                        314015
+      3  3103 CENTRO                                        314060
+      3  3103 CENTRO                                        314070
+      3  3103 CENTRO                                        314110
+      3  3103 CENTRO                                        314230
+      3  3103 CENTRO                                        314250
+      3  3103 CENTRO                                        314350
+      3  3103 CENTRO                                        314360
+      3  3103 CENTRO                                        314370
+      3  3103 CENTRO                                        314470
+      3  3103 CENTRO                                        314480
+      3  3103 CENTRO                                        314610
+      3  3103 CENTRO                                        314640
+      3  3103 CENTRO                                        314690
+      3  3103 CENTRO                                        314740
+      3  3103 CENTRO                                        314750
+      3  3103 CENTRO                                        314930
+      3  3103 CENTRO                                        314960
+      3  3103 CENTRO                                        315040
+      3  3103 CENTRO                                        315200
+      3  3103 CENTRO                                        315320
+      3  3103 CENTRO                                        315360
+      3  3103 CENTRO                                        315370
+      3  3103 CENTRO                                        315390
+      3  3103 CENTRO                                        315460
+      3  3103 CENTRO                                        315480
+      3  3103 CENTRO                                        315530
+      3  3103 CENTRO                                        315570
+      3  3103 CENTRO                                        315600
+      3  3103 CENTRO                                        315670
+      3  3103 CENTRO                                        315680
+      3  3103 CENTRO                                        315720
+      3  3103 CENTRO                                        315780
+      3  3103 CENTRO                                        315800
+      3  3103 CENTRO                                        315850
+      3  3103 CENTRO                                        315900
+      3  3103 CENTRO                                        316050
+      3  3103 CENTRO                                        316060
+      3  3103 CENTRO                                        316100
+      3  3103 CENTRO                                        316190
+      3  3103 CENTRO                                        316292
+      3  3103 CENTRO                                        316295
+      3  3103 CENTRO                                        316480
+      3  3103 CENTRO                                        316553
+      3  3103 CENTRO                                        316610
+      3  3103 CENTRO                                        316720
+      3  3103 CENTRO                                        316830
+      3  3103 CENTRO                                        316935
+      3  3103 CENTRO                                        317120
+      3  3103 CENTRO                                        317180
+      4  3104 JEQUITINHONHA                                 310240
+      4  3104 JEQUITINHONHA                                 310340
+      4  3104 JEQUITINHONHA                                 310445
+      4  3104 JEQUITINHONHA                                 310650
+      4  3104 JEQUITINHONHA                                 311230
+      4  3104 JEQUITINHONHA                                 311350
+      4  3104 JEQUITINHONHA                                 311610
+      4  3104 JEQUITINHONHA                                 311680
+      4  3104 JEQUITINHONHA                                 311750
+      4  3104 JEQUITINHONHA                                 311810
+      4  3104 JEQUITINHONHA                                 311950
+      4  3104 JEQUITINHONHA                                 312010
+      4  3104 JEQUITINHONHA                                 312100
+      4  3104 JEQUITINHONHA                                 312160
+      4  3104 JEQUITINHONHA                                 312540
+      4  3104 JEQUITINHONHA                                 312550
+      4  3104 JEQUITINHONHA                                 312650
+      4  3104 JEQUITINHONHA                                 312760
+      4  3104 JEQUITINHONHA                                 313250
+      4  3104 JEQUITINHONHA                                 313545
+      4  3104 JEQUITINHONHA                                 313652
+      4  3104 JEQUITINHONHA                                 313835
+      4  3104 JEQUITINHONHA                                 314180
+      4  3104 JEQUITINHONHA                                 315330
+      4  3104 JEQUITINHONHA                                 316020
+      4  3104 JEQUITINHONHA                                 316590
+      4  3104 JEQUITINHONHA                                 316650
+      4  3104 JEQUITINHONHA                                 316710
+      4  3104 JEQUITINHONHA                                 316970
+      4  3104 JEQUITINHONHA                                 317107
+      4  3104 JEQUITINHONHA                                 317160
+      5  3105 OESTE                                         310080
+      5  3105 OESTE                                         310390
+      5  3105 OESTE                                         310420
+      5  3105 OESTE                                         310510
+      5  3105 OESTE                                         310740
+      5  3105 OESTE                                         311040
+      5  3105 OESTE                                         311120
+      5  3105 OESTE                                         311190
+      5  3105 OESTE                                         311200
+      5  3105 OESTE                                         311400
+      5  3105 OESTE                                         311420
+      5  3105 OESTE                                         311450
+      5  3105 OESTE                                         311660
+      5  3105 OESTE                                         311760
+      5  3105 OESTE                                         311980
+      5  3105 OESTE                                         311995
+      5  3105 OESTE                                         312020
+      5  3105 OESTE                                         312230
+      5  3105 OESTE                                         312320
+      5  3105 OESTE                                         312470
+      5  3105 OESTE                                         312610
+      5  3105 OESTE                                         313020
+      5  3105 OESTE                                         313030
+      5  3105 OESTE                                         313220
+      5  3105 OESTE                                         313350
+      5  3105 OESTE                                         313370
+      5  3105 OESTE                                         313380
+      5  3105 OESTE                                         313530
+      5  3105 OESTE                                         313720
+      5  3105 OESTE                                         313830
+      5  3105 OESTE                                         313880
+      5  3105 OESTE                                         314050
+      5  3105 OESTE                                         314130
+      5  3105 OESTE                                         314240
+      5  3105 OESTE                                         314520
+      5  3105 OESTE                                         314560
+      5  3105 OESTE                                         314580
+      5  3105 OESTE                                         314650
+      5  3105 OESTE                                         314710
+      5  3105 OESTE                                         314770
+      5  3105 OESTE                                         314890
+      5  3105 OESTE                                         314970
+      5  3105 OESTE                                         315060
+      5  3105 OESTE                                         315140
+      5  3105 OESTE                                         315880
+      5  3105 OESTE                                         315990
+      5  3105 OESTE                                         316040
+      5  3105 OESTE                                         316120
+      5  3105 OESTE                                         316180
+      5  3105 OESTE                                         316310
+      5  3105 OESTE                                         316460
+      5  3105 OESTE                                         316660
+      5  3105 OESTE                                         316820
+      6  3106 LESTE                                         310060
+      6  3106 LESTE                                         310110
+      6  3106 LESTE                                         310180
+      6  3106 LESTE                                         310220
+      6  3106 LESTE                                         311205
+      6  3106 LESTE                                         311265
+      6  3106 LESTE                                         311570
+      6  3106 LESTE                                         311840
+      6  3106 LESTE                                         311920
+      6  3106 LESTE                                         312083
+      6  3106 LESTE                                         312210
+      6  3106 LESTE                                         312220
+      6  3106 LESTE                                         312370
+      6  3106 LESTE                                         312580
+      6  3106 LESTE                                         312690
+      6  3106 LESTE                                         312695
+      6  3106 LESTE                                         312730
+      6  3106 LESTE                                         312737
+      6  3106 LESTE                                         312750
+      6  3106 LESTE                                         312770
+      6  3106 LESTE                                         313180
+      6  3106 LESTE                                         313320
+      6  3106 LESTE                                         313410
+      6  3106 LESTE                                         313507
+      6  3106 LESTE                                         313655
+      6  3106 LESTE                                         313960
+      6  3106 LESTE                                         314010
+      6  3106 LESTE                                         314150
+      6  3106 LESTE                                         314420
+      6  3106 LESTE                                         314467
+      6  3106 LESTE                                         314840
+      6  3106 LESTE                                         314860
+      6  3106 LESTE                                         315430
+      6  3106 LESTE                                         315750
+      6  3106 LESTE                                         315820
+      6  3106 LESTE                                         315950
+      6  3106 LESTE                                         316105
+      6  3106 LESTE                                         316160
+      6  3106 LESTE                                         316165
+      6  3106 LESTE                                         316257
+      6  3106 LESTE                                         316280
+      6  3106 LESTE                                         316300
+      6  3106 LESTE                                         316350
+      6  3106 LESTE                                         316410
+      6  3106 LESTE                                         316450
+      6  3106 LESTE                                         316550
+      6  3106 LESTE                                         316770
+      6  3106 LESTE                                         316840
+      6  3106 LESTE                                         316950
+      6  3106 LESTE                                         317150
+      6  3106 LESTE                                         317190
+      7  3107 SUDESTE                                       310150
+      7  3107 SUDESTE                                       310280
+      7  3107 SUDESTE                                       310310
+      7  3107 SUDESTE                                       310330
+      7  3107 SUDESTE                                       310360
+      7  3107 SUDESTE                                       310440
+      7  3107 SUDESTE                                       310460
+      7  3107 SUDESTE                                       310550
+      7  3107 SUDESTE                                       310610
+      7  3107 SUDESTE                                       310680
+      7  3107 SUDESTE                                       310690
+      7  3107 SUDESTE                                       310720
+      7  3107 SUDESTE                                       310750
+      7  3107 SUDESTE                                       310870
+      7  3107 SUDESTE                                       311010
+      7  3107 SUDESTE                                       311210
+      7  3107 SUDESTE                                       311330
+      7  3107 SUDESTE                                       311530
+      7  3107 SUDESTE                                       311590
+      7  3107 SUDESTE                                       311620
+      7  3107 SUDESTE                                       311670
+      7  3107 SUDESTE                                       311960
+      7  3107 SUDESTE                                       312130
+      7  3107 SUDESTE                                       312190
+      7  3107 SUDESTE                                       312200
+      7  3107 SUDESTE                                       312290
+      7  3107 SUDESTE                                       312330
+      7  3107 SUDESTE                                       312400
+      7  3107 SUDESTE                                       312420
+      7  3107 SUDESTE                                       312460
+      7  3107 SUDESTE                                       312490
+      7  3107 SUDESTE                                       312500
+      7  3107 SUDESTE                                       312530
+      7  3107 SUDESTE                                       312595
+      7  3107 SUDESTE                                       312738
+      7  3107 SUDESTE                                       312840
+      7  3107 SUDESTE                                       312850
+      7  3107 SUDESTE                                       312880
+      7  3107 SUDESTE                                       312900
+      7  3107 SUDESTE                                       313260
+      7  3107 SUDESTE                                       313670
+      7  3107 SUDESTE                                       313800
+      7  3107 SUDESTE                                       313840
+      7  3107 SUDESTE                                       313850
+      7  3107 SUDESTE                                       313860
+      7  3107 SUDESTE                                       313980
+      7  3107 SUDESTE                                       314020
+      7  3107 SUDESTE                                       314080
+      7  3107 SUDESTE                                       314160
+      7  3107 SUDESTE                                       314210
+      7  3107 SUDESTE                                       314220
+      7  3107 SUDESTE                                       314390
+      7  3107 SUDESTE                                       314540
+      7  3107 SUDESTE                                       314570
+      7  3107 SUDESTE                                       314587
+      7  3107 SUDESTE                                       314670
+      7  3107 SUDESTE                                       314780
+      7  3107 SUDESTE                                       314820
+      7  3107 SUDESTE                                       314875
+      7  3107 SUDESTE                                       314900
+      7  3107 SUDESTE                                       314940
+      7  3107 SUDESTE                                       314950
+      7  3107 SUDESTE                                       315010
+      7  3107 SUDESTE                                       315110
+      7  3107 SUDESTE                                       315130
+      7  3107 SUDESTE                                       315310
+      7  3107 SUDESTE                                       315410
+      7  3107 SUDESTE                                       315540
+      7  3107 SUDESTE                                       315580
+      7  3107 SUDESTE                                       315590
+      7  3107 SUDESTE                                       315620
+      7  3107 SUDESTE                                       315630
+      7  3107 SUDESTE                                       315645
+      7  3107 SUDESTE                                       315727
+      7  3107 SUDESTE                                       315840
+      7  3107 SUDESTE                                       315860
+      7  3107 SUDESTE                                       315930
+      7  3107 SUDESTE                                       316000
+      7  3107 SUDESTE                                       316070
+      7  3107 SUDESTE                                       316140
+      7  3107 SUDESTE                                       316150
+      7  3107 SUDESTE                                       316290
+      7  3107 SUDESTE                                       316443
+      7  3107 SUDESTE                                       316560
+      7  3107 SUDESTE                                       316570
+      7  3107 SUDESTE                                       316730
+      7  3107 SUDESTE                                       316750
+      7  3107 SUDESTE                                       316790
+      7  3107 SUDESTE                                       316900
+      7  3107 SUDESTE                                       316920
+      7  3107 SUDESTE                                       316990
+      7  3107 SUDESTE                                       317140
+      7  3107 SUDESTE                                       317200
+      7  3107 SUDESTE                                       317210
+      8  3108 NORTE                                         310665
+      8  3108 NORTE                                         310730
+      8  3108 NORTE                                         310825
+      8  3108 NORTE                                         310850
+      8  3108 NORTE                                         310860
+      8  3108 NORTE                                         310940
+      8  3108 NORTE                                         311115
+      8  3108 NORTE                                         311270
+      8  3108 NORTE                                         311547
+      8  3108 NORTE                                         311650
+      8  3108 NORTE                                         311783
+      8  3108 NORTE                                         311880
+      8  3108 NORTE                                         312030
+      8  3108 NORTE                                         312087
+      8  3108 NORTE                                         312380
+      8  3108 NORTE                                         312430
+      8  3108 NORTE                                         312660
+      8  3108 NORTE                                         312670
+      8  3108 NORTE                                         312707
+      8  3108 NORTE                                         312733
+      8  3108 NORTE                                         312735
+      8  3108 NORTE                                         312780
+      8  3108 NORTE                                         312825
+      8  3108 NORTE                                         312960
+      8  3108 NORTE                                         312965
+      8  3108 NORTE                                         313005
+      8  3108 NORTE                                         313065
+      8  3108 NORTE                                         313200
+      8  3108 NORTE                                         313210
+      8  3108 NORTE                                         313505
+      8  3108 NORTE                                         313510
+      8  3108 NORTE                                         313520
+      8  3108 NORTE                                         313535
+      8  3108 NORTE                                         313560
+      8  3108 NORTE                                         313640
+      8  3108 NORTE                                         313657
+      8  3108 NORTE                                         313680
+      8  3108 NORTE                                         313695
+      8  3108 NORTE                                         313730
+      8  3108 NORTE                                         313810
+      8  3108 NORTE                                         313865
+      8  3108 NORTE                                         313868
+      8  3108 NORTE                                         313925
+      8  3108 NORTE                                         313930
+      8  3108 NORTE                                         314085
+      8  3108 NORTE                                         314100
+      8  3108 NORTE                                         314200
+      8  3108 NORTE                                         314225
+      8  3108 NORTE                                         314270
+      8  3108 NORTE                                         314290
+      8  3108 NORTE                                         314330
+      8  3108 NORTE                                         314345
+      8  3108 NORTE                                         314465
+      8  3108 NORTE                                         314505
+      8  3108 NORTE                                         314537
+      8  3108 NORTE                                         314545
+      8  3108 NORTE                                         314625
+      8  3108 NORTE                                         314655
+      8  3108 NORTE                                         314795
+      8  3108 NORTE                                         314915
+      8  3108 NORTE                                         315057
+      8  3108 NORTE                                         315120
+      8  3108 NORTE                                         315213
+      8  3108 NORTE                                         315220
+      8  3108 NORTE                                         315450
+      8  3108 NORTE                                         315560
+      8  3108 NORTE                                         315650
+      8  3108 NORTE                                         315700
+      8  3108 NORTE                                         315737
+      8  3108 NORTE                                         315760
+      8  3108 NORTE                                         316045
+      8  3108 NORTE                                         316110
+      8  3108 NORTE                                         316225
+      8  3108 NORTE                                         316240
+      8  3108 NORTE                                         316245
+      8  3108 NORTE                                         316265
+      8  3108 NORTE                                         316270
+      8  3108 NORTE                                         316420
+      8  3108 NORTE                                         316695
+      8  3108 NORTE                                         316800
+      8  3108 NORTE                                         317000
+      8  3108 NORTE                                         317052
+      8  3108 NORTE                                         317065
+      8  3108 NORTE                                         317080
+      8  3108 NORTE                                         317090
+      8  3108 NORTE                                         317103
+      9  3109 NOROESTE                                      310380
+      9  3109 NOROESTE                                      310450
+      9  3109 NOROESTE                                      310820
+      9  3109 NOROESTE                                      310855
+      9  3109 NOROESTE                                      310930
+      9  3109 NOROESTE                                      310945
+      9  3109 NOROESTE                                      311430
+      9  3109 NOROESTE                                      311615
+      9  3109 NOROESTE                                      312070
+      9  3109 NOROESTE                                      312247
+      9  3109 NOROESTE                                      312620
+      9  3109 NOROESTE                                      312860
+      9  3109 NOROESTE                                      312890
+      9  3109 NOROESTE                                      313630
+      9  3109 NOROESTE                                      313710
+      9  3109 NOROESTE                                      313750
+      9  3109 NOROESTE                                      313753
+      9  3109 NOROESTE                                      314120
+      9  3109 NOROESTE                                      314437
+      9  3109 NOROESTE                                      314700
+      9  3109 NOROESTE                                      314800
+      9  3109 NOROESTE                                      315340
+      9  3109 NOROESTE                                      315445
+      9  3109 NOROESTE                                      315550
+      9  3109 NOROESTE                                      315970
+      9  3109 NOROESTE                                      316170
+      9  3109 NOROESTE                                      316210
+      9  3109 NOROESTE                                      316680
+      9  3109 NOROESTE                                      316890
+      9  3109 NOROESTE                                      317040
+      9  3109 NOROESTE                                      317047
+      9  3109 NOROESTE                                      317075
+      9  3109 NOROESTE                                      317100
+     10  3110 LESTE DO SUL                                  310030
+     10  3110 LESTE DO SUL                                  310040
+     10  3110 LESTE DO SUL                                  310205
+     10  3110 LESTE DO SUL                                  310230
+     10  3110 LESTE DO SUL                                  310250
+     10  3110 LESTE DO SUL                                  310370
+     10  3110 LESTE DO SUL                                  310570
+     10  3110 LESTE DO SUL                                  311020
+     10  3110 LESTE DO SUL                                  311170
+     10  3110 LESTE DO SUL                                  311290
+     10  3110 LESTE DO SUL                                  311600
+     10  3110 LESTE DO SUL                                  311740
+     10  3110 LESTE DO SUL                                  312170
+     10  3110 LESTE DO SUL                                  312270
+     10  3110 LESTE DO SUL                                  312352
+     10  3110 LESTE DO SUL                                  312820
+     10  3110 LESTE DO SUL                                  313120
+     10  3110 LESTE DO SUL                                  313550
+     10  3110 LESTE DO SUL                                  313770
+     10  3110 LESTE DO SUL                                  313867
+     10  3110 LESTE DO SUL                                  313940
+     10  3110 LESTE DO SUL                                  313950
+     10  3110 LESTE DO SUL                                  314053
+     10  3110 LESTE DO SUL                                  314090
+     10  3110 LESTE DO SUL                                  314400
+     10  3110 LESTE DO SUL                                  314585
+     10  3110 LESTE DO SUL                                  314830
+     10  3110 LESTE DO SUL                                  314880
+     10  3110 LESTE DO SUL                                  315020
+     10  3110 LESTE DO SUL                                  315190
+     10  3110 LESTE DO SUL                                  315210
+     10  3110 LESTE DO SUL                                  315230
+     10  3110 LESTE DO SUL                                  315350
+     10  3110 LESTE DO SUL                                  315400
+     10  3110 LESTE DO SUL                                  315415
+     10  3110 LESTE DO SUL                                  315490
+     10  3110 LESTE DO SUL                                  315500
+     10  3110 LESTE DO SUL                                  315740
+     10  3110 LESTE DO SUL                                  315790
+     10  3110 LESTE DO SUL                                  315890
+     10  3110 LESTE DO SUL                                  316010
+     10  3110 LESTE DO SUL                                  316255
+     10  3110 LESTE DO SUL                                  316340
+     10  3110 LESTE DO SUL                                  316360
+     10  3110 LESTE DO SUL                                  316380
+     10  3110 LESTE DO SUL                                  316400
+     10  3110 LESTE DO SUL                                  316556
+     10  3110 LESTE DO SUL                                  316630
+     10  3110 LESTE DO SUL                                  316760
+     10  3110 LESTE DO SUL                                  316805
+     10  3110 LESTE DO SUL                                  316850
+     10  3110 LESTE DO SUL                                  317050
+     10  3110 LESTE DO SUL                                  317130
+     11  3111 NORDESTE                                      310090
+     11  3111 NORDESTE                                      310100
+     11  3111 NORDESTE                                      310170
+     11  3111 NORDESTE                                      310270
+     11  3111 NORDESTE                                      310285
+     11  3111 NORDESTE                                      310470
+     11  3111 NORDESTE                                      310520
+     11  3111 NORDESTE                                      310660
+     11  3111 NORDESTE                                      311080
+     11  3111 NORDESTE                                      311300
+     11  3111 NORDESTE                                      311370
+     11  3111 NORDESTE                                      311545
+     11  3111 NORDESTE                                      311700
+     11  3111 NORDESTE                                      312015
+     11  3111 NORDESTE                                      312235
+     11  3111 NORDESTE                                      312245
+     11  3111 NORDESTE                                      312560
+     11  3111 NORDESTE                                      312675
+     11  3111 NORDESTE                                      312680
+     11  3111 NORDESTE                                      312705
+     11  3111 NORDESTE                                      313230
+     11  3111 NORDESTE                                      313270
+     11  3111 NORDESTE                                      313330
+     11  3111 NORDESTE                                      313400
+     11  3111 NORDESTE                                      313470
+     11  3111 NORDESTE                                      313580
+     11  3111 NORDESTE                                      313600
+     11  3111 NORDESTE                                      313650
+     11  3111 NORDESTE                                      313700
+     11  3111 NORDESTE                                      313890
+     11  3111 NORDESTE                                      313920
+     11  3111 NORDESTE                                      314055
+     11  3111 NORDESTE                                      314140
+     11  3111 NORDESTE                                      314315
+     11  3111 NORDESTE                                      314430
+     11  3111 NORDESTE                                      314490
+     11  3111 NORDESTE                                      314530
+     11  3111 NORDESTE                                      314535
+     11  3111 NORDESTE                                      314620
+     11  3111 NORDESTE                                      314630
+     11  3111 NORDESTE                                      314675
+     11  3111 NORDESTE                                      314850
+     11  3111 NORDESTE                                      314870
+     11  3111 NORDESTE                                      315000
+     11  3111 NORDESTE                                      315217
+     11  3111 NORDESTE                                      315240
+     11  3111 NORDESTE                                      315510
+     11  3111 NORDESTE                                      315660
+     11  3111 NORDESTE                                      315710
+     11  3111 NORDESTE                                      315765
+     11  3111 NORDESTE                                      315810
+     11  3111 NORDESTE                                      316030
+     11  3111 NORDESTE                                      316330
+     11  3111 NORDESTE                                      316555
+     11  3111 NORDESTE                                      316670
+     11  3111 NORDESTE                                      316860
+     11  3111 NORDESTE                                      317030
+     12  3112 TRIANGULO DO SUL                              310070
+     12  3112 TRIANGULO DO SUL                              310400
+     12  3112 TRIANGULO DO SUL                              311140
+     12  3112 TRIANGULO DO SUL                              311150
+     12  3112 TRIANGULO DO SUL                              311455
+     12  3112 TRIANGULO DO SUL                              311690
+     12  3112 TRIANGULO DO SUL                              311730
+     12  3112 TRIANGULO DO SUL                              311820
+     12  3112 TRIANGULO DO SUL                              312125
+     12  3112 TRIANGULO DO SUL                              312700
+     12  3112 TRIANGULO DO SUL                              312710
+     12  3112 TRIANGULO DO SUL                              312950
+     12  3112 TRIANGULO DO SUL                              313340
+     12  3112 TRIANGULO DO SUL                              313440
+     12  3112 TRIANGULO DO SUL                              313862
+     12  3112 TRIANGULO DO SUL                              314920
+     12  3112 TRIANGULO DO SUL                              314980
+     12  3112 TRIANGULO DO SUL                              315070
+     12  3112 TRIANGULO DO SUL                              315160
+     12  3112 TRIANGULO DO SUL                              315300
+     12  3112 TRIANGULO DO SUL                              315690
+     12  3112 TRIANGULO DO SUL                              315770
+     12  3112 TRIANGULO DO SUL                              316130
+     12  3112 TRIANGULO DO SUL                              316810
+     12  3112 TRIANGULO DO SUL                              317010
+     12  3112 TRIANGULO DO SUL                              317043
+     12  3112 TRIANGULO DO SUL                              317110
+     13  3113 TRIANGULO DO NORTE                            310010
+     13  3113 TRIANGULO DO NORTE                            310350
+     13  3113 TRIANGULO DO NORTE                            310375
+     13  3113 TRIANGULO DO NORTE                            310980
+     13  3113 TRIANGULO DO NORTE                            311110
+     13  3113 TRIANGULO DO NORTE                            311180
+     13  3113 TRIANGULO DO NORTE                            311260
+     13  3113 TRIANGULO DO NORTE                            311500
+     13  3113 TRIANGULO DO NORTE                            311580
+     13  3113 TRIANGULO DO NORTE                            311930
+     13  3113 TRIANGULO DO NORTE                            312350
+     13  3113 TRIANGULO DO NORTE                            312480
+     13  3113 TRIANGULO DO NORTE                            312790
+     13  3113 TRIANGULO DO NORTE                            312910
+     13  3113 TRIANGULO DO NORTE                            313070
+     13  3113 TRIANGULO DO NORTE                            313140
+     13  3113 TRIANGULO DO NORTE                            313160
+     13  3113 TRIANGULO DO NORTE                            313420
+     13  3113 TRIANGULO DO NORTE                            314280
+     13  3113 TRIANGULO DO NORTE                            314310
+     13  3113 TRIANGULO DO NORTE                            314500
+     13  3113 TRIANGULO DO NORTE                            314810
+     13  3113 TRIANGULO DO NORTE                            315280
+     13  3113 TRIANGULO DO NORTE                            315640
+     13  3113 TRIANGULO DO NORTE                            315980
+     13  3113 TRIANGULO DO NORTE                            316960
+     13  3113 TRIANGULO DO NORTE                            317020
+     14  3114 VALE DO ACO                                   310050
+     14  3114 VALE DO ACO                                   310300
+     14  3114 VALE DO ACO                                   310630
+     14  3114 VALE DO ACO                                   310780
+     14  3114 VALE DO ACO                                   310880
+     14  3114 VALE DO ACO                                   310925
+     14  3114 VALE DO ACO                                   311340
+     14  3114 VALE DO ACO                                   311940
+     14  3114 VALE DO ACO                                   312000
+     14  3114 VALE DO ACO                                   312180
+     14  3114 VALE DO ACO                                   312250
+     14  3114 VALE DO ACO                                   312385
+     14  3114 VALE DO ACO                                   312930
+     14  3114 VALE DO ACO                                   313055
+     14  3114 VALE DO ACO                                   313090
+     14  3114 VALE DO ACO                                   313115
+     14  3114 VALE DO ACO                                   313130
+     14  3114 VALE DO ACO                                   313500
+     14  3114 VALE DO ACO                                   313610
+     14  3114 VALE DO ACO                                   314030
+     14  3114 VALE DO ACO                                   314170
+     14  3114 VALE DO ACO                                   314435
+     14  3114 VALE DO ACO                                   314995
+     14  3114 VALE DO ACO                                   315015
+     14  3114 VALE DO ACO                                   315053
+     14  3114 VALE DO ACO                                   315725
+     14  3114 VALE DO ACO                                   315895
+     14  3114 VALE DO ACO                                   315935
+     14  3114 VALE DO ACO                                   316095
+     14  3114 VALE DO ACO                                   316260
+     14  3114 VALE DO ACO                                   316447
+     14  3114 VALE DO ACO                                   316870
+     14  3114 VALE DO ACO                                   317005
+     14  3114 VALE DO ACO                                   317057
+     14  3114 VALE DO ACO                                   317115
+     15  3115 EXTREMO SUL                                   310140
+     15  3115 EXTREMO SUL                                   310260
+     15  3115 EXTREMO SUL                                   310790
+     15  3115 EXTREMO SUL                                   310830
+     15  3115 EXTREMO SUL                                   310890
+     15  3115 EXTREMO SUL                                   310910
+     15  3115 EXTREMO SUL                                   310970
+     15  3115 EXTREMO SUL                                   311030
+     15  3115 EXTREMO SUL                                   311050
+     15  3115 EXTREMO SUL                                   311060
+     15  3115 EXTREMO SUL                                   311360
+     15  3115 EXTREMO SUL                                   311720
+     15  3115 EXTREMO SUL                                   311780
+     15  3115 EXTREMO SUL                                   311790
+     15  3115 EXTREMO SUL                                   311850
+     15  3115 EXTREMO SUL                                   311990
+     15  3115 EXTREMO SUL                                   312110
+     15  3115 EXTREMO SUL                                   312440
+     15  3115 EXTREMO SUL                                   312450
+     15  3115 EXTREMO SUL                                   312510
+     15  3115 EXTREMO SUL                                   312740
+     15  3115 EXTREMO SUL                                   312920
+     15  3115 EXTREMO SUL                                   312990
+     15  3115 EXTREMO SUL                                   313060
+     15  3115 EXTREMO SUL                                   313150
+     15  3115 EXTREMO SUL                                   313240
+     15  3115 EXTREMO SUL                                   313360
+     15  3115 EXTREMO SUL                                   313490
+     15  3115 EXTREMO SUL                                   313990
+     15  3115 EXTREMO SUL                                   314040
+     15  3115 EXTREMO SUL                                   314340
+     15  3115 EXTREMO SUL                                   314380
+     15  3115 EXTREMO SUL                                   314440
+     15  3115 EXTREMO SUL                                   314600
+     15  3115 EXTREMO SUL                                   314730
+     15  3115 EXTREMO SUL                                   314910
+     15  3115 EXTREMO SUL                                   315090
+     15  3115 EXTREMO SUL                                   315100
+     15  3115 EXTREMO SUL                                   315180
+     15  3115 EXTREMO SUL                                   315250
+     15  3115 EXTREMO SUL                                   315920
+     15  3115 EXTREMO SUL                                   315960
+     15  3115 EXTREMO SUL                                   316230
+     15  3115 EXTREMO SUL                                   316320
+     15  3115 EXTREMO SUL                                   316440
+     15  3115 EXTREMO SUL                                   316540
+     15  3115 EXTREMO SUL                                   316557
+     15  3115 EXTREMO SUL                                   316580
+     15  3115 EXTREMO SUL                                   316740
+     15  3115 EXTREMO SUL                                   316905
+     15  3115 EXTREMO SUL                                   316910
+     15  3115 EXTREMO SUL                                   316980
+     15  3115 EXTREMO SUL                                   317220
+     16  3116 SUDOESTE                                      310160
+     16  3116 SUDOESTE                                      310190
+     16  3116 SUDOESTE                                      310200
+     16  3116 SUDOESTE                                      310410
+     16  3116 SUDOESTE                                      310430
+     16  3116 SUDOESTE                                      310530
+     16  3116 SUDOESTE                                      310760
+     16  3116 SUDOESTE                                      310840
+     16  3116 SUDOESTE                                      310950
+     16  3116 SUDOESTE                                      311100
+     16  3116 SUDOESTE                                      311130
+     16  3116 SUDOESTE                                      311160
+     16  3116 SUDOESTE                                      311240
+     16  3116 SUDOESTE                                      311280
+     16  3116 SUDOESTE                                      311440
+     16  3116 SUDOESTE                                      311470
+     16  3116 SUDOESTE                                      311510
+     16  3116 SUDOESTE                                      311640
+     16  3116 SUDOESTE                                      311710
+     16  3116 SUDOESTE                                      312120
+     16  3116 SUDOESTE                                      312240
+     16  3116 SUDOESTE                                      312340
+     16  3116 SUDOESTE                                      312520
+     16  3116 SUDOESTE                                      312630
+     16  3116 SUDOESTE                                      312810
+     16  3116 SUDOESTE                                      312830
+     16  3116 SUDOESTE                                      312870
+     16  3116 SUDOESTE                                      312970
+     16  3116 SUDOESTE                                      313290
+     16  3116 SUDOESTE                                      313375
+     16  3116 SUDOESTE                                      313480
+     16  3116 SUDOESTE                                      313690
+     16  3116 SUDOESTE                                      313900
+     16  3116 SUDOESTE                                      314300
+     16  3116 SUDOESTE                                      314320
+     16  3116 SUDOESTE                                      314410
+     16  3116 SUDOESTE                                      314510
+     16  3116 SUDOESTE                                      314720
+     16  3116 SUDOESTE                                      314790
+     16  3116 SUDOESTE                                      315050
+     16  3116 SUDOESTE                                      315150
+     16  3116 SUDOESTE                                      315170
+     16  3116 SUDOESTE                                      315290
+     16  3116 SUDOESTE                                      316220
+     16  3116 SUDOESTE                                      316294
+     16  3116 SUDOESTE                                      316390
+     16  3116 SUDOESTE                                      316430
+     16  3116 SUDOESTE                                      316470
+     16  3116 SUDOESTE                                      316510
+     16  3116 SUDOESTE                                      316690
+     16  3116 SUDOESTE                                      317060
+     17  Ignorado - MG                                      310000,319999

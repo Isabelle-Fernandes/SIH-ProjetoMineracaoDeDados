@@ -1,0 +1,226 @@
+225 6
+      1   MUNICIPIO IGNORADO - PI                           220000,229999
+      2  220005 ACAUA                                       220005
+      3  220010 AGRICOLANDIA                                220010
+      4  220020 AGUA BRANCA                                 220020
+      5  220025 ALAGOINHA DO PIAUI                          220025
+      6  220027 ALEGRETE DO PIAUI                           220027
+      7  220030 ALTO LONGA                                  220030
+      8  220040 ALTOS                                       220040
+      9  220045 ALVORADA DO GURGUEIA                        220045
+     10  220050 AMARANTE                                    220050
+     11  220060 ANGICAL DO PIAUI                            220060
+     12  220070 ANISIO DE ABREU                             220070
+     13  220080 ANTONIO ALMEIDA                             220080
+     14  220090 AROAZES                                     220090
+     15  220095 AROEIRAS DO ITAIM                           220095
+     16  220100 ARRAIAL                                     220100
+     17  220105 ASSUNCAO DO PIAUI                           220105
+     18  220110 AVELINO LOPES                               220110
+     19  220115 BAIXA GRANDE DO RIBEIRO                     220115
+     20  220117 BARRA D'ALCANTARA                           220117
+     21  220120 BARRAS                                      220120
+     22  220130 BARREIRAS DO PIAUI                          220130
+     23  220140 BARRO DURO                                  220140
+     24  220150 BATALHA                                     220150
+     25  220155 BELA VISTA DO PIAUI                         220155
+     26  220157 BELEM DO PIAUI                              220157
+     27  220160 BENEDITINOS                                 220160
+     28  220170 BERTOLINIA                                  220170
+     29  220173 BETANIA DO PIAUI                            220173
+     30  220177 BOA HORA                                    220177
+     31  220180 BOCAINA                                     220180
+     32  220190 BOM JESUS                                   220190
+     33  220191 BOM PRINCIPIO DO PIAUI                      220191
+     34  220192 BONFIM DO PIAUI                             220192
+     35  220194 BOQUEIRAO DO PIAUI                          220194
+     36  220196 BRASILEIRA                                  220196
+     37  220198 BREJO DO PIAUI                              220198
+     38  220200 BURITI DOS LOPES                            220200
+     39  220202 BURITI DOS MONTES                           220202
+     40  220205 CABECEIRAS DO PIAUI                         220205
+     41  220207 CAJAZEIRAS DO PIAUI                         220207
+     42  220208 CAJUEIRO DA PRAIA                           220208
+     43  220209 CALDEIRAO GRANDE DO PIAUI                   220209
+     44  220210 CAMPINAS DO PIAUI                           220210
+     45  220211 CAMPO ALEGRE DO FIDALGO                     220211
+     46  220213 CAMPO GRANDE DO PIAUI                       220213
+     47  220217 CAMPO LARGO DO PIAUI                        220217
+     48  220220 CAMPO MAIOR                                 220220
+     49  220225 CANAVIEIRA                                  220225
+     50  220230 CANTO DO BURITI                             220230
+     51  220240 CAPITAO DE CAMPOS                           220240
+     52  220245 CAPITAO GERVASIO OLIVEIRA                   220245
+     53  220250 CARACOL                                     220250
+     54  220253 CARAUBAS DO PIAUI                           220253
+     55  220255 CARIDADE DO PIAUI                           220255
+     56  220260 CASTELO DO PIAUI                            220260
+     57  220265 CAXINGO                                     220265
+     58  220270 COCAL                                       220270
+     59  220271 COCAL DE TELHA                              220271
+     60  220272 COCAL DOS ALVES                             220272
+     61  220273 COIVARAS                                    220273
+     62  220275 COLONIA DO GURGUEIA                         220275
+     63  220277 COLONIA DO PIAUI                            220277
+     64  220280 CONCEICAO DO CANINDE                        220280
+     65  220285 CORONEL JOSE DIAS                           220285
+     66  220290 CORRENTE                                    220290
+     67  220300 CRISTALANDIA DO PIAUI                       220300
+     68  220310 CRISTINO CASTRO                             220310
+     69  220320 CURIMATA                                    220320
+     70  220323 CURRAIS                                     220323
+     71  220325 CURRALINHOS                                 220325
+     72  220327 CURRAL NOVO DO PIAUI                        220327
+     73  220330 DEMERVAL LOBAO                              220330
+     74  220335 DIRCEU ARCOVERDE                            220335
+     75  220340 DOM EXPEDITO LOPES                          220340
+     76  220342 DOMINGOS MOURAO                             220342
+     77  220345 DOM INOCENCIO                               220345
+     78  220350 ELESBAO VELOSO                              220350
+     79  220360 ELISEU MARTINS                              220360
+     80  220370 ESPERANTINA                                 220370
+     81  220375 FARTURA DO PIAUI                            220375
+     82  220380 FLORES DO PIAUI                             220380
+     83  220385 FLORESTA DO PIAUI                           220385
+     84  220390 FLORIANO                                    220390
+     85  220400 FRANCINOPOLIS                               220400
+     86  220410 FRANCISCO AYRES                             220410
+     87  220415 FRANCISCO MACEDO                            220415
+     88  220420 FRANCISCO SANTOS                            220420
+     89  220430 FRONTEIRAS                                  220430
+     90  220435 GEMINIANO                                   220435
+     91  220440 GILBUES                                     220440
+     92  220450 GUADALUPE                                   220450
+     93  220455 GUARIBAS                                    220455
+     94  220460 HUGO NAPOLEAO                               220460
+     95  220465 ILHA GRANDE                                 220465
+     96  220470 INHUMA                                      220470
+     97  220480 IPIRANGA DO PIAUI                           220480
+     98  220490 ISAIAS COELHO                               220490
+     99  220500 ITAINOPOLIS                                 220500
+    100  220510 ITAUEIRA                                    220510
+    101  220515 JACOBINA DO PIAUI                           220515
+    102  220520 JAICOS                                      220520
+    103  220525 JARDIM DO MULATO                            220525
+    104  220527 JATOBA DO PIAUI                             220527
+    105  220530 JERUMENHA                                   220530
+    106  220535 JOAO COSTA                                  220535
+    107  220540 JOAQUIM PIRES                               220540
+    108  220545 JOCA MARQUES                                220545
+    109  220550 JOSE DE FREITAS                             220550
+    110  220551 JUAZEIRO DO PIAUI                           220551
+    111  220552 JULIO BORGES                                220552
+    112  220553 JUREMA                                      220553
+    113  220554 LAGOINHA DO PIAUI                           220554
+    114  220555 LAGOA ALEGRE                                220555
+    115  220556 LAGOA DO BARRO DO PIAUI                     220556
+    116  220557 LAGOA DE SAO FRANCISCO                      220557
+    117  220558 LAGOA DO PIAUI                              220558
+    118  220559 LAGOA DO SITIO                              220559
+    119  220560 LANDRI SALES                                220560
+    120  220570 LUIS CORREIA                                220570
+    121  220580 LUZILANDIA                                  220580
+    122  220585 MADEIRO                                     220585
+    123  220590 MANOEL EMIDIO                               220590
+    124  220595 MARCOLANDIA                                 220595
+    125  220600 MARCOS PARENTE                              220600
+    126  220605 MASSAPE DO PIAUI                            220605
+    127  220610 MATIAS OLIMPIO                              220610
+    128  220620 MIGUEL ALVES                                220620
+    129  220630 MIGUEL LEAO                                 220630
+    130  220635 MILTON BRANDAO                              220635
+    131  220640 MONSENHOR GIL                               220640
+    132  220650 MONSENHOR HIPOLITO                          220650
+    133  220660 MONTE ALEGRE DO PIAUI                       220660
+    134  220665 MORRO CABECA NO TEMPO                       220665
+    135  220667 MORRO DO CHAPEU DO PIAUI                    220667
+    136  220669 MURICI DOS PORTELAS                         220669
+    137  220670 NAZARE DO PIAUI                             220670
+    138  220672 NAZARIA                                     220672
+    139  220675 NOSSA SENHORA DE NAZARE                     220675
+    140  220680 NOSSA SENHORA DOS REMEDIOS                  220680
+    141  220690 NOVO ORIENTE DO PIAUI                       220690
+    142  220695 NOVO SANTO ANTONIO                          220695
+    143  220700 OEIRAS                                      220700
+    144  220710 OLHO D'AGUA DO PIAUI                        220710
+    145  220720 PADRE MARCOS                                220720
+    146  220730 PAES LANDIM                                 220730
+    147  220735 PAJEU DO PIAUI                              220735
+    148  220740 PALMEIRA DO PIAUI                           220740
+    149  220750 PALMEIRAIS                                  220750
+    150  220755 PAQUETA                                     220755
+    151  220760 PARNAGUA                                    220760
+    152  220770 PARNAIBA                                    220770
+    153  220775 PASSAGEM FRANCA DO PIAUI                    220775
+    154  220777 PATOS DO PIAUI                              220777
+    155  220779 PAU D'ARCO DO PIAUI                         220779
+    156  220780 PAULISTANA                                  220780
+    157  220785 PAVUSSU                                     220785
+    158  220790 PEDRO II                                    220790
+    159  220793 PEDRO LAURENTINO                            220793
+    160  220795 NOVA SANTA RITA                             220795
+    161  220800 PICOS                                       220800
+    162  220810 PIMENTEIRAS                                 220810
+    163  220820 PIO IX                                      220820
+    164  220830 PIRACURUCA                                  220830
+    165  220840 PIRIPIRI                                    220840
+    166  220850 PORTO                                       220850
+    167  220855 PORTO ALEGRE DO PIAUI                       220855
+    168  220860 PRATA DO PIAUI                              220860
+    169  220865 QUEIMADA NOVA                               220865
+    170  220870 REDENCAO DO GURGUEIA                        220870
+    171  220880 REGENERACAO                                 220880
+    172  220885 RIACHO FRIO                                 220885
+    173  220887 RIBEIRA DO PIAUI                            220887
+    174  220890 RIBEIRO GONCALVES                           220890
+    175  220900 RIO GRANDE DO PIAUI                         220900
+    176  220910 SANTA CRUZ DO PIAUI                         220910
+    177  220915 SANTA CRUZ DOS MILAGRES                     220915
+    178  220920 SANTA FILOMENA                              220920
+    179  220930 SANTA LUZ                                   220930
+    180  220935 SANTANA DO PIAUI                            220935
+    181  220937 SANTA ROSA DO PIAUI                         220937
+    182  220940 SANTO ANTONIO DE LISBOA                     220940
+    183  220945 SANTO ANTONIO DOS MILAGRES                  220945
+    184  220950 SANTO INACIO DO PIAUI                       220950
+    185  220955 SAO BRAZ DO PIAUI                           220955
+    186  220960 SAO FELIX DO PIAUI                          220960
+    187  220965 SAO FRANCISCO DE ASSIS DO PIAUI             220965
+    188  220970 SAO FRANCISCO DO PIAUI                      220970
+    189  220975 SAO GONCALO DO GURGUEIA                     220975
+    190  220980 SAO GONCALO DO PIAUI                        220980
+    191  220985 SAO JOAO DA CANABRAVA                       220985
+    192  220987 SAO JOAO DA FRONTEIRA                       220987
+    193  220990 SAO JOAO DA SERRA                           220990
+    194  220995 SAO JOAO DA VARJOTA                         220995
+    195  220997 SAO JOAO DO ARRAIAL                         220997
+    196  221000 SAO JOAO DO PIAUI                           221000
+    197  221005 SAO JOSE DO DIVINO                          221005
+    198  221010 SAO JOSE DO PEIXE                           221010
+    199  221020 SAO JOSE DO PIAUI                           221020
+    200  221030 SAO JULIAO                                  221030
+    201  221035 SAO LOURENCO DO PIAUI                       221035
+    202  221037 SAO LUIS DO PIAUI                           221037
+    203  221038 SAO MIGUEL DA BAIXA GRANDE                  221038
+    204  221039 SAO MIGUEL DO FIDALGO                       221039
+    205  221040 SAO MIGUEL DO TAPUIO                        221040
+    206  221050 SAO PEDRO DO PIAUI                          221050
+    207  221060 SAO RAIMUNDO NONATO                         221060
+    208  221062 SEBASTIAO BARROS                            221062
+    209  221063 SEBASTIAO LEAL                              221063
+    210  221065 SIGEFREDO PACHECO                           221065
+    211  221070 SIMOES                                      221070
+    212  221080 SIMPLICIO MENDES                            221080
+    213  221090 SOCORRO DO PIAUI                            221090
+    214  221093 SUSSUAPARA                                  221093
+    215  221095 TAMBORIL DO PIAUI                           221095
+    216  221097 TANQUE DO PIAUI                             221097
+    217  221100 TERESINA                                    221100
+    218  221110 UNIAO                                       221110
+    219  221120 URUCUI                                      221120
+    220  221130 VALENCA DO PIAUI                            221130
+    221  221135 VARZEA BRANCA                               221135
+    222  221140 VARZEA GRANDE                               221140
+    223  221150 VERA MENDES                                 221150
+    224  221160 VILA NOVA DO PIAUI                          221160
+    225  221170 WALL FERRAZ                                 221170

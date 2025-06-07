@@ -1,0 +1,169 @@
+20 6
+      1  24001 MOSSORO                                      240110
+      1  24001 MOSSORO                                      240145
+      1  24001 MOSSORO                                      240440
+      1  24001 MOSSORO                                      240800
+      1  24001 MOSSORO                                      241105
+      1  24001 MOSSORO                                      241335
+      2  24002 CHAPADA DO APODI                             240100
+      2  24002 CHAPADA DO APODI                             240230
+      2  24002 CHAPADA DO APODI                             240370
+      2  24002 CHAPADA DO APODI                             240430
+      3  24003 MEDIO OESTE                                  240130
+      3  24003 MEDIO OESTE                                  240520
+      3  24003 MEDIO OESTE                                  240760
+      3  24003 MEDIO OESTE                                  240870
+      3  24003 MEDIO OESTE                                  241445
+      3  24003 MEDIO OESTE                                  241460
+      4  24004 VALE DO ACU                                  240020
+      4  24004 VALE DO ACU                                  240070
+      4  24004 VALE DO ACU                                  240250
+      4  24004 VALE DO ACU                                  240470
+      4  24004 VALE DO ACU                                  240485
+      4  24004 VALE DO ACU                                  240610
+      4  24004 VALE DO ACU                                  240990
+      4  24004 VALE DO ACU                                  241025
+      4  24004 VALE DO ACU                                  241280
+      5  24005 SERRA DE SAO MIGUEL                          240040
+      5  24005 SERRA DE SAO MIGUEL                          240290
+      5  24005 SERRA DE SAO MIGUEL                          240320
+      5  24005 SERRA DE SAO MIGUEL                          240330
+      5  24005 SERRA DE SAO MIGUEL                          240700
+      5  24005 SERRA DE SAO MIGUEL                          240725
+      5  24005 SERRA DE SAO MIGUEL                          241080
+      5  24005 SERRA DE SAO MIGUEL                          241250
+      5  24005 SERRA DE SAO MIGUEL                          241475
+      6  24006 PAU DOS FERROS                               240050
+      6  24006 PAU DOS FERROS                               240390
+      6  24006 PAU DOS FERROS                               240490
+      6  24006 PAU DOS FERROS                               240600
+      6  24006 PAU DOS FERROS                               240730
+      6  24006 PAU DOS FERROS                               240860
+      6  24006 PAU DOS FERROS                               240940
+      6  24006 PAU DOS FERROS                               241000
+      6  24006 PAU DOS FERROS                               241020
+      6  24006 PAU DOS FERROS                               241050
+      6  24006 PAU DOS FERROS                               241070
+      6  24006 PAU DOS FERROS                               241100
+      6  24006 PAU DOS FERROS                               241190
+      6  24006 PAU DOS FERROS                               241360
+      6  24006 PAU DOS FERROS                               241380
+      6  24006 PAU DOS FERROS                               241410
+      6  24006 PAU DOS FERROS                               241490
+      7  24007 UMARIZAL                                     240060
+      7  24007 UMARIZAL                                     240090
+      7  24007 UMARIZAL                                     240400
+      7  24007 UMARIZAL                                     240590
+      7  24007 UMARIZAL                                     240690
+      7  24007 UMARIZAL                                     240740
+      7  24007 UMARIZAL                                     240840
+      7  24007 UMARIZAL                                     240930
+      7  24007 UMARIZAL                                     241060
+      7  24007 UMARIZAL                                     241355
+      7  24007 UMARIZAL                                     241450
+      8  24008 MACAU                                        240185
+      8  24008 MACAU                                        240410
+      8  24008 MACAU                                        240450
+      8  24008 MACAU                                        240720
+      8  24008 MACAU                                        241160
+      9  24009 ANGICOS                                      240030
+      9  24009 ANGICOS                                      240080
+      9  24009 ANGICOS                                      240190
+      9  24009 ANGICOS                                      240375
+      9  24009 ANGICOS                                      240550
+      9  24009 ANGICOS                                      240670
+      9  24009 ANGICOS                                      240960
+      9  24009 ANGICOS                                      240970
+     10  24010 SERRA DE SANTANA                             240165
+     10  24010 SERRA DE SANTANA                             240270
+     10  24010 SERRA DE SANTANA                             240380
+     10  24010 SERRA DE SANTANA                             240650
+     10  24010 SERRA DE SANTANA                             241140
+     10  24010 SERRA DE SANTANA                             241300
+     10  24010 SERRA DE SANTANA                             241415
+     11  24011 SERIDO OCIDENTAL                             240200
+     11  24011 SERIDO OCIDENTAL                             240480
+     11  24011 SERIDO OCIDENTAL                             240560
+     11  24011 SERIDO OCIDENTAL                             241180
+     11  24011 SERIDO OCIDENTAL                             241210
+     11  24011 SERIDO OCIDENTAL                             241340
+     11  24011 SERIDO OCIDENTAL                             241430
+     12  24012 SERIDO ORIENTAL                              240010
+     12  24012 SERIDO ORIENTAL                              240240
+     12  24012 SERIDO ORIENTAL                              240300
+     12  24012 SERIDO ORIENTAL                              240310
+     12  24012 SERIDO ORIENTAL                              240340
+     12  24012 SERIDO ORIENTAL                              240570
+     12  24012 SERIDO ORIENTAL                              240850
+     12  24012 SERIDO ORIENTAL                              240890
+     12  24012 SERIDO ORIENTAL                              241142
+     12  24012 SERIDO ORIENTAL                              241240
+     13  24013 BAIXA VERDE                                  240160
+     13  24013 BAIXA VERDE                                  240510
+     13  24013 BAIXA VERDE                                  240580
+     13  24013 BAIXA VERDE                                  240880
+     13  24013 BAIXA VERDE                                  241010
+     14  24014 BORBOREMA POTIGUAR                           240150
+     14  24014 BORBOREMA POTIGUAR                           240210
+     14  24014 BORBOREMA POTIGUAR                           240280
+     14  24014 BORBOREMA POTIGUAR                           240500
+     14  24014 BORBOREMA POTIGUAR                           240540
+     14  24014 BORBOREMA POTIGUAR                           240640
+     14  24014 BORBOREMA POTIGUAR                           240680
+     14  24014 BORBOREMA POTIGUAR                           240790
+     14  24014 BORBOREMA POTIGUAR                           241110
+     14  24014 BORBOREMA POTIGUAR                           241120
+     14  24014 BORBOREMA POTIGUAR                           241170
+     14  24014 BORBOREMA POTIGUAR                           241230
+     14  24014 BORBOREMA POTIGUAR                           241290
+     14  24014 BORBOREMA POTIGUAR                           241330
+     14  24014 BORBOREMA POTIGUAR                           241370
+     14  24014 BORBOREMA POTIGUAR                           241400
+     15  24015 AGRESTE POTIGUAR                             240170
+     15  24015 AGRESTE POTIGUAR                             240180
+     15  24015 AGRESTE POTIGUAR                             240460
+     15  24015 AGRESTE POTIGUAR                             240530
+     15  24015 AGRESTE POTIGUAR                             240615
+     15  24015 AGRESTE POTIGUAR                             240620
+     15  24015 AGRESTE POTIGUAR                             240630
+     15  24015 AGRESTE POTIGUAR                             240660
+     15  24015 AGRESTE POTIGUAR                             240780
+     15  24015 AGRESTE POTIGUAR                             240830
+     15  24015 AGRESTE POTIGUAR                             240910
+     15  24015 AGRESTE POTIGUAR                             240920
+     15  24015 AGRESTE POTIGUAR                             240933
+     15  24015 AGRESTE POTIGUAR                             241030
+     15  24015 AGRESTE POTIGUAR                             241090
+     15  24015 AGRESTE POTIGUAR                             241150
+     15  24015 AGRESTE POTIGUAR                             241260
+     15  24015 AGRESTE POTIGUAR                             241270
+     15  24015 AGRESTE POTIGUAR                             241310
+     15  24015 AGRESTE POTIGUAR                             241350
+     15  24015 AGRESTE POTIGUAR                             241470
+     15  24015 AGRESTE POTIGUAR                             241480
+     16  24016 LITORAL NORDESTE                             240750
+     16  24016 LITORAL NORDESTE                             240895
+     16  24016 LITORAL NORDESTE                             240950
+     16  24016 LITORAL NORDESTE                             241040
+     16  24016 LITORAL NORDESTE                             241255
+     16  24016 LITORAL NORDESTE                             241390
+     16  24016 LITORAL NORDESTE                             241440
+     17  24017 MACAIBA                                      240260
+     17  24017 MACAIBA                                      240710
+     17  24017 MACAIBA                                      240820
+     17  24017 MACAIBA                                      241200
+     17  24017 MACAIBA                                      241220
+     18  24018 NATAL                                        240325
+     18  24018 NATAL                                        240360
+     18  24018 NATAL                                        240810
+     19  24019 LITORAL SUL                                  240120
+     19  24019 LITORAL SUL                                  240140
+     19  24019 LITORAL SUL                                  240220
+     19  24019 LITORAL SUL                                  240350
+     19  24019 LITORAL SUL                                  240420
+     19  24019 LITORAL SUL                                  240770
+     19  24019 LITORAL SUL                                  240980
+     19  24019 LITORAL SUL                                  241320
+     19  24019 LITORAL SUL                                  241420
+     19  24019 LITORAL SUL                                  241500
+     20  Ignorado - RN                                      240000,249999

@@ -1,0 +1,499 @@
+36 6
+      1  43001 SANTA ROSA                                   430030
+      1  43001 SANTA ROSA                                   430430
+      1  43001 SANTA ROSA                                   431040
+      1  43001 SANTA ROSA                                   431342
+      1  43001 SANTA ROSA                                   431500
+      1  43001 SANTA ROSA                                   431505
+      1  43001 SANTA ROSA                                   431507
+      1  43001 SANTA ROSA                                   431720
+      1  43001 SANTA ROSA                                   431790
+      1  43001 SANTA ROSA                                   431849
+      1  43001 SANTA ROSA                                   432180
+      1  43001 SANTA ROSA                                   432210
+      1  43001 SANTA ROSA                                   432230
+      2  43002 TRES PASSOS                                  430185
+      2  43002 TRES PASSOS                                  430220
+      2  43002 TRES PASSOS                                  430237
+      2  43002 TRES PASSOS                                  430260
+      2  43002 TRES PASSOS                                  430400
+      2  43002 TRES PASSOS                                  430600
+      2  43002 TRES PASSOS                                  430632
+      2  43002 TRES PASSOS                                  430673
+      2  43002 TRES PASSOS                                  430745
+      2  43002 TRES PASSOS                                  430960
+      2  43002 TRES PASSOS                                  430970
+      2  43002 TRES PASSOS                                  431230
+      2  43002 TRES PASSOS                                  431301
+      2  43002 TRES PASSOS                                  431540
+      2  43002 TRES PASSOS                                  431910
+      2  43002 TRES PASSOS                                  432023
+      2  43002 TRES PASSOS                                  432140
+      2  43002 TRES PASSOS                                  432147
+      2  43002 TRES PASSOS                                  432190
+      2  43002 TRES PASSOS                                  432370
+      3  43003 FREDERICO WESTPHALEN                         430050
+      3  43003 FREDERICO WESTPHALEN                         430064
+      3  43003 FREDERICO WESTPHALEN                         430340
+      3  43003 FREDERICO WESTPHALEN                         430580
+      3  43003 FREDERICO WESTPHALEN                         430607
+      3  43003 FREDERICO WESTPHALEN                         430642
+      3  43003 FREDERICO WESTPHALEN                         430692
+      3  43003 FREDERICO WESTPHALEN                         430730
+      3  43003 FREDERICO WESTPHALEN                         430850
+      3  43003 FREDERICO WESTPHALEN                         430912
+      3  43003 FREDERICO WESTPHALEN                         431050
+      3  43003 FREDERICO WESTPHALEN                         431160
+      3  43003 FREDERICO WESTPHALEN                         431270
+      3  43003 FREDERICO WESTPHALEN                         431344
+      3  43003 FREDERICO WESTPHALEN                         431346
+      3  43003 FREDERICO WESTPHALEN                         431380
+      3  43003 FREDERICO WESTPHALEN                         431449
+      3  43003 FREDERICO WESTPHALEN                         431470
+      3  43003 FREDERICO WESTPHALEN                         431555
+      3  43003 FREDERICO WESTPHALEN                         431590
+      3  43003 FREDERICO WESTPHALEN                         431620
+      3  43003 FREDERICO WESTPHALEN                         432020
+      3  43003 FREDERICO WESTPHALEN                         432132
+      3  43003 FREDERICO WESTPHALEN                         432185
+      3  43003 FREDERICO WESTPHALEN                         432195
+      3  43003 FREDERICO WESTPHALEN                         432310
+      3  43003 FREDERICO WESTPHALEN                         432350
+      4  43004 ERECHIM                                      430090
+      4  43004 ERECHIM                                      430155
+      4  43004 ERECHIM                                      430170
+      4  43004 ERECHIM                                      430192
+      4  43004 ERECHIM                                      430205
+      4  43004 ERECHIM                                      430380
+      4  43004 ERECHIM                                      430485
+      4  43004 ERECHIM                                      430511
+      4  43004 ERECHIM                                      430613
+      4  43004 ERECHIM                                      430695
+      4  43004 ERECHIM                                      430697
+      4  43004 ERECHIM                                      430700
+      4  43004 ERECHIM                                      430720
+      4  43004 ERECHIM                                      430755
+      4  43004 ERECHIM                                      430805
+      4  43004 ERECHIM                                      430825
+      4  43004 ERECHIM                                      430870
+      4  43004 ERECHIM                                      430890
+      4  43004 ERECHIM                                      431046
+      4  43004 ERECHIM                                      431070
+      4  43004 ERECHIM                                      431090
+      4  43004 ERECHIM                                      431190
+      4  43004 ERECHIM                                      431200
+      4  43004 ERECHIM                                      431413
+      4  43004 ERECHIM                                      431478
+      4  43004 ERECHIM                                      431531
+      4  43004 ERECHIM                                      431970
+      4  43004 ERECHIM                                      432060
+      4  43004 ERECHIM                                      432163
+      4  43004 ERECHIM                                      432290
+      5  43005 SANANDUVA                                    430180
+      5  43005 SANANDUVA                                    430320
+      5  43005 SANANDUVA                                    430980
+      5  43005 SANANDUVA                                    431170
+      5  43005 SANANDUVA                                    431220
+      5  43005 SANANDUVA                                    431360
+      5  43005 SANANDUVA                                    431660
+      5  43005 SANANDUVA                                    431795
+      5  43005 SANANDUVA                                    431842
+      5  43005 SANANDUVA                                    431860
+      5  43005 SANANDUVA                                    432218
+      6  43006 CERRO LARGO                                  430330
+      6  43006 CERRO LARGO                                  430370
+      6  43006 CERRO LARGO                                  430520
+      6  43006 CERRO LARGO                                  430950
+      6  43006 CERRO LARGO                                  431217
+      6  43006 CERRO LARGO                                  431510
+      6  43006 CERRO LARGO                                  431630
+      6  43006 CERRO LARGO                                  431647
+      6  43006 CERRO LARGO                                  431930
+      6  43006 CERRO LARGO                                  431937
+      6  43006 CERRO LARGO                                  432057
+      7  43007 SANTO ANGELO                                 430250
+      7  43007 SANTO ANGELO                                 430500
+      7  43007 SANTO ANGELO                                 430635
+      7  43007 SANTO ANGELO                                 430693
+      7  43007 SANTO ANGELO                                 430783
+      7  43007 SANTO ANGELO                                 430900
+      7  43007 SANTO ANGELO                                 431455
+      7  43007 SANTO ANGELO                                 431595
+      7  43007 SANTO ANGELO                                 431750
+      7  43007 SANTO ANGELO                                 431770
+      7  43007 SANTO ANGELO                                 431890
+      7  43007 SANTO ANGELO                                 431915
+      7  43007 SANTO ANGELO                                 431920
+      7  43007 SANTO ANGELO                                 432032
+      7  43007 SANTO ANGELO                                 432234
+      7  43007 SANTO ANGELO                                 432375
+      8  43008 IJUI                                         430020
+      8  43008 IJUI                                         430045
+      8  43008 IJUI                                         430150
+      8  43008 IJUI                                         430258
+      8  43008 IJUI                                         430540
+      8  43008 IJUI                                         430570
+      8  43008 IJUI                                         430587
+      8  43008 IJUI                                         430590
+      8  43008 IJUI                                         431020
+      8  43008 IJUI                                         431041
+      8  43008 IJUI                                         431333
+      8  43008 IJUI                                         431390
+      8  43008 IJUI                                         431430
+      8  43008 IJUI                                         431780
+      8  43008 IJUI                                         431973
+      9  43009 CARAZINHO                                    430047
+      9  43009 CARAZINHO                                    430195
+      9  43009 CARAZINHO                                    430215
+      9  43009 CARAZINHO                                    430470
+      9  43009 CARAZINHO                                    430515
+      9  43009 CARAZINHO                                    430530
+      9  43009 CARAZINHO                                    430585
+      9  43009 CARAZINHO                                    431085
+      9  43009 CARAZINHO                                    431142
+      9  43009 CARAZINHO                                    431295
+      9  43009 CARAZINHO                                    431349
+      9  43009 CARAZINHO                                    431370
+      9  43009 CARAZINHO                                    431445
+      9  43009 CARAZINHO                                    431642
+      9  43009 CARAZINHO                                    431775
+      9  43009 CARAZINHO                                    431845
+      9  43009 CARAZINHO                                    431936
+      9  43009 CARAZINHO                                    432010
+     10  43010 PASSO FUNDO                                  430005
+     10  43010 PASSO FUNDO                                  430355
+     10  43010 PASSO FUNDO                                  430490
+     10  43010 PASSO FUNDO                                  430495
+     10  43010 PASSO FUNDO                                  430537
+     10  43010 PASSO FUNDO                                  430550
+     10  43010 PASSO FUNDO                                  430597
+     10  43010 PASSO FUNDO                                  430630
+     10  43010 PASSO FUNDO                                  430705
+     10  43010 PASSO FUNDO                                  430885
+     10  43010 PASSO FUNDO                                  430990
+     10  43010 PASSO FUNDO                                  431180
+     10  43010 PASSO FUNDO                                  431213
+     10  43010 PASSO FUNDO                                  431262
+     10  43010 PASSO FUNDO                                  431267
+     10  43010 PASSO FUNDO                                  431410
+     10  43010 PASSO FUNDO                                  431477
+     10  43010 PASSO FUNDO                                  431610
+     10  43010 PASSO FUNDO                                  431673
+     10  43010 PASSO FUNDO                                  431755
+     10  43010 PASSO FUNDO                                  431805
+     10  43010 PASSO FUNDO                                  432050
+     10  43010 PASSO FUNDO                                  432090
+     10  43010 PASSO FUNDO                                  432255
+     10  43010 PASSO FUNDO                                  432335
+     10  43010 PASSO FUNDO                                  432340
+     11  43011 CRUZ ALTA                                    430055
+     11  43011 CRUZ ALTA                                    430222
+     11  43011 CRUZ ALTA                                    430223
+     11  43011 CRUZ ALTA                                    430410
+     11  43011 CRUZ ALTA                                    430610
+     11  43011 CRUZ ALTA                                    430750
+     11  43011 CRUZ ALTA                                    430845
+     11  43011 CRUZ ALTA                                    431000
+     11  43011 CRUZ ALTA                                    431087
+     11  43011 CRUZ ALTA                                    431115
+     11  43011 CRUZ ALTA                                    431535
+     11  43011 CRUZ ALTA                                    431643
+     11  43011 CRUZ ALTA                                    431645
+     11  43011 CRUZ ALTA                                    431670
+     12  43012 NAO-ME-TOQUE                                 430560
+     12  43012 NAO-ME-TOQUE                                 431127
+     12  43012 NAO-ME-TOQUE                                 431265
+     12  43012 NAO-ME-TOQUE                                 432030
+     12  43012 NAO-ME-TOQUE                                 432100
+     12  43012 NAO-ME-TOQUE                                 432146
+     12  43012 NAO-ME-TOQUE                                 432320
+     13  43013 SOLEDADE                                     430200
+     13  43013 SOLEDADE                                     430830
+     13  43013 SOLEDADE                                     430995
+     13  43013 SOLEDADE                                     431125
+     13  43013 SOLEDADE                                     431242
+     13  43013 SOLEDADE                                     431846
+     13  43013 SOLEDADE                                     432080
+     13  43013 SOLEDADE                                     432215
+     14  43014 GUAPORE                                      430066
+     14  43014 GUAPORE                                      430070
+     14  43014 GUAPORE                                      430140
+     14  43014 GUAPORE                                      430645
+     14  43014 GUAPORE                                      430925
+     14  43014 GUAPORE                                      430940
+     14  43014 GUAPORE                                      431030
+     14  43014 GUAPORE                                      431057
+     14  43014 GUAPORE                                      431235
+     14  43014 GUAPORE                                      431275
+     14  43014 GUAPORE                                      431280
+     14  43014 GUAPORE                                      431290
+     14  43014 GUAPORE                                      431330
+     14  43014 GUAPORE                                      431400
+     14  43014 GUAPORE                                      431517
+     14  43014 GUAPORE                                      431520
+     14  43014 GUAPORE                                      431844
+     14  43014 GUAPORE                                      431971
+     14  43014 GUAPORE                                      432040
+     14  43014 GUAPORE                                      432235
+     14  43014 GUAPORE                                      432360
+     15  43015 VACARIA                                      430230
+     15  43015 VACARIA                                      430360
+     15  43015 VACARIA                                      430367
+     15  43015 VACARIA                                      430462
+     15  43015 VACARIA                                      430740
+     15  43015 VACARIA                                      431043
+     15  43015 VACARIA                                      431112
+     15  43015 VACARIA                                      431130
+     15  43015 VACARIA                                      431237
+     15  43015 VACARIA                                      431261
+     15  43015 VACARIA                                      431446
+     15  43015 VACARIA                                      431820
+     15  43015 VACARIA                                      431862
+     15  43015 VACARIA                                      432250
+     16  43016 CAXIAS DO SUL                                430080
+     16  43016 CAXIAS DO SUL                                430210
+     16  43016 CAXIAS DO SUL                                430225
+     16  43016 CAXIAS DO SUL                                430480
+     16  43016 CAXIAS DO SUL                                430510
+     16  43016 CAXIAS DO SUL                                430593
+     16  43016 CAXIAS DO SUL                                430595
+     16  43016 CAXIAS DO SUL                                430786
+     16  43016 CAXIAS DO SUL                                430790
+     16  43016 CAXIAS DO SUL                                430820
+     16  43016 CAXIAS DO SUL                                430860
+     16  43016 CAXIAS DO SUL                                431238
+     16  43016 CAXIAS DO SUL                                431308
+     16  43016 CAXIAS DO SUL                                431335
+     16  43016 CAXIAS DO SUL                                431454
+     16  43016 CAXIAS DO SUL                                431725
+     16  43016 CAXIAS DO SUL                                431900
+     16  43016 CAXIAS DO SUL                                432280
+     16  43016 CAXIAS DO SUL                                432330
+     17  43017 SANTIAGO                                     430465
+     17  43017 SANTIAGO                                     431055
+     17  43017 SANTIAGO                                     431113
+     17  43017 SANTIAGO                                     431120
+     17  43017 SANTIAGO                                     431447
+     17  43017 SANTIAGO                                     431532
+     17  43017 SANTIAGO                                     431740
+     17  43017 SANTIAGO                                     432220
+     17  43017 SANTIAGO                                     432237
+     18  43018 SANTA MARIA                                  430290
+     18  43018 SANTA MARIA                                  430637
+     18  43018 SANTA MARIA                                  431053
+     18  43018 SANTA MARIA                                  431110
+     18  43018 SANTA MARIA                                  431210
+     18  43018 SANTA MARIA                                  431303
+     18  43018 SANTA MARIA                                  431690
+     18  43018 SANTA MARIA                                  431912
+     18  43018 SANTA MARIA                                  431940
+     18  43018 SANTA MARIA                                  431960
+     18  43018 SANTA MARIA                                  431980
+     18  43018 SANTA MARIA                                  432149
+     18  43018 SANTA MARIA                                  432345
+     19  43019 RESTINGA SECA                                430010
+     19  43019 RESTINGA SECA                                430670
+     19  43019 RESTINGA SECA                                430800
+     19  43019 RESTINGA SECA                                430840
+     19  43019 RESTINGA SECA                                431075
+     19  43019 RESTINGA SECA                                431310
+     19  43019 RESTINGA SECA                                431550
+     19  43019 RESTINGA SECA                                431843
+     19  43019 RESTINGA SECA                                432065
+     20  43020 SANTA CRUZ DO SUL                            430120
+     20  43020 SANTA CRUZ DO SUL                            430420
+     20  43020 SANTA CRUZ DO SUL                            430781
+     20  43020 SANTA CRUZ DO SUL                            430915
+     20  43020 SANTA CRUZ DO SUL                            430957
+     20  43020 SANTA CRUZ DO SUL                            430975
+     20  43020 SANTA CRUZ DO SUL                            431123
+     20  43020 SANTA CRUZ DO SUL                            431215
+     20  43020 SANTA CRUZ DO SUL                            431406
+     20  43020 SANTA CRUZ DO SUL                            431680
+     20  43020 SANTA CRUZ DO SUL                            432026
+     20  43020 SANTA CRUZ DO SUL                            432067
+     20  43020 SANTA CRUZ DO SUL                            432070
+     20  43020 SANTA CRUZ DO SUL                            432253
+     20  43020 SANTA CRUZ DO SUL                            432260
+     20  43020 SANTA CRUZ DO SUL                            432270
+     21  43021 LAJEADO-ESTRELA                              430100
+     21  43021 LAJEADO-ESTRELA                              430240
+     21  43021 LAJEADO-ESTRELA                              430245
+     21  43021 LAJEADO-ESTRELA                              430461
+     21  43021 LAJEADO-ESTRELA                              430469
+     21  43021 LAJEADO-ESTRELA                              430558
+     21  43021 LAJEADO-ESTRELA                              430583
+     21  43021 LAJEADO-ESTRELA                              430620
+     21  43021 LAJEADO-ESTRELA                              430675
+     21  43021 LAJEADO-ESTRELA                              430680
+     21  43021 LAJEADO-ESTRELA                              430780
+     21  43021 LAJEADO-ESTRELA                              430807
+     21  43021 LAJEADO-ESTRELA                              430843
+     21  43021 LAJEADO-ESTRELA                              431036
+     21  43021 LAJEADO-ESTRELA                              431140
+     21  43021 LAJEADO-ESTRELA                              431205
+     21  43021 LAJEADO-ESTRELA                              431260
+     21  43021 LAJEADO-ESTRELA                              431300
+     21  43021 LAJEADO-ESTRELA                              431415
+     21  43021 LAJEADO-ESTRELA                              431513
+     21  43021 LAJEADO-ESTRELA                              431515
+     21  43021 LAJEADO-ESTRELA                              431545
+     21  43021 LAJEADO-ESTRELA                              431580
+     21  43021 LAJEADO-ESTRELA                              431675
+     21  43021 LAJEADO-ESTRELA                              432045
+     21  43021 LAJEADO-ESTRELA                              432085
+     21  43021 LAJEADO-ESTRELA                              432130
+     21  43021 LAJEADO-ESTRELA                              432145
+     21  43021 LAJEADO-ESTRELA                              432162
+     21  43021 LAJEADO-ESTRELA                              432285
+     21  43021 LAJEADO-ESTRELA                              432377
+     22  43022 CACHOEIRA DO SUL                             430300
+     22  43022 CACHOEIRA DO SUL                             430513
+     22  43022 CACHOEIRA DO SUL                             431339
+     22  43022 CACHOEIRA DO SUL                             431395
+     22  43022 CACHOEIRA DO SUL                             431402
+     22  43022 CACHOEIRA DO SUL                             431407
+     22  43022 CACHOEIRA DO SUL                             431570
+     23  43023 MONTENEGRO                                   430057
+     23  43023 MONTENEGRO                                   430165
+     23  43023 MONTENEGRO                                   430235
+     23  43023 MONTENEGRO                                   430265
+     23  43023 MONTENEGRO                                   430468
+     23  43023 MONTENEGRO                                   430810
+     23  43023 MONTENEGRO                                   430955
+     23  43023 MONTENEGRO                                   431164
+     23  43023 MONTENEGRO                                   431179
+     23  43023 MONTENEGRO                                   431240
+     23  43023 MONTENEGRO                                   431403
+     23  43023 MONTENEGRO                                   431475
+     23  43023 MONTENEGRO                                   431480
+     23  43023 MONTENEGRO                                   431650
+     23  43023 MONTENEGRO                                   431848
+     23  43023 MONTENEGRO                                   431861
+     23  43023 MONTENEGRO                                   431935
+     23  43023 MONTENEGRO                                   431950
+     23  43023 MONTENEGRO                                   431975
+     23  43023 MONTENEGRO                                   432225
+     23  43023 MONTENEGRO                                   432254
+     24  43024 GRAMADO-CANELA                               430440
+     24  43024 GRAMADO-CANELA                               430640
+     24  43024 GRAMADO-CANELA                               430910
+     24  43024 GRAMADO-CANELA                               431010
+     24  43024 GRAMADO-CANELA                               431080
+     24  43024 GRAMADO-CANELA                               431162
+     24  43024 GRAMADO-CANELA                               431247
+     24  43024 GRAMADO-CANELA                               431320
+     24  43024 GRAMADO-CANELA                               431442
+     24  43024 GRAMADO-CANELA                               431514
+     24  43024 GRAMADO-CANELA                               431575
+     24  43024 GRAMADO-CANELA                               431600
+     24  43024 GRAMADO-CANELA                               431695
+     24  43024 GRAMADO-CANELA                               432120
+     24  43024 GRAMADO-CANELA                               432170
+     25  43025 SAO JERONIMO                                 430110
+     25  43025 SAO JERONIMO                                 430175
+     25  43025 SAO JERONIMO                                 430270
+     25  43025 SAO JERONIMO                                 430535
+     25  43025 SAO JERONIMO                                 430880
+     25  43025 SAO JERONIMO                                 431225
+     25  43025 SAO JERONIMO                                 431840
+     25  43025 SAO JERONIMO                                 432200
+     25  43025 SAO JERONIMO                                 432252
+     26  43026 PORTO ALEGRE                                 430060
+     26  43026 PORTO ALEGRE                                 430087
+     26  43026 PORTO ALEGRE                                 430310
+     26  43026 PORTO ALEGRE                                 430390
+     26  43026 PORTO ALEGRE                                 430460
+     26  43026 PORTO ALEGRE                                 430676
+     26  43026 PORTO ALEGRE                                 430760
+     26  43026 PORTO ALEGRE                                 430770
+     26  43026 PORTO ALEGRE                                 430905
+     26  43026 PORTO ALEGRE                                 430920
+     26  43026 PORTO ALEGRE                                 430930
+     26  43026 PORTO ALEGRE                                 431198
+     26  43026 PORTO ALEGRE                                 431306
+     26  43026 PORTO ALEGRE                                 431337
+     26  43026 PORTO ALEGRE                                 431340
+     26  43026 PORTO ALEGRE                                 431405
+     26  43026 PORTO ALEGRE                                 431490
+     26  43026 PORTO ALEGRE                                 431870
+     26  43026 PORTO ALEGRE                                 431990
+     26  43026 PORTO ALEGRE                                 432000
+     26  43026 PORTO ALEGRE                                 432055
+     26  43026 PORTO ALEGRE                                 432300
+     27  43027 OSORIO                                       430105
+     27  43027 OSORIO                                       430163
+     27  43027 OSORIO                                       430463
+     27  43027 OSORIO                                       430467
+     27  43027 OSORIO                                       430471
+     27  43027 OSORIO                                       430545
+     27  43027 OSORIO                                       430655
+     27  43027 OSORIO                                       431033
+     27  43027 OSORIO                                       431065
+     27  43027 OSORIO                                       431173
+     27  43027 OSORIO                                       431177
+     27  43027 OSORIO                                       431244
+     27  43027 OSORIO                                       431250
+     27  43027 OSORIO                                       431350
+     27  43027 OSORIO                                       431365
+     27  43027 OSORIO                                       431760
+     27  43027 OSORIO                                       432135
+     27  43027 OSORIO                                       432143
+     27  43027 OSORIO                                       432150
+     27  43027 OSORIO                                       432160
+     27  43027 OSORIO                                       432166
+     27  43027 OSORIO                                       432183
+     27  43027 OSORIO                                       432380
+     28  43028 CAMAQUA                                      430085
+     28  43028 CAMAQUA                                      430190
+     28  43028 CAMAQUA                                      430350
+     28  43028 CAMAQUA                                      430517
+     28  43028 CAMAQUA                                      430544
+     28  43028 CAMAQUA                                      430650
+     28  43028 CAMAQUA                                      432035
+     28  43028 CAMAQUA                                      432110
+     29  43029 CAMPANHA OCIDENTAL                           430040
+     29  43029 CAMPANHA OCIDENTAL                           430187
+     29  43029 CAMPANHA OCIDENTAL                           430865
+     29  43029 CAMPANHA OCIDENTAL                           431060
+     29  43029 CAMPANHA OCIDENTAL                           431171
+     29  43029 CAMPANHA OCIDENTAL                           431175
+     29  43029 CAMPANHA OCIDENTAL                           431530
+     29  43029 CAMPANHA OCIDENTAL                           431800
+     29  43029 CAMPANHA OCIDENTAL                           431810
+     29  43029 CAMPANHA OCIDENTAL                           432240
+     30  43030 CAMPANHA CENTRAL                             431640
+     30  43030 CAMPANHA CENTRAL                             431697
+     30  43030 CAMPANHA CENTRAL                             431710
+     30  43030 CAMPANHA CENTRAL                             431830
+     31  43031 CAMPANHA MERIDIONAL                          430003
+     31  43031 CAMPANHA MERIDIONAL                          430160
+     31  43031 CAMPANHA MERIDIONAL                          430660
+     31  43031 CAMPANHA MERIDIONAL                          430965
+     31  43031 CAMPANHA MERIDIONAL                          431150
+     32  43032 SERRAS DE SUDESTE                            430063
+     32  43032 SERRAS DE SUDESTE                            430280
+     32  43032 SERRAS DE SUDESTE                            430435
+     32  43032 SERRAS DE SUDESTE                            430690
+     32  43032 SERRAS DE SUDESTE                            431417
+     32  43032 SERRAS DE SUDESTE                            431450
+     32  43032 SERRAS DE SUDESTE                            431460
+     32  43032 SERRAS DE SUDESTE                            431700
+     33  43033 PELOTAS                                      430107
+     33  43033 PELOTAS                                      430450
+     33  43033 PELOTAS                                      430466
+     33  43033 PELOTAS                                      430512
+     33  43033 PELOTAS                                      430605
+     33  43033 PELOTAS                                      431245
+     33  43033 PELOTAS                                      431420
+     33  43033 PELOTAS                                      431440
+     33  43033 PELOTAS                                      431880
+     33  43033 PELOTAS                                      432232
+     34  43034 JAGUARAO                                     430130
+     34  43034 JAGUARAO                                     430710
+     34  43034 JAGUARAO                                     431100
+     35  43035 LITORAL LAGUNAR                              430543
+     35  43035 LITORAL LAGUNAR                              431560
+     35  43035 LITORAL LAGUNAR                              431730
+     35  43035 LITORAL LAGUNAR                              431850
+     36  Ignorado - RS                                      430000,439999

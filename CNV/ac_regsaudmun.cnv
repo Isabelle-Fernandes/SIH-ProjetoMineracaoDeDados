@@ -1,0 +1,26 @@
+N 25 6
+   1    3  .....  ASSIS BRASIL                                                                                  120005
+   1    4  .....  XAPURI                                                                                        120070
+   1    5  .....  BRASILEIA                                                                                     120010
+        6  12002 Baixo Acre e Purus                                                                             120001,120013,120017,120032,120034,120038,120040,120043,120045,120050,120080
+   6    7  .....  MANOEL URBANO                                                                                 120034
+   6    8  .....  RIO BRANCO                                                                                    120040
+   6    9  .....  PORTO ACRE                                                                                    120080
+   6   10  .....  PLACIDO DE CASTRO                                                                             120038
+   6   11  .....  BUJARI                                                                                        120013
+   6   12  .....  SENADOR GUIOMARD                                                                              120045
+   6   13  .....  JORDAO                                                                                        120032
+   6   14  .....  ACRELANDIA                                                                                    120001
+   6   15  .....  SENA MADUREIRA                                                                                120050
+   6   16  .....  CAPIXABA                                                                                      120017
+   6   17  .....  SANTA ROSA DO PURUS                                                                           120043
+       18  12003 Juruá e Tarauacá/Envira                                                                        120020,120030,120033,120035,120039,120042,120060
+  18   19  .....  FEIJO                                                                                         120030
+  18   20  .....  TARAUACA                                                                                      120060
+  18   21  .....  PORTO WALTER                                                                                  120039
+  18   22  .....  CRUZEIRO DO SUL                                                                               120020
+  18   23  .....  RODRIGUES ALVES                                                                               120042
+  18   24  .....  MARECHAL THAUMATURGO                                                                          120035
+  18   25  .....  MANCIO LIMA                                                                                   120033
+        1  12001 Alto Acre                                                                                      120005,120010,120025,120070
+   1    2  .....  EPITACIOLANDIA                                                                                120025

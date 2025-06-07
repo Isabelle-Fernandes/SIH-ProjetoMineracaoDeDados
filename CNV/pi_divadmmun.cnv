@@ -1,0 +1,237 @@
+236  6                                                                                    
+      1  2201 I CRS Parnaíba                                220191                            
+  1   2  .... Bom Princípio do Piauí                        220191                            
+  1   3  .... Buriti dos Lopes                              220200                            
+  1   4  .... Cajueiro da Praia                             220208                            
+  1   5  .... Caraúbas do Piauí                             220253                            
+  1   6  .... Caxingó                                       220265                            
+  1   7  .... Cocal                                         220270                            
+  1   8  .... Cocal dos Alves                               220272                            
+  1   9  .... Ilha Grande                                   220465                            
+  1  10  .... Luís Correia                                  220570                            
+  1  11  .... Murici dos Portelas                           220669                            
+  1  12  .... Parnaíba                                      220770                            
+     13  2203 III CRS Piripiri                              220120                            
+ 13  14  .... Barras                                        220120                            
+ 13  15  .... Batalha                                       220150                            
+ 13  16  .... Brasileira                                    220196                            
+ 13  17  .... Campo Largo do Piauí                          220217                            
+ 13  18  .... Domingos Mourão                               220342                            
+ 13  19  .... Esperantina                                   220370                            
+ 13  20  .... Joaquim Pires                                 220540                            
+ 13  21  .... Joca Marques                                  220545                            
+ 13  22  .... Lagoa de São Francisco                        220557                            
+ 13  23  .... Luzilândia                                    220580                            
+ 13  24  .... Madeiro                                       220585                            
+ 13  25  .... Matias Olímpio                                220610                            
+ 13  26  .... Milton Brandão                                220635                            
+ 13  27  .... Morro do Chapéu do Piauí                      220667                            
+ 13  28  .... Nossa Senhora dos Remédios                    220680                            
+ 13  29  .... Pedro II                                      220790                            
+ 13  30  .... Piracuruca                                    220830                            
+ 13  31  .... Piripiri                                      220840                            
+ 13  32  .... Porto                                         220850                            
+ 13  33  .... São João da Fronteira                         220987                            
+ 13  34  .... São João do Arraial                           220997                            
+ 13  35  .... São José do Divino                            221005                            
+     36  2204 IV CRS Teresina                               220010                            
+ 36  37  .... Agricolândia                                  220010                            
+ 36  38  .... Água Branca                                   220020                            
+ 36  39  .... Alto Longá                                    220030                            
+ 36  40  .... Altos                                         220040                            
+ 36  41  .... Amarante                                      220050                            
+ 36  42  .... Angical do Piauí                              220060                            
+ 36  43  .... Barro Duro                                    220140                            
+ 36  44  .... Beneditinos                                   220160                            
+ 36  45  .... Coivaras                                      220273                            
+ 36  46  .... Curralinhos                                   220325                            
+ 36  47  .... Demerval Lobão                                220330                            
+ 36  48  .... Hugo Napoleão                                 220460                            
+ 36  49  .... Jardim do Mulato                              220525                            
+ 36  50  .... José de Freitas                               220550                            
+ 36  51  .... Lagoa Alegre                                  220555                            
+ 36  52  .... Lagoa do Piauí                                220558                            
+ 36  53  .... Lagoinha do Piauí                             220554                            
+ 36  54  .... Miguel Alves                                  220620                            
+ 36  55  .... Miguel Leão                                   220630                            
+ 36  56  .... Monsenhor Gil                                 220640                            
+ 36  57  .... Nazária                                       220672                            
+ 36  58  .... Olho D'Água do Piauí                          220710                            
+ 36  59  .... Palmeirais                                    220750                            
+ 36  60  .... Passagem Franca do Piauí                      220775                            
+ 36  61  .... Pau D'Arco do Piauí                           220779                            
+ 36  62  .... Regeneração                                   220880                            
+ 36  63  .... Santo Antônio dos Milagres                    220945                            
+ 36  64  .... São Gonçalo do Piauí                          220980                            
+ 36  65  .... São Pedro do Piauí                            221050                            
+ 36  66  .... Teresina                                      221100                            
+ 36  67  .... União                                         221110                            
+     68  2205 V CRS Campo Maior                             220105                            
+ 68  69  .... Assunção do Piauí                             220105                            
+ 68  70  .... Boa Hora                                      220177                            
+ 68  71  .... Boqueirão do Piauí                            220194                            
+ 68  72  .... Buriti dos Montes                             220202                            
+ 68  73  .... Cabeceiras do Piauí                           220205                            
+ 68  74  .... Campo Maior                                   220220                            
+ 68  75  .... Capitão de Campos                             220240                            
+ 68  76  .... Castelo do Piauí                              220260                            
+ 68  77  .... Cocal de Telha                                220271                            
+ 68  78  .... Jatobá do Piauí                               220527                            
+ 68  79  .... Juazeiro do Piauí                             220551                            
+ 68  80  .... Nossa Senhora de Nazaré                       220675                            
+ 68  81  .... Novo Santo Antônio                            220695                            
+ 68  82  .... São João da Serra                             220990                            
+ 68  83  .... São Miguel do Tapuio                          221040                            
+ 68  84  .... Sigefredo Pacheco                             221065                            
+     85  2207 VII CRS Valença do Piauí                      220090                            
+ 85  86  .... Aroazes                                       220090                            
+ 85  87  .... Barra D'Alcântara                             220117                            
+ 85  88  .... Elesbão Veloso                                220350                            
+ 85  89  .... Francinópolis                                 220400                            
+ 85  90  .... Inhuma                                        220470                            
+ 85  91  .... Lagoa do Sítio                                220559                            
+ 85  92  .... Novo Oriente do Piauí                         220690                            
+ 85  93  .... Pimenteiras                                   220810                            
+ 85  94  .... Prata do Piauí                                220860                            
+ 85  95  .... Santa Cruz dos Milagres                       220915                            
+ 85  96  .... São Félix do Piauí                            220960                            
+ 85  97  .... São Miguel da Baixa Grande                    221038                            
+ 85  98  .... Valença do Piauí                              221130                            
+ 85  99  .... Várzea Grande                                 221140                            
+    100  2208 VIII CRS Oeiras                               220155                            
+100 101  .... Bela Vista do Piauí                           220155                            
+100 102  .... Cajazeiras do Piauí                           220207                            
+100 103  .... Campinas do Piauí                             220210                            
+100 104  .... Colônia do Piauí                              220277                            
+100 105  .... Conceição do Canindé                          220280                            
+100 106  .... Floresta do Piauí                             220385                            
+100 107  .... Isaías Coelho                                 220490                            
+100 108  .... Oeiras                                        220700                            
+100 109  .... Santa Rosa do Piauí                           220937                            
+100 110  .... Santo Inácio do Piauí                         220950                            
+100 111  .... São Francisco de Assis do Piauí               220965                            
+100 112  .... São João da Varjota                           220995                            
+100 113  .... Simplício Mendes                              221080                            
+100 114  .... Tanque do Piauí                               221097                            
+    115  2209 IX CRS Picos                                  220005                            
+115 116  .... Acauã                                         220005                            
+115 117  .... Alagoinha do Piauí                            220025                            
+115 118  .... Alegrete do Piauí                             220027                            
+115 119  .... Aroeiras do Itaim                             220095                            
+115 120  .... Belém do Piauí                                220157                            
+115 121  .... Betânia do Piauí                              220173                            
+115 122  .... Bocaina                                       220180                            
+115 123  .... Caldeirão Grande do Piauí                     220209                            
+115 124  .... Campo Grande do Piauí                         220213                            
+115 125  .... Caridade do Piauí                             220255                            
+115 126  .... Curral Novo do Piauí                          220327                            
+115 127  .... Dom Expedito Lopes                            220340                            
+115 128  .... Francisco Macedo                              220415                            
+115 129  .... Francisco Santos                              220420                            
+115 130  .... Fronteiras                                    220430                            
+115 131  .... Geminiano                                     220435                            
+115 132  .... Ipiranga do Piauí                             220480                            
+115 133  .... Itainópolis                                   220500                            
+115 134  .... Jacobina do Piauí                             220515                            
+115 135  .... Jaicós                                        220520                            
+115 136  .... Marcolândia                                   220595                            
+115 137  .... Massapê do Piauí                              220605                            
+115 138  .... Monsenhor Hipólito                            220650                            
+115 139  .... Padre Marcos                                  220720                            
+115 140  .... Paquetá                                       220755                            
+115 141  .... Patos do Piauí                                220777                            
+115 142  .... Paulistana                                    220780                            
+115 143  .... Picos                                         220800                            
+115 144  .... Pio IX                                        220820                            
+115 145  .... Queimada Nova                                 220865                            
+115 146  .... Santa Cruz do Piauí                           220910                            
+115 147  .... Santana do Piauí                              220935                            
+115 148  .... Santo Antônio de Lisboa                       220940                            
+115 149  .... São João da Canabrava                         220985                            
+115 150  .... São José do Piauí                             221020                            
+115 151  .... São Julião                                    221030                            
+115 152  .... São Luis do Piauí                             221037                            
+115 153  .... Simões                                        221070                            
+115 154  .... Sussuapara                                    221093                            
+115 155  .... Vera Mendes                                   221150                            
+115 156  .... Vila Nova do Piauí                            221160                            
+115 157  .... Wall Ferraz                                   221170                            
+    158  2210 X CRS Floriano                                220100                            
+158 159  .... Arraial                                       220100                            
+158 160  .... Bertolínia                                    220170                            
+158 161  .... Brejo do Piauí                                220198                            
+158 162  .... Canavieira                                    220225                            
+158 163  .... Canto do Buriti                               220230                            
+158 164  .... Flores do Piauí                               220380                            
+158 165  .... Floriano                                      220390                            
+158 166  .... Francisco Ayres                               220410                            
+158 167  .... Guadalupe                                     220450                            
+158 168  .... Itaueira                                      220510                            
+158 169  .... Jerumenha                                     220530                            
+158 170  .... Landri Sales                                  220560                            
+158 171  .... Manoel Emídio                                 220590                            
+158 172  .... Marcos Parente                                220600                            
+158 173  .... Nazaré do Piauí                               220670                            
+158 174  .... Nova Santa Rita                               220795                            
+158 175  .... Paes Landim                                   220730                            
+158 176  .... Pajeú do Piauí                                220735                            
+158 177  .... Pavussu                                       220785                            
+158 178  .... Pedro Laurentino                              220793                            
+158 179  .... Porto Alegre do Piauí                         220855                            
+158 180  .... Ribeira do Piauí                              220887                            
+158 181  .... Rio Grande do Piauí                           220900                            
+158 182  .... São Francisco do Piauí                        220970                            
+158 183  .... São José do Peixe                             221010                            
+158 184  .... São Miguel do Fidalgo                         221039                            
+158 185  .... Socorro do Piauí                              221090                            
+158 186  .... Tamboril do Piauí                             221095                            
+    187  2212 XII CRS S.Raimundo Nonat                      220070                            
+187 188  .... Anísio de Abreu                               220070                            
+187 189  .... Bonfim do Piauí                               220192                            
+187 190  .... Campo Alegre do Fidalgo                       220211                            
+187 191  .... Capitão Gervásio Oliveira                     220245                            
+187 192  .... Caracol                                       220250                            
+187 193  .... Coronel José Dias                             220285                            
+187 194  .... Dirceu Arcoverde                              220335                            
+187 195  .... Dom Inocêncio                                 220345                            
+187 196  .... Fartura do Piauí                              220375                            
+187 197  .... Guaribas                                      220455                            
+187 198  .... João Costa                                    220535                            
+187 199  .... Jurema                                        220553                            
+187 200  .... Lagoa do Barro do Piauí                       220556                            
+187 201  .... São Braz do Piauí                             220955                            
+187 202  .... São João do Piauí                             221000                            
+187 203  .... São Lourenço do Piauí                         221035                            
+187 204  .... São Raimundo Nonato                           221060                            
+187 205  .... Várzea Branca                                 221135                            
+    206  2213 XIII CRS Bom Jesus                            220045                            
+206 207  .... Alvorada do Gurguéia                          220045                            
+206 208  .... Avelino Lopes                                 220110                            
+206 209  .... Barreiras do Piauí                            220130                            
+206 210  .... Bom Jesus                                     220190                            
+206 211  .... Colônia do Gurguéia                           220275                            
+206 212  .... Corrente                                      220290                            
+206 213  .... Cristalândia do Piauí                         220300                            
+206 214  .... Cristino Castro                               220310                            
+206 215  .... Curimatá                                      220320                            
+206 216  .... Currais                                       220323                            
+206 217  .... Eliseu Martins                                220360                            
+206 218  .... Gilbués                                       220440                            
+206 219  .... Júlio Borges                                  220552                            
+206 220  .... Monte Alegre do Piauí                         220660                            
+206 221  .... Morro Cabeça no Tempo                         220665                            
+206 222  .... Palmeira do Piauí                             220740                            
+206 223  .... Parnaguá                                      220760                            
+206 224  .... Redenção do Gurguéia                          220870                            
+206 225  .... Riacho Frio                                   220885                            
+206 226  .... Santa Filomena                                220920                            
+206 227  .... Santa Luz                                     220930                            
+206 228  .... São Gonçalo do Gurguéia                       220975                            
+206 229  .... Sebastião Barros                              221062                            
+    230  2215 XV CRS Uruçuí                                 220080                            
+230 231  .... Antônio Almeida                               220080                            
+230 232  .... Baixa Grande do Ribeiro                       220115                            
+230 233  .... Ribeiro Gonçalves                             220890                            
+230 234  .... Sebastião Leal                                221063                            
+230 235  .... Uruçuí                                        221120                            
+    236  2200 Ignorado - PI                                 220000,229999                     

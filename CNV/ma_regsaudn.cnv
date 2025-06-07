@@ -1,0 +1,219 @@
+20  6                                                  21X001                            
+      1  21001 MA Açailândia                                210005                            
+      1  21001 MA Açailândia                                210203                            
+      1  21001 MA Açailândia                                210232                            
+      1  21001 MA Açailândia                                210325                            
+      1  21001 MA Açailândia                                210542                            
+      1  21001 MA Açailândia                                211085                            
+      1  21001 MA Açailândia                                211153                            
+      2  21002 Bacabal                                      21X002                            
+      2  21002 MA Bacabal                                   210040                            
+      2  21002 MA Bacabal                                   210120                            
+      2  21002 MA Bacabal                                   210207                            
+      2  21002 MA Bacabal                                   210215                            
+      2  21002 MA Bacabal                                   210355                            
+      2  21002 MA Bacabal                                   210590                            
+      2  21002 MA Bacabal                                   210635                            
+      2  21002 MA Bacabal                                   210740                            
+      2  21002 MA Bacabal                                   210810                            
+      2  21002 MA Bacabal                                   211140                            
+      3  21003 Balsas                                       21X003                            
+      3  21003 MA Balsas                                    210050                            
+      3  21003 MA Balsas                                    210140                            
+      3  21003 MA Balsas                                    210280                            
+      3  21003 MA Balsas                                    210407                            
+      3  21003 MA Balsas                                    210409                            
+      3  21003 MA Balsas                                    210410                            
+      3  21003 MA Balsas                                    210610                            
+      3  21003 MA Balsas                                    210725                            
+      3  21003 MA Balsas                                    210950                            
+      3  21003 MA Balsas                                    210970                            
+      3  21003 MA Balsas                                    211080                            
+      3  21003 MA Balsas                                    211157                            
+      3  21003 MA Balsas                                    211160                            
+      4  21004 Barra do Corda                               21X004                            
+      4  21004 MA Barra do Corda                            210095                            
+      4  21004 MA Barra do Corda                            210160                            
+      4  21004 MA Barra do Corda                            210408                            
+      4  21004 MA Barra do Corda                            210480                            
+      4  21004 MA Barra do Corda                            210535                            
+      5  21005 Caxias                                       21X005                            
+      5  21005 MA Caxias                                    210010                            
+      5  21005 MA Caxias                                    210030                            
+      5  21005 MA Caxias                                    210220                            
+      5  21005 MA Caxias                                    210300                            
+      5  21005 MA Caxias                                    210340                            
+      5  21005 MA Caxias                                    210390                            
+      6  21006 Chapadinha                                   21X006                            
+      6  21006 MA Chapadinha                                210015                            
+      6  21006 MA Chapadinha                                210080                            
+      6  21006 MA Chapadinha                                210090                            
+      6  21006 MA Chapadinha                                210210                            
+      6  21006 MA Chapadinha                                210320                            
+      6  21006 MA Chapadinha                                210630                            
+      6  21006 MA Chapadinha                                210640                            
+      6  21006 MA Chapadinha                                210667                            
+      6  21006 MA Chapadinha                                210805                            
+      6  21006 MA Chapadinha                                211010                            
+      6  21006 MA Chapadinha                                211023                            
+      6  21006 MA Chapadinha                                211060                            
+      7  21007 Codó                                         21X007                            
+      7  21007 MA Codó                                      210043                            
+      7  21007 MA Codó                                      210330,213307                     
+      7  21007 MA Codó                                      210360                            
+      7  21007 MA Codó                                      210845                            
+      7  21007 MA Codó                                      211150                            
+      8  21008 Imperatriz                                   21X008                            
+      8  21008 MA Imperatriz                                210060                            
+      8  21008 MA Imperatriz                                210235                            
+      8  21008 MA Imperatriz                                210255                            
+      8  21008 MA Imperatriz                                210375                            
+      8  21008 MA Imperatriz                                210405                            
+      8  21008 MA Imperatriz                                210455                            
+      8  21008 MA Imperatriz                                210530                            
+      8  21008 MA Imperatriz                                210550                            
+      8  21008 MA Imperatriz                                210598                            
+      8  21008 MA Imperatriz                                210700                            
+      8  21008 MA Imperatriz                                210900                            
+      8  21008 MA Imperatriz                                210955                            
+      8  21008 MA Imperatriz                                211105                            
+      8  21008 MA Imperatriz                                211176                            
+      9  21009 Itapecuru Mirim                              21X009                            
+      9  21009 MA Itapecuru Mirim                           210070                            
+      9  21009 MA Itapecuru Mirim                           210100                            
+      9  21009 MA Itapecuru Mirim                           210173                            
+      9  21009 MA Itapecuru Mirim                           210270                            
+      9  21009 MA Itapecuru Mirim                           210540                            
+      9  21009 MA Itapecuru Mirim                           210663                            
+      9  21009 MA Itapecuru Mirim                           210675                            
+      9  21009 MA Itapecuru Mirim                           210720                            
+      9  21009 MA Itapecuru Mirim                           210880                            
+      9  21009 MA Itapecuru Mirim                           210930                            
+      9  21009 MA Itapecuru Mirim                           211040                            
+      9  21009 MA Itapecuru Mirim                           211260                            
+      9  21009 MA Itapecuru Mirim                           211270                            
+     10  21010 Pedreiras                                    21X010                            
+     10  21010 MA Pedreiras                                 210193                            
+     10  21010 MA Pedreiras                                 210400                            
+     10  21010 MA Pedreiras                                 210520                            
+     10  21010 MA Pedreiras                                 210570                            
+     10  21010 MA Pedreiras                                 210580                            
+     10  21010 MA Pedreiras                                 210594                            
+     10  21010 MA Pedreiras                                 210596                            
+     10  21010 MA Pedreiras                                 210600                            
+     10  21010 MA Pedreiras                                 210820                            
+     10  21010 MA Pedreiras                                 210890                            
+     10  21010 MA Pedreiras                                 211163                            
+     10  21010 MA Pedreiras                                 211167                            
+     11  21011 Pinheiro                                     21X011                            
+     11  21011 MA Pinheiro                                  210083                            
+     11  21011 MA Pinheiro                                  210130                            
+     11  21011 MA Pinheiro                                  210190                            
+     11  21011 MA Pinheiro                                  210310                            
+     11  21011 MA Pinheiro                                  210312                            
+     11  21011 MA Pinheiro                                  210370                            
+     11  21011 MA Pinheiro                                  210490                            
+     11  21011 MA Pinheiro                                  210680                            
+     11  21011 MA Pinheiro                                  210825                            
+     11  21011 MA Pinheiro                                  210840                            
+     11  21011 MA Pinheiro                                  210860                            
+     11  21011 MA Pinheiro                                  210905                            
+     11  21011 MA Pinheiro                                  210927                            
+     11  21011 MA Pinheiro                                  210980                            
+     11  21011 MA Pinheiro                                  211178                            
+     11  21011 MA Pinheiro                                  211240                            
+     12  21012 Presidente Dutra                             21X012                            
+     12  21012 MA Presidente Dutra                          210275                            
+     12  21012 MA Presidente Dutra                          210380                            
+     12  21012 MA Presidente Dutra                          210420                            
+     12  21012 MA Presidente Dutra                          210440                            
+     12  21012 MA Presidente Dutra                          210450                            
+     12  21012 MA Presidente Dutra                          210460                            
+     12  21012 MA Presidente Dutra                          210462                            
+     12  21012 MA Presidente Dutra                          210470                            
+     12  21012 MA Presidente Dutra                          210560                            
+     12  21012 MA Presidente Dutra                          210910                            
+     12  21012 MA Presidente Dutra                          210975                            
+     12  21012 MA Presidente Dutra                          211030                            
+     12  21012 MA Presidente Dutra                          211070                            
+     12  21012 MA Presidente Dutra                          211125                            
+     12  21012 MA Presidente Dutra                          211174                            
+     13  21013 Rosário                                      21X013                            
+     13  21013 MA Rosário                                   210110                            
+     13  21013 MA Rosário                                   210125                            
+     13  21013 MA Rosário                                   210170,211707                     
+     13  21013 MA Rosário                                   210237                            
+     13  21013 MA Rosário                                   210500                            
+     13  21013 MA Rosário                                   210510                            
+     13  21013 MA Rosário                                   210710                            
+     13  21013 MA Rosário                                   210920                            
+     13  21013 MA Rosário                                   210940                            
+     13  21013 MA Rosário                                   210960                            
+     13  21013 MA Rosário                                   211020                            
+     14  21014 Santa Inês                                   21X014                            
+     14  21014 MA Santa Inês                                210047                            
+     14  21014 MA Santa Inês                                210177                            
+     14  21014 MA Santa Inês                                210200                            
+     14  21014 MA Santa Inês                                210465                            
+     14  21014 MA Santa Inês                                210515                            
+     14  21014 MA Santa Inês                                210690                            
+     14  21014 MA Santa Inês                                210850                            
+     14  21014 MA Santa Inês                                210870                            
+     14  21014 MA Santa Inês                                210990                            
+     14  21014 MA Santa Inês                                211000                            
+     14  21014 MA Santa Inês                                211102                            
+     14  21014 MA Santa Inês                                211172                            
+     15  21015 São João dos Patos                           21X015                            
+     15  21015 MA São João dos Patos                        210150                            
+     15  21015 MA São João dos Patos                        210180                            
+     15  21015 MA São João dos Patos                        210230                            
+     15  21015 MA São João dos Patos                        210350                            
+     15  21015 MA São João dos Patos                        210545                            
+     15  21015 MA São João dos Patos                        210592                            
+     15  21015 MA São João dos Patos                        210670                            
+     15  21015 MA São João dos Patos                        210730                            
+     15  21015 MA São João dos Patos                        210770                            
+     15  21015 MA São João dos Patos                        210790                            
+     15  21015 MA São João dos Patos                        210800                            
+     15  21015 MA São João dos Patos                        211065                            
+     15  21015 MA São João dos Patos                        211110                            
+     15  21015 MA São João dos Patos                        211190                            
+     16  21016 São Luís                                     21X016                            
+     16  21016 MA São Luís                                  210020                            
+     16  21016 MA São Luís                                  210750                            
+     16  21016 MA São Luís                                  210945                            
+     16  21016 MA São Luís                                  211120                            
+     17  21017 Timon                                        21X017                            
+     17  21017 MA Timon                                     210660                            
+     17  21017 MA Timon                                     210780                            
+     17  21017 MA Timon                                     211090                            
+     18  21018 Viana                                        21X018                            
+     18  21018 MA Viana                                     210135                            
+     18  21018 MA Viana                                     210240                            
+     18  21018 MA Viana                                     210250                            
+     18  21018 MA Viana                                     210650                            
+     18  21018 MA Viana                                     210745                            
+     18  21018 MA Viana                                     210760                            
+     18  21018 MA Viana                                     210830                            
+     18  21018 MA Viana                                     211050                            
+     18  21018 MA Viana                                     211100                            
+     18  21018 MA Viana                                     211170                            
+     19  21019 Zé Doca                                      21X019                            
+     19  21019 MA Zé Doca                                   210055                            
+     19  21019 MA Zé Doca                                   210087                            
+     19  21019 MA Zé Doca                                   210197                            
+     19  21019 MA Zé Doca                                   210260                            
+     19  21019 MA Zé Doca                                   210290                            
+     19  21019 MA Zé Doca                                   210315                            
+     19  21019 MA Zé Doca                                   210317                            
+     19  21019 MA Zé Doca                                   210430                            
+     19  21019 MA Zé Doca                                   210467                            
+     19  21019 MA Zé Doca                                   210565                            
+     19  21019 MA Zé Doca                                   210620                            
+     19  21019 MA Zé Doca                                   210632                            
+     19  21019 MA Zé Doca                                   210637                            
+     19  21019 MA Zé Doca                                   210735                            
+     19  21019 MA Zé Doca                                   210923                            
+     19  21019 MA Zé Doca                                   211003                            
+     20  21000 Ignorado - MA                                21X000                            
+     20  21000 MA Município ignorado - MA                   210000,219999                     

@@ -1,0 +1,186 @@
+22  6                                                                                    
+      1  2301 Fortaleza                                     230100                            
+      1  2301 Fortaleza                                     230220                            
+      1  2301 Fortaleza                                     230350                            
+      1  2301 Fortaleza                                     230395                            
+      1  2301 Fortaleza                                     230428                            
+      1  2301 Fortaleza                                     230440                            
+      1  2301 Fortaleza                                     230523                            
+      1  2301 Fortaleza                                     230625                            
+      1  2301 Fortaleza                                     230945                            
+      1  2301 Fortaleza                                     230960                            
+      1  2301 Fortaleza                                     231085                            
+      2  2302 Caucaia                                       230090                            
+      2  2302 Caucaia                                       230370                            
+      2  2302 Caucaia                                       230460                            
+      2  2302 Caucaia                                       230630                            
+      2  2302 Caucaia                                       231020                            
+      2  2302 Caucaia                                       231025                            
+      2  2302 Caucaia                                       231070                            
+      2  2302 Caucaia                                       231240                            
+      2  2302 Caucaia                                       231260                            
+      2  2302 Caucaia                                       231335                            
+      3  2303 Maracanaú                                     230015                            
+      3  2303 Maracanaú                                     230195                            
+      3  2303 Maracanaú                                     230495                            
+      3  2303 Maracanaú                                     230765                            
+      3  2303 Maracanaú                                     230770                            
+      3  2303 Maracanaú                                     230970                            
+      3  2303 Maracanaú                                     231010                            
+      3  2303 Maracanaú                                     231160                            
+      4  2304 Baturité                                      230120                            
+      4  2304 Baturité                                      230140                            
+      4  2304 Baturité                                      230210                            
+      4  2304 Baturité                                      230290                            
+      4  2304 Baturité                                      230510                            
+      4  2304 Baturité                                      230650                            
+      4  2304 Baturité                                      230910                            
+      4  2304 Baturité                                      230980                            
+      5  2305 Canindé                                       230240                            
+      5  2305 Canindé                                       230280                            
+      5  2305 Canindé                                       230300                            
+      5  2305 Canindé                                       230660                            
+      5  2305 Canindé                                       230763                            
+      5  2305 Canindé                                       231040                            
+      6  2306 Itapipoca                                     230075                            
+      6  2306 Itapipoca                                     230640                            
+      6  2306 Itapipoca                                     230837                            
+      6  2306 Itapipoca                                     231350                            
+      6  2306 Itapipoca                                     231355                            
+      6  2306 Itapipoca                                     231375                            
+      6  2306 Itapipoca                                     231380                            
+      7  2307 Aracati                                       230110                            
+      7  2307 Aracati                                       230445                            
+      7  2307 Aracati                                       230535                            
+      7  2307 Aracati                                       230620                            
+      8  2308 Quixadá                                       230185                            
+      8  2308 Quixadá                                       230393                            
+      8  2308 Quixadá                                       230526                            
+      8  2308 Quixadá                                       230533                            
+      8  2308 Quixadá                                       230835                            
+      8  2308 Quixadá                                       231050                            
+      8  2308 Quixadá                                       231130                            
+      8  2308 Quixadá                                       231140                            
+      8  2308 Quixadá                                       231270                            
+      8  2308 Quixadá                                       231300                            
+      9  2309 Russas                                        230670                            
+      9  2309 Russas                                        230700                            
+      9  2309 Russas                                        230870                            
+      9  2309 Russas                                        231000                            
+      9  2309 Russas                                        231180                            
+     10  2310 Limoeiro do Norte                             230070                            
+     10  2310 Limoeiro do Norte                             230427                            
+     10  2310 Limoeiro do Norte                             230600                            
+     10  2310 Limoeiro do Norte                             230680                            
+     10  2310 Limoeiro do Norte                             230690                            
+     10  2310 Limoeiro do Norte                             230760                            
+     10  2310 Limoeiro do Norte                             231080                            
+     10  2310 Limoeiro do Norte                             231123                            
+     10  2310 Limoeiro do Norte                             231150                            
+     10  2310 Limoeiro do Norte                             231250                            
+     10  2310 Limoeiro do Norte                             231310                            
+     11  2311 Sobral                                        230050                            
+     11  2311 Sobral                                        230310                            
+     11  2311 Sobral                                        230365                            
+     11  2311 Sobral                                        230400                            
+     11  2311 Sobral                                        230435                            
+     11  2311 Sobral                                        230450                            
+     11  2311 Sobral                                        230465                            
+     11  2311 Sobral                                        230490                            
+     11  2311 Sobral                                        230520                            
+     11  2311 Sobral                                        230580                            
+     11  2311 Sobral                                        230610                            
+     11  2311 Sobral                                        230800                            
+     11  2311 Sobral                                        230820                            
+     11  2311 Sobral                                        230880                            
+     11  2311 Sobral                                        230900                            
+     11  2311 Sobral                                        230990                            
+     11  2311 Sobral                                        231095                            
+     11  2311 Sobral                                        231170                            
+     11  2311 Sobral                                        231200                            
+     11  2311 Sobral                                        231220                            
+     11  2311 Sobral                                        231280                            
+     11  2311 Sobral                                        231290                            
+     11  2311 Sobral                                        231390                            
+     11  2311 Sobral                                        231395                            
+     12  2312 Acaraú                                        230020                            
+     12  2312 Acaraú                                        230230                            
+     12  2312 Acaraú                                        230425                            
+     12  2312 Acaraú                                        230655                            
+     12  2312 Acaraú                                        230725                            
+     12  2312 Acaraú                                        230780                            
+     12  2312 Acaraú                                        230890                            
+     13  2313 Tianguá                                       230340                            
+     13  2313 Tianguá                                       230423                            
+     13  2313 Tianguá                                       230500                            
+     13  2313 Tianguá                                       230530                            
+     13  2313 Tianguá                                       231230                            
+     13  2313 Tianguá                                       231340                            
+     13  2313 Tianguá                                       231360                            
+     13  2313 Tianguá                                       231410                            
+     14  2314 Tauá                                          230040                            
+     14  2314 Tauá                                          230150                            
+     14  2314 Tauá                                          231030                            
+     14  2314 Tauá                                          231330                            
+     15  2315 Crateús                                       230125                            
+     15  2315 Crateús                                       230410                            
+     15  2315 Crateús                                       230560                            
+     15  2315 Crateús                                       230565                            
+     15  2315 Crateús                                       230590                            
+     15  2315 Crateús                                       230860                            
+     15  2315 Crateús                                       230930                            
+     15  2315 Crateús                                       230940                            
+     15  2315 Crateús                                       231100                            
+     15  2315 Crateús                                       231126                            
+     15  2315 Crateús                                       231320                            
+     16  2316 Camocim                                       230205                            
+     16  2316 Camocim                                       230260                            
+     16  2316 Camocim                                       230390                            
+     16  2316 Camocim                                       230470                            
+     16  2316 Camocim                                       230790                            
+     17  2317 Icó                                           230180                            
+     17  2317 Icó                                           230380                            
+     17  2317 Icó                                           230540                            
+     17  2317 Icó                                           230570                            
+     17  2317 Icó                                           230750                            
+     17  2317 Icó                                           230950                            
+     17  2317 Icó                                           231370                            
+     18  2318 Iguatu                                        230030                            
+     18  2318 Iguatu                                        230330                            
+     18  2318 Iguatu                                        230360                            
+     18  2318 Iguatu                                        230426                            
+     18  2318 Iguatu                                        230550                            
+     18  2318 Iguatu                                        230740                            
+     18  2318 Iguatu                                        230850                            
+     18  2318 Iguatu                                        231090                            
+     18  2318 Iguatu                                        231135                            
+     18  2318 Iguatu                                        231190                            
+     19  2319 Brejo Santo                                   230010                            
+     19  2319 Brejo Santo                                   230170                            
+     19  2319 Brejo Santo                                   230200                            
+     19  2319 Brejo Santo                                   230250                            
+     19  2319 Brejo Santo                                   230720                            
+     19  2319 Brejo Santo                                   230810                            
+     19  2319 Brejo Santo                                   230830                            
+     19  2319 Brejo Santo                                   231060                            
+     19  2319 Brejo Santo                                   231110                            
+     20  2320 Crato                                         230060                            
+     20  2320 Crato                                         230080                            
+     20  2320 Crato                                         230130                            
+     20  2320 Crato                                         230160                            
+     20  2320 Crato                                         230270                            
+     20  2320 Crato                                         230420                            
+     20  2320 Crato                                         230430                            
+     20  2320 Crato                                         230920                            
+     20  2320 Crato                                         231120                            
+     20  2320 Crato                                         231195                            
+     20  2320 Crato                                         231210                            
+     20  2320 Crato                                         231325                            
+     20  2320 Crato                                         231400                            
+     21  2321 Juazeiro do Norte                             230190                            
+     21  2321 Juazeiro do Norte                             230320                            
+     21  2321 Juazeiro do Norte                             230480                            
+     21  2321 Juazeiro do Norte                             230710                            
+     21  2321 Juazeiro do Norte                             230730                            
+     21  2321 Juazeiro do Norte                             230840                            
+     22  2300 Município ignorado - CE                       230000,239999                     

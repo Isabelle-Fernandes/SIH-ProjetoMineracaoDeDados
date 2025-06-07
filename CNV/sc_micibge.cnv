@@ -1,0 +1,297 @@
+21 6
+      1  42001 SAO MIGUEL DO OESTE                          420080
+      1  42001 SAO MIGUEL DO OESTE                          420208
+      1  42001 SAO MIGUEL DO OESTE                          420209
+      1  42001 SAO MIGUEL DO OESTE                          420215
+      1  42001 SAO MIGUEL DO OESTE                          420490
+      1  42001 SAO MIGUEL DO OESTE                          420500
+      1  42001 SAO MIGUEL DO OESTE                          420640
+      1  42001 SAO MIGUEL DO OESTE                          420660
+      1  42001 SAO MIGUEL DO OESTE                          420765
+      1  42001 SAO MIGUEL DO OESTE                          420840
+      1  42001 SAO MIGUEL DO OESTE                          421100
+      1  42001 SAO MIGUEL DO OESTE                          421200
+      1  42001 SAO MIGUEL DO OESTE                          421223
+      1  42001 SAO MIGUEL DO OESTE                          421415
+      1  42001 SAO MIGUEL DO OESTE                          421507
+      1  42001 SAO MIGUEL DO OESTE                          421520
+      1  42001 SAO MIGUEL DO OESTE                          421555
+      1  42001 SAO MIGUEL DO OESTE                          421625
+      1  42001 SAO MIGUEL DO OESTE                          421670
+      1  42001 SAO MIGUEL DO OESTE                          421720
+      1  42001 SAO MIGUEL DO OESTE                          421875
+      2  42002 CHAPECO                                      420050
+      2  42002 CHAPECO                                      420055
+      2  42002 CHAPECO                                      420257
+      2  42002 CHAPECO                                      420310
+      2  42002 CHAPECO                                      420350
+      2  42002 CHAPECO                                      420410
+      2  42002 CHAPECO                                      420420
+      2  42002 CHAPECO                                      420435
+      2  42002 CHAPECO                                      420440
+      2  42002 CHAPECO                                      420470
+      2  42002 CHAPECO                                      420475
+      2  42002 CHAPECO                                      420535
+      2  42002 CHAPECO                                      420543
+      2  42002 CHAPECO                                      420665
+      2  42002 CHAPECO                                      420775
+      2  42002 CHAPECO                                      420785
+      2  42002 CHAPECO                                      420895
+      2  42002 CHAPECO                                      421050
+      2  42002 CHAPECO                                      421090
+      2  42002 CHAPECO                                      421140
+      2  42002 CHAPECO                                      421145
+      2  42002 CHAPECO                                      421165
+      2  42002 CHAPECO                                      421210
+      2  42002 CHAPECO                                      421290
+      2  42002 CHAPECO                                      421315
+      2  42002 CHAPECO                                      421420
+      2  42002 CHAPECO                                      421535
+      2  42002 CHAPECO                                      421568
+      2  42002 CHAPECO                                      421569
+      2  42002 CHAPECO                                      421575
+      2  42002 CHAPECO                                      421600
+      2  42002 CHAPECO                                      421690
+      2  42002 CHAPECO                                      421715
+      2  42002 CHAPECO                                      421730
+      2  42002 CHAPECO                                      421755
+      2  42002 CHAPECO                                      421775
+      2  42002 CHAPECO                                      421795
+      2  42002 CHAPECO                                      421885
+      3  42003 XANXERE                                      420010
+      3  42003 XANXERE                                      420253
+      3  42003 XANXERE                                      420445
+      3  42003 XANXERE                                      420517
+      3  42003 XANXERE                                      420530
+      3  42003 XANXERE                                      420560
+      3  42003 XANXERE                                      420768
+      3  42003 XANXERE                                      420917
+      3  42003 XANXERE                                      420945
+      3  42003 XANXERE                                      421055
+      3  42003 XANXERE                                      421185
+      3  42003 XANXERE                                      421227
+      3  42003 XANXERE                                      421340
+      3  42003 XANXERE                                      421610
+      3  42003 XANXERE                                      421910
+      3  42003 XANXERE                                      421950
+      3  42003 XANXERE                                      421970
+      4  42004 JOACABA                                      420040
+      4  42004 JOACABA                                      420160
+      4  42004 JOACABA                                      420300
+      4  42004 JOACABA                                      420315
+      4  42004 JOACABA                                      420390
+      4  42004 JOACABA                                      420400
+      4  42004 JOACABA                                      420520
+      4  42004 JOACABA                                      420550
+      4  42004 JOACABA                                      420670
+      4  42004 JOACABA                                      420675
+      4  42004 JOACABA                                      420680
+      4  42004 JOACABA                                      420757
+      4  42004 JOACABA                                      420860
+      4  42004 JOACABA                                      420900
+      4  42004 JOACABA                                      420920
+      4  42004 JOACABA                                      420970
+      4  42004 JOACABA                                      421003
+      4  42004 JOACABA                                      421005
+      4  42004 JOACABA                                      421070
+      4  42004 JOACABA                                      421180
+      4  42004 JOACABA                                      421300
+      4  42004 JOACABA                                      421440
+      4  42004 JOACABA                                      421540
+      4  42004 JOACABA                                      421790
+      4  42004 JOACABA                                      421850
+      4  42004 JOACABA                                      421917
+      4  42004 JOACABA                                      421930
+      5  42005 CONCORDIA                                    420075
+      5  42005 CONCORDIA                                    420127
+      5  42005 CONCORDIA                                    420165
+      5  42005 CONCORDIA                                    420430
+      5  42005 CONCORDIA                                    420760
+      5  42005 CONCORDIA                                    420770
+      5  42005 CONCORDIA                                    420780
+      5  42005 CONCORDIA                                    420800
+      5  42005 CONCORDIA                                    420985
+      5  42005 CONCORDIA                                    421187
+      5  42005 CONCORDIA                                    421260
+      5  42005 CONCORDIA                                    421310
+      5  42005 CONCORDIA                                    421390
+      5  42005 CONCORDIA                                    421750
+      5  42005 CONCORDIA                                    421960
+      6  42006 CANOINHAS                                    420213
+      6  42006 CANOINHAS                                    420380
+      6  42006 CANOINHAS                                    420790
+      6  42006 CANOINHAS                                    420810
+      6  42006 CANOINHAS                                    421010
+      6  42006 CANOINHAS                                    421030
+      6  42006 CANOINHAS                                    421110
+      6  42006 CANOINHAS                                    421220
+      6  42006 CANOINHAS                                    421360
+      6  42006 CANOINHAS                                    421567
+      6  42006 CANOINHAS                                    421825
+      6  42006 CANOINHAS                                    421830
+      7  42007 SAO BENTO DO SUL                             420330
+      7  42007 SAO BENTO DO SUL                             421500
+      7  42007 SAO BENTO DO SUL                             421580
+      8  42008 JOINVILLE                                    420130
+      8  42008 JOINVILLE                                    420205
+      8  42008 JOINVILLE                                    420450
+      8  42008 JOINVILLE                                    420580
+      8  42008 JOINVILLE                                    420650
+      8  42008 JOINVILLE                                    420845
+      8  42008 JOINVILLE                                    420890
+      8  42008 JOINVILLE                                    420910
+      8  42008 JOINVILLE                                    421060
+      8  42008 JOINVILLE                                    421620
+      8  42008 JOINVILLE                                    421740
+      9  42009 CURITIBANOS                                  420005
+      9  42009 CURITIBANOS                                  420287
+      9  42009 CURITIBANOS                                  420360
+      9  42009 CURITIBANOS                                  420480
+      9  42009 CURITIBANOS                                  420555
+      9  42009 CURITIBANOS                                  421105
+      9  42009 CURITIBANOS                                  421330
+      9  42009 CURITIBANOS                                  421335
+      9  42009 CURITIBANOS                                  421550
+      9  42009 CURITIBANOS                                  421605
+      9  42009 CURITIBANOS                                  421915
+      9  42009 CURITIBANOS                                  421985
+     10  42010 CAMPOS DE LAGES                              420100
+     10  42010 CAMPOS DE LAGES                              420243
+     10  42010 CAMPOS DE LAGES                              420250
+     10  42010 CAMPOS DE LAGES                              420260
+     10  42010 CAMPOS DE LAGES                              420325
+     10  42010 CAMPOS DE LAGES                              420340
+     10  42010 CAMPOS DE LAGES                              420415
+     10  42010 CAMPOS DE LAGES                              420417
+     10  42010 CAMPOS DE LAGES                              420455
+     10  42010 CAMPOS DE LAGES                              420930
+     10  42010 CAMPOS DE LAGES                              421175
+     10  42010 CAMPOS DE LAGES                              421189
+     10  42010 CAMPOS DE LAGES                              421205
+     10  42010 CAMPOS DE LAGES                              421505
+     10  42010 CAMPOS DE LAGES                              421650
+     10  42010 CAMPOS DE LAGES                              421680
+     10  42010 CAMPOS DE LAGES                              421890
+     10  42010 CAMPOS DE LAGES                              421895
+     11  42011 RIO DO SUL                                   420030
+     11  42011 RIO DO SUL                                   420190
+     11  42011 RIO DO SUL                                   420285
+     11  42011 RIO DO SUL                                   420510
+     11  42011 RIO DO SUL                                   420690
+     11  42011 RIO DO SUL                                   420915
+     11  42011 RIO DO SUL                                   420950
+     11  42011 RIO DO SUL                                   420990
+     11  42011 RIO DO SUL                                   421085
+     11  42011 RIO DO SUL                                   421370
+     11  42011 RIO DO SUL                                   421400
+     11  42011 RIO DO SUL                                   421410
+     11  42011 RIO DO SUL                                   421450
+     11  42011 RIO DO SUL                                   421460
+     11  42011 RIO DO SUL                                   421480
+     11  42011 RIO DO SUL                                   421530
+     11  42011 RIO DO SUL                                   421780
+     11  42011 RIO DO SUL                                   421860
+     11  42011 RIO DO SUL                                   421935
+     11  42011 RIO DO SUL                                   421940
+     12  42012 BLUMENAU                                     420125
+     12  42012 BLUMENAU                                     420170
+     12  42012 BLUMENAU                                     420220
+     12  42012 BLUMENAU                                     420240
+     12  42012 BLUMENAU                                     420270
+     12  42012 BLUMENAU                                     420290
+     12  42012 BLUMENAU                                     420515
+     12  42012 BLUMENAU                                     420590
+     12  42012 BLUMENAU                                     420630
+     12  42012 BLUMENAU                                     420750
+     12  42012 BLUMENAU                                     421000
+     12  42012 BLUMENAU                                     421320
+     12  42012 BLUMENAU                                     421470
+     12  42012 BLUMENAU                                     421510
+     12  42012 BLUMENAU                                     421820
+     13  42013 ITAJAI                                       420200
+     13  42013 ITAJAI                                       420210
+     13  42013 ITAJAI                                       420245
+     13  42013 ITAJAI                                       420320
+     13  42013 ITAJAI                                       420710
+     13  42013 ITAJAI                                       420820
+     13  42013 ITAJAI                                       420830
+     13  42013 ITAJAI                                       421130
+     13  42013 ITAJAI                                       421250
+     13  42013 ITAJAI                                       421280
+     13  42013 ITAJAI                                       421350
+     13  42013 ITAJAI                                       421635
+     14  42014 ITUPORANGA                                   420020
+     14  42014 ITUPORANGA                                   420180
+     14  42014 ITUPORANGA                                   420419
+     14  42014 ITUPORANGA                                   420740
+     14  42014 ITUPORANGA                                   420850
+     14  42014 ITUPORANGA                                   421270
+     14  42014 ITUPORANGA                                   421920
+     15  42015 TIJUCAS                                      420090
+     15  42015 TIJUCAS                                      420370
+     15  42015 TIJUCAS                                      420980
+     15  42015 TIJUCAS                                      421020
+     15  42015 TIJUCAS                                      421150
+     15  42015 TIJUCAS                                      421630
+     15  42015 TIJUCAS                                      421800
+     16  42016 FLORIANOPOLIS                                420120
+     16  42016 FLORIANOPOLIS                                420230
+     16  42016 FLORIANOPOLIS                                420540
+     16  42016 FLORIANOPOLIS                                420600
+     16  42016 FLORIANOPOLIS                                421190
+     16  42016 FLORIANOPOLIS                                421230
+     16  42016 FLORIANOPOLIS                                421570
+     16  42016 FLORIANOPOLIS                                421660
+     16  42016 FLORIANOPOLIS                                421725
+     17  42017 TABULEIRO                                    420060
+     17  42017 TABULEIRO                                    420070
+     17  42017 TABULEIRO                                    420110
+     17  42017 TABULEIRO                                    421430
+     17  42017 TABULEIRO                                    421590
+     18  42018 TUBARAO                                      420150
+     18  42018 TUBARAO                                      420280
+     18  42018 TUBARAO                                      420395
+     18  42018 TUBARAO                                      420570
+     18  42018 TUBARAO                                      420610
+     18  42018 TUBARAO                                      420620
+     18  42018 TUBARAO                                      420720
+     18  42018 TUBARAO                                      420730
+     18  42018 TUBARAO                                      420880
+     18  42018 TUBARAO                                      420940
+     18  42018 TUBARAO                                      421170
+     18  42018 TUBARAO                                      421240
+     18  42018 TUBARAO                                      421265
+     18  42018 TUBARAO                                      421490
+     18  42018 TUBARAO                                      421545
+     18  42018 TUBARAO                                      421560
+     18  42018 TUBARAO                                      421700
+     18  42018 TUBARAO                                      421710
+     18  42018 TUBARAO                                      421840
+     18  42018 TUBARAO                                      421870
+     19  42019 CRICIUMA                                     420425
+     19  42019 CRICIUMA                                     420460
+     19  42019 CRICIUMA                                     420545
+     19  42019 CRICIUMA                                     420700
+     19  42019 CRICIUMA                                     420960
+     19  42019 CRICIUMA                                     421120
+     19  42019 CRICIUMA                                     421160
+     19  42019 CRICIUMA                                     421760
+     19  42019 CRICIUMA                                     421835
+     19  42019 CRICIUMA                                     421900
+     19  42019 CRICIUMA                                     422000
+     20  42020 ARARANGUA                                    420140
+     20  42020 ARARANGUA                                    420195
+     20  42020 ARARANGUA                                    420207
+     20  42020 ARARANGUA                                    420519
+     20  42020 ARARANGUA                                    420870
+     20  42020 ARARANGUA                                    421040
+     20  42020 ARARANGUA                                    421080
+     20  42020 ARARANGUA                                    421125
+     20  42020 ARARANGUA                                    421225
+     20  42020 ARARANGUA                                    421380
+     20  42020 ARARANGUA                                    421565
+     20  42020 ARARANGUA                                    421640
+     20  42020 ARARANGUA                                    421770
+     20  42020 ARARANGUA                                    421810
+     20  42020 ARARANGUA                                    421880
+     21  Ignorado - SC                                      420000,429999

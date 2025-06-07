@@ -1,0 +1,1322 @@
+95  6                                                                                    
+      1  27020 Agreste - AL                                 270030                            
+      1  27020 Agreste - AL                                 270150                            
+      1  27020 Agreste - AL                                 270200                            
+      1  27020 Agreste - AL                                 270235                            
+      1  27020 Agreste - AL                                 270260                            
+      1  27020 Agreste - AL                                 270290                            
+      1  27020 Agreste - AL                                 270370                            
+      1  27020 Agreste - AL                                 270400                            
+      1  27020 Agreste - AL                                 270410                            
+      1  27020 Agreste - AL                                 270420                            
+      1  27020 Agreste - AL                                 270590                            
+      1  27020 Agreste - AL                                 270820                            
+      1  27020 Agreste - AL                                 270880                            
+      1  27020 Agreste - AL                                 270910                            
+      1  27020 Agreste - AL                                 270920                            
+      2  42092 Alto V.Itajaí - exp - SC                     420020                            
+      2  42092 Alto V.Itajaí - exp - SC                     420030                            
+      2  42092 Alto V.Itajaí - exp - SC                     420180                            
+      2  42092 Alto V.Itajaí - exp - SC                     420190                            
+      2  42092 Alto V.Itajaí - exp - SC                     420285                            
+      2  42092 Alto V.Itajaí - exp - SC                     420419                            
+      2  42092 Alto V.Itajaí - exp - SC                     420510                            
+      2  42092 Alto V.Itajaí - exp - SC                     420740                            
+      2  42092 Alto V.Itajaí - exp - SC                     420915                            
+      2  42092 Alto V.Itajaí - exp - SC                     420950                            
+      2  42092 Alto V.Itajaí - exp - SC                     420990                            
+      2  42092 Alto V.Itajaí - exp - SC                     421085                            
+      2  42092 Alto V.Itajaí - exp - SC                     421270                            
+      2  42092 Alto V.Itajaí - exp - SC                     421370                            
+      2  42092 Alto V.Itajaí - exp - SC                     421400                            
+      2  42092 Alto V.Itajaí - exp - SC                     421410                            
+      2  42092 Alto V.Itajaí - exp - SC                     421450                            
+      2  42092 Alto V.Itajaí - exp - SC                     421460                            
+      2  42092 Alto V.Itajaí - exp - SC                     421530                            
+      2  42092 Alto V.Itajaí - exp - SC                     421567                            
+      2  42092 Alto V.Itajaí - exp - SC                     421860                            
+      2  42092 Alto V.Itajaí - exp - SC                     421920                            
+      2  42092 Alto V.Itajaí - exp - SC                     421935                            
+      2  42092 Alto V.Itajaí - exp - SC                     421940                            
+      3  42091 Alto V.Itajaí - núc - SC                     420690                            
+      3  42091 Alto V.Itajaí - núc - SC                     420850                            
+      3  42091 Alto V.Itajaí - núc - SC                     421480                            
+      3  42091 Alto V.Itajaí - núc - SC                     421780                            
+      4  41050 Apucarana - PR                               410140                            
+      4  41050 Apucarana - PR                               410165                            
+      4  41050 Apucarana - PR                               410185                            
+      4  41050 Apucarana - PR                               410330                            
+      4  41050 Apucarana - PR                               410350                            
+      4  41050 Apucarana - PR                               410685                            
+      4  41050 Apucarana - PR                               410760                            
+      4  41050 Apucarana - PR                               410855                            
+      4  41050 Apucarana - PR                               410870                            
+      4  41050 Apucarana - PR                               411150                            
+      4  41050 Apucarana - PR                               411250                            
+      4  41050 Apucarana - PR                               411310                            
+      4  41050 Apucarana - PR                               411342                            
+      4  41050 Apucarana - PR                               411375                            
+      4  41050 Apucarana - PR                               411490                            
+      4  41050 Apucarana - PR                               411550                            
+      4  41050 Apucarana - PR                               411575                            
+      4  41050 Apucarana - PR                               411729                            
+      4  41050 Apucarana - PR                               412210                            
+      4  41050 Apucarana - PR                               412217                            
+      4  41050 Apucarana - PR                               412265                            
+      4  41050 Apucarana - PR                               412500                            
+      4  41050 Apucarana - PR                               412580                            
+      5  28010 Aracaju - SE                                 280030                            
+      5  28010 Aracaju - SE                                 280060                            
+      5  28010 Aracaju - SE                                 280480                            
+      5  28010 Aracaju - SE                                 280670                            
+      6  25120 Araruna - PB                                 250100                            
+      6  25120 Araruna - PB                                 250350                            
+      6  25120 Araruna - PB                                 250535                            
+      6  25120 Araruna - PB                                 250570                            
+      6  25120 Araruna - PB                                 251274                            
+      6  25120 Araruna - PB                                 251640                            
+      7  35020 Baixada Santista - SP                        350635                            
+      7  35020 Baixada Santista - SP                        351350                            
+      7  35020 Baixada Santista - SP                        351870                            
+      7  35020 Baixada Santista - SP                        352210                            
+      7  35020 Baixada Santista - SP                        353110                            
+      7  35020 Baixada Santista - SP                        353760                            
+      7  35020 Baixada Santista - SP                        354100                            
+      7  35020 Baixada Santista - SP                        354850                            
+      7  35020 Baixada Santista - SP                        355100                            
+      8  25080 Barra de Santa Rosa - PB                     250153                            
+      8  25080 Barra de Santa Rosa - PB                     250160                            
+      8  25080 Barra de Santa Rosa - PB                     250510                            
+      8  25080 Barra de Santa Rosa - PB                     250620                            
+      8  25080 Barra de Santa Rosa - PB                     251010                            
+      8  25080 Barra de Santa Rosa - PB                     251030                            
+      8  25080 Barra de Santa Rosa - PB                     251140                            
+      8  25080 Barra de Santa Rosa - PB                     251615                            
+      9  15010 Belém - PA                                   150080                            
+      9  15010 Belém - PA                                   150140                            
+      9  15010 Belém - PA                                   150150                            
+      9  15010 Belém - PA                                   150240                            
+      9  15010 Belém - PA                                   150442                            
+      9  15010 Belém - PA                                   150635                            
+      9  15010 Belém - PA                                   150650                            
+     10  31012 BHorizonte - colar - MG                      310540                            
+     10  31012 BHorizonte - colar - MG                      310640                            
+     10  31012 BHorizonte - colar - MG                      310770                            
+     10  31012 BHorizonte - colar - MG                      310810                            
+     10  31012 BHorizonte - colar - MG                      312640                            
+     10  31012 BHorizonte - colar - MG                      312720                            
+     10  31012 BHorizonte - colar - MG                      313100                            
+     10  31012 BHorizonte - colar - MG                      313190                            
+     10  31012 BHorizonte - colar - MG                      313380                            
+     10  31012 BHorizonte - colar - MG                      314230                            
+     10  31012 BHorizonte - colar - MG                      314710                            
+     10  31012 BHorizonte - colar - MG                      315360                            
+     10  31012 BHorizonte - colar - MG                      315720                            
+     10  31012 BHorizonte - colar - MG                      316190                            
+     10  31012 BHorizonte - colar - MG                      316310                            
+     10  31012 BHorizonte - colar - MG                      316720                            
+     11  31011 B.Horizonte - núcl - MG                      310500                            
+     11  31011 B.Horizonte - núcl - MG                      310620                            
+     11  31011 B.Horizonte - núcl - MG                      310670                            
+     11  31011 B.Horizonte - núcl - MG                      310900                            
+     11  31011 B.Horizonte - núcl - MG                      311000                            
+     11  31011 B.Horizonte - núcl - MG                      311250                            
+     11  31011 B.Horizonte - núcl - MG                      311787                            
+     11  31011 B.Horizonte - núcl - MG                      311860                            
+     11  31011 B.Horizonte - núcl - MG                      312410                            
+     11  31011 B.Horizonte - núcl - MG                      312600                            
+     11  31011 B.Horizonte - núcl - MG                      312980                            
+     11  31011 B.Horizonte - núcl - MG                      313010                            
+     11  31011 B.Horizonte - núcl - MG                      313220                            
+     11  31011 B.Horizonte - núcl - MG                      313370                            
+     11  31011 B.Horizonte - núcl - MG                      313460                            
+     11  31011 B.Horizonte - núcl - MG                      313660                            
+     11  31011 B.Horizonte - núcl - MG                      313665                            
+     11  31011 B.Horizonte - núcl - MG                      313760                            
+     11  31011 B.Horizonte - núcl - MG                      314015                            
+     11  31011 B.Horizonte - núcl - MG                      314070                            
+     11  31011 B.Horizonte - núcl - MG                      314110                            
+     11  31011 B.Horizonte - núcl - MG                      314480                            
+     11  31011 B.Horizonte - núcl - MG                      314930                            
+     11  31011 B.Horizonte - núcl - MG                      315390                            
+     11  31011 B.Horizonte - núcl - MG                      315460                            
+     11  31011 B.Horizonte - núcl - MG                      315480                            
+     11  31011 B.Horizonte - núcl - MG                      315530                            
+     11  31011 B.Horizonte - núcl - MG                      315670                            
+     11  31011 B.Horizonte - núcl - MG                      315780                            
+     11  31011 B.Horizonte - núcl - MG                      316292                            
+     11  31011 B.Horizonte - núcl - MG                      316295                            
+     11  31011 B.Horizonte - núcl - MG                      316553                            
+     11  31011 B.Horizonte - núcl - MG                      316830                            
+     11  31011 B.Horizonte - núcl - MG                      317120                            
+     12  27060 Caetés - AL                                  270140                            
+     12  27060 Caetés - AL                                  270230                            
+     12  27060 Caetés - AL                                  270780                            
+     12  27060 Caetés - AL                                  270860                            
+     12  27060 Caetés - AL                                  270915                            
+     13  25060 Cajazeiras - PB                              250070                            
+     13  25060 Cajazeiras - PB                              250205                            
+     13  25060 Cajazeiras - PB                              250220                            
+     13  25060 Cajazeiras - PB                              250240                            
+     13  25060 Cajazeiras - PB                              250330                            
+     13  25060 Cajazeiras - PB                              250370                            
+     13  25060 Cajazeiras - PB                              250410                            
+     13  25060 Cajazeiras - PB                              250960                            
+     13  25060 Cajazeiras - PB                              251203                            
+     13  25060 Cajazeiras - PB                              251207                            
+     13  25060 Cajazeiras - PB                              251330                            
+     13  25060 Cajazeiras - PB                              251365                            
+     13  25060 Cajazeiras - PB                              251450                            
+     13  25060 Cajazeiras - PB                              251680                            
+     13  25060 Cajazeiras - PB                              251690                            
+     14  25020 Campina Grande - PB                          250053                            
+     14  25020 Campina Grande - PB                          250130                            
+     14  25020 Campina Grande - PB                          250157                            
+     14  25020 Campina Grande - PB                          250215                            
+     14  25020 Campina Grande - PB                          250250                            
+     14  25020 Campina Grande - PB                          250400,254009                     
+     14  25020 Campina Grande - PB                          250435                            
+     14  25020 Campina Grande - PB                          250610                            
+     14  25020 Campina Grande - PB                          250625                            
+     14  25020 Campina Grande - PB                          250720                            
+     14  25020 Campina Grande - PB                          250830                            
+     14  25020 Campina Grande - PB                          250920                            
+     14  25020 Campina Grande - PB                          250933                            
+     14  25020 Campina Grande - PB                          250990                            
+     14  25020 Campina Grande - PB                          251240                            
+     14  25020 Campina Grande - PB                          251250                            
+     14  25020 Campina Grande - PB                          251315                            
+     14  25020 Campina Grande - PB                          251580                            
+     14  25020 Campina Grande - PB                          251700                            
+     15  35030 Campinas - SP                                350160                            
+     15  35030 Campinas - SP                                350380                            
+     15  35030 Campinas - SP                                350950                            
+     15  35030 Campinas - SP                                351280                            
+     15  35030 Campinas - SP                                351515                            
+     15  35030 Campinas - SP                                351905                            
+     15  35030 Campinas - SP                                351907                            
+     15  35030 Campinas - SP                                352050                            
+     15  35030 Campinas - SP                                352340                            
+     15  35030 Campinas - SP                                352470                            
+     15  35030 Campinas - SP                                353180                            
+     15  35030 Campinas - SP                                353200                            
+     15  35030 Campinas - SP                                353340                            
+     15  35030 Campinas - SP                                353650                            
+     15  35030 Campinas - SP                                353710                            
+     15  35030 Campinas - SP                                354580                            
+     15  35030 Campinas - SP                                354800                            
+     15  35030 Campinas - SP                                355240                            
+     15  35030 Campinas - SP                                355620                            
+     15  35030 Campinas - SP                                355670                            
+     16  41060 Campo Mourão - PR                            410045                            
+     16  41060 Campo Mourão - PR                            410170                            
+     16  41060 Campo Mourão - PR                            410250                            
+     16  41060 Campo Mourão - PR                            410300                            
+     16  41060 Campo Mourão - PR                            410390                            
+     16  41060 Campo Mourão - PR                            410430                            
+     16  41060 Campo Mourão - PR                            410655                            
+     16  41060 Campo Mourão - PR                            410750                            
+     16  41060 Campo Mourão - PR                            410755                            
+     16  41060 Campo Mourão - PR                            410770                            
+     16  41060 Campo Mourão - PR                            410860                            
+     16  41060 Campo Mourão - PR                            411080                            
+     16  41060 Campo Mourão - PR                            411220                            
+     16  41060 Campo Mourão - PR                            411295                            
+     16  41060 Campo Mourão - PR                            411373                            
+     16  41060 Campo Mourão - PR                            411400                            
+     16  41060 Campo Mourão - PR                            411610                            
+     16  41060 Campo Mourão - PR                            411680                            
+     16  41060 Campo Mourão - PR                            411880                            
+     16  41060 Campo Mourão - PR                            412065                            
+     16  41060 Campo Mourão - PR                            412110                            
+     16  41060 Campo Mourão - PR                            412135                            
+     16  41060 Campo Mourão - PR                            412250                            
+     16  41060 Campo Mourão - PR                            412720                            
+     16  41060 Campo Mourão - PR                            412800                            
+     17  14010 Capital - RR                                 140005                            
+     17  14010 Capital - RR                                 140010,140100                     
+     17  14010 Capital - RR                                 140015                            
+     17  14010 Capital - RR                                 140017                            
+     17  14010 Capital - RR                                 140030                            
+     18  42052 Carbonífera - exp - SC                       420140                            
+     18  42052 Carbonífera - exp - SC                       420195                            
+     18  42052 Carbonífera - exp - SC                       420207                            
+     18  42052 Carbonífera - exp - SC                       420519                            
+     18  42052 Carbonífera - exp - SC                       420870                            
+     18  42052 Carbonífera - exp - SC                       420960                            
+     18  42052 Carbonífera - exp - SC                       421040                            
+     18  42052 Carbonífera - exp - SC                       421080                            
+     18  42052 Carbonífera - exp - SC                       421125                            
+     18  42052 Carbonífera - exp - SC                       421225                            
+     18  42052 Carbonífera - exp - SC                       421380                            
+     18  42052 Carbonífera - exp - SC                       421565                            
+     18  42052 Carbonífera - exp - SC                       421640                            
+     18  42052 Carbonífera - exp - SC                       421770                            
+     18  42052 Carbonífera - exp - SC                       421810                            
+     18  42052 Carbonífera - exp - SC                       421835                            
+     18  42052 Carbonífera - exp - SC                       421880                            
+     18  42052 Carbonífera - exp - SC                       421900                            
+     18  42052 Carbonífera - exp - SC                       422000                            
+     19  42051 Carbonífera - núc - SC                       420425                            
+     19  42051 Carbonífera - núc - SC                       420460                            
+     19  42051 Carbonífera - núc - SC                       420545                            
+     19  42051 Carbonífera - núc - SC                       420700                            
+     19  42051 Carbonífera - núc - SC                       421120                            
+     19  42051 Carbonífera - núc - SC                       421160                            
+     19  42051 Carbonífera - núc - SC                       421760                            
+     20  23020 Cariri - CE                                  230190                            
+     20  23020 Cariri - CE                                  230320                            
+     20  23020 Cariri - CE                                  230420                            
+     20  23020 Cariri - CE                                  230430                            
+     20  23020 Cariri - CE                                  230710                            
+     20  23020 Cariri - CE                                  230730                            
+     20  23020 Cariri - CE                                  230840                            
+     20  23020 Cariri - CE                                  230920                            
+     20  23020 Cariri - CE                                  231210                            
+     21  41070 Cascavel - PR                                410105                            
+     21  41070 Cascavel - PR                                410305                            
+     21  41070 Cascavel - PR                                410335                            
+     21  41070 Cascavel - PR                                410345                            
+     21  41070 Cascavel - PR                                410405                            
+     21  41070 Cascavel - PR                                410460                            
+     21  41070 Cascavel - PR                                410480                            
+     21  41070 Cascavel - PR                                410500                            
+     21  41070 Cascavel - PR                                410530                            
+     21  41070 Cascavel - PR                                410630                            
+     21  41070 Cascavel - PR                                410712                            
+     21  41070 Cascavel - PR                                410930                            
+     21  41070 Cascavel - PR                                410975                            
+     21  41070 Cascavel - PR                                411005                            
+     21  41070 Cascavel - PR                                411065                            
+     21  41070 Cascavel - PR                                411275                            
+     21  41070 Cascavel - PR                                411345                            
+     21  41070 Cascavel - PR                                411560                            
+     21  41070 Cascavel - PR                                411670                            
+     21  41070 Cascavel - PR                                412382                            
+     21  41070 Cascavel - PR                                412402                            
+     21  41070 Cascavel - PR                                412785                            
+     21  41070 Cascavel - PR                                412855                            
+     22  14030 Central - RR                                 140020                            
+     22  14030 Central - RR                                 140028                            
+     23  42111 Contestado - núcleo - SC                     420005                            
+     23  42111 Contestado - núcleo - SC                     420040                            
+     23  42111 Contestado - núcleo - SC                     420075                            
+     23  42111 Contestado - núcleo - SC                     420127                            
+     23  42111 Contestado - núcleo - SC                     420160                            
+     23  42111 Contestado - núcleo - SC                     420287                            
+     23  42111 Contestado - núcleo - SC                     420300                            
+     23  42111 Contestado - núcleo - SC                     420315                            
+     23  42111 Contestado - núcleo - SC                     420360                            
+     23  42111 Contestado - núcleo - SC                     420390                            
+     23  42111 Contestado - núcleo - SC                     420400                            
+     23  42111 Contestado - núcleo - SC                     420415,420411                     
+     23  42111 Contestado - núcleo - SC                     420430                            
+     23  42111 Contestado - núcleo - SC                     420520                            
+     23  42111 Contestado - núcleo - SC                     420550                            
+     23  42111 Contestado - núcleo - SC                     420670                            
+     23  42111 Contestado - núcleo - SC                     420675                            
+     23  42111 Contestado - núcleo - SC                     420680                            
+     23  42111 Contestado - núcleo - SC                     420757                            
+     23  42111 Contestado - núcleo - SC                     420760                            
+     23  42111 Contestado - núcleo - SC                     420770                            
+     23  42111 Contestado - núcleo - SC                     420780                            
+     23  42111 Contestado - núcleo - SC                     420860                            
+     23  42111 Contestado - núcleo - SC                     420900                            
+     23  42111 Contestado - núcleo - SC                     420920                            
+     23  42111 Contestado - núcleo - SC                     420970                            
+     23  42111 Contestado - núcleo - SC                     420985                            
+     23  42111 Contestado - núcleo - SC                     421003                            
+     23  42111 Contestado - núcleo - SC                     421005                            
+     23  42111 Contestado - núcleo - SC                     421070                            
+     23  42111 Contestado - núcleo - SC                     421105                            
+     23  42111 Contestado - núcleo - SC                     421180                            
+     23  42111 Contestado - núcleo - SC                     421260                            
+     23  42111 Contestado - núcleo - SC                     421300                            
+     23  42111 Contestado - núcleo - SC                     421310                            
+     23  42111 Contestado - núcleo - SC                     421390                            
+     23  42111 Contestado - núcleo - SC                     421440                            
+     23  42111 Contestado - núcleo - SC                     421540                            
+     23  42111 Contestado - núcleo - SC                     421790                            
+     23  42111 Contestado - núcleo - SC                     421825                            
+     23  42111 Contestado - núcleo - SC                     421850                            
+     23  42111 Contestado - núcleo - SC                     421915                            
+     23  42111 Contestado - núcleo - SC                     421917                            
+     23  42111 Contestado - núcleo - SC                     421930                            
+     23  42111 Contestado - núcleo - SC                     421985                            
+     24  41010 Curitiba - PR                                410020                            
+     24  41010 Curitiba - PR                                410030                            
+     24  41010 Curitiba - PR                                410040                            
+     24  41010 Curitiba - PR                                410180                            
+     24  41010 Curitiba - PR                                410230                            
+     24  41010 Curitiba - PR                                410310                            
+     24  41010 Curitiba - PR                                410400                            
+     24  41010 Curitiba - PR                                410410                            
+     24  41010 Curitiba - PR                                410420                            
+     24  41010 Curitiba - PR                                410425                            
+     24  41010 Curitiba - PR                                410520                            
+     24  41010 Curitiba - PR                                410580                            
+     24  41010 Curitiba - PR                                410620                            
+     24  41010 Curitiba - PR                                410690                            
+     24  41010 Curitiba - PR                                410765                            
+     24  41010 Curitiba - PR                                411125                            
+     24  41010 Curitiba - PR                                411320                            
+     24  41010 Curitiba - PR                                411430                            
+     24  41010 Curitiba - PR                                411910                            
+     24  41010 Curitiba - PR                                411915                            
+     24  41010 Curitiba - PR                                411950                            
+     24  41010 Curitiba - PR                                412080                            
+     24  41010 Curitiba - PR                                412120                            
+     24  41010 Curitiba - PR                                412220                            
+     24  41010 Curitiba - PR                                412230                            
+     24  41010 Curitiba - PR                                412550                            
+     24  41010 Curitiba - PR                                412760                            
+     24  41010 Curitiba - PR                                412788                            
+     24  41010 Curitiba - PR                                412863                            
+     25  53010 DF e Entorno - DF/GO/MG                      310930                            
+     25  53010 DF e Entorno - DF/GO/MG                      317040                            
+     25  53010 DF e Entorno - DF/GO/MG                      520010                            
+     25  53010 DF e Entorno - DF/GO/MG                      520017                            
+     25  53010 DF e Entorno - DF/GO/MG                      520025                            
+     25  53010 DF e Entorno - DF/GO/MG                      520030                            
+     25  53010 DF e Entorno - DF/GO/MG                      520400                            
+     25  53010 DF e Entorno - DF/GO/MG                      520549                            
+     25  53010 DF e Entorno - DF/GO/MG                      520551                            
+     25  53010 DF e Entorno - DF/GO/MG                      520580                            
+     25  53010 DF e Entorno - DF/GO/MG                      520620                            
+     25  53010 DF e Entorno - DF/GO/MG                      520800                            
+     25  53010 DF e Entorno - DF/GO/MG                      521250                            
+     25  53010 DF e Entorno - DF/GO/MG                      521305                            
+     25  53010 DF e Entorno - DF/GO/MG                      521523                            
+     25  53010 DF e Entorno - DF/GO/MG                      521560                            
+     25  53010 DF e Entorno - DF/GO/MG                      521730                            
+     25  53010 DF e Entorno - DF/GO/MG                      521760                            
+     25  53010 DF e Entorno - DF/GO/MG                      521975                            
+     25  53010 DF e Entorno - DF/GO/MG                      522185                            
+     25  53010 DF e Entorno - DF/GO/MG                      522220                            
+     25  53010 DF e Entorno - DF/GO/MG                      530010,530000-530009,530011-539999
+     26  25050 Esperança - PB                               250040                            
+     26  25050 Esperança - PB                               250057                            
+     26  25050 Esperança - PB                               250110                            
+     26  25050 Esperança - PB                               250120                            
+     26  25050 Esperança - PB                               250600                            
+     26  25050 Esperança - PB                               250950                            
+     26  25050 Esperança - PB                               251200                            
+     26  25050 Esperança - PB                               251270                            
+     26  25050 Esperança - PB                               251510                            
+     27  42102 Extremo Oeste - exp - SC                     420010                            
+     27  42102 Extremo Oeste - exp - SC                     420080                            
+     27  42102 Extremo Oeste - exp - SC                     420253                            
+     27  42102 Extremo Oeste - exp - SC                     420257                            
+     27  42102 Extremo Oeste - exp - SC                     420310                            
+     27  42102 Extremo Oeste - exp - SC                     420350                            
+     27  42102 Extremo Oeste - exp - SC                     420445                            
+     27  42102 Extremo Oeste - exp - SC                     420517                            
+     27  42102 Extremo Oeste - exp - SC                     420543                            
+     27  42102 Extremo Oeste - exp - SC                     420560                            
+     27  42102 Extremo Oeste - exp - SC                     420768                            
+     27  42102 Extremo Oeste - exp - SC                     420785                            
+     27  42102 Extremo Oeste - exp - SC                     420895                            
+     27  42102 Extremo Oeste - exp - SC                     420917                            
+     27  42102 Extremo Oeste - exp - SC                     421090                            
+     27  42102 Extremo Oeste - exp - SC                     421100                            
+     27  42102 Extremo Oeste - exp - SC                     421165                            
+     27  42102 Extremo Oeste - exp - SC                     421185                            
+     27  42102 Extremo Oeste - exp - SC                     421200                            
+     27  42102 Extremo Oeste - exp - SC                     421507                            
+     27  42102 Extremo Oeste - exp - SC                     421535                            
+     27  42102 Extremo Oeste - exp - SC                     421568                            
+     27  42102 Extremo Oeste - exp - SC                     421569                            
+     27  42102 Extremo Oeste - exp - SC                     421575                            
+     27  42102 Extremo Oeste - exp - SC                     421610                            
+     27  42102 Extremo Oeste - exp - SC                     421690                            
+     27  42102 Extremo Oeste - exp - SC                     421715                            
+     27  42102 Extremo Oeste - exp - SC                     421795                            
+     28  42101 Extremo Oeste - núc - SC                     420208                            
+     28  42101 Extremo Oeste - núc - SC                     420209                            
+     28  42101 Extremo Oeste - núc - SC                     420215                            
+     28  42101 Extremo Oeste - núc - SC                     420470                            
+     28  42101 Extremo Oeste - núc - SC                     420490                            
+     28  42101 Extremo Oeste - núc - SC                     420500                            
+     28  42101 Extremo Oeste - núc - SC                     420535                            
+     28  42101 Extremo Oeste - núc - SC                     420640                            
+     28  42101 Extremo Oeste - núc - SC                     420660                            
+     28  42101 Extremo Oeste - núc - SC                     420765                            
+     28  42101 Extremo Oeste - núc - SC                     420775                            
+     28  42101 Extremo Oeste - núc - SC                     420840                            
+     28  42101 Extremo Oeste - núc - SC                     421050                            
+     28  42101 Extremo Oeste - núc - SC                     421223                            
+     28  42101 Extremo Oeste - núc - SC                     421415                            
+     28  42101 Extremo Oeste - núc - SC                     421520                            
+     28  42101 Extremo Oeste - núc - SC                     421555                            
+     28  42101 Extremo Oeste - núc - SC                     421625                            
+     28  42101 Extremo Oeste - núc - SC                     421670                            
+     28  42101 Extremo Oeste - núc - SC                     421720                            
+     28  42101 Extremo Oeste - núc - SC                     421875                            
+     29  29022 F.de Santana - exp - BA                      290150                            
+     29  29022 F.de Santana - exp - BA                      290170                            
+     29  29022 F.de Santana - exp - BA                      290640                            
+     29  29022 F.de Santana - exp - BA                      290890                            
+     29  29022 F.de Santana - exp - BA                      291380                            
+     29  29022 F.de Santana - exp - BA                      291450                            
+     29  29022 F.de Santana - exp - BA                      292630                            
+     29  29022 F.de Santana - exp - BA                      292750                            
+     29  29022 F.de Santana - exp - BA                      292830                            
+     29  29022 F.de Santana - exp - BA                      293040                            
+     30  29021 Fde Santana - núc - BA                       290110                            
+     30  29021 Fde Santana - núc - BA                       290820                            
+     30  29021 Fde Santana - núc - BA                       290850                            
+     30  29021 Fde Santana - núc - BA                       291080                            
+     30  29021 Fde Santana - núc - BA                       292930                            
+     30  29021 Fde Santana - núc - BA                       293110                            
+     31  42012 Florianópolis - exp - SC                     420070                            
+     31  42012 Florianópolis - exp - SC                     420090                            
+     31  42012 Florianópolis - exp - SC                     420110                            
+     31  42012 Florianópolis - exp - SC                     420370                            
+     31  42012 Florianópolis - exp - SC                     420570                            
+     31  42012 Florianópolis - exp - SC                     420980                            
+     31  42012 Florianópolis - exp - SC                     421020                            
+     31  42012 Florianópolis - exp - SC                     421150                            
+     31  42012 Florianópolis - exp - SC                     421230                            
+     31  42012 Florianópolis - exp - SC                     421430                            
+     31  42012 Florianópolis - exp - SC                     421590                            
+     31  42012 Florianópolis - exp - SC                     421630                            
+     31  42012 Florianópolis - exp - SC                     421800                            
+     32  42011 Florianópolis - núc - SC                     420060                            
+     32  42011 Florianópolis - núc - SC                     420120                            
+     32  42011 Florianópolis - núc - SC                     420230                            
+     32  42011 Florianópolis - núc - SC                     420540                            
+     32  42011 Florianópolis - núc - SC                     420600                            
+     32  42011 Florianópolis - núc - SC                     421190                            
+     32  42011 Florianópolis - núc - SC                     421570                            
+     32  42011 Florianópolis - núc - SC                     421660                            
+     32  42011 Florianópolis - núc - SC                     421725                            
+     33  23010 Fortaleza - CE                               230100                            
+     33  23010 Fortaleza - CE                               230350                            
+     33  23010 Fortaleza - CE                               230370                            
+     33  23010 Fortaleza - CE                               230395                            
+     33  23010 Fortaleza - CE                               230428                            
+     33  23010 Fortaleza - CE                               230440                            
+     33  23010 Fortaleza - CE                               230495                            
+     33  23010 Fortaleza - CE                               230523                            
+     33  23010 Fortaleza - CE                               230625                            
+     33  23010 Fortaleza - CE                               230765                            
+     33  23010 Fortaleza - CE                               230770                            
+     33  23010 Fortaleza - CE                               230960                            
+     33  23010 Fortaleza - CE                               230970                            
+     33  23010 Fortaleza - CE                               231020                            
+     33  23010 Fortaleza - CE                               231025                            
+     33  23010 Fortaleza - CE                               231085                            
+     33  23010 Fortaleza - CE                               231240                            
+     33  23010 Fortaleza - CE                               231260                            
+     33  23010 Fortaleza - CE                               231350                            
+     34  42042 Foz R.Itajaí - exp - SC                      420245                            
+     34  42042 Foz R.Itajaí - exp - SC                      420830                            
+     34  42042 Foz R.Itajaí - exp - SC                      421280                            
+     34  42042 Foz R.Itajaí - exp - SC                      421350                            
+     35  42041 Foz R.Itajaí - núc - SC                      420200                            
+     35  42041 Foz R.Itajaí - núc - SC                      420320                            
+     35  42041 Foz R.Itajaí - núc - SC                      420820                            
+     35  42041 Foz R.Itajaí - núc - SC                      421130                            
+     35  42041 Foz R.Itajaí - núc - SC                      421250                            
+     36  52010 Goiânia - GO                                 520005                            
+     36  52010 Goiânia - GO                                 520140                            
+     36  52010 Goiânia - GO                                 520180                            
+     36  52010 Goiânia - GO                                 520330                            
+     36  52010 Goiânia - GO                                 520355                            
+     36  52010 Goiânia - GO                                 520360                            
+     36  52010 Goiânia - GO                                 520455                            
+     36  52010 Goiânia - GO                                 520520                            
+     36  52010 Goiânia - GO                                 520840                            
+     36  52010 Goiânia - GO                                 520870,528707                     
+     36  52010 Goiânia - GO                                 520880                            
+     36  52010 Goiânia - GO                                 520920                            
+     36  52010 Goiânia - GO                                 520970                            
+     36  52010 Goiânia - GO                                 521000                            
+     36  52010 Goiânia - GO                                 521450                            
+     36  52010 Goiânia - GO                                 521500                            
+     36  52010 Goiânia - GO                                 521973                            
+     36  52010 Goiânia - GO                                 522045                            
+     36  52010 Goiânia - GO                                 522119                            
+     36  52010 Goiânia - GO                                 522140                            
+     37  21010 Grande São Luís - MA                         210020                            
+     37  21010 Grande São Luís - MA                         210110                            
+     37  21010 Grande São Luís - MA                         210125                            
+     37  21010 Grande São Luís - MA                         210237                            
+     37  21010 Grande São Luís - MA                         210510                            
+     37  21010 Grande São Luís - MA                         210710                            
+     37  21010 Grande São Luís - MA                         210750                            
+     37  21010 Grande São Luís - MA                         210920                            
+     37  21010 Grande São Luís - MA                         210945                            
+     37  21010 Grande São Luís - MA                         210960                            
+     37  21010 Grande São Luís - MA                         211020                            
+     37  21010 Grande São Luís - MA                         211120                            
+     37  21010 Grande São Luís - MA                         211130                            
+     38  22010 Grande Teresina - PI/MA                      211220                            
+     38  22010 Grande Teresina - PI/MA                      220040                            
+     38  22010 Grande Teresina - PI/MA                      220160                            
+     38  22010 Grande Teresina - PI/MA                      220273                            
+     38  22010 Grande Teresina - PI/MA                      220325                            
+     38  22010 Grande Teresina - PI/MA                      220330                            
+     38  22010 Grande Teresina - PI/MA                      220550                            
+     38  22010 Grande Teresina - PI/MA                      220555                            
+     38  22010 Grande Teresina - PI/MA                      220558                            
+     38  22010 Grande Teresina - PI/MA                      220630                            
+     38  22010 Grande Teresina - PI/MA                      220640                            
+     38  22010 Grande Teresina - PI/MA                      220672                            
+     38  22010 Grande Teresina - PI/MA                      221100                            
+     38  22010 Grande Teresina - PI/MA                      221110                            
+     39  32010 Grande Vitória - ES                          320130                            
+     39  32010 Grande Vitória - ES                          320220                            
+     39  32010 Grande Vitória - ES                          320240                            
+     39  32010 Grande Vitória - ES                          320500                            
+     39  32010 Grande Vitória - ES                          320510                            
+     39  32010 Grande Vitória - ES                          320520                            
+     39  32010 Grande Vitória - ES                          320530                            
+     40  25030 Guarabira - PB                               250050,250502                     
+     40  25030 Guarabira - PB                               250080                            
+     40  25030 Guarabira - PB                               250190                            
+     40  25030 Guarabira - PB                               250270                            
+     40  25030 Guarabira - PB                               250360                            
+     40  25030 Guarabira - PB                               250520                            
+     40  25030 Guarabira - PB                               250580                            
+     40  25030 Guarabira - PB                               250630                            
+     40  25030 Guarabira - PB                               250820                            
+     40  25030 Guarabira - PB                               250855                            
+     40  25030 Guarabira - PB                               250980                            
+     40  25030 Guarabira - PB                               251160                            
+     40  25030 Guarabira - PB                               251170                            
+     40  25030 Guarabira - PB                               251180                            
+     40  25030 Guarabira - PB                               251560                            
+     40  25030 Guarabira - PB                               251590                            
+     40  25030 Guarabira - PB                               251593                            
+     41  17020 Gurupi - TO                                  170035                            
+     41  17020 Gurupi - TO                                  170070                            
+     41  17020 Gurupi - TO                                  170200                            
+     41  17020 Gurupi - TO                                  170386                            
+     41  17020 Gurupi - TO                                  170625                            
+     41  17020 Gurupi - TO                                  170730                            
+     41  17020 Gurupi - TO                                  170765                            
+     41  17020 Gurupi - TO                                  170820                            
+     41  17020 Gurupi - TO                                  170950                            
+     41  17020 Gurupi - TO                                  171150                            
+     41  17020 Gurupi - TO                                  171190                            
+     41  17020 Gurupi - TO                                  171575                            
+     41  17020 Gurupi - TO                                  171660                            
+     41  17020 Gurupi - TO                                  171884                            
+     41  17020 Gurupi - TO                                  172025                            
+     41  17020 Gurupi - TO                                  172049                            
+     41  17020 Gurupi - TO                                  172085                            
+     41  17020 Gurupi - TO                                  172097                            
+     42  25110 Itabaiana - PB                               250380                            
+     42  25110 Itabaiana - PB                               250640                            
+     42  25110 Itabaiana - PB                               250680                            
+     42  25110 Itabaiana - PB                               250690                            
+     42  25110 Itabaiana - PB                               250760                            
+     42  25110 Itabaiana - PB                               250790                            
+     42  25110 Itabaiana - PB                               250940                            
+     42  25110 Itabaiana - PB                               251150                            
+     42  25110 Itabaiana - PB                               251275                            
+     42  25110 Itabaiana - PB                               251310                            
+     42  25110 Itabaiana - PB                               251445                            
+     42  25110 Itabaiana - PB                               251500                            
+     43  25010 João Pessoa - PB                             250060                            
+     43  25010 João Pessoa - PB                             250180                            
+     43  25010 João Pessoa - PB                             250300                            
+     43  25010 João Pessoa - PB                             250320                            
+     43  25010 João Pessoa - PB                             250460                            
+     43  25010 João Pessoa - PB                             250490                            
+     43  25010 João Pessoa - PB                             250750,257507                     
+     43  25010 João Pessoa - PB                             250860                            
+     43  25010 João Pessoa - PB                             251120                            
+     43  25010 João Pessoa - PB                             251190                            
+     43  25010 João Pessoa - PB                             251290                            
+     43  25010 João Pessoa - PB                             251370                            
+     44  35050 Jundiaí - SP                                 350840                            
+     44  35050 Jundiaí - SP                                 350960                            
+     44  35050 Jundiaí - SP                                 352400                            
+     44  35050 Jundiaí - SP                                 352520                            
+     44  35050 Jundiaí - SP                                 352590                            
+     44  35050 Jundiaí - SP                                 352730                            
+     44  35050 Jundiaí - SP                                 355650                            
+     45  42072 Lages - exp - SC                             420100                            
+     45  42072 Lages - exp - SC                             420243                            
+     45  42072 Lages - exp - SC                             420250                            
+     45  42072 Lages - exp - SC                             420260                            
+     45  42072 Lages - exp - SC                             420325                            
+     45  42072 Lages - exp - SC                             420340                            
+     45  42072 Lages - exp - SC                             420417                            
+     45  42072 Lages - exp - SC                             420480                            
+     45  42072 Lages - exp - SC                             420555                            
+     45  42072 Lages - exp - SC                             421175                            
+     45  42072 Lages - exp - SC                             421189                            
+     45  42072 Lages - exp - SC                             421205                            
+     45  42072 Lages - exp - SC                             421330                            
+     45  42072 Lages - exp - SC                             421335                            
+     45  42072 Lages - exp - SC                             421505                            
+     45  42072 Lages - exp - SC                             421550                            
+     45  42072 Lages - exp - SC                             421605                            
+     45  42072 Lages - exp - SC                             421650                            
+     45  42072 Lages - exp - SC                             421680                            
+     45  42072 Lages - exp - SC                             421890                            
+     45  42072 Lages - exp - SC                             421895                            
+     46  42071 Lages - núc - SC                             420455                            
+     46  42071 Lages - núc - SC                             420930                            
+     47  43020 Litoral Norte - RS                           430105                            
+     47  43020 Litoral Norte - RS                           430163                            
+     47  43020 Litoral Norte - RS                           430463                            
+     47  43020 Litoral Norte - RS                           430467                            
+     47  43020 Litoral Norte - RS                           430471                            
+     47  43020 Litoral Norte - RS                           430545                            
+     47  43020 Litoral Norte - RS                           430655                            
+     47  43020 Litoral Norte - RS                           431033                            
+     47  43020 Litoral Norte - RS                           431065                            
+     47  43020 Litoral Norte - RS                           431173                            
+     47  43020 Litoral Norte - RS                           431177                            
+     47  43020 Litoral Norte - RS                           431244                            
+     47  43020 Litoral Norte - RS                           431350                            
+     47  43020 Litoral Norte - RS                           431365                            
+     47  43020 Litoral Norte - RS                           432143                            
+     47  43020 Litoral Norte - RS                           432150                            
+     47  43020 Litoral Norte - RS                           432160                            
+     47  43020 Litoral Norte - RS                           432166                            
+     47  43020 Litoral Norte - RS                           432183                            
+     47  43020 Litoral Norte - RS                           432380                            
+     48  41020 Londrina - PR                                410080                            
+     48  41020 Londrina - PR                                410150                            
+     48  41020 Londrina - PR                                410190                            
+     48  41020 Londrina - PR                                410280                            
+     48  41020 Londrina - PR                                410370                            
+     48  41020 Londrina - PR                                410510                            
+     48  41020 Londrina - PR                                410800                            
+     48  41020 Londrina - PR                                410920                            
+     48  41020 Londrina - PR                                410980                            
+     48  41020 Londrina - PR                                411190                            
+     48  41020 Londrina - PR                                411270                            
+     48  41020 Londrina - PR                                411370                            
+     48  41020 Londrina - PR                                411380                            
+     48  41020 Londrina - PR                                411600                            
+     48  41020 Londrina - PR                                411965                            
+     48  41020 Londrina - PR                                412000                            
+     48  41020 Londrina - PR                                412033                            
+     48  41020 Londrina - PR                                412050                            
+     48  41020 Londrina - PR                                412130                            
+     48  41020 Londrina - PR                                412240                            
+     48  41020 Londrina - PR                                412270                            
+     48  41020 Londrina - PR                                412640                            
+     48  41020 Londrina - PR                                412650                            
+     48  41020 Londrina - PR                                412667                            
+     48  41020 Londrina - PR                                412840                            
+     49  16010 Macapá - AP                                  160030                            
+     49  16010 Macapá - AP                                  160060                            
+     50  27010 Maceió - AL                                  270040                            
+     50  27010 Maceió - AL                                  270050                            
+     50  27010 Maceió - AL                                  270060                            
+     50  27010 Maceió - AL                                  270220                            
+     50  27010 Maceió - AL                                  270430                            
+     50  27010 Maceió - AL                                  270470                            
+     50  27010 Maceió - AL                                  270520                            
+     50  27010 Maceió - AL                                  270644                            
+     50  27010 Maceió - AL                                  270690                            
+     50  27010 Maceió - AL                                  270770                            
+     50  27010 Maceió - AL                                  270790                            
+     50  27010 Maceió - AL                                  270890                            
+     51  13010 Manaus - AM                                  130030                            
+     51  13010 Manaus - AM                                  130110                            
+     51  13010 Manaus - AM                                  130115                            
+     51  13010 Manaus - AM                                  130185                            
+     51  13010 Manaus - AM                                  130190                            
+     51  13010 Manaus - AM                                  130200                            
+     51  13010 Manaus - AM                                  130250                            
+     51  13010 Manaus - AM                                  130255                            
+     51  13010 Manaus - AM                                  130260,132603                     
+     51  13010 Manaus - AM                                  130320                            
+     51  13010 Manaus - AM                                  130353                            
+     51  13010 Manaus - AM                                  130356                            
+     51  13010 Manaus - AM                                  130400                            
+     52  41030 Maringá - PR                                 410115                            
+     52  41030 Maringá - PR                                 410210                            
+     52  41030 Maringá - PR                                 410220                            
+     52  41030 Maringá - PR                                 410320                            
+     52  41030 Maringá - PR                                 410380                            
+     52  41030 Maringá - PR                                 410730                            
+     52  41030 Maringá - PR                                 410780                            
+     52  41030 Maringá - PR                                 410790                            
+     52  41030 Maringá - PR                                 410810                            
+     52  41030 Maringá - PR                                 411000                            
+     52  41030 Maringá - PR                                 411110                            
+     52  41030 Maringá - PR                                 411160                            
+     52  41030 Maringá - PR                                 411210                            
+     52  41030 Maringá - PR                                 411360                            
+     52  41030 Maringá - PR                                 411410                            
+     52  41030 Maringá - PR                                 411420                            
+     52  41030 Maringá - PR                                 411480                            
+     52  41030 Maringá - PR                                 411520                            
+     52  41030 Maringá - PR                                 411630                            
+     52  41030 Maringá - PR                                 411690                            
+     52  41030 Maringá - PR                                 411740                            
+     52  41030 Maringá - PR                                 411750                            
+     52  41030 Maringá - PR                                 412040                            
+     52  41030 Maringá - PR                                 412340                            
+     52  41030 Maringá - PR                                 412530                            
+     52  41030 Maringá - PR                                 412625                            
+     53  27080 Médio Sertão - AL                            270180                            
+     53  27080 Médio Sertão - AL                            270250                            
+     53  27080 Médio Sertão - AL                            270460                            
+     53  27080 Médio Sertão - AL                            270570                            
+     53  27080 Médio Sertão - AL                            270600                            
+     53  27080 Médio Sertão - AL                            270610                            
+     53  27080 Médio Sertão - AL                            270720                            
+     53  27080 Médio Sertão - AL                            270800                            
+     53  27080 Médio Sertão - AL                            270895                            
+     54  24010 Natal - RN                                   240260                            
+     54  24010 Natal - RN                                   240325                            
+     54  24010 Natal - RN                                   240360                            
+     54  24010 Natal - RN                                   240710                            
+     54  24010 Natal - RN                                   240750                            
+     54  24010 Natal - RN                                   240780                            
+     54  24010 Natal - RN                                   240810                            
+     54  24010 Natal - RN                                   240820                            
+     54  24010 Natal - RN                                   241200                            
+     54  24010 Natal - RN                                   241220                            
+     54  24010 Natal - RN                                   241480                            
+     55  42031 Norte/Nordest - núc - SC                     420130                            
+     55  42031 Norte/Nordest - núc - SC                     420910                            
+     56  42032 Norte/Nordest - exp - SC                     420205                            
+     56  42032 Norte/Nordest - exp - SC                     420210                            
+     56  42032 Norte/Nordest - exp - SC                     420213                            
+     56  42032 Norte/Nordest - exp - SC                     420330                            
+     56  42032 Norte/Nordest - exp - SC                     420380                            
+     56  42032 Norte/Nordest - exp - SC                     420450                            
+     56  42032 Norte/Nordest - exp - SC                     420580                            
+     56  42032 Norte/Nordest - exp - SC                     420650                            
+     56  42032 Norte/Nordest - exp - SC                     420790                            
+     56  42032 Norte/Nordest - exp - SC                     420810                            
+     56  42032 Norte/Nordest - exp - SC                     420845                            
+     56  42032 Norte/Nordest - exp - SC                     420890                            
+     56  42032 Norte/Nordest - exp - SC                     421010                            
+     56  42032 Norte/Nordest - exp - SC                     421030                            
+     56  42032 Norte/Nordest - exp - SC                     421060                            
+     56  42032 Norte/Nordest - exp - SC                     421110                            
+     56  42032 Norte/Nordest - exp - SC                     421220                            
+     56  42032 Norte/Nordest - exp - SC                     421360                            
+     56  42032 Norte/Nordest - exp - SC                     421500                            
+     56  42032 Norte/Nordest - exp - SC                     421580                            
+     56  42032 Norte/Nordest - exp - SC                     421620                            
+     56  42032 Norte/Nordest - exp - SC                     421635                            
+     56  42032 Norte/Nordest - exp - SC                     421740                            
+     56  42032 Norte/Nordest - exp - SC                     421830                            
+     57  17010 Palmas - TO                                  170110                            
+     57  17010 Palmas - TO                                  170310                            
+     57  17010 Palmas - TO                                  170370                            
+     57  17010 Palmas - TO                                  170755                            
+     57  17010 Palmas - TO                                  170980                            
+     57  17010 Palmas - TO                                  171200                            
+     57  17010 Palmas - TO                                  171320                            
+     57  17010 Palmas - TO                                  171330                            
+     57  17010 Palmas - TO                                  171360                            
+     57  17010 Palmas - TO                                  171550                            
+     57  17010 Palmas - TO                                  171610                            
+     57  17010 Palmas - TO                                  171820                            
+     57  17010 Palmas - TO                                  171845                            
+     57  17010 Palmas - TO                                  172065                            
+     57  17010 Palmas - TO                                  172100                            
+     57  17010 Palmas - TO                                  172110                            
+     58  27050 Palmeira dos Índios - AL                     270080                            
+     58  27050 Palmeira dos Índios - AL                     270120                            
+     58  27050 Palmeira dos Índios - AL                     270255                            
+     58  27050 Palmeira dos Índios - AL                     270310                            
+     58  27050 Palmeira dos Índios - AL                     270440                            
+     58  27050 Palmeira dos Índios - AL                     270530                            
+     58  27050 Palmeira dos Índios - AL                     270630                            
+     59  25040 Patos - PB                                   250115                            
+     59  25040 Patos - PB                                   250340                            
+     59  25040 Patos - PB                                   250355                            
+     59  25040 Patos - PB                                   250450                            
+     59  25040 Patos - PB                                   250540                            
+     59  25040 Patos - PB                                   250550                            
+     59  25040 Patos - PB                                   250590                            
+     59  25040 Patos - PB                                   250780                            
+     59  25040 Patos - PB                                   250870                            
+     59  25040 Patos - PB                                   250880                            
+     59  25040 Patos - PB                                   250939                            
+     59  25040 Patos - PB                                   251070                            
+     59  25040 Patos - PB                                   251080                            
+     59  25040 Patos - PB                                   251260                            
+     59  25040 Patos - PB                                   251300                            
+     59  25040 Patos - PB                                   251340                            
+     59  25040 Patos - PB                                   251380                            
+     59  25040 Patos - PB                                   251440                            
+     59  25040 Patos - PB                                   251460                            
+     59  25040 Patos - PB                                   251470                            
+     59  25040 Patos - PB                                   251490                            
+     59  25040 Patos - PB                                   251670                            
+     59  25040 Patos - PB                                   251710                            
+     60  35060 Piracicaba - SP                              350060                            
+     60  35060 Piracicaba - SP                              350200                            
+     60  35060 Piracicaba - SP                              350330                            
+     60  35060 Piracicaba - SP                              351040                            
+     60  35060 Piracicaba - SP                              351170                            
+     60  35060 Piracicaba - SP                              351220                            
+     60  35060 Piracicaba - SP                              351240                            
+     60  35060 Piracicaba - SP                              351270                            
+     60  35060 Piracicaba - SP                              351490                            
+     60  35060 Piracicaba - SP                              352110                            
+     60  35060 Piracicaba - SP                              352140                            
+     60  35060 Piracicaba - SP                              352670                            
+     60  35060 Piracicaba - SP                              352690                            
+     60  35060 Piracicaba - SP                              353090                            
+     60  35060 Piracicaba - SP                              353870                            
+     60  35060 Piracicaba - SP                              354210                            
+     60  35060 Piracicaba - SP                              354390                            
+     60  35060 Piracicaba - SP                              354400                            
+     60  35060 Piracicaba - SP                              354515                            
+     60  35060 Piracicaba - SP                              354670                            
+     60  35060 Piracicaba - SP                              354700                            
+     60  35060 Piracicaba - SP                              355040                            
+     61  26020 Petrolina/Juazeiro-PE/BA                     260875                            
+     61  26020 Petrolina/Juazeiro-PE/BA                     260980                            
+     61  26020 Petrolina/Juazeiro-PE/BA                     261110                            
+     61  26020 Petrolina/Juazeiro-PE/BA                     261260                            
+     61  26020 Petrolina/Juazeiro-PE/BA                     290720                            
+     61  26020 Petrolina/Juazeiro-PE/BA                     290990                            
+     61  26020 Petrolina/Juazeiro-PE/BA                     291840                            
+     61  26020 Petrolina/Juazeiro-PE/BA                     293077                            
+     62  43010 Porto Alegre - RS                            430060                            
+     62  43010 Porto Alegre - RS                            430087                            
+     62  43010 Porto Alegre - RS                            430110                            
+     62  43010 Porto Alegre - RS                            430310                            
+     62  43010 Porto Alegre - RS                            430390                            
+     62  43010 Porto Alegre - RS                            430460                            
+     62  43010 Porto Alegre - RS                            430468                            
+     62  43010 Porto Alegre - RS                            430535                            
+     62  43010 Porto Alegre - RS                            430640                            
+     62  43010 Porto Alegre - RS                            430676                            
+     62  43010 Porto Alegre - RS                            430760                            
+     62  43010 Porto Alegre - RS                            430770                            
+     62  43010 Porto Alegre - RS                            430905                            
+     62  43010 Porto Alegre - RS                            430920                            
+     62  43010 Porto Alegre - RS                            430930                            
+     62  43010 Porto Alegre - RS                            431010                            
+     62  43010 Porto Alegre - RS                            431080                            
+     62  43010 Porto Alegre - RS                            431240                            
+     62  43010 Porto Alegre - RS                            431306                            
+     62  43010 Porto Alegre - RS                            431337                            
+     62  43010 Porto Alegre - RS                            431340                            
+     62  43010 Porto Alegre - RS                            431405                            
+     62  43010 Porto Alegre - RS                            431480                            
+     62  43010 Porto Alegre - RS                            431490                            
+     62  43010 Porto Alegre - RS                            431600                            
+     62  43010 Porto Alegre - RS                            431760                            
+     62  43010 Porto Alegre - RS                            431840                            
+     62  43010 Porto Alegre - RS                            431870                            
+     62  43010 Porto Alegre - RS                            431950                            
+     62  43010 Porto Alegre - RS                            431990                            
+     62  43010 Porto Alegre - RS                            432000                            
+     62  43010 Porto Alegre - RS                            432120                            
+     62  43010 Porto Alegre - RS                            432200                            
+     62  43010 Porto Alegre - RS                            432300                            
+     63  26010 Recife - PE                                  260005                            
+     63  26010 Recife - PE                                  260105                            
+     63  26010 Recife - PE                                  260290                            
+     63  26010 Recife - PE                                  260345                            
+     63  26010 Recife - PE                                  260680                            
+     63  26010 Recife - PE                                  260720                            
+     63  26010 Recife - PE                                  260760                            
+     63  26010 Recife - PE                                  260775                            
+     63  26010 Recife - PE                                  260790                            
+     63  26010 Recife - PE                                  260940                            
+     63  26010 Recife - PE                                  260960                            
+     63  26010 Recife - PE                                  261070                            
+     63  26010 Recife - PE                                  261160                            
+     63  26010 Recife - PE                                  261370                            
+     64  33010 Rio de Janeiro - RJ                          330045                            
+     64  33010 Rio de Janeiro - RJ                          330080                            
+     64  33010 Rio de Janeiro - RJ                          330170                            
+     64  33010 Rio de Janeiro - RJ                          330185                            
+     64  33010 Rio de Janeiro - RJ                          330190                            
+     64  33010 Rio de Janeiro - RJ                          330200                            
+     64  33010 Rio de Janeiro - RJ                          330227                            
+     64  33010 Rio de Janeiro - RJ                          330250                            
+     64  33010 Rio de Janeiro - RJ                          330270                            
+     64  33010 Rio de Janeiro - RJ                          330285                            
+     64  33010 Rio de Janeiro - RJ                          330320                            
+     64  33010 Rio de Janeiro - RJ                          330330                            
+     64  33010 Rio de Janeiro - RJ                          330350                            
+     64  33010 Rio de Janeiro - RJ                          330360                            
+     64  33010 Rio de Janeiro - RJ                          330414                            
+     64  33010 Rio de Janeiro - RJ                          330430                            
+     64  33010 Rio de Janeiro - RJ                          330455,334501-334530              
+     64  33010 Rio de Janeiro - RJ                          330490                            
+     64  33010 Rio de Janeiro - RJ                          330510                            
+     64  33010 Rio de Janeiro - RJ                          330555                            
+     64  33010 Rio de Janeiro - RJ                          330575                            
+     65  42082 Chapecó - exp - SC                           420410                            
+     65  42082 Chapecó - exp - SC                           420475                            
+     65  42082 Chapecó - exp - SC                           420530                            
+     65  42082 Chapecó - exp - SC                           420800                            
+     65  42082 Chapecó - exp - SC                           420945                            
+     65  42082 Chapecó - exp - SC                           421055                            
+     65  42082 Chapecó - exp - SC                           421210                            
+     65  42082 Chapecó - exp - SC                           421227                            
+     65  42082 Chapecó - exp - SC                           421340                            
+     65  42082 Chapecó - exp - SC                           421420                            
+     65  42082 Chapecó - exp - SC                           421755                            
+     65  42082 Chapecó - exp - SC                           421775                            
+     65  42082 Chapecó - exp - SC                           421885                            
+     65  42082 Chapecó - exp - SC                           421910                            
+     65  42082 Chapecó - exp - SC                           421960                            
+     66  42081 Chapecó - núc - SC                           420050                            
+     66  42081 Chapecó - núc - SC                           420055                            
+     66  42081 Chapecó - núc - SC                           420165                            
+     66  42081 Chapecó - núc - SC                           420420                            
+     66  42081 Chapecó - núc - SC                           420435                            
+     66  42081 Chapecó - núc - SC                           420440                            
+     66  42081 Chapecó - núc - SC                           420665                            
+     66  42081 Chapecó - núc - SC                           421140                            
+     66  42081 Chapecó - núc - SC                           421145                            
+     66  42081 Chapecó - núc - SC                           421187                            
+     66  42081 Chapecó - núc - SC                           421290                            
+     66  42081 Chapecó - núc - SC                           421315                            
+     66  42081 Chapecó - núc - SC                           421600                            
+     66  42081 Chapecó - núc - SC                           421730                            
+     66  42081 Chapecó - núc - SC                           421750                            
+     66  42081 Chapecó - núc - SC                           421950                            
+     66  42081 Chapecó - núc - SC                           421970                            
+     67  29010 Salvador - BA                                290570                            
+     67  29010 Salvador - BA                                290650                            
+     67  29010 Salvador - BA                                291005                            
+     67  29010 Salvador - BA                                291610                            
+     67  29010 Salvador - BA                                291920                            
+     67  29010 Salvador - BA                                291992                            
+     67  29010 Salvador - BA                                292100                            
+     67  29010 Salvador - BA                                292520                            
+     67  29010 Salvador - BA                                292740                            
+     67  29010 Salvador - BA                                292920                            
+     67  29010 Salvador - BA                                292950                            
+     67  29010 Salvador - BA                                293070                            
+     67  29010 Salvador - BA                                293320                            
+     68  15020 Santarém - PA                                150145                            
+     68  15020 Santarém - PA                                150475                            
+     68  15020 Santarém - PA                                150680                            
+     69  35010 São Paulo - SP                               350390                            
+     69  35010 São Paulo - SP                               350570                            
+     69  35010 São Paulo - SP                               350660                            
+     69  35010 São Paulo - SP                               350900                            
+     69  35010 São Paulo - SP                               350920                            
+     69  35010 São Paulo - SP                               351060                            
+     69  35010 São Paulo - SP                               351300                            
+     69  35010 São Paulo - SP                               351380                            
+     69  35010 São Paulo - SP                               351500                            
+     69  35010 São Paulo - SP                               351510                            
+     69  35010 São Paulo - SP                               351570                            
+     69  35010 São Paulo - SP                               351630                            
+     69  35010 São Paulo - SP                               351640                            
+     69  35010 São Paulo - SP                               351830                            
+     69  35010 São Paulo - SP                               351880                            
+     69  35010 São Paulo - SP                               352220                            
+     69  35010 São Paulo - SP                               352250                            
+     69  35010 São Paulo - SP                               352310                            
+     69  35010 São Paulo - SP                               352500                            
+     69  35010 São Paulo - SP                               352620                            
+     69  35010 São Paulo - SP                               352850                            
+     69  35010 São Paulo - SP                               352940                            
+     69  35010 São Paulo - SP                               353060                            
+     69  35010 São Paulo - SP                               353440                            
+     69  35010 São Paulo - SP                               353910                            
+     69  35010 São Paulo - SP                               353980                            
+     69  35010 São Paulo - SP                               354330                            
+     69  35010 São Paulo - SP                               354410                            
+     69  35010 São Paulo - SP                               354500                            
+     69  35010 São Paulo - SP                               354680                            
+     69  35010 São Paulo - SP                               354730                            
+     69  35010 São Paulo - SP                               354780                            
+     69  35010 São Paulo - SP                               354870                            
+     69  35010 São Paulo - SP                               354880                            
+     69  35010 São Paulo - SP                               354995                            
+     69  35010 São Paulo - SP                               355030,358001-358058              
+     69  35010 São Paulo - SP                               355250                            
+     69  35010 São Paulo - SP                               355280                            
+     69  35010 São Paulo - SP                               355645                            
+     70  43030 Serra Gaúcha - RS                            430080                            
+     70  43030 Serra Gaúcha - RS                            430210                            
+     70  43030 Serra Gaúcha - RS                            430480                            
+     70  43030 Serra Gaúcha - RS                            430510                            
+     70  43030 Serra Gaúcha - RS                            430790                            
+     70  43030 Serra Gaúcha - RS                            430820                            
+     70  43030 Serra Gaúcha - RS                            430860                            
+     70  43030 Serra Gaúcha - RS                            431043                            
+     70  43030 Serra Gaúcha - RS                            431238                            
+     70  43030 Serra Gaúcha - RS                            431308                            
+     70  43030 Serra Gaúcha - RS                            431454,430145,431453              
+     70  43030 Serra Gaúcha - RS                            431725                            
+     70  43030 Serra Gaúcha - RS                            431900                            
+     71  27070 Sertão - AL                                  270010                            
+     71  27070 Sertão - AL                                  270240                            
+     71  27070 Sertão - AL                                  270330                            
+     71  27070 Sertão - AL                                  270500                            
+     71  27070 Sertão - AL                                  270580                            
+     71  27070 Sertão - AL                                  270642                            
+     71  27070 Sertão - AL                                  270710                            
+     72  35070 Sorocaba - SP                                350075                            
+     72  35070 Sorocaba - SP                                350115                            
+     72  35070 Sorocaba - SP                                350275                            
+     72  35070 Sorocaba - SP                                350290                            
+     72  35070 Sorocaba - SP                                350700                            
+     72  35070 Sorocaba - SP                                351030                            
+     72  35070 Sorocaba - SP                                351150                            
+     72  35070 Sorocaba - SP                                351160                            
+     72  35070 Sorocaba - SP                                351970                            
+     72  35070 Sorocaba - SP                                352100                            
+     72  35070 Sorocaba - SP                                352390                            
+     72  35070 Sorocaba - SP                                352585                            
+     72  35070 Sorocaba - SP                                352840                            
+     72  35070 Sorocaba - SP                                353780                            
+     72  35070 Sorocaba - SP                                353790                            
+     72  35070 Sorocaba - SP                                354060                            
+     72  35070 Sorocaba - SP                                354520                            
+     72  35070 Sorocaba - SP                                354530                            
+     72  35070 Sorocaba - SP                                355020                            
+     72  35070 Sorocaba - SP                                355060                            
+     72  35070 Sorocaba - SP                                355110                            
+     72  35070 Sorocaba - SP                                355220                            
+     72  35070 Sorocaba - SP                                355350                            
+     72  35070 Sorocaba - SP                                355400                            
+     72  35070 Sorocaba - SP                                355450                            
+     72  35070 Sorocaba - SP                                355700                            
+     73  25100 Sousa - PB                                   250077                            
+     73  25100 Sousa - PB                                   250840                            
+     73  25100 Sousa - PB                                   250915                            
+     73  25100 Sousa - PB                                   251000                            
+     73  25100 Sousa - PB                                   251320                            
+     73  25100 Sousa - PB                                   251398                            
+     73  25100 Sousa - PB                                   251420                            
+     73  25100 Sousa - PB                                   251620                            
+     73  25100 Sousa - PB                                   251720                            
+     74  21020 Sudoeste Maranhense - MA                     210235                            
+     74  21020 Sudoeste Maranhense - MA                     210375                            
+     74  21020 Sudoeste Maranhense - MA                     210455                            
+     74  21020 Sudoeste Maranhense - MA                     210530                            
+     74  21020 Sudoeste Maranhense - MA                     210550                            
+     74  21020 Sudoeste Maranhense - MA                     210700                            
+     74  21020 Sudoeste Maranhense - MA                     210955                            
+     74  21020 Sudoeste Maranhense - MA                     211176                            
+     75  43040 Sul - RS                                     430107                            
+     75  43040 Sul - RS                                     430466                            
+     75  43040 Sul - RS                                     431440                            
+     75  43040 Sul - RS                                     431560                            
+     75  43040 Sul - RS                                     431850                            
+     76  14020 Sul do Estado - RR                           140023                            
+     76  14020 Sul do Estado - RR                           140047                            
+     76  14020 Sul do Estado - RR                           140050                            
+     76  14020 Sul do Estado - RR                           140060                            
+     77  41080 Toledo - PR                                  410200                            
+     77  41080 Toledo - PR                                  410715                            
+     77  41080 Toledo - PR                                  410753                            
+     77  41080 Toledo - PR                                  410880                            
+     77  41080 Toledo - PR                                  411460                            
+     77  41080 Toledo - PR                                  411535                            
+     77  41080 Toledo - PR                                  411585                            
+     77  41080 Toledo - PR                                  411722                            
+     77  41080 Toledo - PR                                  411745                            
+     77  41080 Toledo - PR                                  411790                            
+     77  41080 Toledo - PR                                  411845                            
+     77  41080 Toledo - PR                                  412085                            
+     77  41080 Toledo - PR                                  412350                            
+     77  41080 Toledo - PR                                  412545                            
+     77  41080 Toledo - PR                                  412575                            
+     77  41080 Toledo - PR                                  412740                            
+     77  41080 Toledo - PR                                  412770                            
+     77  41080 Toledo - PR                                  412795                            
+     78  42062 Tubarão - exp - SC                           420150                            
+     78  42062 Tubarão - exp - SC                           420280                            
+     78  42062 Tubarão - exp - SC                           420610                            
+     78  42062 Tubarão - exp - SC                           420720                            
+     78  42062 Tubarão - exp - SC                           420730                            
+     78  42062 Tubarão - exp - SC                           420880                            
+     78  42062 Tubarão - exp - SC                           420940                            
+     78  42062 Tubarão - exp - SC                           421170                            
+     78  42062 Tubarão - exp - SC                           421240                            
+     78  42062 Tubarão - exp - SC                           421265                            
+     78  42062 Tubarão - exp - SC                           421490                            
+     78  42062 Tubarão - exp - SC                           421545                            
+     78  42062 Tubarão - exp - SC                           421560                            
+     78  42062 Tubarão - exp - SC                           421700                            
+     78  42062 Tubarão - exp - SC                           421710                            
+     78  42062 Tubarão - exp - SC                           421840                            
+     79  42061 Tubarão - núc - SC                           420395                            
+     79  42061 Tubarão - núc - SC                           420620                            
+     79  42061 Tubarão - núc - SC                           421870                            
+     80  41040 Umuarama - PR                                410050                            
+     80  41040 Umuarama - PR                                410070                            
+     80  41040 Umuarama - PR                                410337                            
+     80  41040 Umuarama - PR                                410347                            
+     80  41040 Umuarama - PR                                410560                            
+     80  41040 Umuarama - PR                                410660                            
+     80  41040 Umuarama - PR                                410725                            
+     80  41040 Umuarama - PR                                410752                            
+     80  41040 Umuarama - PR                                410832                            
+     80  41040 Umuarama - PR                                410990                            
+     80  41040 Umuarama - PR                                411060                            
+     80  41040 Umuarama - PR                                411155                            
+     80  41040 Umuarama - PR                                411470                            
+     80  41040 Umuarama - PR                                411510                            
+     80  41040 Umuarama - PR                                411720                            
+     80  41040 Umuarama - PR                                411885                            
+     80  41040 Umuarama - PR                                411890                            
+     80  41040 Umuarama - PR                                412535                            
+     80  41040 Umuarama - PR                                412680                            
+     80  41040 Umuarama - PR                                412690                            
+     80  41040 Umuarama - PR                                412790                            
+     80  41040 Umuarama - PR                                412810                            
+     80  41040 Umuarama - PR                                412862                            
+     80  41040 Umuarama - PR                                412880                            
+     81  31022 Vale do Aço - colar - MG                     310050                            
+     81  31022 Vale do Aço - colar - MG                     310300                            
+     81  31022 Vale do Aço - colar - MG                     310630                            
+     81  31022 Vale do Aço - colar - MG                     310780                            
+     81  31022 Vale do Aço - colar - MG                     310880                            
+     81  31022 Vale do Aço - colar - MG                     310925                            
+     81  31022 Vale do Aço - colar - MG                     311340                            
+     81  31022 Vale do Aço - colar - MG                     312000                            
+     81  31022 Vale do Aço - colar - MG                     312180                            
+     81  31022 Vale do Aço - colar - MG                     312250                            
+     81  31022 Vale do Aço - colar - MG                     312385                            
+     81  31022 Vale do Aço - colar - MG                     312930                            
+     81  31022 Vale do Aço - colar - MG                     313115                            
+     81  31022 Vale do Aço - colar - MG                     313500                            
+     81  31022 Vale do Aço - colar - MG                     313610                            
+     81  31022 Vale do Aço - colar - MG                     314030                            
+     81  31022 Vale do Aço - colar - MG                     314170                            
+     81  31022 Vale do Aço - colar - MG                     314435                            
+     81  31022 Vale do Aço - colar - MG                     314995                            
+     81  31022 Vale do Aço - colar - MG                     315053                            
+     81  31022 Vale do Aço - colar - MG                     316260                            
+     81  31022 Vale do Aço - colar - MG                     316340                            
+     81  31022 Vale do Aço - colar - MG                     316770                            
+     81  31022 Vale do Aço - colar - MG                     317057                            
+     82  31021 Vale do Aço - núcl - MG                      311940                            
+     82  31021 Vale do Aço - núcl - MG                      313130                            
+     82  31021 Vale do Aço - núcl - MG                      315895                            
+     82  31021 Vale do Aço - núcl - MG                      316870                            
+     83  42022 Vale Itajaí - exp - SC                       420125                            
+     83  42022 Vale Itajaí - exp - SC                       420170                            
+     83  42022 Vale Itajaí - exp - SC                       420220                            
+     83  42022 Vale Itajaí - exp - SC                       420270                            
+     83  42022 Vale Itajaí - exp - SC                       420290                            
+     83  42022 Vale Itajaí - exp - SC                       420515                            
+     83  42022 Vale Itajaí - exp - SC                       420630                            
+     83  42022 Vale Itajaí - exp - SC                       420710                            
+     83  42022 Vale Itajaí - exp - SC                       421000                            
+     83  42022 Vale Itajaí - exp - SC                       421470                            
+     83  42022 Vale Itajaí - exp - SC                       421510                            
+     84  42021 Vale Itajaí - núc - SC                       420240                            
+     84  42021 Vale Itajaí - núc - SC                       420590                            
+     84  42021 Vale Itajaí - núc - SC                       420750                            
+     84  42021 Vale Itajaí - núc - SC                       421320                            
+     84  42021 Vale Itajaí - núc - SC                       421820                            
+     85  25090 Vale do Mamanguape - PB                      250140                            
+     85  25090 Vale do Mamanguape - PB                      250523                            
+     85  25090 Vale do Mamanguape - PB                      250527                            
+     85  25090 Vale do Mamanguape - PB                      250710                            
+     85  25090 Vale do Mamanguape - PB                      250730                            
+     85  25090 Vale do Mamanguape - PB                      250890                            
+     85  25090 Vale do Mamanguape - PB                      250905                            
+     85  25090 Vale do Mamanguape - PB                      250930                            
+     85  25090 Vale do Mamanguape - PB                      251272                            
+     86  27030 Vale do Paraíba - AL                         270020                            
+     86  27030 Vale do Paraíba - AL                         270100                            
+     86  27030 Vale do Paraíba - AL                         270130                            
+     86  27030 Vale do Paraíba - AL                         270170                            
+     86  27030 Vale do Paraíba - AL                         270190                            
+     86  27030 Vale do Paraíba - AL                         270480                            
+     86  27030 Vale do Paraíba - AL                         270490                            
+     86  27030 Vale do Paraíba - AL                         270660                            
+     86  27030 Vale do Paraíba - AL                         270700                            
+     86  27030 Vale do Paraíba - AL                         270760                            
+     86  27030 Vale do Paraíba - AL                         270900                            
+     86  27030 Vale do Paraíba - AL                         270940                            
+     87  25070 Vale do Piancó - PB                          250020                            
+     87  25070 Vale do Piancó - PB                          250210                            
+     87  25070 Vale do Piancó - PB                          250260                            
+     87  25070 Vale do Piancó - PB                          250420                            
+     87  25070 Vale do Piancó - PB                          250440                            
+     87  25070 Vale do Piancó - PB                          250480                            
+     87  25070 Vale do Piancó - PB                          250530                            
+     87  25070 Vale do Piancó - PB                          250560                            
+     87  25070 Vale do Piancó - PB                          250660                            
+     87  25070 Vale do Piancó - PB                          250700                            
+     87  25070 Vale do Piancó - PB                          251020                            
+     87  25070 Vale do Piancó - PB                          251130                            
+     87  25070 Vale do Piancó - PB                          251335                            
+     87  25070 Vale do Piancó - PB                          251350                            
+     87  25070 Vale do Piancó - PB                          251360                            
+     87  25070 Vale do Piancó - PB                          251430                            
+     87  25070 Vale do Piancó - PB                          251570                            
+     88  51012 Vale R.Cuiabá - ent - MT                     510010                            
+     88  51012 Vale R.Cuiabá - ent - MT                     510160                            
+     88  51012 Vale R.Cuiabá - ent - MT                     510300                            
+     88  51012 Vale R.Cuiabá - ent - MT                     510490                            
+     88  51012 Vale R.Cuiabá - ent - MT                     510590                            
+     88  51012 Vale R.Cuiabá - ent - MT                     510620                            
+     88  51012 Vale R.Cuiabá - ent - MT                     510645                            
+     88  51012 Vale R.Cuiabá - ent - MT                     510650                            
+     88  51012 Vale R.Cuiabá - ent - MT                     510770                            
+     89  51011 Vale R.Cuiabá - núc - MT                     510340                            
+     89  51011 Vale R.Cuiabá - núc - MT                     510610                            
+     89  51011 Vale R.Cuiabá - núc - MT                     510780                            
+     89  51011 Vale R.Cuiabá - núc - MT                     510840                            
+     90  35041 V.Paraíba/Lit Nort 1 -SP                     350850                            
+     90  35041 V.Paraíba/Lit Nort 1 -SP                     352020                            
+     90  35041 V.Paraíba/Lit Nort 1 -SP                     352440                            
+     90  35041 V.Paraíba/Lit Nort 1 -SP                     352490                            
+     90  35041 V.Paraíba/Lit Nort 1 -SP                     353170                            
+     90  35041 V.Paraíba/Lit Nort 1 -SP                     353560                            
+     90  35041 V.Paraíba/Lit Nort 1 -SP                     354600                            
+     90  35041 V.Paraíba/Lit Nort 1 -SP                     354990                            
+     91  35042 V.Paraíba/Lit Nort 2 -SP                     350970                            
+     91  35042 V.Paraíba/Lit Nort 2 -SP                     352630                            
+     91  35042 V.Paraíba/Lit Nort 2 -SP                     353230                            
+     91  35042 V.Paraíba/Lit Nort 2 -SP                     353800                            
+     91  35042 V.Paraíba/Lit Nort 2 -SP                     354230                            
+     91  35042 V.Paraíba/Lit Nort 2 -SP                     354820                            
+     91  35042 V.Paraíba/Lit Nort 2 -SP                     354860                            
+     91  35042 V.Paraíba/Lit Nort 2 -SP                     355000                            
+     91  35042 V.Paraíba/Lit Nort 2 -SP                     355410                            
+     91  35042 V.Paraíba/Lit Nort 2 -SP                     355480                            
+     92  35043 V.Paraíba/Lit Nort 3 -SP                     350250                            
+     92  35043 V.Paraíba/Lit Nort 3 -SP                     350860                            
+     92  35043 V.Paraíba/Lit Nort 3 -SP                     350995                            
+     92  35043 V.Paraíba/Lit Nort 3 -SP                     351360                            
+     92  35043 V.Paraíba/Lit Nort 3 -SP                     351840                            
+     92  35043 V.Paraíba/Lit Nort 3 -SP                     352720                            
+     92  35043 V.Paraíba/Lit Nort 3 -SP                     353850                            
+     92  35043 V.Paraíba/Lit Nort 3 -SP                     354075                            
+     92  35043 V.Paraíba/Lit Nort 3 -SP                     354430                            
+     93  35044 V.Paraíba/Lit Nort 4 -SP                     350315                            
+     93  35044 V.Paraíba/Lit Nort 4 -SP                     350350                            
+     93  35044 V.Paraíba/Lit Nort 4 -SP                     350490                            
+     93  35044 V.Paraíba/Lit Nort 4 -SP                     351340                            
+     93  35044 V.Paraíba/Lit Nort 4 -SP                     352660                            
+     93  35044 V.Paraíba/Lit Nort 4 -SP                     354190                            
+     93  35044 V.Paraíba/Lit Nort 4 -SP                     354960                            
+     93  35044 V.Paraíba/Lit Nort 4 -SP                     355200                            
+     94  35045 V.Paraíba/Lit Nort 5 -SP                     351050                            
+     94  35045 V.Paraíba/Lit Nort 5 -SP                     352040                            
+     94  35045 V.Paraíba/Lit Nort 5 -SP                     355070                            
+     94  35045 V.Paraíba/Lit Nort 5 -SP                     355540                            
+     95  27040 Zona da Mata - AL                            270110                            
+     95  27040 Zona da Mata - AL                            270135                            
+     95  27040 Zona da Mata - AL                            270210                            
+     95  27040 Zona da Mata - AL                            270280                            
+     95  27040 Zona da Mata - AL                            270300                            
+     95  27040 Zona da Mata - AL                            270350                            
+     95  27040 Zona da Mata - AL                            270380                            
+     95  27040 Zona da Mata - AL                            270390                            
+     95  27040 Zona da Mata - AL                            270510                            
+     95  27040 Zona da Mata - AL                            270550                            
+     95  27040 Zona da Mata - AL                            270560                            
+     95  27040 Zona da Mata - AL                            270730                            
+     95  27040 Zona da Mata - AL                            270810                            
+     95  27040 Zona da Mata - AL                            270830                            
+     95  27040 Zona da Mata - AL                            270850                            
+     95  27040 Zona da Mata - AL                            270930                            

@@ -1,0 +1,148 @@
+N 147 6
+        1  17001 Médio Norte Araguaia                                                                           170130,170210,170215,170300,170307,170384,170388,170650,170770,170900,171395,171488,171630,171720,171886,172208,172210
+   1    2  .....  XAMBIOA                                                                                       172210
+   1    3  .....  MURICILANDIA                                                                                  171395
+   1    4  .....  GOIATINS                                                                                      170900
+   1    5  .....  BABACULANDIA                                                                                  170300
+   1    6  .....  CARMOLANDIA                                                                                   170388
+   1    7  .....  NOVA OLINDA                                                                                   171488
+   1    8  .....  DARCINOPOLIS                                                                                  170650
+   1    9  .....  ARAGOMINAS                                                                                    170130
+   1   10  .....  ARAGUAINA                                                                                     170210
+   1   11  .....  WANDERLANDIA                                                                                  172208
+   1   12  .....  ARAGUANA                                                                                      170215
+   1   13  .....  PAU D'ARCO                                                                                    171630
+   1   14  .....  CAMPOS LINDOS                                                                                 170384
+   1   15  .....  PIRAQUE                                                                                       171720
+   1   16  .....  SANTA FE DO ARAGUAIA                                                                          171886
+   1   17  .....  BARRA DO OURO                                                                                 170307
+   1   18  .....  FILADELFIA                                                                                    170770
+       19  17002 Bico do Papagaio                                                                               170030,170100,170105,170220,170255,170290,170380,170382,170389,170740,171070,171245,171280,171380,171430,171830,171855,171880,172000,172010,172020,172030,172080,172120
+  19   20  .....  SAMPAIO                                                                                       171880
+  19   21  .....  BURITI DO TOCANTINS                                                                           170380
+  19   22  .....  AUGUSTINOPOLIS                                                                                170255
+  19   23  .....  AGUIARNOPOLIS                                                                                 170030
+  19   24  .....  ANGICO                                                                                        170105
+  19   25  .....  NAZARE                                                                                        171430
+  19   26  .....  LUZINOPOLIS                                                                                   171245
+  19   27  .....  MAURILANDIA DO TOCANTINS                                                                      171280
+  19   28  .....  SANTA TEREZINHA DO TOCANTINS                                                                  172000
+  19   29  .....  ARAGUATINS                                                                                    170220
+  19   30  .....  PRAIA NORTE                                                                                   171830
+  19   31  .....  SITIO NOVO DO TOCANTINS                                                                       172080
+  19   32  .....  ITAGUATINS                                                                                    171070
+  19   33  .....  AXIXA DO TOCANTINS                                                                            170290
+  19   34  .....  PALMEIRAS DO TOCANTINS                                                                        171380
+  19   35  .....  CACHOEIRINHA                                                                                  170382
+  19   36  .....  CARRASCO BONITO                                                                               170389
+  19   37  .....  SAO BENTO DO TOCANTINS                                                                        172010
+  19   38  .....  SAO MIGUEL DO TOCANTINS                                                                       172020
+  19   39  .....  ESPERANTINA                                                                                   170740
+  19   40  .....  ANANAS                                                                                        170100
+  19   41  .....  TOCANTINOPOLIS                                                                                172120
+  19   42  .....  RIACHINHO                                                                                     171855
+  19   43  .....  SAO SEBASTIAO DO TOCANTINS                                                                    172030
+       44  17003 Sudeste                                                                                        170040,170240,170270,170555,170560,170700,171215,171515,171525,171620,171780,171800,171865,172090,172093
+  44   45  .....  ALMAS                                                                                         170040
+  44   46  .....  PORTO ALEGRE DO TOCANTINS                                                                     171800
+  44   47  .....  COMBINADO                                                                                     170555
+  44   48  .....  AURORA DO TOCANTINS                                                                           170270
+  44   49  .....  TAIPAS DO TOCANTINS                                                                           172093
+  44   50  .....  ARRAIAS                                                                                       170240
+  44   51  .....  TAGUATINGA                                                                                    172090
+  44   52  .....  NOVO JARDIM                                                                                   171525
+  44   53  .....  PARANA                                                                                        171620
+  44   54  .....  PONTE ALTA DO BOM JESUS                                                                       171780
+  44   55  .....  LAVANDEIRA                                                                                    171215
+  44   56  .....  NOVO ALEGRE                                                                                   171515
+  44   57  .....  CONCEICAO DO TOCANTINS                                                                        170560
+  44   58  .....  RIO DA CONCEICAO                                                                              171865
+  44   59  .....  DIANOPOLIS                                                                                    170700
+       60  17004 Cerrado Tocantins Araguaia                                                                     170230,170305,170320,170330,170360,170410,170550,170600,170830,170930,171050,171090,171110,171180,171570,171650,171665,171670,171840,171850,171888,172125,172130
+  60   61  .....  COLINAS DO TOCANTINS                                                                          170550
+  60   62  .....  PEDRO AFONSO                                                                                  171650
+  60   63  .....  PALMEIRANTE                                                                                   171570
+  60   64  .....  BOM JESUS DO TOCANTINS                                                                        170330
+  60   65  .....  BERNARDO SAYAO                                                                                170320
+  60   66  .....  JUARINA                                                                                       171180
+  60   67  .....  TUPIRATINS                                                                                    172130
+  60   68  .....  ITAPORA DO TOCANTINS                                                                          171110
+  60   69  .....  ITAPIRATINS                                                                                   171090
+  60   70  .....  GUARAI                                                                                        170930
+  60   71  .....  COUTO MAGALHAES                                                                               170600
+  60   72  .....  TUPIRAMA                                                                                      172125
+  60   73  .....  COLMEIA                                                                                       171670
+  60   74  .....  BANDEIRANTES DO TOCANTINS                                                                     170305
+  60   75  .....  ARAPOEMA                                                                                      170230
+  60   76  .....  RECURSOLANDIA                                                                                 171850
+  60   77  .....  PEQUIZEIRO                                                                                    171665
+  60   78  .....  ITACAJA                                                                                       171050
+  60   79  .....  BRASILANDIA DO TOCANTINS                                                                      170360
+  60   80  .....  PRESIDENTE KENNEDY                                                                            171840
+  60   81  .....  CENTENARIO                                                                                    170410
+  60   82  .....  GOIANORTE                                                                                     170830
+  60   83  .....  SANTA MARIA DO TOCANTINS                                                                      171888
+       84  17005 Ilha do Bananal                                                                                170035,170070,170200,170386,170625,170730,170765,170820,170950,171150,171575,171660,171884,171889,172025,172049,172085,172097
+  84   85  .....  GURUPI                                                                                        170950
+  84   86  .....  FORMOSO DO ARAGUAIA                                                                           170820
+  84   87  .....  ALIANCA DO TOCANTINS                                                                          170035
+  84   88  .....  SAO SALVADOR DO TOCANTINS                                                                     172025
+  84   89  .....  SAO VALERIO                                                                                   172049
+  84   90  .....  PALMEIROPOLIS                                                                                 171575
+  84   91  .....  SANTA RITA DO TOCANTINS                                                                       171889
+  84   92  .....  SANDOLANDIA                                                                                   171884
+  84   93  .....  JAU DO TOCANTINS                                                                              171150
+  84   94  .....  DUERE                                                                                         170730
+  84   95  .....  ALVORADA                                                                                      170070
+  84   96  .....  FIGUEIROPOLIS                                                                                 170765
+  84   97  .....  SUCUPIRA                                                                                      172085
+  84   98  .....  TALISMA                                                                                       172097
+  84   99  .....  ARAGUACU                                                                                      170200
+  84  100  .....  PEIXE                                                                                         171660
+  84  101  .....  CRIXAS DO TOCANTINS                                                                           170625
+  84  102  .....  CARIRI DO TOCANTINS                                                                           170386
+      103  17006 Capim Dourado                                                                                  170110,170825,171195,171200,171240,171320,171330,171510,171870,171875,171900,172015,172100,172110
+ 103  104  .....  TOCANTINIA                                                                                    172110
+ 103  105  .....  SAO FELIX DO TOCANTINS                                                                        172015
+ 103  106  .....  MIRACEMA DO TOCANTINS                                                                         171320
+ 103  107  .....  PALMAS                                                                                        172100
+ 103  108  .....  FORTALEZA DO TABOCAO                                                                          170825
+ 103  109  .....  SANTA TEREZA DO TOCANTINS                                                                     171900
+ 103  110  .....  LIZARDA                                                                                       171240
+ 103  111  .....  LAGOA DO TOCANTINS                                                                            171195
+ 103  112  .....  RIO SONO                                                                                      171875
+ 103  113  .....  LAJEADO                                                                                       171200
+ 103  114  .....  NOVO ACORDO                                                                                   171510
+ 103  115  .....  APARECIDA DO RIO NEGRO                                                                        170110
+ 103  116  .....  RIO DOS BOIS                                                                                  171870
+ 103  117  .....  MIRANORTE                                                                                     171330
+      118  17007 Cantão                                                                                         170025,170190,170310,170390,170460,170610,170710,170720,171190,171250,171370,171500,171610,171750,171845
+ 118  119  .....  BARROLANDIA                                                                                   170310
+ 118  120  .....  PUGMIL                                                                                        171845
+ 118  121  .....  DIVINOPOLIS DO TOCANTINS                                                                      170710
+ 118  122  .....  CASEARA                                                                                       170390
+ 118  123  .....  DOIS IRMAOS DO TOCANTINS                                                                      170720
+ 118  124  .....  CHAPADA DE AREIA                                                                              170460
+ 118  125  .....  CRISTALANDIA                                                                                  170610
+ 118  126  .....  ARAGUACEMA                                                                                    170190
+ 118  127  .....  ABREULANDIA                                                                                   170025
+ 118  128  .....  MARIANOPOLIS DO TOCANTINS                                                                     171250
+ 118  129  .....  NOVA ROSALANDIA                                                                               171500
+ 118  130  .....  LAGOA DA CONFUSAO                                                                             171190
+ 118  131  .....  PARAISO DO TOCANTINS                                                                          171610
+ 118  132  .....  MONTE SANTO DO TOCANTINS                                                                      171370
+ 118  133  .....  PIUM                                                                                          171750
+      134  17008 Amor Perfeito                                                                                  170370,170510,170755,170980,171270,171360,171420,171550,171700,171790,171820,171890,172065
+ 134  135  .....  IPUEIRAS                                                                                      170980
+ 134  136  .....  BREJINHO DE NAZARE                                                                            170370
+ 134  137  .....  NATIVIDADE                                                                                    171420
+ 134  138  .....  PONTE ALTA DO TOCANTINS                                                                       171790
+ 134  139  .....  FATIMA                                                                                        170755
+ 134  140  .....  CHAPADA DA NATIVIDADE                                                                         170510
+ 134  141  .....  SILVANOPOLIS                                                                                  172065
+ 134  142  .....  MATEIROS                                                                                      171270
+ 134  143  .....  MONTE DO CARMO                                                                                171360
+ 134  144  .....  PORTO NACIONAL                                                                                171820
+ 134  145  .....  PINDORAMA DO TOCANTINS                                                                        171700
+ 134  146  .....  SANTA ROSA DO TOCANTINS                                                                       171890
+ 134  147  .....  OLIVEIRA DE FATIMA                                                                            171550

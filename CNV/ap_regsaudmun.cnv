@@ -1,0 +1,20 @@
+N 19 6
+   1    3  .....  MACAPA                                                                                        160030
+   1    4  .....  PEDRA BRANCA DO AMAPARI                                                                       160015
+   1    5  .....  FERREIRA GOMES                                                                                160023
+   1    6  .....  SERRA DO NAVIO                                                                                160005
+   1    7  .....  ITAUBAL                                                                                       160025
+   1    8  .....  PORTO GRANDE                                                                                  160053
+        9  16002 Área Norte                                                                                     160010,160020,160050,160055,160070
+   9   10  .....  AMAPA                                                                                         160010
+   9   11  .....  TARTARUGALZINHO                                                                               160070
+   9   12  .....  CALCOENE                                                                                      160020
+   9   13  .....  PRACUUBA                                                                                      160055
+   9   14  .....  OIAPOQUE                                                                                      160050
+       15  16003 Área Sudoeste                                                                                  160027,160040,160060,160080
+  15   16  .....  SANTANA                                                                                       160060
+  15   17  .....  VITORIA DO JARI                                                                               160080
+  15   18  .....  LARANJAL DO JARI                                                                              160027
+  15   19  .....  MAZAGAO                                                                                       160040
+        1  16001 Área Central                                                                                   160005,160015,160021,160023,160025,160030,160053
+   1    2  .....  CUTIAS                                                                                        160021

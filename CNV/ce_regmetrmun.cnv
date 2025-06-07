@@ -1,0 +1,189 @@
+188  6                                                                                    
+      1  23010 Fortaleza - CE                               230100                            
+  1   2  ..... Aquiraz                                      230100                            
+  1   3  ..... Cascavel                                     230350                            
+  1   4  ..... Caucaia                                      230370                            
+  1   5  ..... Chorozinho                                   230395                            
+  1   6  ..... Eusébio                                      230428                            
+  1   7  ..... Fortaleza                                    230440                            
+  1   8  ..... Guaiúba                                      230495                            
+  1   9  ..... Horizonte                                    230523                            
+  1  10  ..... Itaitinga                                    230625                            
+  1  11  ..... Maracanaú                                    230765                            
+  1  12  ..... Maranguape                                   230770                            
+  1  13  ..... Pacajus                                      230960                            
+  1  14  ..... Pacatuba                                     230970                            
+  1  15  ..... Paracuru                                     231020                            
+  1  16  ..... Paraipaba                                    231025                            
+  1  17  ..... Pindoretama                                  231085                            
+  1  18  ..... São Gonçalo do Amarante                      231240                            
+  1  19  ..... São Luís do Curu                             231260                            
+  1  20  ..... Trairi                                       231350                            
+     21  23020 Cariri - CE                                  230190                            
+ 21  22  ..... Barbalha                                     230190                            
+ 21  23  ..... Caririaçu                                    230320                            
+ 21  24  ..... Crato                                        230420                            
+ 21  25  ..... Farias Brito                                 230430                            
+ 21  26  ..... Jardim                                       230710                            
+ 21  27  ..... Juazeiro do Norte                            230730                            
+ 21  28  ..... Missão Velha                                 230840                            
+ 21  29  ..... Nova Olinda                                  230920                            
+ 21  30  ..... Santana do Cariri                            231210                            
+     31  23900 Fora de Reg.Metrop. - CE                     230010                            
+ 31  32  ..... Abaiara                                      230010                            
+ 31  33  ..... Acarape                                      230015                            
+ 31  34  ..... Acaraú                                       230020                            
+ 31  35  ..... Acopiara                                     230030                            
+ 31  36  ..... Aiuaba                                       230040                            
+ 31  37  ..... Alcântaras                                   230050                            
+ 31  38  ..... Altaneira                                    230060                            
+ 31  39  ..... Alto Santo                                   230070                            
+ 31  40  ..... Amontada                                     230075                            
+ 31  41  ..... Antonina do Norte                            230080                            
+ 31  42  ..... Apuiarés                                     230090                            
+ 31  43  ..... Aracati                                      230110                            
+ 31  44  ..... Aracoiaba                                    230120                            
+ 31  45  ..... Ararendá                                     230125                            
+ 31  46  ..... Araripe                                      230130                            
+ 31  47  ..... Aratuba                                      230140                            
+ 31  48  ..... Arneiroz                                     230150                            
+ 31  49  ..... Assaré                                       230160                            
+ 31  50  ..... Aurora                                       230170                            
+ 31  51  ..... Baixio                                       230180                            
+ 31  52  ..... Banabuiú                                     230185                            
+ 31  53  ..... Barreira                                     230195                            
+ 31  54  ..... Barro                                        230200                            
+ 31  55  ..... Barroquinha                                  230205                            
+ 31  56  ..... Baturité                                     230210                            
+ 31  57  ..... Beberibe                                     230220                            
+ 31  58  ..... Bela Cruz                                    230230                            
+ 31  59  ..... Boa Viagem                                   230240                            
+ 31  60  ..... Brejo Santo                                  230250                            
+ 31  61  ..... Camocim                                      230260                            
+ 31  62  ..... Campos Sales                                 230270                            
+ 31  63  ..... Canindé                                      230280                            
+ 31  64  ..... Capistrano                                   230290                            
+ 31  65  ..... Caridade                                     230300                            
+ 31  66  ..... Cariré                                       230310                            
+ 31  67  ..... Cariús                                       230330                            
+ 31  68  ..... Carnaubal                                    230340                            
+ 31  69  ..... Catarina                                     230360                            
+ 31  70  ..... Catunda                                      230365                            
+ 31  71  ..... Cedro                                        230380                            
+ 31  72  ..... Chaval                                       230390                            
+ 31  73  ..... Choró                                        230393                            
+ 31  74  ..... Coreaú                                       230400                            
+ 31  75  ..... Crateús                                      230410                            
+ 31  76  ..... Croatá                                       230423                            
+ 31  77  ..... Cruz                                         230425                            
+ 31  78  ..... Deputado Irapuan Pinheiro                    230426                            
+ 31  79  ..... Ererê                                        230427                            
+ 31  80  ..... Forquilha                                    230435                            
+ 31  81  ..... Fortim                                       230445                            
+ 31  82  ..... Frecheirinha                                 230450                            
+ 31  83  ..... General Sampaio                              230460                            
+ 31  84  ..... Graça                                        230465                            
+ 31  85  ..... Granja                                       230470                            
+ 31  86  ..... Granjeiro                                    230480                            
+ 31  87  ..... Groaíras                                     230490                            
+ 31  88  ..... Guaraciaba do Norte                          230500                            
+ 31  89  ..... Guaramiranga                                 230510                            
+ 31  90  ..... Hidrolândia                                  230520                            
+ 31  91  ..... Ibaretama                                    230526                            
+ 31  92  ..... Ibiapina                                     230530                            
+ 31  93  ..... Ibicuitinga                                  230533                            
+ 31  94  ..... Icapuí                                       230535                            
+ 31  95  ..... Icó                                          230540                            
+ 31  96  ..... Iguatu                                       230550                            
+ 31  97  ..... Independência                                230560                            
+ 31  98  ..... Ipaporanga                                   230565                            
+ 31  99  ..... Ipaumirim                                    230570                            
+ 31 100  ..... Ipu                                          230580                            
+ 31 101  ..... Ipueiras                                     230590                            
+ 31 102  ..... Iracema                                      230600                            
+ 31 103  ..... Irauçuba                                     230610                            
+ 31 104  ..... Itaiçaba                                     230620                            
+ 31 105  ..... Itapajé                                      230630                            
+ 31 106  ..... Itapipoca                                    230640                            
+ 31 107  ..... Itapiúna                                     230650                            
+ 31 108  ..... Itarema                                      230655                            
+ 31 109  ..... Itatira                                      230660                            
+ 31 110  ..... Jaguaretama                                  230670                            
+ 31 111  ..... Jaguaribara                                  230680                            
+ 31 112  ..... Jaguaribe                                    230690                            
+ 31 113  ..... Jaguaruana                                   230700                            
+ 31 114  ..... Jati                                         230720                            
+ 31 115  ..... Jijoca de Jericoacoara                       230725                            
+ 31 116  ..... Jucás                                        230740                            
+ 31 117  ..... Lavras da Mangabeira                         230750                            
+ 31 118  ..... Limoeiro do Norte                            230760                            
+ 31 119  ..... Madalena                                     230763                            
+ 31 120  ..... Marco                                        230780                            
+ 31 121  ..... Martinópole                                  230790                            
+ 31 122  ..... Massapê                                      230800                            
+ 31 123  ..... Mauriti                                      230810                            
+ 31 124  ..... Meruoca                                      230820                            
+ 31 125  ..... Milagres                                     230830                            
+ 31 126  ..... Milhã                                        230835                            
+ 31 127  ..... Miraíma                                      230837                            
+ 31 128  ..... Mombaça                                      230850                            
+ 31 129  ..... Monsenhor Tabosa                             230860                            
+ 31 130  ..... Morada Nova                                  230870                            
+ 31 131  ..... Moraújo                                      230880                            
+ 31 132  ..... Morrinhos                                    230890                            
+ 31 133  ..... Mucambo                                      230900                            
+ 31 134  ..... Mulungu                                      230910                            
+ 31 135  ..... Nova Russas                                  230930                            
+ 31 136  ..... Novo Oriente                                 230940                            
+ 31 137  ..... Ocara                                        230945                            
+ 31 138  ..... Orós                                         230950                            
+ 31 139  ..... Pacoti                                       230980                            
+ 31 140  ..... Pacujá                                       230990                            
+ 31 141  ..... Palhano                                      231000                            
+ 31 142  ..... Palmácia                                     231010                            
+ 31 143  ..... Parambu                                      231030                            
+ 31 144  ..... Paramoti                                     231040                            
+ 31 145  ..... Pedra Branca                                 231050                            
+ 31 146  ..... Penaforte                                    231060                            
+ 31 147  ..... Pentecoste                                   231070                            
+ 31 148  ..... Pereiro                                      231080                            
+ 31 149  ..... Piquet Carneiro                              231090                            
+ 31 150  ..... Pires Ferreira                               231095                            
+ 31 151  ..... Poranga                                      231100                            
+ 31 152  ..... Porteiras                                    231110                            
+ 31 153  ..... Potengi                                      231120                            
+ 31 154  ..... Potiretama                                   231123                            
+ 31 155  ..... Quiterianópolis                              231126                            
+ 31 156  ..... Quixadá                                      231130                            
+ 31 157  ..... Quixelô                                      231135                            
+ 31 158  ..... Quixeramobim                                 231140                            
+ 31 159  ..... Quixeré                                      231150                            
+ 31 160  ..... Redenção                                     231160                            
+ 31 161  ..... Reriutaba                                    231170                            
+ 31 162  ..... Russas                                       231180                            
+ 31 163  ..... Saboeiro                                     231190                            
+ 31 164  ..... Salitre                                      231195                            
+ 31 165  ..... Santa Quitéria                               231220                            
+ 31 166  ..... Santana do Acaraú                            231200                            
+ 31 167  ..... São Benedito                                 231230                            
+ 31 168  ..... São João do Jaguaribe                        231250                            
+ 31 169  ..... Senador Pompeu                               231270                            
+ 31 170  ..... Senador Sá                                   231280                            
+ 31 171  ..... Sobral                                       231290                            
+ 31 172  ..... Solonópole                                   231300                            
+ 31 173  ..... Tabuleiro do Norte                           231310                            
+ 31 174  ..... Tamboril                                     231320                            
+ 31 175  ..... Tarrafas                                     231325                            
+ 31 176  ..... Tauá                                         231330                            
+ 31 177  ..... Tejuçuoca                                    231335                            
+ 31 178  ..... Tianguá                                      231340                            
+ 31 179  ..... Tururu                                       231355                            
+ 31 180  ..... Ubajara                                      231360                            
+ 31 181  ..... Umari                                        231370                            
+ 31 182  ..... Umirim                                       231375                            
+ 31 183  ..... Uruburetama                                  231380                            
+ 31 184  ..... Uruoca                                       231390                            
+ 31 185  ..... Varjota                                      231395                            
+ 31 186  ..... Várzea Alegre                                231400                            
+ 31 187  ..... Viçosa do Ceará                              231410                            
+    188  23000 Ignorado - CE                                230000,239999                     

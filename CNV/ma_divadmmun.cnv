@@ -1,0 +1,220 @@
+219  6                                                                                    
+      1  2190 Sem div.adm.estadual MA                       210005                            
+  1   2  .... Açailândia                                    210005                            
+  1   3  .... Afonso Cunha                                  210010                            
+  1   4  .... Água Doce do Maranhão                         210015                            
+  1   5  .... Alcântara                                     210020                            
+  1   6  .... Aldeias Altas                                 210030                            
+  1   7  .... Altamira do Maranhão                          210040                            
+  1   8  .... Alto Alegre do Maranhão                       210043                            
+  1   9  .... Alto Alegre do Pindaré                        210047                            
+  1  10  .... Alto Parnaíba                                 210050                            
+  1  11  .... Amapá do Maranhão                             210055                            
+  1  12  .... Amarante do Maranhão                          210060                            
+  1  13  .... Anajatuba                                     210070                            
+  1  14  .... Anapurus                                      210080                            
+  1  15  .... Apicum-Açu                                    210083                            
+  1  16  .... Araguanã                                      210087                            
+  1  17  .... Araioses                                      210090                            
+  1  18  .... Arame                                         210095                            
+  1  19  .... Arari                                         210100                            
+  1  20  .... Axixá                                         210110                            
+  1  21  .... Bacabal                                       210120                            
+  1  22  .... Bacabeira                                     210125                            
+  1  23  .... Bacuri                                        210130                            
+  1  24  .... Bacurituba                                    210135                            
+  1  25  .... Balsas                                        210140                            
+  1  26  .... Barão de Grajaú                               210150                            
+  1  27  .... Barra do Corda                                210160                            
+  1  28  .... Barreirinhas                                  210170,211707                     
+  1  29  .... Bela Vista do Maranhão                        210177                            
+  1  30  .... Belágua                                       210173                            
+  1  31  .... Benedito Leite                                210180                            
+  1  32  .... Bequimão                                      210190                            
+  1  33  .... Bernardo do Mearim                            210193                            
+  1  34  .... Boa Vista do Gurupi                           210197                            
+  1  35  .... Bom Jardim                                    210200                            
+  1  36  .... Bom Jesus das Selvas                          210203                            
+  1  37  .... Bom Lugar                                     210207                            
+  1  38  .... Brejo                                         210210                            
+  1  39  .... Brejo de Areia                                210215                            
+  1  40  .... Buriti                                        210220                            
+  1  41  .... Buriti Bravo                                  210230                            
+  1  42  .... Buriticupu                                    210232                            
+  1  43  .... Buritirana                                    210235                            
+  1  44  .... Cachoeira Grande                              210237                            
+  1  45  .... Cajapió                                       210240                            
+  1  46  .... Cajari                                        210250                            
+  1  47  .... Campestre do Maranhão                         210255                            
+  1  48  .... Cândido Mendes                                210260                            
+  1  49  .... Cantanhede                                    210270                            
+  1  50  .... Capinzal do Norte                             210275                            
+  1  51  .... Carolina                                      210280                            
+  1  52  .... Carutapera                                    210290                            
+  1  53  .... Caxias                                        210300                            
+  1  54  .... Cedral                                        210310                            
+  1  55  .... Central do Maranhão                           210312                            
+  1  56  .... Centro do Guilherme                           210315                            
+  1  57  .... Centro Novo do Maranhão                       210317                            
+  1  58  .... Chapadinha                                    210320                            
+  1  59  .... Cidelândia                                    210325                            
+  1  60  .... Codó                                          210330,213307                     
+  1  61  .... Coelho Neto                                   210340                            
+  1  62  .... Colinas                                       210350                            
+  1  63  .... Conceição do Lago-Açu                         210355                            
+  1  64  .... Coroatá                                       210360                            
+  1  65  .... Cururupu                                      210370                            
+  1  66  .... Davinópolis                                   210375                            
+  1  67  .... Dom Pedro                                     210380                            
+  1  68  .... Duque Bacelar                                 210390                            
+  1  69  .... Esperantinópolis                              210400                            
+  1  70  .... Estreito                                      210405                            
+  1  71  .... Feira Nova do Maranhão                        210407                            
+  1  72  .... Fernando Falcão                               210408                            
+  1  73  .... Formosa da Serra Negra                        210409                            
+  1  74  .... Fortaleza dos Nogueiras                       210410                            
+  1  75  .... Fortuna                                       210420                            
+  1  76  .... Godofredo Viana                               210430                            
+  1  77  .... Gonçalves Dias                                210440                            
+  1  78  .... Governador Archer                             210450                            
+  1  79  .... Governador Edison Lobão                       210455                            
+  1  80  .... Governador Eugênio Barros                     210460                            
+  1  81  .... Governador Luiz Rocha                         210462                            
+  1  82  .... Governador Newton Bello                       210465                            
+  1  83  .... Governador Nunes Freire                       210467                            
+  1  84  .... Graça Aranha                                  210470                            
+  1  85  .... Grajaú                                        210480                            
+  1  86  .... Guimarães                                     210490                            
+  1  87  .... Humberto de Campos                            210500                            
+  1  88  .... Icatu                                         210510                            
+  1  89  .... Igarapé do Meio                               210515                            
+  1  90  .... Igarapé Grande                                210520                            
+  1  91  .... Imperatriz                                    210530                            
+  1  92  .... Itaipava do Grajaú                            210535                            
+  1  93  .... Itapecuru Mirim                               210540                            
+  1  94  .... Itinga do Maranhão                            210542                            
+  1  95  .... Jatobá                                        210545                            
+  1  96  .... Jenipapo dos Vieiras                          210547                            
+  1  97  .... João Lisboa                                   210550                            
+  1  98  .... Joselândia                                    210560                            
+  1  99  .... Junco do Maranhão                             210565                            
+  1 100  .... Lago da Pedra                                 210570                            
+  1 101  .... Lago do Junco                                 210580                            
+  1 102  .... Lago dos Rodrigues                            210594                            
+  1 103  .... Lago Verde                                    210590                            
+  1 104  .... Lagoa do Mato                                 210592                            
+  1 105  .... Lagoa Grande do Maranhão                      210596                            
+  1 106  .... Lajeado Novo                                  210598                            
+  1 107  .... Lima Campos                                   210600                            
+  1 108  .... Loreto                                        210610                            
+  1 109  .... Luís Domingues                                210620                            
+  1 110  .... Magalhães de Almeida                          210630                            
+  1 111  .... Maracaçumé                                    210632                            
+  1 112  .... Marajá do Sena                                210635                            
+  1 113  .... Maranhãozinho                                 210637                            
+  1 114  .... Mata Roma                                     210640                            
+  1 115  .... Matinha                                       210650                            
+  1 116  .... Matões                                        210660                            
+  1 117  .... Matões do Norte                               210663                            
+  1 118  .... Milagres do Maranhão                          210667                            
+  1 119  .... Mirador                                       210670                            
+  1 120  .... Miranda do Norte                              210675                            
+  1 121  .... Mirinzal                                      210680                            
+  1 122  .... Monção                                        210690                            
+  1 123  .... Montes Altos                                  210700                            
+  1 124  .... Morros                                        210710                            
+  1 125  .... Nina Rodrigues                                210720                            
+  1 126  .... Nova Colinas                                  210725                            
+  1 127  .... Nova Iorque                                   210730                            
+  1 128  .... Nova Olinda do Maranhão                       210735                            
+  1 129  .... Olho d'Água das Cunhãs                        210740                            
+  1 130  .... Olinda Nova do Maranhão                       210745                            
+  1 131  .... Paço do Lumiar                                210750                            
+  1 132  .... Palmeirândia                                  210760                            
+  1 133  .... Paraibano                                     210770                            
+  1 134  .... Parnarama                                     210780                            
+  1 135  .... Passagem Franca                               210790                            
+  1 136  .... Pastos Bons                                   210800                            
+  1 137  .... Paulino Neves                                 210805                            
+  1 138  .... Paulo Ramos                                   210810                            
+  1 139  .... Pedreiras                                     210820                            
+  1 140  .... Pedro do Rosário                              210825                            
+  1 141  .... Penalva                                       210830                            
+  1 142  .... Peri Mirim                                    210840                            
+  1 143  .... Peritoró                                      210845                            
+  1 144  .... Pindaré-Mirim                                 210850                            
+  1 145  .... Pinheiro                                      210860                            
+  1 146  .... Pio XII                                       210870                            
+  1 147  .... Pirapemas                                     210880                            
+  1 148  .... Poção de Pedras                               210890                            
+  1 149  .... Porto Franco                                  210900                            
+  1 150  .... Porto Rico do Maranhão                        210905                            
+  1 151  .... Presidente Dutra                              210910                            
+  1 152  .... Presidente Juscelino                          210920                            
+  1 153  .... Presidente Médici                             210923                            
+  1 154  .... Presidente Sarney                             210927                            
+  1 155  .... Presidente Vargas                             210930                            
+  1 156  .... Primeira Cruz                                 210940                            
+  1 157  .... Raposa                                        210945                            
+  1 158  .... Riachão                                       210950                            
+  1 159  .... Ribamar Fiquene                               210955                            
+  1 160  .... Rosário                                       210960                            
+  1 161  .... Sambaíba                                      210970                            
+  1 162  .... Santa Filomena do Maranhão                    210975                            
+  1 163  .... Santa Helena                                  210980                            
+  1 164  .... Santa Inês                                    210990                            
+  1 165  .... Santa Luzia                                   211000                            
+  1 166  .... Santa Luzia do Paruá                          211003                            
+  1 167  .... Santa Quitéria do Maranhão                    211010                            
+  1 168  .... Santa Rita                                    211020                            
+  1 169  .... Santana do Maranhão                           211023                            
+  1 170  .... Santo Amaro do Maranhão                       211027                            
+  1 171  .... Santo Antônio dos Lopes                       211030                            
+  1 172  .... São Benedito do Rio Preto                     211040                            
+  1 173  .... São Bento                                     211050                            
+  1 174  .... São Bernardo                                  211060                            
+  1 175  .... São Domingos do Azeitão                       211065                            
+  1 176  .... São Domingos do Maranhão                      211070                            
+  1 177  .... São Félix de Balsas                           211080                            
+  1 178  .... São Francisco do Brejão                       211085                            
+  1 179  .... São Francisco do Maranhão                     211090                            
+  1 180  .... São João Batista                              211100                            
+  1 181  .... São João do Carú                              211102                            
+  1 182  .... São João do Paraíso                           211105                            
+  1 183  .... São João do Soter                             211107                            
+  1 184  .... São João dos Patos                            211110                            
+  1 185  .... São José de Ribamar                           211120                            
+  1 186  .... São José dos Basílios                         211125                            
+  1 187  .... São Luís                                      211130                            
+  1 188  .... São Luís Gonzaga do Maranhão                  211140                            
+  1 189  .... São Mateus do Maranhão                        211150                            
+  1 190  .... São Pedro da Água Branca                      211153                            
+  1 191  .... São Pedro dos Crentes                         211157                            
+  1 192  .... São Raimundo das Mangabeiras                  211160                            
+  1 193  .... São Raimundo do Doca Bezerra                  211163                            
+  1 194  .... São Roberto                                   211167                            
+  1 195  .... São Vicente Ferrer                            211170                            
+  1 196  .... Satubinha                                     211172                            
+  1 197  .... Senador Alexandre Costa                       211174                            
+  1 198  .... Senador La Rocque                             211176                            
+  1 199  .... Serrano do Maranhão                           211178                            
+  1 200  .... Sítio Novo                                    211180                            
+  1 201  .... Sucupira do Norte                             211190                            
+  1 202  .... Sucupira do Riachão                           211195                            
+  1 203  .... Tasso Fragoso                                 211200                            
+  1 204  .... Timbiras                                      211210                            
+  1 205  .... Timon                                         211220                            
+  1 206  .... Trizidela do Vale                             211223                            
+  1 207  .... Tufilândia                                    211227                            
+  1 208  .... Tuntum                                        211230                            
+  1 209  .... Turiaçu                                       211240                            
+  1 210  .... Turilândia                                    211245                            
+  1 211  .... Tutóia                                        211250                            
+  1 212  .... Urbano Santos                                 211260                            
+  1 213  .... Vargem Grande                                 211270                            
+  1 214  .... Viana                                         211280                            
+  1 215  .... Vila Nova dos Martírios                       211285                            
+  1 216  .... Vitória do Mearim                             211290                            
+  1 217  .... Vitorino Freire                               211300                            
+  1 218  .... Zé Doca                                       211400                            
+    219  2100 Município ignorado - MA                       210000,219999                     

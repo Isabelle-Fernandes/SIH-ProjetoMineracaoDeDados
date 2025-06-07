@@ -1,0 +1,39 @@
+9 6
+      1  53001 Distrito Federal                             530000
+      1  53001 Distrito Federal                             530010
+      2  53002 Região de Saúde Oeste                        530020
+      2  53002 Região de Saúde Oeste                        530040
+      2  53002 Região de Saúde Oeste                        539942
+      3  53003 Região de Saúde Sudoeste                     530130
+      3  53003 Região de Saúde Sudoeste                     530140
+      3  53003 Região de Saúde Sudoeste                     530180
+      3  53003 Região de Saúde Sudoeste                     539901
+      3  53003 Região de Saúde Sudoeste                     539934
+      3  53003 Região de Saúde Sudoeste                     539938
+      3  53003 Região de Saúde Sudoeste                     539944
+      4  53004 Região de Saúde Sul                          530060
+      4  53004 Região de Saúde Sul                          530150
+      5  53005 Região de Saúde Centro-Sul                   530030
+      5  53005 Região de Saúde Centro-Sul                   530070
+      5  53005 Região de Saúde Centro-Sul                   530100
+      5  53005 Região de Saúde Centro-Sul                   530135
+      5  53005 Região de Saúde Centro-Sul                   539913
+      5  53005 Região de Saúde Centro-Sul                   539917
+      5  53005 Região de Saúde Centro-Sul                   539933
+      5  53005 Região de Saúde Centro-Sul                   539935
+      6  53006 Região de Saúde Central                      530050
+      6  53006 Região de Saúde Central                      530080
+      6  53006 Região de Saúde Central                      530090
+      6  53006 Região de Saúde Central                      539925
+      6  53006 Região de Saúde Central                      539931
+      6  53006 Região de Saúde Central                      539941
+      7  53007 Região de Saúde Norte                        530120
+      7  53007 Região de Saúde Norte                        530170
+      7  53007 Região de Saúde Norte                        539922
+      7  53007 Região de Saúde Norte                        539936
+      7  53007 Região de Saúde Norte                        539943
+      8  53008 Região de Saúde Leste                        530110
+      8  53008 Região de Saúde Leste                        530160
+      8  53008 Região de Saúde Leste                        539928
+      8  53008 Região de Saúde Leste                        539930
+      9  Ignorado - DF                                      530000,539999

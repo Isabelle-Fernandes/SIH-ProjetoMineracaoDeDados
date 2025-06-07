@@ -1,0 +1,225 @@
+11 6
+      1  22001 Carnaubais                                   220105
+      1  22001 Carnaubais                                   220177
+      1  22001 Carnaubais                                   220194
+      1  22001 Carnaubais                                   220202
+      1  22001 Carnaubais                                   220205
+      1  22001 Carnaubais                                   220220
+      1  22001 Carnaubais                                   220260
+      1  22001 Carnaubais                                   220271
+      1  22001 Carnaubais                                   220527
+      1  22001 Carnaubais                                   220551
+      1  22001 Carnaubais                                   220675
+      1  22001 Carnaubais                                   220695
+      1  22001 Carnaubais                                   220990
+      1  22001 Carnaubais                                   221040
+      1  22001 Carnaubais                                   221065
+      2  22002 Chapada das Mangabeiras                      220045
+      2  22002 Chapada das Mangabeiras                      220110
+      2  22002 Chapada das Mangabeiras                      220130
+      2  22002 Chapada das Mangabeiras                      220190
+      2  22002 Chapada das Mangabeiras                      220275
+      2  22002 Chapada das Mangabeiras                      220290
+      2  22002 Chapada das Mangabeiras                      220300
+      2  22002 Chapada das Mangabeiras                      220310
+      2  22002 Chapada das Mangabeiras                      220320
+      2  22002 Chapada das Mangabeiras                      220323
+      2  22002 Chapada das Mangabeiras                      220360
+      2  22002 Chapada das Mangabeiras                      220440
+      2  22002 Chapada das Mangabeiras                      220552
+      2  22002 Chapada das Mangabeiras                      220660
+      2  22002 Chapada das Mangabeiras                      220665
+      2  22002 Chapada das Mangabeiras                      220740
+      2  22002 Chapada das Mangabeiras                      220760
+      2  22002 Chapada das Mangabeiras                      220870
+      2  22002 Chapada das Mangabeiras                      220885
+      2  22002 Chapada das Mangabeiras                      220920
+      2  22002 Chapada das Mangabeiras                      220930
+      2  22002 Chapada das Mangabeiras                      220975
+      2  22002 Chapada das Mangabeiras                      221062
+      3  22003 Cocais                                       220120
+      3  22003 Cocais                                       220150
+      3  22003 Cocais                                       220196
+      3  22003 Cocais                                       220217
+      3  22003 Cocais                                       220240
+      3  22003 Cocais                                       220342
+      3  22003 Cocais                                       220370
+      3  22003 Cocais                                       220540
+      3  22003 Cocais                                       220545
+      3  22003 Cocais                                       220557
+      3  22003 Cocais                                       220580
+      3  22003 Cocais                                       220585
+      3  22003 Cocais                                       220610
+      3  22003 Cocais                                       220635
+      3  22003 Cocais                                       220667
+      3  22003 Cocais                                       220680
+      3  22003 Cocais                                       220790
+      3  22003 Cocais                                       220830
+      3  22003 Cocais                                       220840
+      3  22003 Cocais                                       220850
+      3  22003 Cocais                                       220987
+      3  22003 Cocais                                       220997
+      3  22003 Cocais                                       221005
+      4  22004 Entre Rios                                   220010
+      4  22004 Entre Rios                                   220020
+      4  22004 Entre Rios                                   220030
+      4  22004 Entre Rios                                   220040
+      4  22004 Entre Rios                                   220050
+      4  22004 Entre Rios                                   220060
+      4  22004 Entre Rios                                   220140
+      4  22004 Entre Rios                                   220160
+      4  22004 Entre Rios                                   220273
+      4  22004 Entre Rios                                   220325
+      4  22004 Entre Rios                                   220330
+      4  22004 Entre Rios                                   220460
+      4  22004 Entre Rios                                   220525
+      4  22004 Entre Rios                                   220550
+      4  22004 Entre Rios                                   220554
+      4  22004 Entre Rios                                   220555
+      4  22004 Entre Rios                                   220558
+      4  22004 Entre Rios                                   220620
+      4  22004 Entre Rios                                   220630
+      4  22004 Entre Rios                                   220640
+      4  22004 Entre Rios                                   220672
+      4  22004 Entre Rios                                   220710
+      4  22004 Entre Rios                                   220750
+      4  22004 Entre Rios                                   220775
+      4  22004 Entre Rios                                   220779
+      4  22004 Entre Rios                                   220880
+      4  22004 Entre Rios                                   220945
+      4  22004 Entre Rios                                   220980
+      4  22004 Entre Rios                                   221050
+      4  22004 Entre Rios                                   221100
+      4  22004 Entre Rios                                   221110
+      5  22005 Planície Litorânea                           220191
+      5  22005 Planície Litorânea                           220200
+      5  22005 Planície Litorânea                           220208
+      5  22005 Planície Litorânea                           220253
+      5  22005 Planície Litorânea                           220265
+      5  22005 Planície Litorânea                           220270
+      5  22005 Planície Litorânea                           220272
+      5  22005 Planície Litorânea                           220465
+      5  22005 Planície Litorânea                           220570
+      5  22005 Planície Litorânea                           220669
+      5  22005 Planície Litorânea                           220770
+      6  22006 Serra da Capivara                            220070
+      6  22006 Serra da Capivara                            220192
+      6  22006 Serra da Capivara                            220211
+      6  22006 Serra da Capivara                            220245
+      6  22006 Serra da Capivara                            220250
+      6  22006 Serra da Capivara                            220285
+      6  22006 Serra da Capivara                            220335
+      6  22006 Serra da Capivara                            220345
+      6  22006 Serra da Capivara                            220375
+      6  22006 Serra da Capivara                            220455
+      6  22006 Serra da Capivara                            220535
+      6  22006 Serra da Capivara                            220553
+      6  22006 Serra da Capivara                            220556
+      6  22006 Serra da Capivara                            220955
+      6  22006 Serra da Capivara                            221000
+      6  22006 Serra da Capivara                            221035
+      6  22006 Serra da Capivara                            221060
+      6  22006 Serra da Capivara                            221135
+      7  22007 Tabuleiros do Alto Parnaíba                  220080
+      7  22007 Tabuleiros do Alto Parnaíba                  220115
+      7  22007 Tabuleiros do Alto Parnaíba                  220890
+      7  22007 Tabuleiros do Alto Parnaíba                  221063
+      7  22007 Tabuleiros do Alto Parnaíba                  221120
+      8  22008 Vale do Canindé                              220155
+      8  22008 Vale do Canindé                              220207
+      8  22008 Vale do Canindé                              220210
+      8  22008 Vale do Canindé                              220277
+      8  22008 Vale do Canindé                              220280
+      8  22008 Vale do Canindé                              220385
+      8  22008 Vale do Canindé                              220490
+      8  22008 Vale do Canindé                              220700
+      8  22008 Vale do Canindé                              220937
+      8  22008 Vale do Canindé                              220950
+      8  22008 Vale do Canindé                              220965
+      8  22008 Vale do Canindé                              220995
+      8  22008 Vale do Canindé                              221080
+      8  22008 Vale do Canindé                              221097
+      9  22009 Vale do Rio Guaribas                         220005
+      9  22009 Vale do Rio Guaribas                         220025
+      9  22009 Vale do Rio Guaribas                         220027
+      9  22009 Vale do Rio Guaribas                         220095
+      9  22009 Vale do Rio Guaribas                         220157
+      9  22009 Vale do Rio Guaribas                         220173
+      9  22009 Vale do Rio Guaribas                         220180
+      9  22009 Vale do Rio Guaribas                         220209
+      9  22009 Vale do Rio Guaribas                         220213
+      9  22009 Vale do Rio Guaribas                         220255
+      9  22009 Vale do Rio Guaribas                         220327
+      9  22009 Vale do Rio Guaribas                         220340
+      9  22009 Vale do Rio Guaribas                         220415
+      9  22009 Vale do Rio Guaribas                         220420
+      9  22009 Vale do Rio Guaribas                         220430
+      9  22009 Vale do Rio Guaribas                         220435
+      9  22009 Vale do Rio Guaribas                         220480
+      9  22009 Vale do Rio Guaribas                         220500
+      9  22009 Vale do Rio Guaribas                         220515
+      9  22009 Vale do Rio Guaribas                         220520
+      9  22009 Vale do Rio Guaribas                         220595
+      9  22009 Vale do Rio Guaribas                         220605
+      9  22009 Vale do Rio Guaribas                         220650
+      9  22009 Vale do Rio Guaribas                         220720
+      9  22009 Vale do Rio Guaribas                         220755
+      9  22009 Vale do Rio Guaribas                         220777
+      9  22009 Vale do Rio Guaribas                         220780
+      9  22009 Vale do Rio Guaribas                         220800
+      9  22009 Vale do Rio Guaribas                         220820
+      9  22009 Vale do Rio Guaribas                         220865
+      9  22009 Vale do Rio Guaribas                         220910
+      9  22009 Vale do Rio Guaribas                         220935
+      9  22009 Vale do Rio Guaribas                         220940
+      9  22009 Vale do Rio Guaribas                         220985
+      9  22009 Vale do Rio Guaribas                         221020
+      9  22009 Vale do Rio Guaribas                         221030
+      9  22009 Vale do Rio Guaribas                         221037
+      9  22009 Vale do Rio Guaribas                         221070
+      9  22009 Vale do Rio Guaribas                         221093
+      9  22009 Vale do Rio Guaribas                         221150
+      9  22009 Vale do Rio Guaribas                         221160
+      9  22009 Vale do Rio Guaribas                         221170
+     10  22010 Vale do Sambito                              220090
+     10  22010 Vale do Sambito                              220117
+     10  22010 Vale do Sambito                              220350
+     10  22010 Vale do Sambito                              220400
+     10  22010 Vale do Sambito                              220470
+     10  22010 Vale do Sambito                              220559
+     10  22010 Vale do Sambito                              220690
+     10  22010 Vale do Sambito                              220810
+     10  22010 Vale do Sambito                              220860
+     10  22010 Vale do Sambito                              220915
+     10  22010 Vale do Sambito                              220960
+     10  22010 Vale do Sambito                              221038
+     10  22010 Vale do Sambito                              221130
+     10  22010 Vale do Sambito                              221140
+     11  22011 Vale dos Rios Piauí e Itaueiras              220100
+     11  22011 Vale dos Rios Piauí e Itaueiras              220170
+     11  22011 Vale dos Rios Piauí e Itaueiras              220198
+     11  22011 Vale dos Rios Piauí e Itaueiras              220225
+     11  22011 Vale dos Rios Piauí e Itaueiras              220230
+     11  22011 Vale dos Rios Piauí e Itaueiras              220380
+     11  22011 Vale dos Rios Piauí e Itaueiras              220390
+     11  22011 Vale dos Rios Piauí e Itaueiras              220410
+     11  22011 Vale dos Rios Piauí e Itaueiras              220450
+     11  22011 Vale dos Rios Piauí e Itaueiras              220510
+     11  22011 Vale dos Rios Piauí e Itaueiras              220530
+     11  22011 Vale dos Rios Piauí e Itaueiras              220560
+     11  22011 Vale dos Rios Piauí e Itaueiras              220590
+     11  22011 Vale dos Rios Piauí e Itaueiras              220600
+     11  22011 Vale dos Rios Piauí e Itaueiras              220670
+     11  22011 Vale dos Rios Piauí e Itaueiras              220730
+     11  22011 Vale dos Rios Piauí e Itaueiras              220735
+     11  22011 Vale dos Rios Piauí e Itaueiras              220785
+     11  22011 Vale dos Rios Piauí e Itaueiras              220793
+     11  22011 Vale dos Rios Piauí e Itaueiras              220795
+     11  22011 Vale dos Rios Piauí e Itaueiras              220855
+     11  22011 Vale dos Rios Piauí e Itaueiras              220887
+     11  22011 Vale dos Rios Piauí e Itaueiras              220900
+     11  22011 Vale dos Rios Piauí e Itaueiras              220970
+     11  22011 Vale dos Rios Piauí e Itaueiras              221010
+     11  22011 Vale dos Rios Piauí e Itaueiras              221039
+     11  22011 Vale dos Rios Piauí e Itaueiras              221090
+     11  22011 Vale dos Rios Piauí e Itaueiras              221095

@@ -1,0 +1,237 @@
+236  6                                                                                    
+      1  2501 I NRS                                         250060                            
+  1   2  .... Alhandra                                      250060                            
+  1   3  .... Baía da Traição                               250140                            
+  1   4  .... Bayeux                                        250180                            
+  1   5  .... Caaporã                                       250300                            
+  1   6  .... Cabedelo                                      250320                            
+  1   7  .... Capim                                         250403                            
+  1   8  .... Conde                                         250460                            
+  1   9  .... Cruz do Espírito Santo                        250490                            
+  1  10  .... Cuité de Mamanguape                           250523                            
+  1  11  .... Curral de Cima                                250527                            
+  1  12  .... Itapororoca                                   250710                            
+  1  13  .... Jacaraú                                       250730                            
+  1  14  .... João Pessoa                                   250750,257507                     
+  1  15  .... Lucena                                        250860                            
+  1  16  .... Mamanguape                                    250890                            
+  1  17  .... Marcação                                      250905                            
+  1  18  .... Mari                                          250910                            
+  1  19  .... Mataraca                                      250930                            
+  1  20  .... Pedro Régis                                   251272                            
+  1  21  .... Pitimbu                                       251190                            
+  1  22  .... Riachão do Poço                               251276                            
+  1  23  .... Rio Tinto                                     251290                            
+  1  24  .... Santa Rita                                    251370                            
+  1  25  .... Sapé                                          251530                            
+  1  26  .... Sobrado                                       251597                            
+     27  2502 II NRS                                        250050,250502                     
+ 27  28  .... Alagoinha                                     250050,250502                     
+ 27  29  .... Araçagi                                       250080                            
+ 27  30  .... Araruna                                       250100                            
+ 27  31  .... Bananeiras                                    250150                            
+ 27  32  .... Belém                                         250190                            
+ 27  33  .... Borborema                                     250270                            
+ 27  34  .... Cacimba de Dentro                             250350                            
+ 27  35  .... Caiçara                                       250360                            
+ 27  36  .... Casserengue                                   250415                            
+ 27  37  .... Cuitegi                                       250520                            
+ 27  38  .... Dona Inês                                     250570                            
+ 27  39  .... Duas Estradas                                 250580                            
+ 27  40  .... Guarabira                                     250630                            
+ 27  41  .... Lagoa de Dentro                               250820                            
+ 27  42  .... Logradouro                                    250855                            
+ 27  43  .... Mulungu                                       250980                            
+ 27  44  .... Pilões                                        251160                            
+ 27  45  .... Pilõezinhos                                   251170                            
+ 27  46  .... Pirpirituba                                   251180                            
+ 27  47  .... Riachão                                       251274                            
+ 27  48  .... Serra da Raiz                                 251560                            
+ 27  49  .... Serraria                                      251590                            
+ 27  50  .... Sertãozinho                                   251593                            
+ 27  51  .... Solânea                                       251600                            
+ 27  52  .... Tacima                                        251640                            
+     53  2503 III NRS                                       250030                            
+ 53  54  .... Alagoa Grande                                 250030                            
+ 53  55  .... Alagoa Nova                                   250040                            
+ 53  56  .... Alcantil                                      250053                            
+ 53  57  .... Algodão de Jandaíra                           250057                            
+ 53  58  .... Arara                                         250090,250908                     
+ 53  59  .... Areia                                         250110                            
+ 53  60  .... Areial                                        250120                            
+ 53  61  .... Aroeiras                                      250130                            
+ 53  62  .... Assunção                                      250135                            
+ 53  63  .... Barra de Santana                              250157                            
+ 53  64  .... Barra de São Miguel                           250170                            
+ 53  65  .... Boa Vista                                     250215                            
+ 53  66  .... Boqueirão                                     250250                            
+ 53  67  .... Cabaceiras                                    250310                            
+ 53  68  .... Campina Grande                                250400,254009                     
+ 53  69  .... Caturité                                      250435                            
+ 53  70  .... Esperança                                     250600                            
+ 53  71  .... Fagundes                                      250610                            
+ 53  72  .... Gado Bravo                                    250625                            
+ 53  73  .... Gurjão                                        250650                            
+ 53  74  .... Juazeirinho                                   250770                            
+ 53  75  .... Lagoa Seca                                    250830                            
+ 53  76  .... Livramento                                    250850                            
+ 53  77  .... Massaranduba                                  250920                            
+ 53  78  .... Matinhas                                      250933                            
+ 53  79  .... Montadas                                      250950                            
+ 53  80  .... Natuba                                        250990                            
+ 53  81  .... Olivedos                                      251050                            
+ 53  82  .... Pocinhos                                      251200                            
+ 53  83  .... Puxinanã                                      251240                            
+ 53  84  .... Queimadas                                     251250                            
+ 53  85  .... Remígio                                       251270                            
+ 53  86  .... Riacho de Santo Antônio                       251278                            
+ 53  87  .... Santa Cecília                                 251315                            
+ 53  88  .... Santo André                                   251385                            
+ 53  89  .... São Domingos do Cariri                        251394                            
+ 53  90  .... São Sebastião de Lagoa de Roça                251510                            
+ 53  91  .... Serra Redonda                                 251580                            
+ 53  92  .... Soledade                                      251610                            
+ 53  93  .... Taperoá                                       251650                            
+ 53  94  .... Tenório                                       251675                            
+ 53  95  .... Umbuzeiro                                     251700                            
+     96  2504 IV NRS                                        250153                            
+ 96  97  .... Baraúna                                       250153                            
+ 96  98  .... Barra de Santa Rosa                           250160                            
+ 96  99  .... Cubati                                        250500                            
+ 96 100  .... Cuité                                         250510                            
+ 96 101  .... Damião                                        250535                            
+ 96 102  .... Frei Martinho                                 250620                            
+ 96 103  .... Nova Floresta                                 251010                            
+ 96 104  .... Nova Palmeira                                 251030                            
+ 96 105  .... Pedra Lavrada                                 251110                            
+ 96 106  .... Picuí                                         251140                            
+ 96 107  .... São Vicente do Seridó                         251540                            
+ 96 108  .... Sossêgo                                       251615                            
+    109  2505 V NRS                                         250073                            
+109 110  .... Amparo                                        250073                            
+109 111  .... Camalaú                                       250390                            
+109 112  .... Caraúbas                                      250407                            
+109 113  .... Congo                                         250470                            
+109 114  .... Coxixola                                      250485                            
+109 115  .... Monteiro                                      250970                            
+109 116  .... Ouro Velho                                    251060                            
+109 117  .... Parari                                        251065                            
+109 118  .... Prata                                         251220                            
+109 119  .... São João do Cariri                            251400                            
+109 120  .... São João do Tigre                             251410                            
+109 121  .... São José dos Cordeiros                        251480                            
+109 122  .... São Sebastião do Umbuzeiro                    251520                            
+109 123  .... Serra Branca                                  251550                            
+109 124  .... Sumé                                          251630                            
+109 125  .... Zabelê                                        251740                            
+    126  2506 VI NRS                                        250115                            
+126 127  .... Areia de Baraúnas                             250115                            
+126 128  .... Cacimba de Areia                              250340                            
+126 129  .... Cacimbas                                      250355                            
+126 130  .... Catingueira                                   250420                            
+126 131  .... Condado                                       250450                            
+126 132  .... Desterro                                      250540                            
+126 133  .... Emas                                          250590                            
+126 134  .... Junco do Seridó                               250780                            
+126 135  .... Mãe d'Água                                    250870                            
+126 136  .... Malta                                         250880                            
+126 137  .... Maturéia                                      250939                            
+126 138  .... Passagem                                      251070                            
+126 139  .... Patos                                         251080                            
+126 140  .... Quixaba                                       251260                            
+126 141  .... Salgadinho                                    251300                            
+126 142  .... Santa Luzia                                   251340                            
+126 143  .... Santa Teresinha                               251380                            
+126 144  .... São José de Espinharas                        251440                            
+126 145  .... São José do Bonfim                            251460                            
+126 146  .... São José do Sabugi                            251470                            
+126 147  .... São Mamede                                    251490                            
+126 148  .... Teixeira                                      251670                            
+126 149  .... Várzea                                        251710                            
+126 150  .... Vista Serrana                                 250550                            
+    151  2507 VII NRS                                       250020                            
+151 152  .... Aguiar                                        250020                            
+151 153  .... Boa Ventura                                   250210                            
+151 154  .... Conceição                                     250440                            
+151 155  .... Coremas                                       250480                            
+151 156  .... Curral Velho                                  250530                            
+151 157  .... Diamante                                      250560                            
+151 158  .... Ibiara                                        250660                            
+151 159  .... Igaracy                                       250260                            
+151 160  .... Itaporanga                                    250700                            
+151 161  .... Nova Olinda                                   251020                            
+151 162  .... Olho d'Água                                   251040                            
+151 163  .... Pedra Branca                                  251100                            
+151 164  .... Piancó                                        251130                            
+151 165  .... Santa Inês                                    251335                            
+151 166  .... Santana de Mangueira                          251350                            
+151 167  .... Santana dos Garrotes                          251360                            
+151 168  .... São José de Caiana                            251430                            
+151 169  .... Serra Grande                                  251570                            
+    170  2508 VIII NRS                                      250200                            
+170 171  .... Belém do Brejo do Cruz                        250200                            
+170 172  .... Bom Sucesso                                   250230                            
+170 173  .... Brejo do Cruz                                 250280                            
+170 174  .... Brejo dos Santos                              250290                            
+170 175  .... Catolé do Rocha                               250430                            
+170 176  .... Jericó                                        250740                            
+170 177  .... Mato Grosso                                   250937                            
+170 178  .... Riacho dos Cavalos                            251280                            
+170 179  .... São Bento                                     251390                            
+170 180  .... São José do Brejo do Cruz                     251465                            
+    181  2509 IX NRS                                        250205                            
+181 182  .... Bernardino Batista                            250205                            
+181 183  .... Bom Jesus                                     250220                            
+181 184  .... Bonito de Santa Fé                            250240                            
+181 185  .... Cachoeira dos Índios                          250330                            
+181 186  .... Cajazeiras                                    250370                            
+181 187  .... Carrapateira                                  250410                            
+181 188  .... Joca Claudino                                 251365                            
+181 189  .... Monte Horebe                                  250960                            
+181 190  .... Poço Dantas                                   251203                            
+181 191  .... Poço de José de Moura                         251207                            
+181 192  .... Santa Helena                                  251330                            
+181 193  .... São João do Rio do Peixe                      250070                            
+181 194  .... São José de Piranhas                          251450                            
+181 195  .... Triunfo                                       251680                            
+181 196  .... Uiraúna                                       251690                            
+    197  2510 X NRS                                         250077                            
+197 198  .... Aparecida                                     250077                            
+197 199  .... Cajazeirinhas                                 250375                            
+197 200  .... Lagoa                                         250810                            
+197 201  .... Lastro                                        250840                            
+197 202  .... Marizópolis                                   250915                            
+197 203  .... Nazarezinho                                   251000                            
+197 204  .... Paulista                                      251090                            
+197 205  .... Pombal                                        251210                            
+197 206  .... Santa Cruz                                    251320                            
+197 207  .... São Bentinho                                  251392                            
+197 208  .... São Domingos                                  251396                            
+197 209  .... São Francisco                                 251398                            
+197 210  .... São José da Lagoa Tapada                      251420                            
+197 211  .... Sousa                                         251620                            
+197 212  .... Vieirópolis                                   251720                            
+    213  2511 XI NRS                                        250010                            
+213 214  .... Água Branca                                   250010                            
+213 215  .... Imaculada                                     250670                            
+213 216  .... Juru                                          250800                            
+213 217  .... Manaíra                                       250900                            
+213 218  .... Princesa Isabel                               251230                            
+213 219  .... São José de Princesa                          251455                            
+213 220  .... Tavares                                       251660                            
+    221  2512 XII NRS                                       250380                            
+221 222  .... Caldas Brandão                                250380                            
+221 223  .... Gurinhém                                      250640                            
+221 224  .... Ingá                                          250680                            
+221 225  .... Itabaiana                                     250690                            
+221 226  .... Itatuba                                       250720                            
+221 227  .... Juarez Távora                                 250760                            
+221 228  .... Juripiranga                                   250790                            
+221 229  .... Mogeiro                                       250940                            
+221 230  .... Pedras de Fogo                                251120                            
+221 231  .... Pilar                                         251150                            
+221 232  .... Riachão do Bacamarte                          251275                            
+221 233  .... Salgado de São Félix                          251310                            
+221 234  .... São José dos Ramos                            251445                            
+221 235  .... São Miguel de Taipu                           251500                            
+    236  2500 Município ignorado - PB                       250000,259999                     

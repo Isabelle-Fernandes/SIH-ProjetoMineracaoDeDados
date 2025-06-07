@@ -1,0 +1,186 @@
+22  6                                                                                    
+      1  CE Acaraú                                          230020                            
+      1  CE Acaraú                                          230230                            
+      1  CE Acaraú                                          230425                            
+      1  CE Acaraú                                          230655                            
+      1  CE Acaraú                                          230725                            
+      1  CE Acaraú                                          230780                            
+      1  CE Acaraú                                          230890                            
+      2  CE Aracati                                         230110                            
+      2  CE Aracati                                         230445                            
+      2  CE Aracati                                         230535                            
+      2  CE Aracati                                         230620                            
+      3  CE Baturité                                        230120                            
+      3  CE Baturité                                        230140                            
+      3  CE Baturité                                        230210                            
+      3  CE Baturité                                        230290                            
+      3  CE Baturité                                        230510                            
+      3  CE Baturité                                        230650                            
+      3  CE Baturité                                        230910                            
+      3  CE Baturité                                        230980                            
+      4  CE Brejo Santo                                     230010                            
+      4  CE Brejo Santo                                     230170                            
+      4  CE Brejo Santo                                     230200                            
+      4  CE Brejo Santo                                     230250                            
+      4  CE Brejo Santo                                     230720                            
+      4  CE Brejo Santo                                     230810                            
+      4  CE Brejo Santo                                     230830                            
+      4  CE Brejo Santo                                     231060                            
+      4  CE Brejo Santo                                     231110                            
+      5  CE Camocim                                         230205                            
+      5  CE Camocim                                         230260                            
+      5  CE Camocim                                         230390                            
+      5  CE Camocim                                         230470                            
+      5  CE Camocim                                         230790                            
+      6  CE Canindé                                         230240                            
+      6  CE Canindé                                         230280                            
+      6  CE Canindé                                         230300                            
+      6  CE Canindé                                         230660                            
+      6  CE Canindé                                         230763                            
+      6  CE Canindé                                         231040                            
+      7  CE Caucaia                                         230090                            
+      7  CE Caucaia                                         230370                            
+      7  CE Caucaia                                         230460                            
+      7  CE Caucaia                                         230630                            
+      7  CE Caucaia                                         231020                            
+      7  CE Caucaia                                         231025                            
+      7  CE Caucaia                                         231070                            
+      7  CE Caucaia                                         231240                            
+      7  CE Caucaia                                         231260                            
+      7  CE Caucaia                                         231335                            
+      8  CE Crateús                                         230125                            
+      8  CE Crateús                                         230410                            
+      8  CE Crateús                                         230560                            
+      8  CE Crateús                                         230565                            
+      8  CE Crateús                                         230590                            
+      8  CE Crateús                                         230860                            
+      8  CE Crateús                                         230930                            
+      8  CE Crateús                                         230940                            
+      8  CE Crateús                                         231100                            
+      8  CE Crateús                                         231126                            
+      8  CE Crateús                                         231320                            
+      9  CE Crato                                           230060                            
+      9  CE Crato                                           230080                            
+      9  CE Crato                                           230130                            
+      9  CE Crato                                           230160                            
+      9  CE Crato                                           230270                            
+      9  CE Crato                                           230420                            
+      9  CE Crato                                           230430                            
+      9  CE Crato                                           230920                            
+      9  CE Crato                                           231120                            
+      9  CE Crato                                           231195                            
+      9  CE Crato                                           231210                            
+      9  CE Crato                                           231325                            
+      9  CE Crato                                           231400                            
+     10  CE Fortaleza                                       230100                            
+     10  CE Fortaleza                                       230220                            
+     10  CE Fortaleza                                       230350                            
+     10  CE Fortaleza                                       230395                            
+     10  CE Fortaleza                                       230428                            
+     10  CE Fortaleza                                       230440                            
+     10  CE Fortaleza                                       230523                            
+     10  CE Fortaleza                                       230625                            
+     10  CE Fortaleza                                       230945                            
+     10  CE Fortaleza                                       230960                            
+     10  CE Fortaleza                                       231085                            
+     11  CE Icó                                             230180                            
+     11  CE Icó                                             230380                            
+     11  CE Icó                                             230540                            
+     11  CE Icó                                             230570                            
+     11  CE Icó                                             230750                            
+     11  CE Icó                                             230950                            
+     11  CE Icó                                             231370                            
+     12  CE Iguatu                                          230030                            
+     12  CE Iguatu                                          230330                            
+     12  CE Iguatu                                          230360                            
+     12  CE Iguatu                                          230426                            
+     12  CE Iguatu                                          230550                            
+     12  CE Iguatu                                          230740                            
+     12  CE Iguatu                                          230850                            
+     12  CE Iguatu                                          231090                            
+     12  CE Iguatu                                          231135                            
+     12  CE Iguatu                                          231190                            
+     13  CE Itapipoca                                       230075                            
+     13  CE Itapipoca                                       230640                            
+     13  CE Itapipoca                                       230837                            
+     13  CE Itapipoca                                       231350                            
+     13  CE Itapipoca                                       231355                            
+     13  CE Itapipoca                                       231375                            
+     13  CE Itapipoca                                       231380                            
+     14  CE Juazeiro do Norte                               230190                            
+     14  CE Juazeiro do Norte                               230320                            
+     14  CE Juazeiro do Norte                               230480                            
+     14  CE Juazeiro do Norte                               230710                            
+     14  CE Juazeiro do Norte                               230730                            
+     14  CE Juazeiro do Norte                               230840                            
+     15  CE Limoeiro do Norte                               230070                            
+     15  CE Limoeiro do Norte                               230427                            
+     15  CE Limoeiro do Norte                               230600                            
+     15  CE Limoeiro do Norte                               230680                            
+     15  CE Limoeiro do Norte                               230690                            
+     15  CE Limoeiro do Norte                               230760                            
+     15  CE Limoeiro do Norte                               231080                            
+     15  CE Limoeiro do Norte                               231123                            
+     15  CE Limoeiro do Norte                               231150                            
+     15  CE Limoeiro do Norte                               231250                            
+     15  CE Limoeiro do Norte                               231310                            
+     16  CE Maracanaú                                       230015                            
+     16  CE Maracanaú                                       230195                            
+     16  CE Maracanaú                                       230495                            
+     16  CE Maracanaú                                       230765                            
+     16  CE Maracanaú                                       230770                            
+     16  CE Maracanaú                                       230970                            
+     16  CE Maracanaú                                       231010                            
+     16  CE Maracanaú                                       231160                            
+     17  CE Quixadá                                         230185                            
+     17  CE Quixadá                                         230393                            
+     17  CE Quixadá                                         230526                            
+     17  CE Quixadá                                         230533                            
+     17  CE Quixadá                                         230835                            
+     17  CE Quixadá                                         231050                            
+     17  CE Quixadá                                         231130                            
+     17  CE Quixadá                                         231140                            
+     17  CE Quixadá                                         231270                            
+     17  CE Quixadá                                         231300                            
+     18  CE Russas                                          230670                            
+     18  CE Russas                                          230700                            
+     18  CE Russas                                          230870                            
+     18  CE Russas                                          231000                            
+     18  CE Russas                                          231180                            
+     19  CE Sobral                                          230050                            
+     19  CE Sobral                                          230310                            
+     19  CE Sobral                                          230365                            
+     19  CE Sobral                                          230400                            
+     19  CE Sobral                                          230435                            
+     19  CE Sobral                                          230450                            
+     19  CE Sobral                                          230465                            
+     19  CE Sobral                                          230490                            
+     19  CE Sobral                                          230520                            
+     19  CE Sobral                                          230580                            
+     19  CE Sobral                                          230610                            
+     19  CE Sobral                                          230800                            
+     19  CE Sobral                                          230820                            
+     19  CE Sobral                                          230880                            
+     19  CE Sobral                                          230900                            
+     19  CE Sobral                                          230990                            
+     19  CE Sobral                                          231095                            
+     19  CE Sobral                                          231170                            
+     19  CE Sobral                                          231200                            
+     19  CE Sobral                                          231220                            
+     19  CE Sobral                                          231280                            
+     19  CE Sobral                                          231290                            
+     19  CE Sobral                                          231390                            
+     19  CE Sobral                                          231395                            
+     20  CE Tauá                                            230040                            
+     20  CE Tauá                                            230150                            
+     20  CE Tauá                                            231030                            
+     20  CE Tauá                                            231330                            
+     21  CE Tianguá                                         230340                            
+     21  CE Tianguá                                         230423                            
+     21  CE Tianguá                                         230500                            
+     21  CE Tianguá                                         230530                            
+     21  CE Tianguá                                         231230                            
+     21  CE Tianguá                                         231340                            
+     21  CE Tianguá                                         231360                            
+     21  CE Tianguá                                         231410                            
+     22  CE Município ignorado - CE                         230000,239999                     

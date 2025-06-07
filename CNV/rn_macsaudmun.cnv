@@ -1,0 +1,170 @@
+N 169 6
+        1  2401 MACRORREGIAO II                                                                                 240020,240040,240050,240060,240070,240080,240090,240100,240110,240130,240145,240230,240250,240290,240320,240330,240370,240375,240390,240400,240430,240440,240470,240485,240490,240520,240590,240600,240690,240700,240725,240730,240740,240760,240800,240840,240860,240870,240930,240940,240990,241000,241020,241025,241050,241060,241070,241080,241100,241105,241190,241250,241280,241335,241355,241360,241380,241410,241445,241450,241460,241475,241490
+   1    2  .....  PENDENCIAS                                                                                    240990
+   1    3  .....  PILOES                                                                                        241000
+   1    4  .....  PATU                                                                                          240930
+   1    5  .....  AREIA BRANCA                                                                                  240110
+   1    6  .....  BARAUNA                                                                                       240145
+   1    7  .....  ACU                                                                                           240020
+   1    8  .....  ALEXANDRIA                                                                                    240050
+   1    9  .....  VENHA-VER                                                                                     241475
+   1   10  .....  JOAO DIAS                                                                                     240590
+   1   11  .....  UPANEMA                                                                                       241460
+   1   12  .....  UMARIZAL                                                                                      241450
+   1   13  .....  SERRA DO MEL                                                                                  241335
+   1   14  .....  GROSSOS                                                                                       240440
+   1   15  .....  FELIPE GUERRA                                                                                 240370
+   1   16  .....  SAO FRANCISCO DO OESTE                                                                        241190
+   1   17  .....  FRANCISCO DANTAS                                                                              240390
+   1   18  .....  RIACHO DE SANTANA                                                                             241080
+   1   19  .....  PORTO DO MANGUE                                                                               241025
+   1   20  .....  DOUTOR SEVERIANO                                                                              240320
+   1   21  .....  ANGICOS                                                                                       240080
+   1   22  .....  OLHO-D'AGUA DO BORGES                                                                         240840
+   1   23  .....  TRIUNFO POTIGUAR                                                                              241445
+   1   24  .....  TABOLEIRO GRANDE                                                                              241380
+   1   25  .....  TENENTE ANANIAS                                                                               241410
+   1   26  .....  CARAUBAS                                                                                      240230
+   1   27  .....  AGUA NOVA                                                                                     240040
+   1   28  .....  TIBAU                                                                                         241105
+   1   29  .....  MOSSORO                                                                                       240800
+   1   30  .....  MARCELINO VIEIRA                                                                              240730
+   1   31  .....  LUCRECIA                                                                                      240690
+   1   32  .....  ALMINO AFONSO                                                                                 240060
+   1   33  .....  ALTO DO RODRIGUES                                                                             240070
+   1   34  .....  ANTONIO MARTINS                                                                               240090
+   1   35  .....  APODI                                                                                         240100
+   1   36  .....  MESSIAS TARGINO                                                                               240760
+   1   37  .....  FERNANDO PEDROZA                                                                              240375
+   1   38  .....  RAFAEL FERNANDES                                                                              241050
+   1   39  .....  VICOSA                                                                                        241490
+   1   40  .....  SERRINHA DOS PINTOS                                                                           241355
+   1   41  .....  JOSE DA PENHA                                                                                 240600
+   1   42  .....  ITAU                                                                                          240490
+   1   43  .....  PORTALEGRE                                                                                    241020
+   1   44  .....  PARANA                                                                                        240860
+   1   45  .....  PAU DOS FERROS                                                                                240940
+   1   46  .....  RODOLFO FERNANDES                                                                             241100
+   1   47  .....  PARAU                                                                                         240870
+   1   48  .....  SEVERIANO MELO                                                                                241360
+   1   49  .....  CORONEL JOAO PESSOA                                                                           240290
+   1   50  .....  MAJOR SALES                                                                                   240725
+   1   51  .....  SAO RAFAEL                                                                                    241280
+   1   52  .....  CARNAUBAIS                                                                                    240250
+   1   53  .....  LUIS GOMES                                                                                    240700
+   1   54  .....  FRUTUOSO GOMES                                                                                240400
+   1   55  .....  GOVERNADOR DIX-SEPT ROSADO                                                                    240430
+   1   56  .....  ENCANTO                                                                                       240330
+   1   57  .....  ITAJA                                                                                         240485
+   1   58  .....  IPANGUACU                                                                                     240470
+   1   59  .....  AUGUSTO SEVERO                                                                                240130
+   1   60  .....  MARTINS                                                                                       240740
+   1   61  .....  JANDUIS                                                                                       240520
+   1   62  .....  SAO MIGUEL                                                                                    241250
+   1   63  .....  RIACHO DA CRUZ                                                                                241070
+   1   64  .....  RAFAEL GODEIRO                                                                                241060
+       65  2402 MACRORREGIAO I                                                                                  240010,240030,240120,240140,240150,240160,240165,240170,240180,240185,240190,240200,240210,240220,240240,240260,240270,240280,240300,240310,240325,240340,240350,240360,240380,240410,240420,240450,240460,240480,240500,240510,240530,240540,240550,240560,240570,240580,240610,240615,240620,240630,240640,240650,240660,240670,240680,240710,240720,240750,240770,240780,240790,240810,240820,240830,240850,240880,240890,240895,240910,240920,240933,240950,240960,240970,240980,241010,241030,241040,241090,241110,241120,241140,241142,241150,241160,241170,241180,241200,241210,241220,241230,241240,241255,241260,241270,241290,241300,241310,241320,241330,241340,241350,241370,241390,241400,241415,241420,241430,241440,241470,241480,241500
+  65   66  .....  BARCELONA                                                                                     240150
+  65   67  .....  SAO PEDRO                                                                                     241270
+  65   68  .....  PARNAMIRIM                                                                                    240325
+  65   69  .....  PASSA E FICA                                                                                  240910
+  65   70  .....  OURO BRANCO                                                                                   240850
+  65   71  .....  EQUADOR                                                                                       240340
+  65   72  .....  SERRINHA                                                                                      241350
+  65   73  .....  SAO VICENTE                                                                                   241300
+  65   74  .....  SENADOR ELOI DE SOUZA                                                                         241310
+  65   75  .....  LAJES PINTADAS                                                                                240680
+  65   76  .....  EXTREMOZ                                                                                      240360
+  65   77  .....  CRUZETA                                                                                       240300
+  65   78  .....  SANTANA DO MATOS                                                                              241140
+  65   79  .....  BODO                                                                                          240165
+  65   80  .....  IPUEIRA                                                                                       240480
+  65   81  .....  JANUARIO CICCO                                                                                240530
+  65   82  .....  JUNDIA                                                                                        240615
+  65   83  .....  POCO BRANCO                                                                                   241010
+  65   84  .....  PASSAGEM                                                                                      240920
+  65   85  .....  ACARI                                                                                         240010
+  65   86  .....  JARDIM DE PIRANHAS                                                                            240560
+  65   87  .....  NISIA FLORESTA                                                                                240820
+  65   88  .....  CANGUARETAMA                                                                                  240220
+  65   89  .....  PEDRO VELHO                                                                                   240980
+  65   90  .....  SAO JOSE DE MIPIBU                                                                            241220
+  65   91  .....  SAO BENTO DO NORTE                                                                            241160
+  65   92  .....  MAXARANGUAPE                                                                                  240750
+  65   93  .....  JUCURUTU                                                                                      240610
+  65   94  .....  BENTO FERNANDES                                                                               240160
+  65   95  .....  CEARA-MIRIM                                                                                   240260
+  65   96  .....  CORONEL EZEQUIEL                                                                              240280
+  65   97  .....  ESPIRITO SANTO                                                                                240350
+  65   98  .....  GOIANINHA                                                                                     240420
+  65   99  .....  JARDIM DE ANGICOS                                                                             240550
+  65  100  .....  MACAU                                                                                         240720
+  65  101  .....  SANTA CRUZ                                                                                    241120
+  65  102  .....  SAO MIGUEL DO GOSTOSO                                                                         241255
+  65  103  .....  SAO PAULO DO POTENGI                                                                          241260
+  65  104  .....  SENADOR GEORGINO AVELINO                                                                      241320
+  65  105  .....  CAICARA DO NORTE                                                                              240185
+  65  106  .....  CURRAIS NOVOS                                                                                 240310
+  65  107  .....  SANTA MARIA                                                                                   240933
+  65  108  .....  RIO DO FOGO                                                                                   240895
+  65  109  .....  CERRO CORA                                                                                    240270
+  65  110  .....  CAICARA DO RIO DO VENTO                                                                       240190
+  65  111  .....  PEDRA GRANDE                                                                                  240950
+  65  112  .....  PEDRO AVELINO                                                                                 240970
+  65  113  .....  CARNAUBA DOS DANTAS                                                                           240240
+  65  114  .....  CAMPO REDONDO                                                                                 240210
+  65  115  .....  PEDRA PRETA                                                                                   240960
+  65  116  .....  CAICO                                                                                         240200
+  65  117  .....  PARAZINHO                                                                                     240880
+  65  118  .....  PARELHAS                                                                                      240890
+  65  119  .....  NOVA CRUZ                                                                                     240830
+  65  120  .....  MONTE DAS GAMELEIRAS                                                                          240790
+  65  121  .....  AFONSO BEZERRA                                                                                240030
+  65  122  .....  MONTANHAS                                                                                     240770
+  65  123  .....  ARES                                                                                          240120
+  65  124  .....  VERA CRUZ                                                                                     241480
+  65  125  .....  VARZEA                                                                                        241470
+  65  126  .....  VILA FLOR                                                                                     241500
+  65  127  .....  LAGOA SALGADA                                                                                 240660
+  65  128  .....  TOUROS                                                                                        241440
+  65  129  .....  TANGARA                                                                                       241400
+  65  130  .....  LAGOA D'ANTA                                                                                  240620
+  65  131  .....  LAGOA DE PEDRAS                                                                               240630
+  65  132  .....  LAGOA DE VELHOS                                                                               240640
+  65  133  .....  SAO TOME                                                                                      241290
+  65  134  .....  JANDAIRA                                                                                      240510
+  65  135  .....  JAPI                                                                                          240540
+  65  136  .....  JOAO CAMARA                                                                                   240580
+  65  137  .....  TIBAU DO SUL                                                                                  241420
+  65  138  .....  SERRA NEGRA DO NORTE                                                                          241340
+  65  139  .....  TENENTE LAURENTINO CRUZ                                                                       241415
+  65  140  .....  SERRA DE SAO BENTO                                                                            241330
+  65  141  .....  SITIO NOVO                                                                                    241370
+  65  142  .....  SAO JOSE DO CAMPESTRE                                                                         241230
+  65  143  .....  IELMO MARINHO                                                                                 240460
+  65  144  .....  SAO GONCALO DO AMARANTE                                                                       241200
+  65  145  .....  GALINHOS                                                                                      240410
+  65  146  .....  SAO JOSE DO SERIDO                                                                            241240
+  65  147  .....  SAO JOAO DO SABUGI                                                                            241210
+  65  148  .....  SAO BENTO DO TRAIRI                                                                           241170
+  65  149  .....  SANTANA DO SERIDO                                                                             241142
+  65  150  .....  SANTO ANTONIO                                                                                 241150
+  65  151  .....  GUAMARE                                                                                       240450
+  65  152  .....  FLORANIA                                                                                      240380
+  65  153  .....  RUY BARBOSA                                                                                   241110
+  65  154  .....  PUREZA                                                                                        241040
+  65  155  .....  BREJINHO                                                                                      240180
+  65  156  .....  TAIPU                                                                                         241390
+  65  157  .....  SERRA CAIADA                                                                                  241030
+  65  158  .....  TIMBAUBA DOS BATISTAS                                                                         241430
+  65  159  .....  NATAL                                                                                         240810
+  65  160  .....  MONTE ALEGRE                                                                                  240780
+  65  161  .....  LAJES                                                                                         240670
+  65  162  .....  MACAIBA                                                                                       240710
+  65  163  .....  SAO FERNANDO                                                                                  241180
+  65  164  .....  LAGOA NOVA                                                                                    240650
+  65  165  .....  JACANA                                                                                        240500
+  65  166  .....  JARDIM DO SERIDO                                                                              240570
+  65  167  .....  RIACHUELO                                                                                     241090
+  65  168  .....  BOM JESUS                                                                                     240170
+  65  169  .....  BAIA FORMOSA                                                                                  240140

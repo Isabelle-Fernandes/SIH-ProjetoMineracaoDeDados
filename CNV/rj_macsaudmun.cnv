@@ -1,0 +1,94 @@
+N 93 6
+        1  3312 MACRORREGIAO I                                                                                  330010,330015,330020,330022,330023,330025,330030,330040,330045,330050,330060,330070,330080,330090,330093,330095,330100,330110,330115,330120,330130,330140,330150,330160,330170,330180,330185,330187,330190,330200,330205,330210,330220,330225,330227,330230,330240,330245,330250,330260,330270,330280,330285,330290,330300,330310,330320,330330,330340,330350,330360,330370,330380,330385,330390,330395,330400,330410,330411,330412,330414,330415,330420,330430,330440,330450,330452,330455,330460,330470,330475,330480,330490,330500,330510,330513,330515,330520,330530,330540,330550,330555,330560,330570,330575,330580,330590,330600,330610,330615,330620,330630
+   1    2  .....  SAO FRANCISCO DE ITABAPOANA                                                                   330475
+   1    3  .....  RIO DAS FLORES                                                                                330450
+   1    4  .....  QUEIMADOS                                                                                     330414
+   1    5  .....  QUISSAMA                                                                                      330415
+   1    6  .....  COMENDADOR LEVY GASPARIAN                                                                     330095
+   1    7  .....  PORTO REAL                                                                                    330411
+   1    8  .....  PINHEIRAL                                                                                     330395
+   1    9  .....  PIRAI                                                                                         330400
+   1   10  .....  CANTAGALO                                                                                     330110
+   1   11  .....  CACHOEIRAS DE MACACU                                                                          330080
+   1   12  .....  CARMO                                                                                         330120
+   1   13  .....  RIO BONITO                                                                                    330430
+   1   14  .....  CAMBUCI                                                                                       330090
+   1   15  .....  PARATY                                                                                        330380
+   1   16  .....  BELFORD ROXO                                                                                  330045
+   1   17  .....  BOM JARDIM                                                                                    330050
+   1   18  .....  NITEROI                                                                                       330330
+   1   19  .....  NATIVIDADE                                                                                    330310
+   1   20  .....  MIRACEMA                                                                                      330300
+   1   21  .....  MANGARATIBA                                                                                   330260
+   1   22  .....  ANGRA DOS REIS                                                                                330010
+   1   23  .....  MENDES                                                                                        330280
+   1   24  .....  ARRAIAL DO CABO                                                                               330025
+   1   25  .....  VOLTA REDONDA                                                                                 330630
+   1   26  .....  VASSOURAS                                                                                     330620
+   1   27  .....  VALENCA                                                                                       330610
+   1   28  .....  VARRE-SAI                                                                                     330615
+   1   29  .....  LAJE DO MURIAE                                                                                330230
+   1   30  .....  TANGUA                                                                                        330575
+   1   31  .....  TRAJANO DE MORAES                                                                             330590
+   1   32  .....  JAPERI                                                                                        330227
+   1   33  .....  ITAGUAI                                                                                       330200
+   1   34  .....  ITAPERUNA                                                                                     330220
+   1   35  .....  TERESOPOLIS                                                                                   330580
+   1   36  .....  SUMIDOURO                                                                                     330570
+   1   37  .....  SAO JOSE DE UBA                                                                               330513
+   1   38  .....  ITABORAI                                                                                      330190
+   1   39  .....  SAO GONCALO                                                                                   330490
+   1   40  .....  SAO JOAO DE MERITI                                                                            330510
+   1   41  .....  SAO FIDELIS                                                                                   330480
+   1   42  .....  GUAPIMIRIM                                                                                    330185
+   1   43  .....  RESENDE                                                                                       330420
+   1   44  .....  PETROPOLIS                                                                                    330390
+   1   45  .....  TRES RIOS                                                                                     330600
+   1   46  .....  CORDEIRO                                                                                      330150
+   1   47  .....  PARAIBA DO SUL                                                                                330370
+   1   48  .....  CARAPEBUS                                                                                     330093
+   1   49  .....  CARDOSO MOREIRA                                                                               330115
+   1   50  .....  SAO SEBASTIAO DO ALTO                                                                         330530
+   1   51  .....  NILOPOLIS                                                                                     330320
+   1   52  .....  MIGUEL PEREIRA                                                                                330290
+   1   53  .....  SAO JOAO DA BARRA                                                                             330500
+   1   54  .....  MACUCO                                                                                        330245
+   1   55  .....  RIO DAS OSTRAS                                                                                330452
+   1   56  .....  APERIBE                                                                                       330015
+   1   57  .....  MAGE                                                                                          330250
+   1   58  .....  ARMACAO DOS BUZIOS                                                                            330023
+   1   59  .....  ARARUAMA                                                                                      330020
+   1   60  .....  ITAOCARA                                                                                      330210
+   1   61  .....  ENGENHEIRO PAULO DE FRONTIN                                                                   330180
+   1   62  .....  PATY DO ALFERES                                                                               330385
+   1   63  .....  DUQUE DE CAXIAS                                                                               330170
+   1   64  .....  NOVA IGUACU                                                                                   330350
+   1   65  .....  MACAE                                                                                         330240
+   1   66  .....  SAPUCAIA                                                                                      330540
+   1   67  .....  SAO JOSE DO VALE DO RIO PRETO                                                                 330515
+   1   68  .....  SAO PEDRO DA ALDEIA                                                                           330520
+   1   69  .....  BOM JESUS DO ITABAPOANA                                                                       330060
+   1   70  .....  SANTO ANTONIO DE PADUA                                                                        330470
+   1   71  .....  ITATIAIA                                                                                      330225
+   1   72  .....  RIO CLARO                                                                                     330440
+   1   73  .....  RIO DE JANEIRO                                                                                330455
+   1   74  .....  BARRA DO PIRAI                                                                                330030
+   1   75  .....  BARRA MANSA                                                                                   330040
+   1   76  .....  MESQUITA                                                                                      330285
+   1   77  .....  AREAL                                                                                         330022
+   1   78  .....  CASIMIRO DE ABREU                                                                             330130
+   1   79  .....  CONCEICAO DE MACABU                                                                           330140
+   1   80  .....  DUAS BARRAS                                                                                   330160
+   1   81  .....  IGUABA GRANDE                                                                                 330187
+   1   82  .....  MARICA                                                                                        330270
+   1   83  .....  NOVA FRIBURGO                                                                                 330340
+   1   84  .....  PORCIUNCULA                                                                                   330410
+   1   85  .....  SANTA MARIA MADALENA                                                                          330460
+   1   86  .....  CAMPOS DOS GOYTACAZES                                                                         330100
+   1   87  .....  ITALVA                                                                                        330205
+   1   88  .....  CABO FRIO                                                                                     330070
+   1   89  .....  SEROPEDICA                                                                                    330555
+   1   90  .....  SAQUAREMA                                                                                     330550
+   1   91  .....  PARACAMBI                                                                                     330360
+   1   92  .....  SILVA JARDIM                                                                                  330560
+   1   93  .....  QUATIS                                                                                        330412

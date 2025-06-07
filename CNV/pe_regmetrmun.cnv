@@ -1,0 +1,190 @@
+189  6                                                                                    
+      1  26010 Recife - PE                                  260005                            
+  1   2  ..... Abreu e Lima                                 260005                            
+  1   3  ..... Araçoiaba                                    260105                            
+  1   4  ..... Cabo de Santo Agostinho                      260290                            
+  1   5  ..... Camaragibe                                   260345                            
+  1   6  ..... Igarassu                                     260680                            
+  1   7  ..... Ilha de Itamaracá                            260760                            
+  1   8  ..... Ipojuca                                      260720                            
+  1   9  ..... Itapissuma                                   260775                            
+  1  10  ..... Jaboatão dos Guararapes                      260790                            
+  1  11  ..... Moreno                                       260940                            
+  1  12  ..... Olinda                                       260960                            
+  1  13  ..... Paulista                                     261070                            
+  1  14  ..... Recife                                       261160                            
+  1  15  ..... São Lourenço da Mata                         261370                            
+     16  26020 Petrolina/Juazeiro-PE/BA                     260875                            
+ 16  17  ..... Lagoa Grande                                 260875                            
+ 16  18  ..... Orocó                                        260980                            
+ 16  19  ..... Petrolina                                    261110                            
+ 16  20  ..... Santa Maria da Boa Vista                     261260                            
+     21  26900 Fora de Reg.Metrop. - PE                     260010                            
+ 21  22  ..... Afogados da Ingazeira                        260010                            
+ 21  23  ..... Afrânio                                      260020                            
+ 21  24  ..... Agrestina                                    260030                            
+ 21  25  ..... Água Preta                                   260040                            
+ 21  26  ..... Águas Belas                                  260050                            
+ 21  27  ..... Alagoinha                                    260060                            
+ 21  28  ..... Aliança                                      260070                            
+ 21  29  ..... Altinho                                      260080                            
+ 21  30  ..... Amaraji                                      260090                            
+ 21  31  ..... Angelim                                      260100                            
+ 21  32  ..... Araripina                                    260110                            
+ 21  33  ..... Arcoverde                                    260120                            
+ 21  34  ..... Barra de Guabiraba                           260130                            
+ 21  35  ..... Barreiros                                    260140                            
+ 21  36  ..... Belém de Maria                               260150                            
+ 21  37  ..... Belém do São Francisco                       260160                            
+ 21  38  ..... Belo Jardim                                  260170                            
+ 21  39  ..... Betânia                                      260180                            
+ 21  40  ..... Bezerros                                     260190                            
+ 21  41  ..... Bodocó                                       260200                            
+ 21  42  ..... Bom Conselho                                 260210                            
+ 21  43  ..... Bom Jardim                                   260220                            
+ 21  44  ..... Bonito                                       260230                            
+ 21  45  ..... Brejão                                       260240                            
+ 21  46  ..... Brejinho                                     260250                            
+ 21  47  ..... Brejo da Madre de Deus                       260260                            
+ 21  48  ..... Buenos Aires                                 260270                            
+ 21  49  ..... Buíque                                       260280                            
+ 21  50  ..... Cabrobó                                      260300                            
+ 21  51  ..... Cachoeirinha                                 260310                            
+ 21  52  ..... Caetés                                       260320                            
+ 21  53  ..... Calçado                                      260330                            
+ 21  54  ..... Calumbi                                      260340                            
+ 21  55  ..... Camocim de São Félix                         260350                            
+ 21  56  ..... Camutanga                                    260360                            
+ 21  57  ..... Canhotinho                                   260370                            
+ 21  58  ..... Capoeiras                                    260380                            
+ 21  59  ..... Carnaíba                                     260390                            
+ 21  60  ..... Carnaubeira da Penha                         260392                            
+ 21  61  ..... Carpina                                      260400                            
+ 21  62  ..... Caruaru                                      260410                            
+ 21  63  ..... Casinhas                                     260415                            
+ 21  64  ..... Catende                                      260420                            
+ 21  65  ..... Cedro                                        260430                            
+ 21  66  ..... Chã de Alegria                               260440                            
+ 21  67  ..... Chã Grande                                   260450                            
+ 21  68  ..... Condado                                      260460                            
+ 21  69  ..... Correntes                                    260470                            
+ 21  70  ..... Cortês                                       260480                            
+ 21  71  ..... Cumaru                                       260490                            
+ 21  72  ..... Cupira                                       260500                            
+ 21  73  ..... Custódia                                     260510                            
+ 21  74  ..... Dormentes                                    260515                            
+ 21  75  ..... Escada                                       260520                            
+ 21  76  ..... Exu                                          260530                            
+ 21  77  ..... Feira Nova                                   260540                            
+ 21  78  ..... Fernando de Noronha                          260545,200010                     
+ 21  79  ..... Ferreiros                                    260550                            
+ 21  80  ..... Flores                                       260560                            
+ 21  81  ..... Floresta                                     260570                            
+ 21  82  ..... Frei Miguelinho                              260580                            
+ 21  83  ..... Gameleira                                    260590                            
+ 21  84  ..... Garanhuns                                    260600                            
+ 21  85  ..... Glória do Goitá                              260610                            
+ 21  86  ..... Goiana                                       260620                            
+ 21  87  ..... Granito                                      260630                            
+ 21  88  ..... Gravatá                                      260640                            
+ 21  89  ..... Iati                                         260650                            
+ 21  90  ..... Ibimirim                                     260660                            
+ 21  91  ..... Ibirajuba                                    260670                            
+ 21  92  ..... Iguaracy                                     260690                            
+ 21  93  ..... Inajá                                        260700                            
+ 21  94  ..... Ingazeira                                    260710                            
+ 21  95  ..... Ipubi                                        260730                            
+ 21  96  ..... Itacuruba                                    260740                            
+ 21  97  ..... Itaíba                                       260750                            
+ 21  98  ..... Itambé                                       260765                            
+ 21  99  ..... Itapetim                                     260770                            
+ 21 100  ..... Itaquitinga                                  260780                            
+ 21 101  ..... Jaqueira                                     260795                            
+ 21 102  ..... Jataúba                                      260800                            
+ 21 103  ..... Jatobá                                       260805                            
+ 21 104  ..... João Alfredo                                 260810                            
+ 21 105  ..... Joaquim Nabuco                               260820                            
+ 21 106  ..... Jucati                                       260825                            
+ 21 107  ..... Jupi                                         260830                            
+ 21 108  ..... Jurema                                       260840                            
+ 21 109  ..... Lagoa de Itaenga                             260850                            
+ 21 110  ..... Lagoa do Carro                               260845                            
+ 21 111  ..... Lagoa do Ouro                                260860                            
+ 21 112  ..... Lagoa dos Gatos                              260870                            
+ 21 113  ..... Lajedo                                       260880                            
+ 21 114  ..... Limoeiro                                     260890                            
+ 21 115  ..... Macaparana                                   260900                            
+ 21 116  ..... Machados                                     260910                            
+ 21 117  ..... Manari                                       260915                            
+ 21 118  ..... Maraial                                      260920                            
+ 21 119  ..... Mirandiba                                    260930                            
+ 21 120  ..... Moreilândia                                  261430                            
+ 21 121  ..... Nazaré da Mata                               260950                            
+ 21 122  ..... Orobó                                        260970                            
+ 21 123  ..... Ouricuri                                     260990                            
+ 21 124  ..... Palmares                                     261000                            
+ 21 125  ..... Palmeirina                                   261010                            
+ 21 126  ..... Panelas                                      261020                            
+ 21 127  ..... Paranatama                                   261030                            
+ 21 128  ..... Parnamirim                                   261040                            
+ 21 129  ..... Passira                                      261050                            
+ 21 130  ..... Paudalho                                     261060                            
+ 21 131  ..... Pedra                                        261080                            
+ 21 132  ..... Pesqueira                                    261090                            
+ 21 133  ..... Petrolândia                                  261100                            
+ 21 134  ..... Poção                                        261120                            
+ 21 135  ..... Pombos                                       261130                            
+ 21 136  ..... Primavera                                    261140                            
+ 21 137  ..... Quipapá                                      261150                            
+ 21 138  ..... Quixaba                                      261153                            
+ 21 139  ..... Riacho das Almas                             261170                            
+ 21 140  ..... Ribeirão                                     261180                            
+ 21 141  ..... Rio Formoso                                  261190                            
+ 21 142  ..... Sairé                                        261200                            
+ 21 143  ..... Salgadinho                                   261210                            
+ 21 144  ..... Salgueiro                                    261220                            
+ 21 145  ..... Saloá                                        261230                            
+ 21 146  ..... Sanharó                                      261240                            
+ 21 147  ..... Santa Cruz                                   261245                            
+ 21 148  ..... Santa Cruz da Baixa Verde                    261247                            
+ 21 149  ..... Santa Cruz do Capibaribe                     261250                            
+ 21 150  ..... Santa Filomena                               261255                            
+ 21 151  ..... Santa Maria do Cambucá                       261270                            
+ 21 152  ..... Santa Terezinha                              261280                            
+ 21 153  ..... São Benedito do Sul                          261290                            
+ 21 154  ..... São Bento do Una                             261300                            
+ 21 155  ..... São Caitano                                  261310                            
+ 21 156  ..... São João                                     261320                            
+ 21 157  ..... São Joaquim do Monte                         261330                            
+ 21 158  ..... São José da Coroa Grande                     261340                            
+ 21 159  ..... São José do Belmonte                         261350                            
+ 21 160  ..... São José do Egito                            261360                            
+ 21 161  ..... São Vicente Ferrer                           261380                            
+ 21 162  ..... Serra Talhada                                261390                            
+ 21 163  ..... Serrita                                      261400                            
+ 21 164  ..... Sertânia                                     261410                            
+ 21 165  ..... Sirinhaém                                    261420                            
+ 21 166  ..... Solidão                                      261440                            
+ 21 167  ..... Surubim                                      261450                            
+ 21 168  ..... Tabira                                       261460                            
+ 21 169  ..... Tacaimbó                                     261470                            
+ 21 170  ..... Tacaratu                                     261480                            
+ 21 171  ..... Tamandaré                                    261485                            
+ 21 172  ..... Taquaritinga do Norte                        261500                            
+ 21 173  ..... Terezinha                                    261510                            
+ 21 174  ..... Terra Nova                                   261520                            
+ 21 175  ..... Timbaúba                                     261530                            
+ 21 176  ..... Toritama                                     261540                            
+ 21 177  ..... Tracunhaém                                   261550                            
+ 21 178  ..... Trindade                                     261560                            
+ 21 179  ..... Triunfo                                      261570                            
+ 21 180  ..... Tupanatinga                                  261580                            
+ 21 181  ..... Tuparetama                                   261590                            
+ 21 182  ..... Venturosa                                    261600                            
+ 21 183  ..... Verdejante                                   261610                            
+ 21 184  ..... Vertente do Lério                            261618                            
+ 21 185  ..... Vertentes                                    261620                            
+ 21 186  ..... Vicência                                     261630                            
+ 21 187  ..... Vitória de Santo Antão                       261640                            
+ 21 188  ..... Xexéu                                        261650                            
+    189  26000 Ignorado - PE                                260000,269999                     

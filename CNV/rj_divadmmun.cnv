@@ -1,0 +1,102 @@
+101  6                                                                                    
+      1  3301 Metropolitana                                 330045                            
+  1   2  .... Belford Roxo                                  330045                            
+  1   3  .... Duque de Caxias                               330170                            
+  1   4  .... Guapimirim                                    330185                            
+  1   5  .... Itaboraí                                      330190                            
+  1   6  .... Itaguaí                                       330200                            
+  1   7  .... Japeri                                        330227                            
+  1   8  .... Magé                                          330250                            
+  1   9  .... Maricá                                        330270                            
+  1  10  .... Mesquita                                      330285                            
+  1  11  .... Nilópolis                                     330320                            
+  1  12  .... Niterói                                       330330                            
+  1  13  .... Nova Iguaçu                                   330350                            
+  1  14  .... Paracambi                                     330360                            
+  1  15  .... Queimados                                     330414                            
+  1  16  .... Rio de Janeiro                                330455,334501-334530              
+  1  17  .... São Gonçalo                                   330490                            
+  1  18  .... São João de Meriti                            330510                            
+  1  19  .... Seropédica                                    330555                            
+  1  20  .... Tanguá                                        330575                            
+     21  3302 Noroeste Fluminense                           330015                            
+ 21  22  .... Aperibé                                       330015                            
+ 21  23  .... Bom Jesus do Itabapoana                       330060                            
+ 21  24  .... Cambuci                                       330090                            
+ 21  25  .... Italva                                        330205                            
+ 21  26  .... Itaocara                                      330210                            
+ 21  27  .... Itaperuna                                     330220                            
+ 21  28  .... Laje do Muriaé                                330230                            
+ 21  29  .... Miracema                                      330300                            
+ 21  30  .... Natividade                                    330310                            
+ 21  31  .... Porciúncula                                   330410                            
+ 21  32  .... Santo Antônio de Pádua                        330470                            
+ 21  33  .... São José de Ubá                               330513                            
+ 21  34  .... Varre-Sai                                     330615                            
+     35  3303 Norte Fluminense                              330100                            
+ 35  36  .... Campos dos Goytacazes                         330100                            
+ 35  37  .... Carapebus                                     330093                            
+ 35  38  .... Cardoso Moreira                               330115                            
+ 35  39  .... Conceição de Macabu                           330140                            
+ 35  40  .... Macaé                                         330240                            
+ 35  41  .... Quissamã                                      330415                            
+ 35  42  .... São Fidélis                                   330480                            
+ 35  43  .... São Francisco de Itabapoana                   330475                            
+ 35  44  .... São João da Barra                             330500                            
+     45  3304 Serrana                                       330050                            
+ 45  46  .... Bom Jardim                                    330050                            
+ 45  47  .... Cantagalo                                     330110                            
+ 45  48  .... Carmo                                         330120                            
+ 45  49  .... Cordeiro                                      330150                            
+ 45  50  .... Duas Barras                                   330160                            
+ 45  51  .... Macuco                                        330245                            
+ 45  52  .... Nova Friburgo                                 330340                            
+ 45  53  .... Petrópolis                                    330390                            
+ 45  54  .... Santa Maria Madalena                          330460                            
+ 45  55  .... São José do Vale do Rio Preto                 330515                            
+ 45  56  .... São Sebastião do Alto                         330530                            
+ 45  57  .... Sumidouro                                     330570                            
+ 45  58  .... Teresópolis                                   330580                            
+ 45  59  .... Trajano de Moraes                             330590                            
+     60  3305 Baixadas Litorâneas                           330020                            
+ 60  61  .... Araruama                                      330020                            
+ 60  62  .... Armação dos Búzios                            330023                            
+ 60  63  .... Arraial do Cabo                               330025                            
+ 60  64  .... Cabo Frio                                     330070                            
+ 60  65  .... Cachoeiras de Macacu                          330080                            
+ 60  66  .... Casimiro de Abreu                             330130                            
+ 60  67  .... Iguaba Grande                                 330187                            
+ 60  68  .... Rio Bonito                                    330430                            
+ 60  69  .... Rio das Ostras                                330452                            
+ 60  70  .... São Pedro da Aldeia                           330520                            
+ 60  71  .... Saquarema                                     330550                            
+ 60  72  .... Silva Jardim                                  330560                            
+     73  3306 Médio Paraíba                                 330030                            
+ 73  74  .... Barra do Piraí                                330030                            
+ 73  75  .... Barra Mansa                                   330040                            
+ 73  76  .... Itatiaia                                      330225                            
+ 73  77  .... Pinheiral                                     330395                            
+ 73  78  .... Piraí                                         330400                            
+ 73  79  .... Porto Real                                    330411                            
+ 73  80  .... Quatis                                        330412                            
+ 73  81  .... Resende                                       330420                            
+ 73  82  .... Rio Claro                                     330440                            
+ 73  83  .... Rio das Flores                                330450                            
+ 73  84  .... Valença                                       330610                            
+ 73  85  .... Volta Redonda                                 330630,336305                     
+     86  3307 Centro-Sul Fluminense                         330022                            
+ 86  87  .... Areal                                         330022                            
+ 86  88  .... Comendador Levy Gasparian                     330095                            
+ 86  89  .... Engenheiro Paulo de Frontin                   330180                            
+ 86  90  .... Mendes                                        330280                            
+ 86  91  .... Miguel Pereira                                330290                            
+ 86  92  .... Paraíba do Sul                                330370                            
+ 86  93  .... Paty do Alferes                               330385                            
+ 86  94  .... Sapucaia                                      330540                            
+ 86  95  .... Três Rios                                     330600                            
+ 86  96  .... Vassouras                                     330620                            
+     97  3308 Costa Verde                                   330010                            
+ 97  98  .... Angra dos Reis                                330010                            
+ 97  99  .... Mangaratiba                                   330260                            
+ 97 100  .... Paraty                                        330380                            
+    101  3300 Ignorado - RJ                                 330000,339999,330064              

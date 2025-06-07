@@ -1,0 +1,855 @@
+67 6
+      1  31001 UNAI                                         310450
+      1  31001 UNAI                                         310820
+      1  31001 UNAI                                         310930
+      1  31001 UNAI                                         310945
+      1  31001 UNAI                                         312247
+      1  31001 UNAI                                         312620
+      1  31001 UNAI                                         314437
+      1  31001 UNAI                                         317040
+      1  31001 UNAI                                         317047
+      2  31002 PARACATU                                     310855
+      2  31002 PARACATU                                     312860
+      2  31002 PARACATU                                     313630
+      2  31002 PARACATU                                     313710
+      2  31002 PARACATU                                     313753
+      2  31002 PARACATU                                     314700
+      2  31002 PARACATU                                     315340
+      2  31002 PARACATU                                     316170
+      2  31002 PARACATU                                     317075
+      2  31002 PARACATU                                     317100
+      3  31003 JANUARIA                                     310825
+      3  31003 JANUARIA                                     311615
+      3  31003 JANUARIA                                     311783
+      3  31003 JANUARIA                                     313005
+      3  31003 JANUARIA                                     313210
+      3  31003 JANUARIA                                     313520
+      3  31003 JANUARIA                                     313695
+      3  31003 JANUARIA                                     313930
+      3  31003 JANUARIA                                     314085
+      3  31003 JANUARIA                                     314225
+      3  31003 JANUARIA                                     314270
+      3  31003 JANUARIA                                     314915
+      3  31003 JANUARIA                                     315057
+      3  31003 JANUARIA                                     316110
+      3  31003 JANUARIA                                     316245
+      3  31003 JANUARIA                                     317052
+      4  31004 JANAUBA                                      311547
+      4  31004 JANAUBA                                      312430
+      4  31004 JANAUBA                                      312733
+      4  31004 JANAUBA                                      313505
+      4  31004 JANAUBA                                      313510
+      4  31004 JANAUBA                                      313925
+      4  31004 JANAUBA                                      314100
+      4  31004 JANAUBA                                      314290
+      4  31004 JANAUBA                                      314505
+      4  31004 JANAUBA                                      314655
+      4  31004 JANAUBA                                      315220
+      4  31004 JANAUBA                                      315450
+      4  31004 JANAUBA                                      316695
+      5  31005 SALINAS                                      310100
+      5  31005 SALINAS                                      310665
+      5  31005 SALINAS                                      312087
+      5  31005 SALINAS                                      312235
+      5  31005 SALINAS                                      312707
+      5  31005 SALINAS                                      313065
+      5  31005 SALINAS                                      314345
+      5  31005 SALINAS                                      314465
+      5  31005 SALINAS                                      314537
+      5  31005 SALINAS                                      315560
+      5  31005 SALINAS                                      315650
+      5  31005 SALINAS                                      315700
+      5  31005 SALINAS                                      315737
+      5  31005 SALINAS                                      316045
+      5  31005 SALINAS                                      316270
+      5  31005 SALINAS                                      316800
+      5  31005 SALINAS                                      317065
+      6  31006 PIRAPORA                                     310940
+      6  31006 PIRAPORA                                     312960
+      6  31006 PIRAPORA                                     313560
+      6  31006 PIRAPORA                                     313730
+      6  31006 PIRAPORA                                     313810
+      6  31006 PIRAPORA                                     315120
+      6  31006 PIRAPORA                                     315445
+      6  31006 PIRAPORA                                     315760
+      6  31006 PIRAPORA                                     316420
+      6  31006 PIRAPORA                                     317080
+      7  31007 MONTES CLAROS                                310860
+      7  31007 MONTES CLAROS                                311115
+      7  31007 MONTES CLAROS                                311270
+      7  31007 MONTES CLAROS                                311650
+      7  31007 MONTES CLAROS                                311880
+      7  31007 MONTES CLAROS                                312670
+      7  31007 MONTES CLAROS                                312735
+      7  31007 MONTES CLAROS                                312965
+      7  31007 MONTES CLAROS                                313535
+      7  31007 MONTES CLAROS                                313680
+      7  31007 MONTES CLAROS                                313865
+      7  31007 MONTES CLAROS                                313868
+      7  31007 MONTES CLAROS                                314200
+      7  31007 MONTES CLAROS                                314330
+      7  31007 MONTES CLAROS                                314795
+      7  31007 MONTES CLAROS                                315213
+      7  31007 MONTES CLAROS                                316225
+      7  31007 MONTES CLAROS                                316240
+      7  31007 MONTES CLAROS                                316265
+      7  31007 MONTES CLAROS                                317000
+      7  31007 MONTES CLAROS                                317090
+      7  31007 MONTES CLAROS                                317103
+      8  31008 GRAO MOGOL                                   310850
+      8  31008 GRAO MOGOL                                   312030
+      8  31008 GRAO MOGOL                                   312780
+      8  31008 GRAO MOGOL                                   313200
+      8  31008 GRAO MOGOL                                   313657
+      8  31008 GRAO MOGOL                                   314625
+      9  31009 BOCAIUVA                                     310730
+      9  31009 BOCAIUVA                                     312380
+      9  31009 BOCAIUVA                                     312660
+      9  31009 BOCAIUVA                                     312825
+      9  31009 BOCAIUVA                                     314545
+     10  31010 DIAMANTINA                                   312010
+     10  31010 DIAMANTINA                                   312100
+     10  31010 DIAMANTINA                                   312160
+     10  31010 DIAMANTINA                                   312540
+     10  31010 DIAMANTINA                                   312550
+     10  31010 DIAMANTINA                                   312760
+     10  31010 DIAMANTINA                                   315330
+     10  31010 DIAMANTINA                                   316590
+     11  31011 CAPELINHA                                    310285
+     11  31011 CAPELINHA                                    310445
+     11  31011 CAPELINHA                                    310650
+     11  31011 CAPELINHA                                    311230
+     11  31011 CAPELINHA                                    311350
+     11  31011 CAPELINHA                                    311610
+     11  31011 CAPELINHA                                    312650
+     11  31011 CAPELINHA                                    313250
+     11  31011 CAPELINHA                                    313545
+     11  31011 CAPELINHA                                    313652
+     11  31011 CAPELINHA                                    313835
+     11  31011 CAPELINHA                                    314180
+     11  31011 CAPELINHA                                    316970
+     11  31011 CAPELINHA                                    317107
+     12  31012 ARACUAI                                      310340
+     12  31012 ARACUAI                                      311300
+     12  31012 ARACUAI                                      311950
+     12  31012 ARACUAI                                      313400
+     12  31012 ARACUAI                                      314530
+     12  31012 ARACUAI                                      314630
+     12  31012 ARACUAI                                      315217
+     12  31012 ARACUAI                                      317160
+     13  31013 PEDRA AZUL                                   310270
+     13  31013 PEDRA AZUL                                   311700
+     13  31013 PEDRA AZUL                                   313330
+     13  31013 PEDRA AZUL                                   314140
+     13  31013 PEDRA AZUL                                   314870
+     14  31014 ALMENARA                                     310170
+     14  31014 ALMENARA                                     310520
+     14  31014 ALMENARA                                     312245
+     14  31014 ALMENARA                                     312560
+     14  31014 ALMENARA                                     313470
+     14  31014 ALMENARA                                     313580
+     14  31014 ALMENARA                                     313600
+     14  31014 ALMENARA                                     313650
+     14  31014 ALMENARA                                     314055
+     14  31014 ALMENARA                                     314315
+     14  31014 ALMENARA                                     314675
+     14  31014 ALMENARA                                     315510
+     14  31014 ALMENARA                                     315660
+     14  31014 ALMENARA                                     315710
+     14  31014 ALMENARA                                     315810
+     14  31014 ALMENARA                                     316030
+     15  31015 TEOFILO OTONI                                310470
+     15  31015 TEOFILO OTONI                                311545
+     15  31015 TEOFILO OTONI                                312675
+     15  31015 TEOFILO OTONI                                312680
+     15  31015 TEOFILO OTONI                                313230
+     15  31015 TEOFILO OTONI                                313700
+     15  31015 TEOFILO OTONI                                313920
+     15  31015 TEOFILO OTONI                                314535
+     15  31015 TEOFILO OTONI                                314620
+     15  31015 TEOFILO OTONI                                314850
+     15  31015 TEOFILO OTONI                                315240
+     15  31015 TEOFILO OTONI                                316555
+     15  31015 TEOFILO OTONI                                316860
+     16  31016 NANUQUE                                      310090
+     16  31016 NANUQUE                                      310660
+     16  31016 NANUQUE                                      311370
+     16  31016 NANUQUE                                      312015
+     16  31016 NANUQUE                                      312705
+     16  31016 NANUQUE                                      313890
+     16  31016 NANUQUE                                      314430
+     16  31016 NANUQUE                                      315765
+     16  31016 NANUQUE                                      316670
+     16  31016 NANUQUE                                      317030
+     17  31017 ITUIUTABA                                    310980
+     17  31017 ITUIUTABA                                    311260
+     17  31017 ITUIUTABA                                    312910
+     17  31017 ITUIUTABA                                    313140
+     17  31017 ITUIUTABA                                    313420
+     17  31017 ITUIUTABA                                    315980
+     18  31018 UBERLANDIA                                   310350
+     18  31018 UBERLANDIA                                   310375
+     18  31018 UBERLANDIA                                   311180
+     18  31018 UBERLANDIA                                   311500
+     18  31018 UBERLANDIA                                   311580
+     18  31018 UBERLANDIA                                   313070
+     18  31018 UBERLANDIA                                   314280
+     18  31018 UBERLANDIA                                   315280
+     18  31018 UBERLANDIA                                   316960
+     18  31018 UBERLANDIA                                   317020
+     19  31019 PATROCINIO                                   310010
+     19  31019 PATROCINIO                                   311930
+     19  31019 PATROCINIO                                   312070
+     19  31019 PATROCINIO                                   312350
+     19  31019 PATROCINIO                                   312480
+     19  31019 PATROCINIO                                   312790
+     19  31019 PATROCINIO                                   313160
+     19  31019 PATROCINIO                                   314310
+     19  31019 PATROCINIO                                   314810
+     19  31019 PATROCINIO                                   315640
+     19  31019 PATROCINIO                                   316680
+     20  31020 PATOS DE MINAS                               310380
+     20  31020 PATOS DE MINAS                               311430
+     20  31020 PATOS DE MINAS                               312890
+     20  31020 PATOS DE MINAS                               313750
+     20  31020 PATOS DE MINAS                               314120
+     20  31020 PATOS DE MINAS                               314800
+     20  31020 PATOS DE MINAS                               315550
+     20  31020 PATOS DE MINAS                               315970
+     20  31020 PATOS DE MINAS                               316210
+     20  31020 PATOS DE MINAS                               316890
+     21  31021 FRUTAL                                       311110
+     21  31021 FRUTAL                                       311455
+     21  31021 FRUTAL                                       311690
+     21  31021 FRUTAL                                       312700
+     21  31021 FRUTAL                                       312710
+     21  31021 FRUTAL                                       313340
+     21  31021 FRUTAL                                       313440
+     21  31021 FRUTAL                                       313862
+     21  31021 FRUTAL                                       315070
+     21  31021 FRUTAL                                       315160
+     21  31021 FRUTAL                                       316130
+     21  31021 FRUTAL                                       317043
+     22  31022 UBERABA                                      310070
+     22  31022 UBERABA                                      311140
+     22  31022 UBERABA                                      311730
+     22  31022 UBERABA                                      311820
+     22  31022 UBERABA                                      312125
+     22  31022 UBERABA                                      317010
+     22  31022 UBERABA                                      317110
+     23  31023 ARAXA                                        310400
+     23  31023 ARAXA                                        311150
+     23  31023 ARAXA                                        312950
+     23  31023 ARAXA                                        314500
+     23  31023 ARAXA                                        314920
+     23  31023 ARAXA                                        314980
+     23  31023 ARAXA                                        315300
+     23  31023 ARAXA                                        315690
+     23  31023 ARAXA                                        315770
+     23  31023 ARAXA                                        316810
+     24  31024 TRES MARIAS                                  310020
+     24  31024 TRES MARIAS                                  310700
+     24  31024 TRES MARIAS                                  311560
+     24  31024 TRES MARIAS                                  314350
+     24  31024 TRES MARIAS                                  314640
+     24  31024 TRES MARIAS                                  315200
+     24  31024 TRES MARIAS                                  316935
+     25  31025 CURVELO                                      310480
+     25  31025 CURVELO                                      310920
+     25  31025 CURVELO                                      311910
+     25  31025 CURVELO                                      312090
+     25  31025 CURVELO                                      312570
+     25  31025 CURVELO                                      313110
+     25  31025 CURVELO                                      313640
+     25  31025 CURVELO                                      314250
+     25  31025 CURVELO                                      314360
+     25  31025 CURVELO                                      315320
+     25  31025 CURVELO                                      316060
+     26  31026 BOM DESPACHO                                 310390
+     26  31026 BOM DESPACHO                                 310740
+     26  31026 BOM DESPACHO                                 312320
+     26  31026 BOM DESPACHO                                 312470
+     26  31026 BOM DESPACHO                                 313530
+     26  31026 BOM DESPACHO                                 313720
+     26  31026 BOM DESPACHO                                 313830
+     26  31026 BOM DESPACHO                                 313880
+     26  31026 BOM DESPACHO                                 314050
+     26  31026 BOM DESPACHO                                 314240
+     26  31026 BOM DESPACHO                                 315370
+     26  31026 BOM DESPACHO                                 316660
+     27  31027 SETE LAGOAS                                  310320
+     27  31027 SETE LAGOAS                                  310500
+     27  31027 SETE LAGOAS                                  310960
+     27  31027 SETE LAGOAS                                  310990
+     27  31027 SETE LAGOAS                                  311250
+     27  31027 SETE LAGOAS                                  311890
+     27  31027 SETE LAGOAS                                  312640
+     27  31027 SETE LAGOAS                                  312720
+     27  31027 SETE LAGOAS                                  313100
+     27  31027 SETE LAGOAS                                  313460
+     27  31027 SETE LAGOAS                                  313570
+     27  31027 SETE LAGOAS                                  313970
+     27  31027 SETE LAGOAS                                  314110
+     27  31027 SETE LAGOAS                                  314690
+     27  31027 SETE LAGOAS                                  314740
+     27  31027 SETE LAGOAS                                  314960
+     27  31027 SETE LAGOAS                                  315360
+     27  31027 SETE LAGOAS                                  315850
+     27  31027 SETE LAGOAS                                  315900
+     27  31027 SETE LAGOAS                                  316720
+     28  31028 CONCEICAO DO MATO DENTRO                     310240
+     28  31028 CONCEICAO DO MATO DENTRO                     311750
+     28  31028 CONCEICAO DO MATO DENTRO                     311810
+     28  31028 CONCEICAO DO MATO DENTRO                     312260
+     28  31028 CONCEICAO DO MATO DENTRO                     313280
+     28  31028 CONCEICAO DO MATO DENTRO                     314370
+     28  31028 CONCEICAO DO MATO DENTRO                     314750
+     28  31028 CONCEICAO DO MATO DENTRO                     315600
+     28  31028 CONCEICAO DO MATO DENTRO                     316020
+     28  31028 CONCEICAO DO MATO DENTRO                     316050
+     28  31028 CONCEICAO DO MATO DENTRO                     316480
+     28  31028 CONCEICAO DO MATO DENTRO                     316650
+     28  31028 CONCEICAO DO MATO DENTRO                     316710
+     29  31029 PARA DE MINAS                                312600
+     29  31029 PARA DE MINAS                                314580
+     29  31029 PARA DE MINAS                                314710
+     29  31029 PARA DE MINAS                                315140
+     29  31029 PARA DE MINAS                                316310
+     30  31030 BELO HORIZONTE                               310620
+     30  31030 BELO HORIZONTE                               310670
+     30  31030 BELO HORIZONTE                               310900
+     30  31030 BELO HORIZONTE                               311000
+     30  31030 BELO HORIZONTE                               311787
+     30  31030 BELO HORIZONTE                               311860
+     30  31030 BELO HORIZONTE                               312410
+     30  31030 BELO HORIZONTE                               312980
+     30  31030 BELO HORIZONTE                               313010
+     30  31030 BELO HORIZONTE                               313665
+     30  31030 BELO HORIZONTE                               313760
+     30  31030 BELO HORIZONTE                               314015
+     30  31030 BELO HORIZONTE                               314070
+     30  31030 BELO HORIZONTE                               314480
+     30  31030 BELO HORIZONTE                               314930
+     30  31030 BELO HORIZONTE                               315390
+     30  31030 BELO HORIZONTE                               315460
+     30  31030 BELO HORIZONTE                               315480
+     30  31030 BELO HORIZONTE                               315670
+     30  31030 BELO HORIZONTE                               315780
+     30  31030 BELO HORIZONTE                               316292
+     30  31030 BELO HORIZONTE                               316295
+     30  31030 BELO HORIZONTE                               316553
+     30  31030 BELO HORIZONTE                               317120
+     31  31031 ITABIRA                                      310230
+     31  31031 ITABIRA                                      310540
+     31  31031 ITABIRA                                      310600
+     31  31031 ITABIRA                                      310770
+     31  31031 ITABIRA                                      311535
+     31  31031 ITABIRA                                      312180
+     31  31031 ITABIRA                                      312590
+     31  31031 ITABIRA                                      313170
+     31  31031 ITABIRA                                      313620
+     31  31031 ITABIRA                                      313660
+     31  31031 ITABIRA                                      314470
+     31  31031 ITABIRA                                      315570
+     31  31031 ITABIRA                                      315720
+     31  31031 ITABIRA                                      315800
+     31  31031 ITABIRA                                      316100
+     31  31031 ITABIRA                                      316190
+     31  31031 ITABIRA                                      316340
+     31  31031 ITABIRA                                      316830
+     32  31032 ITAGUARA                                     310640
+     32  31032 ITAGUARA                                     310810
+     32  31032 ITAGUARA                                     312060
+     32  31032 ITAGUARA                                     313220
+     32  31032 ITAGUARA                                     313370
+     32  31032 ITAGUARA                                     313540
+     32  31032 ITAGUARA                                     314230
+     32  31032 ITAGUARA                                     315040
+     32  31032 ITAGUARA                                     315530
+     33  31033 OURO PRETO                                   312170
+     33  31033 OURO PRETO                                   313190
+     33  31033 OURO PRETO                                   314000
+     33  31033 OURO PRETO                                   314610
+     34  31034 CONSELHEIRO LAFAIETE                         311490
+     34  31034 CONSELHEIRO LAFAIETE                         311540
+     34  31034 CONSELHEIRO LAFAIETE                         311800
+     34  31034 CONSELHEIRO LAFAIETE                         311830
+     34  31034 CONSELHEIRO LAFAIETE                         312040
+     34  31034 CONSELHEIRO LAFAIETE                         312140
+     34  31034 CONSELHEIRO LAFAIETE                         312390
+     34  31034 CONSELHEIRO LAFAIETE                         313390
+     34  31034 CONSELHEIRO LAFAIETE                         314590
+     34  31034 CONSELHEIRO LAFAIETE                         315380
+     34  31034 CONSELHEIRO LAFAIETE                         315910
+     34  31034 CONSELHEIRO LAFAIETE                         316090
+     35  31035 GUANHAES                                     310880
+     35  31035 GUANHAES                                     311380
+     35  31035 GUANHAES                                     311680
+     35  31035 GUANHAES                                     312220
+     35  31035 GUANHAES                                     312310
+     35  31035 GUANHAES                                     312750
+     35  31035 GUANHAES                                     312800
+     35  31035 GUANHAES                                     314060
+     35  31035 GUANHAES                                     314840
+     35  31035 GUANHAES                                     315680
+     35  31035 GUANHAES                                     315750
+     35  31035 GUANHAES                                     316280
+     35  31035 GUANHAES                                     316550
+     35  31035 GUANHAES                                     316610
+     35  31035 GUANHAES                                     317180
+     36  31036 PECANHA                                      310060
+     36  31036 PECANHA                                      311205
+     36  31036 PECANHA                                      312695
+     36  31036 PECANHA                                      313655
+     36  31036 PECANHA                                      314860
+     36  31036 PECANHA                                      315820
+     36  31036 PECANHA                                      316350
+     36  31036 PECANHA                                      316410
+     36  31036 PECANHA                                      316450
+     37  31037 GOVERNADOR VALADARES                         310180
+     37  31037 GOVERNADOR VALADARES                         311080
+     37  31037 GOVERNADOR VALADARES                         311265
+     37  31037 GOVERNADOR VALADARES                         311920
+     37  31037 GOVERNADOR VALADARES                         312210
+     37  31037 GOVERNADOR VALADARES                         312370
+     37  31037 GOVERNADOR VALADARES                         312580
+     37  31037 GOVERNADOR VALADARES                         312690
+     37  31037 GOVERNADOR VALADARES                         312730
+     37  31037 GOVERNADOR VALADARES                         312770
+     37  31037 GOVERNADOR VALADARES                         313270
+     37  31037 GOVERNADOR VALADARES                         313320
+     37  31037 GOVERNADOR VALADARES                         313507
+     37  31037 GOVERNADOR VALADARES                         314010
+     37  31037 GOVERNADOR VALADARES                         314420
+     37  31037 GOVERNADOR VALADARES                         314490
+     37  31037 GOVERNADOR VALADARES                         315000
+     37  31037 GOVERNADOR VALADARES                         316160
+     37  31037 GOVERNADOR VALADARES                         316165
+     37  31037 GOVERNADOR VALADARES                         316300
+     37  31037 GOVERNADOR VALADARES                         316330
+     37  31037 GOVERNADOR VALADARES                         316770
+     37  31037 GOVERNADOR VALADARES                         316950
+     37  31037 GOVERNADOR VALADARES                         317150
+     37  31037 GOVERNADOR VALADARES                         317190
+     38  31038 MANTENA                                      311570
+     38  31038 MANTENA                                      313180
+     38  31038 MANTENA                                      313960
+     38  31038 MANTENA                                      314150
+     38  31038 MANTENA                                      314467
+     38  31038 MANTENA                                      316105
+     38  31038 MANTENA                                      316257
+     39  31039 IPATINGA                                     310050
+     39  31039 IPATINGA                                     310300
+     39  31039 IPATINGA                                     310630
+     39  31039 IPATINGA                                     311940
+     39  31039 IPATINGA                                     313130
+     39  31039 IPATINGA                                     313500
+     39  31039 IPATINGA                                     313610
+     39  31039 IPATINGA                                     314030
+     39  31039 IPATINGA                                     314170
+     39  31039 IPATINGA                                     314435
+     39  31039 IPATINGA                                     314995
+     39  31039 IPATINGA                                     315895
+     39  31039 IPATINGA                                     316870
+     40  31040 CARATINGA                                    310780
+     40  31040 CARATINGA                                    310925
+     40  31040 CARATINGA                                    311340
+     40  31040 CARATINGA                                    312000
+     40  31040 CARATINGA                                    312250
+     40  31040 CARATINGA                                    312385
+     40  31040 CARATINGA                                    312930
+     40  31040 CARATINGA                                    313055
+     40  31040 CARATINGA                                    313090
+     40  31040 CARATINGA                                    313115
+     40  31040 CARATINGA                                    315015
+     40  31040 CARATINGA                                    315053
+     40  31040 CARATINGA                                    315725
+     40  31040 CARATINGA                                    315935
+     40  31040 CARATINGA                                    316095
+     40  31040 CARATINGA                                    316260
+     40  31040 CARATINGA                                    316447
+     40  31040 CARATINGA                                    316840
+     40  31040 CARATINGA                                    317005
+     40  31040 CARATINGA                                    317057
+     41  31041 AIMORES                                      310110
+     41  31041 AIMORES                                      310220
+     41  31041 AIMORES                                      311740
+     41  31041 AIMORES                                      311840
+     41  31041 AIMORES                                      312083
+     41  31041 AIMORES                                      312737
+     41  31041 AIMORES                                      313120
+     41  31041 AIMORES                                      313410
+     41  31041 AIMORES                                      314400
+     41  31041 AIMORES                                      315190
+     41  31041 AIMORES                                      315430
+     41  31041 AIMORES                                      315950
+     41  31041 AIMORES                                      316805
+     42  31042 PIUI                                         310510
+     42  31042 PIUI                                         311980
+     42  31042 PIUI                                         312340
+     42  31042 PIUI                                         313030
+     42  31042 PIUI                                         314130
+     42  31042 PIUI                                         315150
+     42  31042 PIUI                                         316430
+     42  31042 PIUI                                         316820
+     42  31042 PIUI                                         317060
+     43  31043 DIVINOPOLIS                                  311420
+     43  31043 DIVINOPOLIS                                  311660
+     43  31043 DIVINOPOLIS                                  311760
+     43  31043 DIVINOPOLIS                                  312230
+     43  31043 DIVINOPOLIS                                  313020
+     43  31043 DIVINOPOLIS                                  313380
+     43  31043 DIVINOPOLIS                                  314520
+     43  31043 DIVINOPOLIS                                  314970
+     43  31043 DIVINOPOLIS                                  316040
+     43  31043 DIVINOPOLIS                                  316180
+     43  31043 DIVINOPOLIS                                  316460
+     44  31044 FORMIGA                                      310420
+     44  31044 FORMIGA                                      311040
+     44  31044 FORMIGA                                      311995
+     44  31044 FORMIGA                                      312610
+     44  31044 FORMIGA                                      313350
+     44  31044 FORMIGA                                      314650
+     44  31044 FORMIGA                                      314890
+     44  31044 FORMIGA                                      315050
+     45  31045 CAMPO BELO                                   310080
+     45  31045 CAMPO BELO                                   311120
+     45  31045 CAMPO BELO                                   311190
+     45  31045 CAMPO BELO                                   311200
+     45  31045 CAMPO BELO                                   312020
+     45  31045 CAMPO BELO                                   314990
+     45  31045 CAMPO BELO                                   315880
+     46  31046 OLIVEIRA                                     310800
+     46  31046 OLIVEIRA                                     311400
+     46  31046 OLIVEIRA                                     311450
+     46  31046 OLIVEIRA                                     313000
+     46  31046 OLIVEIRA                                     314560
+     46  31046 OLIVEIRA                                     314770
+     46  31046 OLIVEIRA                                     315060
+     46  31046 OLIVEIRA                                     315990
+     46  31046 OLIVEIRA                                     316120
+     47  31047 PASSOS                                       310190
+     47  31047 PASSOS                                       310760
+     47  31047 PASSOS                                       311240
+     47  31047 PASSOS                                       311280
+     47  31047 PASSOS                                       311510
+     47  31047 PASSOS                                       311640
+     47  31047 PASSOS                                       312120
+     47  31047 PASSOS                                       312630
+     47  31047 PASSOS                                       312970
+     47  31047 PASSOS                                       313375
+     47  31047 PASSOS                                       314790
+     47  31047 PASSOS                                       315290
+     47  31047 PASSOS                                       316220
+     47  31047 PASSOS                                       316294
+     48  31048 SAO SEBASTIAO DO PARAISO                     310410
+     48  31048 SAO SEBASTIAO DO PARAISO                     310950
+     48  31048 SAO SEBASTIAO DO PARAISO                     312830
+     48  31048 SAO SEBASTIAO DO PARAISO                     312870
+     48  31048 SAO SEBASTIAO DO PARAISO                     313290
+     48  31048 SAO SEBASTIAO DO PARAISO                     313480
+     48  31048 SAO SEBASTIAO DO PARAISO                     313690
+     48  31048 SAO SEBASTIAO DO PARAISO                     314300
+     48  31048 SAO SEBASTIAO DO PARAISO                     314320
+     48  31048 SAO SEBASTIAO DO PARAISO                     314410
+     48  31048 SAO SEBASTIAO DO PARAISO                     314510
+     48  31048 SAO SEBASTIAO DO PARAISO                     316390
+     48  31048 SAO SEBASTIAO DO PARAISO                     316470
+     48  31048 SAO SEBASTIAO DO PARAISO                     316510
+     49  31049 ALFENAS                                      310160
+     49  31049 ALFENAS                                      310200
+     49  31049 ALFENAS                                      310430
+     49  31049 ALFENAS                                      311440
+     49  31049 ALFENAS                                      311470
+     49  31049 ALFENAS                                      311710
+     49  31049 ALFENAS                                      312240
+     49  31049 ALFENAS                                      312520
+     49  31049 ALFENAS                                      313900
+     49  31049 ALFENAS                                      314720
+     49  31049 ALFENAS                                      315170
+     49  31049 ALFENAS                                      316690
+     50  31050 VARGINHA                                     310710
+     50  31050 VARGINHA                                     311090
+     50  31050 VARGINHA                                     311130
+     50  31050 VARGINHA                                     311160
+     50  31050 VARGINHA                                     311390
+     50  31050 VARGINHA                                     311870
+     50  31050 VARGINHA                                     312360
+     50  31050 VARGINHA                                     312810
+     50  31050 VARGINHA                                     313050
+     50  31050 VARGINHA                                     314260
+     50  31050 VARGINHA                                     315830
+     50  31050 VARGINHA                                     316080
+     50  31050 VARGINHA                                     316520
+     50  31050 VARGINHA                                     316930
+     50  31050 VARGINHA                                     316940
+     50  31050 VARGINHA                                     317070
+     51  31051 POCOS DE CALDAS                              310140
+     51  31051 POCOS DE CALDAS                              310260
+     51  31051 POCOS DE CALDAS                              310530
+     51  31051 POCOS DE CALDAS                              310840
+     51  31051 POCOS DE CALDAS                              311030
+     51  31051 POCOS DE CALDAS                              311100
+     51  31051 POCOS DE CALDAS                              312990
+     51  31051 POCOS DE CALDAS                              313060
+     51  31051 POCOS DE CALDAS                              313490
+     51  31051 POCOS DE CALDAS                              314340
+     51  31051 POCOS DE CALDAS                              314600
+     51  31051 POCOS DE CALDAS                              315180
+     51  31051 POCOS DE CALDAS                              315920
+     52  31052 POUSO ALEGRE                                 310790
+     52  31052 POUSO ALEGRE                                 310830
+     52  31052 POUSO ALEGRE                                 310910
+     52  31052 POUSO ALEGRE                                 311050
+     52  31052 POUSO ALEGRE                                 311060
+     52  31052 POUSO ALEGRE                                 311790
+     52  31052 POUSO ALEGRE                                 311990
+     52  31052 POUSO ALEGRE                                 312440
+     52  31052 POUSO ALEGRE                                 312450
+     52  31052 POUSO ALEGRE                                 312510
+     52  31052 POUSO ALEGRE                                 312740
+     52  31052 POUSO ALEGRE                                 313150
+     52  31052 POUSO ALEGRE                                 313360
+     52  31052 POUSO ALEGRE                                 314380
+     52  31052 POUSO ALEGRE                                 315250
+     52  31052 POUSO ALEGRE                                 316540
+     52  31052 POUSO ALEGRE                                 316557
+     52  31052 POUSO ALEGRE                                 316580
+     52  31052 POUSO ALEGRE                                 316905
+     52  31052 POUSO ALEGRE                                 316910
+     53  31053 SANTA RITA DO SAPUCAI                        310970
+     53  31053 SANTA RITA DO SAPUCAI                        311360
+     53  31053 SANTA RITA DO SAPUCAI                        311720
+     53  31053 SANTA RITA DO SAPUCAI                        311780
+     53  31053 SANTA RITA DO SAPUCAI                        311900
+     53  31053 SANTA RITA DO SAPUCAI                        312920
+     53  31053 SANTA RITA DO SAPUCAI                        314440
+     53  31053 SANTA RITA DO SAPUCAI                        314910
+     53  31053 SANTA RITA DO SAPUCAI                        315960
+     53  31053 SANTA RITA DO SAPUCAI                        316200
+     53  31053 SANTA RITA DO SAPUCAI                        316230
+     53  31053 SANTA RITA DO SAPUCAI                        316320
+     53  31053 SANTA RITA DO SAPUCAI                        316440
+     53  31053 SANTA RITA DO SAPUCAI                        316740
+     53  31053 SANTA RITA DO SAPUCAI                        316980
+     54  31054 SAO LOURENCO                                 310130
+     54  31054 SAO LOURENCO                                 310490
+     54  31054 SAO LOURENCO                                 311070
+     54  31054 SAO LOURENCO                                 311410
+     54  31054 SAO LOURENCO                                 311550
+     54  31054 SAO LOURENCO                                 311770
+     54  31054 SAO LOURENCO                                 313300
+     54  31054 SAO LOURENCO                                 313310
+     54  31054 SAO LOURENCO                                 313590
+     54  31054 SAO LOURENCO                                 313780
+     54  31054 SAO LOURENCO                                 314550
+     54  31054 SAO LOURENCO                                 314760
+     54  31054 SAO LOURENCO                                 315260
+     54  31054 SAO LOURENCO                                 316370
+     54  31054 SAO LOURENCO                                 316490
+     54  31054 SAO LOURENCO                                 316780
+     55  31055 ANDRELANDIA                                  310120
+     55  31055 ANDRELANDIA                                  310280
+     55  31055 ANDRELANDIA                                  310360
+     55  31055 ANDRELANDIA                                  310720
+     55  31055 ANDRELANDIA                                  310750
+     55  31055 ANDRELANDIA                                  311480
+     55  31055 ANDRELANDIA                                  312080
+     55  31055 ANDRELANDIA                                  313850
+     55  31055 ANDRELANDIA                                  314190
+     55  31055 ANDRELANDIA                                  314780
+     55  31055 ANDRELANDIA                                  316530
+     55  31055 ANDRELANDIA                                  316640
+     55  31055 ANDRELANDIA                                  316700
+     56  31056 ITAJUBA                                      310890
+     56  31056 ITAJUBA                                      311850
+     56  31056 ITAJUBA                                      312050
+     56  31056 ITAJUBA                                      312110
+     56  31056 ITAJUBA                                      312280
+     56  31056 ITAJUBA                                      313240
+     56  31056 ITAJUBA                                      313990
+     56  31056 ITAJUBA                                      314040
+     56  31056 ITAJUBA                                      314730
+     56  31056 ITAJUBA                                      315090
+     56  31056 ITAJUBA                                      315100
+     56  31056 ITAJUBA                                      317170
+     56  31056 ITAJUBA                                      317220
+     57  31057 LAVRAS                                       311460
+     57  31057 LAVRAS                                       313040
+     57  31057 LAVRAS                                       313080
+     57  31057 LAVRAS                                       313430
+     57  31057 LAVRAS                                       313450
+     57  31057 LAVRAS                                       313820
+     57  31057 LAVRAS                                       313870
+     57  31057 LAVRAS                                       314460
+     57  31057 LAVRAS                                       315470
+     58  31058 SAO JOAO DEL REI                             311520
+     58  31058 SAO JOAO DEL REI                             311970
+     58  31058 SAO JOAO DEL REI                             312300
+     58  31058 SAO JOAO DEL REI                             313740
+     58  31058 SAO JOAO DEL REI                             313910
+     58  31058 SAO JOAO DEL REI                             314450
+     58  31058 SAO JOAO DEL REI                             315030
+     58  31058 SAO JOAO DEL REI                             315270
+     58  31058 SAO JOAO DEL REI                             315420
+     58  31058 SAO JOAO DEL REI                             315610
+     58  31058 SAO JOAO DEL REI                             315733
+     58  31058 SAO JOAO DEL REI                             315870
+     58  31058 SAO JOAO DEL REI                             316250
+     58  31058 SAO JOAO DEL REI                             316500
+     58  31058 SAO JOAO DEL REI                             316880
+     59  31059 BARBACENA                                    310163
+     59  31059 BARBACENA                                    310290
+     59  31059 BARBACENA                                    310560
+     59  31059 BARBACENA                                    310590
+     59  31059 BARBACENA                                    311220
+     59  31059 BARBACENA                                    311310
+     59  31059 BARBACENA                                    311320
+     59  31059 BARBACENA                                    312150
+     59  31059 BARBACENA                                    312940
+     59  31059 BARBACENA                                    315440
+     59  31059 BARBACENA                                    315730
+     59  31059 BARBACENA                                    316620
+     60  31060 PONTE NOVA                                   310040
+     60  31060 PONTE NOVA                                   310570
+     60  31060 PONTE NOVA                                   312270
+     60  31060 PONTE NOVA                                   312820
+     60  31060 PONTE NOVA                                   313550
+     60  31060 PONTE NOVA                                   314585
+     60  31060 PONTE NOVA                                   315020
+     60  31060 PONTE NOVA                                   315210
+     60  31060 PONTE NOVA                                   315400
+     60  31060 PONTE NOVA                                   315490
+     60  31060 PONTE NOVA                                   315500
+     60  31060 PONTE NOVA                                   315740
+     60  31060 PONTE NOVA                                   316010
+     60  31060 PONTE NOVA                                   316400
+     60  31060 PONTE NOVA                                   316556
+     60  31060 PONTE NOVA                                   316630
+     60  31060 PONTE NOVA                                   317050
+     60  31060 PONTE NOVA                                   317115
+     61  31061 MANHUACU                                     310030
+     61  31061 MANHUACU                                     310205
+     61  31061 MANHUACU                                     311210
+     61  31061 MANHUACU                                     311290
+     61  31061 MANHUACU                                     311600
+     61  31061 MANHUACU                                     312352
+     61  31061 MANHUACU                                     313770
+     61  31061 MANHUACU                                     313867
+     61  31061 MANHUACU                                     313940
+     61  31061 MANHUACU                                     313950
+     61  31061 MANHUACU                                     314053
+     61  31061 MANHUACU                                     314090
+     61  31061 MANHUACU                                     314875
+     61  31061 MANHUACU                                     315350
+     61  31061 MANHUACU                                     315415
+     61  31061 MANHUACU                                     315790
+     61  31061 MANHUACU                                     315890
+     61  31061 MANHUACU                                     316255
+     61  31061 MANHUACU                                     316360
+     61  31061 MANHUACU                                     316760
+     62  31062 VICOSA                                       310210
+     62  31062 VICOSA                                       310250
+     62  31062 VICOSA                                       310370
+     62  31062 VICOSA                                       310870
+     62  31062 VICOSA                                       311020
+     62  31062 VICOSA                                       311170
+     62  31062 VICOSA                                       311630
+     62  31062 VICOSA                                       311670
+     62  31062 VICOSA                                       312400
+     62  31062 VICOSA                                       313790
+     62  31062 VICOSA                                       314830
+     62  31062 VICOSA                                       314880
+     62  31062 VICOSA                                       315080
+     62  31062 VICOSA                                       315230
+     62  31062 VICOSA                                       315310
+     62  31062 VICOSA                                       315520
+     62  31062 VICOSA                                       316380
+     62  31062 VICOSA                                       316600
+     62  31062 VICOSA                                       316850
+     62  31062 VICOSA                                       317130
+     63  31063 MURIAE                                       310310
+     63  31063 MURIAE                                       310550
+     63  31063 MURIAE                                       311010
+     63  31063 MURIAE                                       311330
+     63  31063 MURIAE                                       312200
+     63  31063 MURIAE                                       312420
+     63  31063 MURIAE                                       312490
+     63  31063 MURIAE                                       312530
+     63  31063 MURIAE                                       312595
+     63  31063 MURIAE                                       314210
+     63  31063 MURIAE                                       314220
+     63  31063 MURIAE                                       314390
+     63  31063 MURIAE                                       314587
+     63  31063 MURIAE                                       314820
+     63  31063 MURIAE                                       314900
+     63  31063 MURIAE                                       315645
+     63  31063 MURIAE                                       316140
+     63  31063 MURIAE                                       316443
+     63  31063 MURIAE                                       316920
+     63  31063 MURIAE                                       317140
+     64  31064 UBA                                          310460
+     64  31064 UBA                                          312190
+     64  31064 UBA                                          312330
+     64  31064 UBA                                          312840
+     64  31064 UBA                                          312880
+     64  31064 UBA                                          312900
+     64  31064 UBA                                          314160
+     64  31064 UBA                                          315130
+     64  31064 UBA                                          315580
+     64  31064 UBA                                          315630
+     64  31064 UBA                                          316150
+     64  31064 UBA                                          316570
+     64  31064 UBA                                          316730
+     64  31064 UBA                                          316790
+     64  31064 UBA                                          316900
+     64  31064 UBA                                          316990
+     64  31064 UBA                                          317200
+     65  31065 JUIZ DE FORA                                 310330
+     65  31065 JUIZ DE FORA                                 310610
+     65  31065 JUIZ DE FORA                                 310680
+     65  31065 JUIZ DE FORA                                 310690
+     65  31065 JUIZ DE FORA                                 311590
+     65  31065 JUIZ DE FORA                                 311620
+     65  31065 JUIZ DE FORA                                 311960
+     65  31065 JUIZ DE FORA                                 312130
+     65  31065 JUIZ DE FORA                                 312500
+     65  31065 JUIZ DE FORA                                 312738
+     65  31065 JUIZ DE FORA                                 312850
+     65  31065 JUIZ DE FORA                                 313670
+     65  31065 JUIZ DE FORA                                 313860
+     65  31065 JUIZ DE FORA                                 313980
+     65  31065 JUIZ DE FORA                                 314020
+     65  31065 JUIZ DE FORA                                 314080
+     65  31065 JUIZ DE FORA                                 314540
+     65  31065 JUIZ DE FORA                                 314570
+     65  31065 JUIZ DE FORA                                 314660
+     65  31065 JUIZ DE FORA                                 314940
+     65  31065 JUIZ DE FORA                                 314950
+     65  31065 JUIZ DE FORA                                 315010
+     65  31065 JUIZ DE FORA                                 315540
+     65  31065 JUIZ DE FORA                                 315590
+     65  31065 JUIZ DE FORA                                 315620
+     65  31065 JUIZ DE FORA                                 315727
+     65  31065 JUIZ DE FORA                                 315860
+     65  31065 JUIZ DE FORA                                 315930
+     65  31065 JUIZ DE FORA                                 315940
+     65  31065 JUIZ DE FORA                                 316070
+     65  31065 JUIZ DE FORA                                 316290
+     65  31065 JUIZ DE FORA                                 316560
+     65  31065 JUIZ DE FORA                                 316750
+     66  31066 CATAGUASES                                   310150
+     66  31066 CATAGUASES                                   310440
+     66  31066 CATAGUASES                                   311530
+     66  31066 CATAGUASES                                   312290
+     66  31066 CATAGUASES                                   312460
+     66  31066 CATAGUASES                                   313260
+     66  31066 CATAGUASES                                   313800
+     66  31066 CATAGUASES                                   313840
+     66  31066 CATAGUASES                                   314670
+     66  31066 CATAGUASES                                   315110
+     66  31066 CATAGUASES                                   315410
+     66  31066 CATAGUASES                                   315840
+     66  31066 CATAGUASES                                   316000
+     66  31066 CATAGUASES                                   317210
+     67  Ignorado - MG                                      310000,319999

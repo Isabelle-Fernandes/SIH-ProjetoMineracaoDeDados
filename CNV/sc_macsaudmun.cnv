@@ -1,0 +1,304 @@
+N 303 6
+        1  4210 SUL                                                                                             420140,420150,420195,420207,420280,420395,420425,420460,420519,420545,420610,420620,420700,420720,420730,420870,420880,420940,420960,421040,421080,421120,421125,421160,421170,421225,421240,421265,421380,421490,421545,421560,421565,421640,421700,421710,421760,421770,421810,421835,421840,421870,421880,421900,422000
+   1    2  .....  COCAL DO SUL                                                                                  420425
+   1    3  .....  PASSO DE TORRES                                                                               421225
+   1    4  .....  NOVA VENEZA                                                                                   421160
+   1    5  .....  MORRO DA FUMACA                                                                               421120
+   1    6  .....  MELEIRO                                                                                       421080
+   1    7  .....  ARARANGUA                                                                                     420140
+   1    8  .....  ARMAZEM                                                                                       420150
+   1    9  .....  URUSSANGA                                                                                     421900
+   1   10  .....  LAGUNA                                                                                        420940
+   1   11  .....  TREVISO                                                                                       421835
+   1   12  .....  SIDEROPOLIS                                                                                   421760
+   1   13  .....  IMARUI                                                                                        420720
+   1   14  .....  GRAO PARA                                                                                     420610
+   1   15  .....  PRAIA GRANDE                                                                                  421380
+   1   16  .....  CRICIUMA                                                                                      420460
+   1   17  .....  TUBARAO                                                                                       421870
+   1   18  .....  MORRO GRANDE                                                                                  421125
+   1   19  .....  BRACO DO NORTE                                                                                420280
+   1   20  .....  MARACAJA                                                                                      421040
+   1   21  .....  LAURO MULLER                                                                                  420960
+   1   22  .....  JACINTO MACHADO                                                                               420870
+   1   23  .....  BALNEARIO RINCAO                                                                              422000
+   1   24  .....  TURVO                                                                                         421880
+   1   25  .....  ICARA                                                                                         420700
+   1   26  .....  PEDRAS GRANDES                                                                                421240
+   1   27  .....  SAO MARTINHO                                                                                  421710
+   1   28  .....  ORLEANS                                                                                       421170
+   1   29  .....  TREZE DE MAIO                                                                                 421840
+   1   30  .....  ERMO                                                                                          420519
+   1   31  .....  SOMBRIO                                                                                       421770
+   1   32  .....  SAO LUDGERO                                                                                   421700
+   1   33  .....  SAO JOAO DO SUL                                                                               421640
+   1   34  .....  SANTA ROSA DE LIMA                                                                            421560
+   1   35  .....  SANTA ROSA DO SUL                                                                             421565
+   1   36  .....  IMBITUBA                                                                                      420730
+   1   37  .....  RIO FORTUNA                                                                                   421490
+   1   38  .....  GRAVATAL                                                                                      420620
+   1   39  .....  FORQUILHINHA                                                                                  420545
+   1   40  .....  BALNEARIO ARROIO DO SILVA                                                                     420195
+   1   41  .....  CAPIVARI DE BAIXO                                                                             420395
+   1   42  .....  SANGAO                                                                                        421545
+   1   43  .....  TIMBE DO SUL                                                                                  421810
+   1   44  .....  BALNEARIO GAIVOTA                                                                             420207
+   1   45  .....  PESCARIA BRAVA                                                                                421265
+   1   46  .....  JAGUARUNA                                                                                     420880
+       47  4211 PLANALTO NORTE E NORDESTE                                                                       420130,420205,420210,420213,420330,420380,420450,420580,420650,420790,420810,420845,420890,420910,421010,421030,421060,421110,421220,421360,421500,421580,421620,421635,421740,421830
+  47   48  .....  CAMPO ALEGRE                                                                                  420330
+  47   49  .....  CANOINHAS                                                                                     420380
+  47   50  .....  PORTO UNIAO                                                                                   421360
+  47   51  .....  PAPANDUVA                                                                                     421220
+  47   52  .....  MONTE CASTELO                                                                                 421110
+  47   53  .....  ITAIOPOLIS                                                                                    420810
+  47   54  .....  ITAPOA                                                                                        420845
+  47   55  .....  GUARAMIRIM                                                                                    420650
+  47   56  .....  ARAQUARI                                                                                      420130
+  47   57  .....  BELA VISTA DO TOLDO                                                                           420213
+  47   58  .....  SCHROEDER                                                                                     421740
+  47   59  .....  JARAGUA DO SUL                                                                                420890
+  47   60  .....  MAJOR VIEIRA                                                                                  421030
+  47   61  .....  BARRA VELHA                                                                                   420210
+  47   62  .....  SAO FRANCISCO DO SUL                                                                          421620
+  47   63  .....  MAFRA                                                                                         421010
+  47   64  .....  JOINVILLE                                                                                     420910
+  47   65  .....  MASSARANDUBA                                                                                  421060
+  47   66  .....  SAO JOAO DO ITAPERIU                                                                          421635
+  47   67  .....  SAO BENTO DO SUL                                                                              421580
+  47   68  .....  RIO NEGRINHO                                                                                  421500
+  47   69  .....  GARUVA                                                                                        420580
+  47   70  .....  BALNEARIO BARRA DO SUL                                                                        420205
+  47   71  .....  TRES BARRAS                                                                                   421830
+  47   72  .....  IRINEOPOLIS                                                                                   420790
+  47   73  .....  CORUPA                                                                                        420450
+       74  4213 GRANDE OESTE                                                                                    420010,420050,420055,420080,420165,420208,420209,420215,420253,420257,420310,420350,420410,420420,420435,420440,420445,420470,420475,420490,420500,420517,420530,420535,420543,420560,420640,420660,420665,420765,420768,420775,420785,420840,420895,420917,420945,421050,421055,421090,421100,421140,421145,421165,421185,421187,421200,421210,421223,421227,421290,421315,421340,421415,421420,421507,421520,421535,421555,421568,421569,421575,421600,421610,421625,421670,421690,421715,421720,421730,421755,421775,421795,421875,421885,421910,421950,421970
+  74   75  .....  CHAPECO                                                                                       420420
+  74   76  .....  BELMONTE                                                                                      420215
+  74   77  .....  CORONEL FREITAS                                                                               420440
+  74   78  .....  CUNHA PORA                                                                                    420470
+  74   79  .....  CUNHATAI                                                                                      420475
+  74   80  .....  NOVA ITABERABA                                                                                421145
+  74   81  .....  SAO CARLOS                                                                                    421600
+  74   82  .....  SAO LOURENCO DO OESTE                                                                         421690
+  74   83  .....  SAUDADES                                                                                      421730
+  74   84  .....  NOVO HORIZONTE                                                                                421165
+  74   85  .....  QUILOMBO                                                                                      421420
+  74   86  .....  SANTA HELENA                                                                                  421555
+  74   87  .....  ITAPIRANGA                                                                                    420840
+  74   88  .....  PARAISO                                                                                       421223
+  74   89  .....  CAMPO ERE                                                                                     420350
+  74   90  .....  SANTA TEREZINHA DO PROGRESSO                                                                  421568
+  74   91  .....  ROMELANDIA                                                                                    421520
+  74   92  .....  CORONEL MARTINS                                                                               420445
+  74   93  .....  PRINCESA                                                                                      421415
+  74   94  .....  AGUAS DE CHAPECO                                                                              420050
+  74   95  .....  PAIAL                                                                                         421187
+  74   96  .....  XAXIM                                                                                         421970
+  74   97  .....  PALMA SOLA                                                                                    421200
+  74   98  .....  BOM JESUS                                                                                     420253
+  74   99  .....  ABELARDO LUZ                                                                                  420010
+  74  100  .....  AGUAS FRIAS                                                                                   420055
+  74  101  .....  MARAVILHA                                                                                     421050
+  74  102  .....  MAREMA                                                                                        421055
+  74  103  .....  ANCHIETA                                                                                      420080
+  74  104  .....  XANXERE                                                                                       421950
+  74  105  .....  ARVOREDO                                                                                      420165
+  74  106  .....  VARGEAO                                                                                       421910
+  74  107  .....  LAJEADO GRANDE                                                                                420945
+  74  108  .....  TUNAPOLIS                                                                                     421875
+  74  109  .....  SERRA ALTA                                                                                    421755
+  74  110  .....  IRACEMINHA                                                                                    420775
+  74  111  .....  SUL BRASIL                                                                                    421775
+  74  112  .....  IRATI                                                                                         420785
+  74  113  .....  GUATAMBU                                                                                      420665
+  74  114  .....  SAO MIGUEL DO OESTE                                                                           421720
+  74  115  .....  FAXINAL DOS GUEDES                                                                            420530
+  74  116  .....  SANTIAGO DO SUL                                                                               421569
+  74  117  .....  FLOR DO SERTAO                                                                                420535
+  74  118  .....  PINHALZINHO                                                                                   421290
+  74  119  .....  FORMOSA DO SUL                                                                                420543
+  74  120  .....  BANDEIRANTE                                                                                   420208
+  74  121  .....  PONTE SERRADA                                                                                 421340
+  74  122  .....  CORDILHEIRA ALTA                                                                              420435
+  74  123  .....  IPUACU                                                                                        420768
+  74  124  .....  PASSOS MAIA                                                                                   421227
+  74  125  .....  TIGRINHOS                                                                                     421795
+  74  126  .....  GUARACIABA                                                                                    420640
+  74  127  .....  SAO MIGUEL DA BOA VISTA                                                                       421715
+  74  128  .....  RIQUEZA                                                                                       421507
+  74  129  .....  SALTINHO                                                                                      421535
+  74  130  .....  BOM JESUS DO OESTE                                                                            420257
+  74  131  .....  NOVA ERECHIM                                                                                  421140
+  74  132  .....  JARDINOPOLIS                                                                                  420895
+  74  133  .....  PLANALTO ALEGRE                                                                               421315
+  74  134  .....  IPORA DO OESTE                                                                                420765
+  74  135  .....  GALVAO                                                                                        420560
+  74  136  .....  PALMITOS                                                                                      421210
+  74  137  .....  UNIAO DO OESTE                                                                                421885
+  74  138  .....  SAO DOMINGOS                                                                                  421610
+  74  139  .....  DIONISIO CERQUEIRA                                                                            420500
+  74  140  .....  OURO VERDE                                                                                    421185
+  74  141  .....  SAO JOSE DO CEDRO                                                                             421670
+  74  142  .....  CAXAMBU DO SUL                                                                                420410
+  74  143  .....  JUPIA                                                                                         420917
+  74  144  .....  MODELO                                                                                        421090
+  74  145  .....  MONDAI                                                                                        421100
+  74  146  .....  SAO JOAO DO OESTE                                                                             421625
+  74  147  .....  SAO BERNARDINO                                                                                421575
+  74  148  .....  CAIBI                                                                                         420310
+  74  149  .....  ENTRE RIOS                                                                                    420517
+  74  150  .....  DESCANSO                                                                                      420490
+  74  151  .....  BARRA BONITA                                                                                  420209
+  74  152  .....  GUARUJA DO SUL                                                                                420660
+      153  4214 GRANDE FLORIANOPOLIS                                                                            420060,420070,420090,420110,420120,420230,420370,420540,420570,420600,420980,421020,421150,421190,421230,421430,421570,421590,421630,421660,421725,421800
+ 153  154  .....  ALFREDO WAGNER                                                                                420070
+ 153  155  .....  BIGUACU                                                                                       420230
+ 153  156  .....  GOVERNADOR CELSO RAMOS                                                                        420600
+ 153  157  .....  SAO JOSE                                                                                      421660
+ 153  158  .....  SAO BONIFACIO                                                                                 421590
+ 153  159  .....  ANTONIO CARLOS                                                                                420120
+ 153  160  .....  CANELINHA                                                                                     420370
+ 153  161  .....  SAO JOAO BATISTA                                                                              421630
+ 153  162  .....  FLORIANOPOLIS                                                                                 420540
+ 153  163  .....  GAROPABA                                                                                      420570
+ 153  164  .....  PALHOCA                                                                                       421190
+ 153  165  .....  TIJUCAS                                                                                       421800
+ 153  166  .....  NOVA TRENTO                                                                                   421150
+ 153  167  .....  SAO PEDRO DE ALCANTARA                                                                        421725
+ 153  168  .....  AGUAS MORNAS                                                                                  420060
+ 153  169  .....  ANITAPOLIS                                                                                    420110
+ 153  170  .....  LEOBERTO LEAL                                                                                 420980
+ 153  171  .....  PAULO LOPES                                                                                   421230
+ 153  172  .....  MAJOR GERCINO                                                                                 421020
+ 153  173  .....  ANGELINA                                                                                      420090
+ 153  174  .....  SANTO AMARO DA IMPERATRIZ                                                                     421570
+ 153  175  .....  RANCHO QUEIMADO                                                                               421430
+      176  4215 FOZ DO RIO ITAJAI                                                                               420200,420245,420320,420710,420820,420830,421000,421130,421250,421280,421350
+ 176  177  .....  BALNEARIO CAMBORIU                                                                            420200
+ 176  178  .....  LUIZ ALVES                                                                                    421000
+ 176  179  .....  BALNEARIO PICARRAS                                                                            421280
+ 176  180  .....  ITAPEMA                                                                                       420830
+ 176  181  .....  PORTO BELO                                                                                    421350
+ 176  182  .....  ITAJAI                                                                                        420820
+ 176  183  .....  BOMBINHAS                                                                                     420245
+ 176  184  .....  ILHOTA                                                                                        420710
+ 176  185  .....  CAMBORIU                                                                                      420320
+ 176  186  .....  NAVEGANTES                                                                                    421130
+ 176  187  .....  PENHA                                                                                         421250
+      188  4216 VALE DO ITAJAI                                                                                  420020,420030,420125,420170,420180,420190,420220,420240,420270,420285,420290,420419,420510,420515,420590,420630,420690,420740,420750,420850,420915,420950,420990,421085,421270,421320,421370,421400,421410,421450,421460,421470,421480,421510,421530,421567,421780,421820,421860,421920,421935,421940
+ 188  189  .....  PETROLANDIA                                                                                   421270
+ 188  190  .....  AGRONOMICA                                                                                    420030
+ 188  191  .....  BRACO DO TROMBUDO                                                                             420285
+ 188  192  .....  ATALANTA                                                                                      420180
+ 188  193  .....  VIDAL RAMOS                                                                                   421920
+ 188  194  .....  BLUMENAU                                                                                      420240
+ 188  195  .....  AURORA                                                                                        420190
+ 188  196  .....  BENEDITO NOVO                                                                                 420220
+ 188  197  .....  AGROLANDIA                                                                                    420020
+ 188  198  .....  VITOR MEIRELES                                                                                421935
+ 188  199  .....  WITMARSUM                                                                                     421940
+ 188  200  .....  TROMBUDO CENTRAL                                                                              421860
+ 188  201  .....  IBIRAMA                                                                                       420690
+ 188  202  .....  GASPAR                                                                                        420590
+ 188  203  .....  DOUTOR PEDRINHO                                                                               420515
+ 188  204  .....  RIO DO SUL                                                                                    421480
+ 188  205  .....  APIUNA                                                                                        420125
+ 188  206  .....  ASCURRA                                                                                       420170
+ 188  207  .....  TAIO                                                                                          421780
+ 188  208  .....  SANTA TEREZINHA                                                                               421567
+ 188  209  .....  IMBUIA                                                                                        420740
+ 188  210  .....  PRESIDENTE GETULIO                                                                            421400
+ 188  211  .....  TIMBO                                                                                         421820
+ 188  212  .....  INDAIAL                                                                                       420750
+ 188  213  .....  LONTRAS                                                                                       420990
+ 188  214  .....  BOTUVERA                                                                                      420270
+ 188  215  .....  BRUSQUE                                                                                       420290
+ 188  216  .....  RIO DO OESTE                                                                                  421460
+ 188  217  .....  RIO DOS CEDROS                                                                                421470
+ 188  218  .....  RODEIO                                                                                        421510
+ 188  219  .....  CHAPADAO DO LAGEADO                                                                           420419
+ 188  220  .....  JOSE BOITEUX                                                                                  420915
+ 188  221  .....  LAURENTINO                                                                                    420950
+ 188  222  .....  MIRIM DOCE                                                                                    421085
+ 188  223  .....  PRESIDENTE NEREU                                                                              421410
+ 188  224  .....  RIO DO CAMPO                                                                                  421450
+ 188  225  .....  POUSO REDONDO                                                                                 421370
+ 188  226  .....  DONA EMMA                                                                                     420510
+ 188  227  .....  ITUPORANGA                                                                                    420850
+ 188  228  .....  GUABIRUBA                                                                                     420630
+ 188  229  .....  SALETE                                                                                        421530
+ 188  230  .....  POMERODE                                                                                      421320
+      231  4217 MEIO OESTE                                                                                      420005,420040,420075,420127,420160,420287,420300,420315,420360,420390,420400,420415,420430,420480,420520,420550,420555,420670,420675,420680,420757,420760,420770,420780,420800,420860,420900,420920,420970,420985,421003,421005,421070,421105,421180,421260,421300,421310,421335,421390,421440,421540,421550,421605,421750,421790,421825,421850,421915,421917,421930,421960,421985
+ 231  232  .....  CATANDUVAS                                                                                    420400
+ 231  233  .....  PONTE ALTA DO NORTE                                                                           421335
+ 231  234  .....  CALMON                                                                                        420315
+ 231  235  .....  PINHEIRO PRETO                                                                                421300
+ 231  236  .....  BRUNOPOLIS                                                                                    420287
+ 231  237  .....  ZORTEA                                                                                        421985
+ 231  238  .....  MONTE CARLO                                                                                   421105
+ 231  239  .....  ALTO BELA VISTA                                                                               420075
+ 231  240  .....  ARABUTA                                                                                       420127
+ 231  241  .....  MATOS COSTA                                                                                   421070
+ 231  242  .....  LINDOIA DO SUL                                                                                420985
+ 231  243  .....  VARGEM BONITA                                                                                 421917
+ 231  244  .....  ARROIO TRINTA                                                                                 420160
+ 231  245  .....  XAVANTINA                                                                                     421960
+ 231  246  .....  LACERDOPOLIS                                                                                  420920
+ 231  247  .....  IRANI                                                                                         420780
+ 231  248  .....  IPIRA                                                                                         420760
+ 231  249  .....  SEARA                                                                                         421750
+ 231  250  .....  HERVAL D'OESTE                                                                                420670
+ 231  251  .....  IBIAM                                                                                         420675
+ 231  252  .....  IBICARE                                                                                       420680
+ 231  253  .....  SAO CRISTOVAO DO SUL                                                                          421605
+ 231  254  .....  FRAIBURGO                                                                                     420550
+ 231  255  .....  ERVAL VELHO                                                                                   420520
+ 231  256  .....  PIRATUBA                                                                                      421310
+ 231  257  .....  OURO                                                                                          421180
+ 231  258  .....  TIMBO GRANDE                                                                                  421825
+ 231  259  .....  CAPINZAL                                                                                      420390
+ 231  260  .....  CACADOR                                                                                       420300
+ 231  261  .....  LEBON REGIS                                                                                   420970
+ 231  262  .....  SANTA CECILIA                                                                                 421550
+ 231  263  .....  JABORA                                                                                        420860
+ 231  264  .....  AGUA DOCE                                                                                     420040
+ 231  265  .....  IPUMIRIM                                                                                      420770
+ 231  266  .....  ITA                                                                                           420800
+ 231  267  .....  PERITIBA                                                                                      421260
+ 231  268  .....  TANGARA                                                                                       421790
+ 231  269  .....  VARGEM                                                                                        421915
+ 231  270  .....  FREI ROGERIO                                                                                  420555
+ 231  271  .....  VIDEIRA                                                                                       421930
+ 231  272  .....  MACIEIRA                                                                                      421005
+ 231  273  .....  JOACABA                                                                                       420900
+ 231  274  .....  IOMERE                                                                                        420757
+ 231  275  .....  RIO DAS ANTAS                                                                                 421440
+ 231  276  .....  CELSO RAMOS                                                                                   420415
+ 231  277  .....  SALTO VELOSO                                                                                  421540
+ 231  278  .....  TREZE TILIAS                                                                                  421850
+ 231  279  .....  PRESIDENTE CASTELLO BRANCO                                                                    421390
+ 231  280  .....  LUZERNA                                                                                       421003
+ 231  281  .....  CAMPOS NOVOS                                                                                  420360
+ 231  282  .....  ABDON BATISTA                                                                                 420005
+ 231  283  .....  CURITIBANOS                                                                                   420480
+ 231  284  .....  CONCORDIA                                                                                     420430
+      285  4218 SERRA CATARINENSE                                                                               420100,420243,420250,420260,420325,420340,420417,420455,420930,421175,421189,421205,421330,421505,421650,421680,421890,421895
+ 285  286  .....  BOM RETIRO                                                                                    420260
+ 285  287  .....  PAINEL                                                                                        421189
+ 285  288  .....  URUPEMA                                                                                       421895
+ 285  289  .....  BOM JARDIM DA SERRA                                                                           420250
+ 285  290  .....  URUBICI                                                                                       421890
+ 285  291  .....  ANITA GARIBALDI                                                                               420100
+ 285  292  .....  LAGES                                                                                         420930
+ 285  293  .....  OTACILIO COSTA                                                                                421175
+ 285  294  .....  CAPAO ALTO                                                                                    420325
+ 285  295  .....  PONTE ALTA                                                                                    421330
+ 285  296  .....  CAMPO BELO DO SUL                                                                             420340
+ 285  297  .....  SAO JOAQUIM                                                                                   421650
+ 285  298  .....  BOCAINA DO SUL                                                                                420243
+ 285  299  .....  RIO RUFINO                                                                                    421505
+ 285  300  .....  SAO JOSE DO CERRITO                                                                           421680
+ 285  301  .....  CORREIA PINTO                                                                                 420455
+ 285  302  .....  CERRO NEGRO                                                                                   420417
+ 285  303  .....  PALMEIRA                                                                                      421205

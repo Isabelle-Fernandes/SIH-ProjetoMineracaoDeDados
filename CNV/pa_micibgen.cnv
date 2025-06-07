@@ -1,0 +1,146 @@
+23  6                                                                                    
+      1  15003 PA Almeirim                                  150050                            
+      1  15003 PA Almeirim                                  150590                            
+      2  15015 PA Altamira                                  150060                            
+      2  15015 PA Altamira                                  150085                            
+      2  15015 PA Altamira                                  150172                            
+      2  15015 PA Altamira                                  150445                            
+      2  15015 PA Altamira                                  150548                            
+      2  15015 PA Altamira                                  150780                            
+      2  15015 PA Altamira                                  150815                            
+      2  15015 PA Altamira                                  150835                            
+      3  15006 PA Arari                                     150200                            
+      3  15006 PA Arari                                     150250                            
+      3  15006 PA Arari                                     150490                            
+      3  15006 PA Arari                                     150570                            
+      3  15006 PA Arari                                     150630                            
+      3  15006 PA Arari                                     150640                            
+      3  15006 PA Arari                                     150790                            
+      4  15007 PA Belém                                     150080                            
+      4  15007 PA Belém                                     150130                            
+      4  15007 PA Belém                                     150140                            
+      4  15007 PA Belém                                     150150                            
+      4  15007 PA Belém                                     150442                            
+      4  15007 PA Belém                                     150635                            
+      5  15010 PA Bragantina                                150090                            
+      5  15010 PA Bragantina                                150160                            
+      5  15010 PA Bragantina                                150170                            
+      5  15010 PA Bragantina                                150220                            
+      5  15010 PA Bragantina                                150320                            
+      5  15010 PA Bragantina                                150500                            
+      5  15010 PA Bragantina                                150560                            
+      5  15010 PA Bragantina                                150610                            
+      5  15010 PA Bragantina                                150611                            
+      5  15010 PA Bragantina                                150660                            
+      5  15010 PA Bragantina                                150690                            
+      5  15010 PA Bragantina                                150740                            
+      5  15010 PA Bragantina                                150803                            
+      6  15011 PA Cametá                                    150010                            
+      6  15011 PA Cametá                                    150120                            
+      6  15011 PA Cametá                                    150210                            
+      6  15011 PA Cametá                                    150330                            
+      6  15011 PA Cametá                                    150400                            
+      6  15011 PA Cametá                                    150460                            
+      6  15011 PA Cametá                                    150520                            
+      7  15008 PA Castanhal                                 150190                            
+      7  15008 PA Castanhal                                 150240                            
+      7  15008 PA Castanhal                                 150340                            
+      7  15008 PA Castanhal                                 150650                            
+      7  15008 PA Castanhal                                 150700                            
+      8  15022 PA Conceição do Araguaia                     150270                            
+      8  15022 PA Conceição do Araguaia                     150304                            
+      8  15022 PA Conceição do Araguaia                     150658                            
+      8  15022 PA Conceição do Araguaia                     150670                            
+      9  15005 PA Furos de Breves                           150030                            
+      9  15005 PA Furos de Breves                           150070                            
+      9  15005 PA Furos de Breves                           150180                            
+      9  15005 PA Furos de Breves                           150280                            
+      9  15005 PA Furos de Breves                           150770                            
+     10  15013 PA Guamá                                     150095                            
+     10  15013 PA Guamá                                     150195                            
+     10  15013 PA Guamá                                     150230                            
+     10  15013 PA Guamá                                     150307                            
+     10  15013 PA Guamá                                     150345                            
+     10  15013 PA Guamá                                     150350                            
+     10  15013 PA Guamá                                     150405                            
+     10  15013 PA Guamá                                     150495                            
+     10  15013 PA Guamá                                     150540                            
+     10  15013 PA Guamá                                     150655                            
+     10  15013 PA Guamá                                     150720                            
+     10  15013 PA Guamá                                     150760                            
+     10  15013 PA Guamá                                     150830                            
+     11  15014 PA Itaituba                                  150100                            
+     11  15014 PA Itaituba                                  150360                            
+     11  15014 PA Itaituba                                  150375                            
+     11  15014 PA Itaituba                                  150503                            
+     11  15014 PA Itaituba                                  150619                            
+     11  15014 PA Itaituba                                  150805                            
+     12  15020 PA Marabá                                    150175                            
+     12  15020 PA Marabá                                    150420                            
+     12  15020 PA Marabá                                    150549                            
+     12  15020 PA Marabá                                    150715                            
+     12  15020 PA Marabá                                    150750                            
+     13  15017 PA Paragominas                               150013                            
+     13  15017 PA Paragominas                               150157                            
+     13  15017 PA Paragominas                               150293                            
+     13  15017 PA Paragominas                               150309                            
+     13  15017 PA Paragominas                               150550                            
+     13  15017 PA Paragominas                               150618                            
+     13  15017 PA Paragominas                               150812                            
+     14  15019 PA Parauapebas                               150034                            
+     14  15019 PA Parauapebas                               150215                            
+     14  15019 PA Parauapebas                               150277                            
+     14  15019 PA Parauapebas                               150295                            
+     14  15019 PA Parauapebas                               150553                            
+     15  15004 PA Portel                                    150110                            
+     15  15004 PA Portel                                    150310                            
+     15  15004 PA Portel                                    150450                            
+     15  15004 PA Portel                                    150580                            
+     16  15021 PA Redenção                                  150555                            
+     16  15021 PA Redenção                                  150563                            
+     16  15021 PA Redenção                                  150613                            
+     16  15021 PA Redenção                                  150616                            
+     16  15021 PA Redenção                                  150745                            
+     16  15021 PA Redenção                                  150775                            
+     16  15021 PA Redenção                                  150840                            
+     17  15009 PA Salgado                                   150260                            
+     17  15009 PA Salgado                                   150290                            
+     17  15009 PA Salgado                                   150410                            
+     17  15009 PA Salgado                                   150430                            
+     17  15009 PA Salgado                                   150440                            
+     17  15009 PA Salgado                                   150620                            
+     17  15009 PA Salgado                                   150710                            
+     17  15009 PA Salgado                                   150746                            
+     17  15009 PA Salgado                                   150747                            
+     17  15009 PA Salgado                                   150796                            
+     17  15009 PA Salgado                                   150820                            
+     18  15002 PA Santarém                                  150040                            
+     18  15002 PA Santarém                                  150145                            
+     18  15002 PA Santarém                                  150285                            
+     18  15002 PA Santarém                                  150475                            
+     18  15002 PA Santarém                                  150480                            
+     18  15002 PA Santarém                                  150565                            
+     18  15002 PA Santarém                                  150600                            
+     18  15002 PA Santarém                                  150680                            
+     19  15018 PA São Félix do Xingu                        150125                            
+     19  15018 PA São Félix do Xingu                        150276                            
+     19  15018 PA São Félix do Xingu                        150543                            
+     19  15018 PA São Félix do Xingu                        150730                            
+     19  15018 PA São Félix do Xingu                        150808                            
+     20  15012 PA Tomé-Açu                                  150020                            
+     20  15012 PA Tomé-Açu                                  150275                            
+     20  15012 PA Tomé-Açu                                  150470                            
+     20  15012 PA Tomé-Açu                                  150795                            
+     20  15012 PA Tomé-Açu                                  150800                            
+     21  15016 PA Tucuruí                                   150178                            
+     21  15016 PA Tucuruí                                   150370                            
+     21  15016 PA Tucuruí                                   150380                            
+     21  15016 PA Tucuruí                                   150497                            
+     21  15016 PA Tucuruí                                   150506                            
+     21  15016 PA Tucuruí                                   150810                            
+     22  15001 PA Óbidos                                    150300                            
+     22  15001 PA Óbidos                                    150390                            
+     22  15001 PA Óbidos                                    150510                            
+     22  15001 PA Óbidos                                    150530                            
+     22  15001 PA Óbidos                                    150797                            
+     23  15000 PA Município ignorado - PA                   150000,159999                     

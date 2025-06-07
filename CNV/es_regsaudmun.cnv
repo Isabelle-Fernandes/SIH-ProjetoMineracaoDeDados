@@ -1,0 +1,83 @@
+N 82 6
+        1  32001 Central                                                                                        320013,320035,320080,320150,320225,320320,320330,320335,320400,320435,320465,320470,320495,320501,320517
+   1    2  .....  SOORETAMA                                                                                     320501
+   1    3  .....  VILA VALERIO                                                                                  320517
+   1    4  .....  BAIXO GUANDU                                                                                  320080
+   1    5  .....  SAO DOMINGOS DO NORTE                                                                         320465
+   1    6  .....  SAO ROQUE DO CANAA                                                                            320495
+   1    7  .....  PANCAS                                                                                        320400
+   1    8  .....  GOVERNADOR LINDENBERG                                                                         320225
+   1    9  .....  COLATINA                                                                                      320150
+   1   10  .....  ALTO RIO NOVO                                                                                 320035
+   1   11  .....  RIO BANANAL                                                                                   320435
+   1   12  .....  SAO GABRIEL DA PALHA                                                                          320470
+   1   13  .....  MARILANDIA                                                                                    320335
+   1   14  .....  LINHARES                                                                                      320320
+   1   15  .....  MANTENOPOLIS                                                                                  320330
+   1   16  .....  AGUIA BRANCA                                                                                  320013
+       17  32002 Metropolitana                                                                                  320010,320060,320115,320130,320170,320190,320220,320240,320245,320250,320270,320290,320313,320316,320334,320450,320455,320460,320500,320506,320510,320520,320530
+  17   18  .....  LARANJA DA TERRA                                                                              320316
+  17   19  .....  VITORIA                                                                                       320530
+  17   20  .....  VENDA NOVA DO IMIGRANTE                                                                       320506
+  17   21  .....  ARACRUZ                                                                                       320060
+  17   22  .....  BREJETUBA                                                                                     320115
+  17   23  .....  CONCEICAO DO CASTELO                                                                          320170
+  17   24  .....  DOMINGOS MARTINS                                                                              320190
+  17   25  .....  SANTA LEOPOLDINA                                                                              320450
+  17   26  .....  SANTA TERESA                                                                                  320460
+  17   27  .....  IBATIBA                                                                                       320245
+  17   28  .....  CARIACICA                                                                                     320130
+  17   29  .....  ITAGUACU                                                                                      320270
+  17   30  .....  MARECHAL FLORIANO                                                                             320334
+  17   31  .....  SANTA MARIA DE JETIBA                                                                         320455
+  17   32  .....  FUNDAO                                                                                        320220
+  17   33  .....  VILA VELHA                                                                                    320520
+  17   34  .....  JOAO NEIVA                                                                                    320313
+  17   35  .....  ITARANA                                                                                       320290
+  17   36  .....  IBIRACU                                                                                       320250
+  17   37  .....  AFONSO CLAUDIO                                                                                320010
+  17   38  .....  VIANA                                                                                         320510
+  17   39  .....  SERRA                                                                                         320500
+  17   40  .....  GUARAPARI                                                                                     320240
+       41  32003 Norte                                                                                          320016,320090,320100,320160,320210,320305,320350,320360,320390,320405,320410,320425,320490,320515
+  41   42  .....  BARRA DE SAO FRANCISCO                                                                        320090
+  41   43  .....  BOA ESPERANCA                                                                                 320100
+  41   44  .....  CONCEICAO DA BARRA                                                                            320160
+  41   45  .....  PEDRO CANARIO                                                                                 320405
+  41   46  .....  MONTANHA                                                                                      320350
+  41   47  .....  AGUA DOCE DO NORTE                                                                            320016
+  41   48  .....  MUCURICI                                                                                      320360
+  41   49  .....  JAGUARE                                                                                       320305
+  41   50  .....  ECOPORANGA                                                                                    320210
+  41   51  .....  PINHEIROS                                                                                     320410
+  41   52  .....  PONTO BELO                                                                                    320425
+  41   53  .....  NOVA VENECIA                                                                                  320390
+  41   54  .....  VILA PAVAO                                                                                    320515
+  41   55  .....  SAO MATEUS                                                                                    320490
+       56  32004 Sul                                                                                            320020,320030,320040,320050,320070,320110,320120,320140,320180,320200,320230,320255,320260,320265,320280,320300,320310,320332,320340,320370,320380,320420,320430,320440,320480,320503
+  56   57  .....  ALFREDO CHAVES                                                                                320030
+  56   58  .....  MUQUI                                                                                         320380
+  56   59  .....  ATILIO VIVACQUA                                                                               320070
+  56   60  .....  ALEGRE                                                                                        320020
+  56   61  .....  ANCHIETA                                                                                      320040
+  56   62  .....  APIACA                                                                                        320050
+  56   63  .....  MARATAIZES                                                                                    320332
+  56   64  .....  JERONIMO MONTEIRO                                                                             320310
+  56   65  .....  SAO JOSE DO CALCADO                                                                           320480
+  56   66  .....  IRUPI                                                                                         320265
+  56   67  .....  ICONHA                                                                                        320260
+  56   68  .....  GUACUI                                                                                        320230
+  56   69  .....  VARGEM ALTA                                                                                   320503
+  56   70  .....  PIUMA                                                                                         320420
+  56   71  .....  DORES DO RIO PRETO                                                                            320200
+  56   72  .....  ITAPEMIRIM                                                                                    320280
+  56   73  .....  CACHOEIRO DE ITAPEMIRIM                                                                       320120
+  56   74  .....  MUNIZ FREIRE                                                                                  320370
+  56   75  .....  BOM JESUS DO NORTE                                                                            320110
+  56   76  .....  DIVINO DE SAO LOURENCO                                                                        320180
+  56   77  .....  IUNA                                                                                          320300
+  56   78  .....  PRESIDENTE KENNEDY                                                                            320430
+  56   79  .....  IBITIRAMA                                                                                     320255
+  56   80  .....  MIMOSO DO SUL                                                                                 320340
+  56   81  .....  CASTELO                                                                                       320140
+  56   82  .....  RIO NOVO DO SUL                                                                               320440

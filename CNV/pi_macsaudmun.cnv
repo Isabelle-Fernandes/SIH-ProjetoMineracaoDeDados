@@ -1,0 +1,229 @@
+N 228 6
+        1  2207 SEMI-ARIDO                                                                                      220005,220025,220027,220090,220095,220117,220155,220157,220173,220180,220207,220209,220210,220213,220255,220277,220280,220327,220340,220350,220385,220400,220415,220420,220430,220435,220470,220480,220490,220500,220515,220520,220559,220595,220605,220650,220690,220700,220720,220755,220777,220780,220800,220810,220820,220860,220865,220910,220915,220935,220937,220940,220950,220960,220965,220985,220995,221020,221030,221037,221038,221070,221080,221093,221097,221130,221140,221150,221160,221170
+   1    2  .....  SAO JOAO DA VARJOTA                                                                           220995
+   1    3  .....  SAO JOAO DA CANABRAVA                                                                         220985
+   1    4  .....  SANTO ANTONIO DE LISBOA                                                                       220940
+   1    5  .....  SIMOES                                                                                        221070
+   1    6  .....  AROEIRAS DO ITAIM                                                                             220095
+   1    7  .....  PADRE MARCOS                                                                                  220720
+   1    8  .....  ALEGRETE DO PIAUI                                                                             220027
+   1    9  .....  COLONIA DO PIAUI                                                                              220277
+   1   10  .....  CURRAL NOVO DO PIAUI                                                                          220327
+   1   11  .....  IPIRANGA DO PIAUI                                                                             220480
+   1   12  .....  LAGOA DO SITIO                                                                                220559
+   1   13  .....  PIMENTEIRAS                                                                                   220810
+   1   14  .....  QUEIMADA NOVA                                                                                 220865
+   1   15  .....  FRONTEIRAS                                                                                    220430
+   1   16  .....  SAO FRANCISCO DE ASSIS DO PIAUI                                                               220965
+   1   17  .....  SANTA ROSA DO PIAUI                                                                           220937
+   1   18  .....  SANTA CRUZ DOS MILAGRES                                                                       220915
+   1   19  .....  CARIDADE DO PIAUI                                                                             220255
+   1   20  .....  PIO IX                                                                                        220820
+   1   21  .....  PAULISTANA                                                                                    220780
+   1   22  .....  CAMPO GRANDE DO PIAUI                                                                         220213
+   1   23  .....  PICOS                                                                                         220800
+   1   24  .....  BELA VISTA DO PIAUI                                                                           220155
+   1   25  .....  BETANIA DO PIAUI                                                                              220173
+   1   26  .....  OEIRAS                                                                                        220700
+   1   27  .....  MASSAPE DO PIAUI                                                                              220605
+   1   28  .....  VARZEA GRANDE                                                                                 221140
+   1   29  .....  JACOBINA DO PIAUI                                                                             220515
+   1   30  .....  TANQUE DO PIAUI                                                                               221097
+   1   31  .....  SAO JOSE DO PIAUI                                                                             221020
+   1   32  .....  INHUMA                                                                                        220470
+   1   33  .....  SIMPLICIO MENDES                                                                              221080
+   1   34  .....  ISAIAS COELHO                                                                                 220490
+   1   35  .....  SAO MIGUEL DA BAIXA GRANDE                                                                    221038
+   1   36  .....  SAO FELIX DO PIAUI                                                                            220960
+   1   37  .....  FRANCISCO SANTOS                                                                              220420
+   1   38  .....  FRANCISCO MACEDO                                                                              220415
+   1   39  .....  PRATA DO PIAUI                                                                                220860
+   1   40  .....  WALL FERRAZ                                                                                   221170
+   1   41  .....  VALENCA DO PIAUI                                                                              221130
+   1   42  .....  VILA NOVA DO PIAUI                                                                            221160
+   1   43  .....  DOM EXPEDITO LOPES                                                                            220340
+   1   44  .....  MARCOLANDIA                                                                                   220595
+   1   45  .....  CAMPINAS DO PIAUI                                                                             220210
+   1   46  .....  SUSSUAPARA                                                                                    221093
+   1   47  .....  SAO LUIS DO PIAUI                                                                             221037
+   1   48  .....  SANTA CRUZ DO PIAUI                                                                           220910
+   1   49  .....  ALAGOINHA DO PIAUI                                                                            220025
+   1   50  .....  BELEM DO PIAUI                                                                                220157
+   1   51  .....  AROAZES                                                                                       220090
+   1   52  .....  ITAINOPOLIS                                                                                   220500
+   1   53  .....  NOVO ORIENTE DO PIAUI                                                                         220690
+   1   54  .....  PAQUETA                                                                                       220755
+   1   55  .....  FLORESTA DO PIAUI                                                                             220385
+   1   56  .....  FRANCINOPOLIS                                                                                 220400
+   1   57  .....  SANTANA DO PIAUI                                                                              220935
+   1   58  .....  VERA MENDES                                                                                   221150
+   1   59  .....  PATOS DO PIAUI                                                                                220777
+   1   60  .....  MONSENHOR HIPOLITO                                                                            220650
+   1   61  .....  SAO JULIAO                                                                                    221030
+   1   62  .....  CONCEICAO DO CANINDE                                                                          220280
+   1   63  .....  SANTO INACIO DO PIAUI                                                                         220950
+   1   64  .....  CALDEIRAO GRANDE DO PIAUI                                                                     220209
+   1   65  .....  JAICOS                                                                                        220520
+   1   66  .....  GEMINIANO                                                                                     220435
+   1   67  .....  ELESBAO VELOSO                                                                                220350
+   1   68  .....  BOCAINA                                                                                       220180
+   1   69  .....  CAJAZEIRAS DO PIAUI                                                                           220207
+   1   70  .....  ACAUA                                                                                         220005
+   1   71  .....  BARRA D'ALCANTARA                                                                             220117
+       72  2208 MEIO NORTE                                                                                      220010,220020,220030,220040,220050,220060,220105,220140,220160,220177,220194,220202,220205,220220,220260,220271,220273,220325,220330,220460,220525,220527,220550,220551,220554,220555,220558,220620,220630,220640,220672,220675,220695,220710,220750,220775,220779,220880,220945,220980,220990,221040,221050,221065,221100,221110
+  72   73  .....  CURRALINHOS                                                                                   220325
+  72   74  .....  CABECEIRAS DO PIAUI                                                                           220205
+  72   75  .....  PASSAGEM FRANCA DO PIAUI                                                                      220775
+  72   76  .....  BARRO DURO                                                                                    220140
+  72   77  .....  ASSUNCAO DO PIAUI                                                                             220105
+  72   78  .....  AGRICOLANDIA                                                                                  220010
+  72   79  .....  AGUA BRANCA                                                                                   220020
+  72   80  .....  MIGUEL LEAO                                                                                   220630
+  72   81  .....  AMARANTE                                                                                      220050
+  72   82  .....  LAGOA DO PIAUI                                                                                220558
+  72   83  .....  JUAZEIRO DO PIAUI                                                                             220551
+  72   84  .....  LAGOA ALEGRE                                                                                  220555
+  72   85  .....  LAGOINHA DO PIAUI                                                                             220554
+  72   86  .....  SAO PEDRO DO PIAUI                                                                            221050
+  72   87  .....  HUGO NAPOLEAO                                                                                 220460
+  72   88  .....  SAO JOAO DA SERRA                                                                             220990
+  72   89  .....  ALTO LONGA                                                                                    220030
+  72   90  .....  ALTOS                                                                                         220040
+  72   91  .....  ANGICAL DO PIAUI                                                                              220060
+  72   92  .....  BURITI DOS MONTES                                                                             220202
+  72   93  .....  NOVO SANTO ANTONIO                                                                            220695
+  72   94  .....  CAMPO MAIOR                                                                                   220220
+  72   95  .....  OLHO D'AGUA DO PIAUI                                                                          220710
+  72   96  .....  PAU D'ARCO DO PIAUI                                                                           220779
+  72   97  .....  TERESINA                                                                                      221100
+  72   98  .....  JATOBA DO PIAUI                                                                               220527
+  72   99  .....  PALMEIRAIS                                                                                    220750
+  72  100  .....  JARDIM DO MULATO                                                                              220525
+  72  101  .....  CASTELO DO PIAUI                                                                              220260
+  72  102  .....  SAO MIGUEL DO TAPUIO                                                                          221040
+  72  103  .....  SAO GONCALO DO PIAUI                                                                          220980
+  72  104  .....  BOQUEIRAO DO PIAUI                                                                            220194
+  72  105  .....  BENEDITINOS                                                                                   220160
+  72  106  .....  COCAL DE TELHA                                                                                220271
+  72  107  .....  MIGUEL ALVES                                                                                  220620
+  72  108  .....  COIVARAS                                                                                      220273
+  72  109  .....  UNIAO                                                                                         221110
+  72  110  .....  NAZARIA                                                                                       220672
+  72  111  .....  REGENERACAO                                                                                   220880
+  72  112  .....  JOSE DE FREITAS                                                                               220550
+  72  113  .....  BOA HORA                                                                                      220177
+  72  114  .....  DEMERVAL LOBAO                                                                                220330
+  72  115  .....  MONSENHOR GIL                                                                                 220640
+  72  116  .....  NOSSA SENHORA DE NAZARE                                                                       220675
+  72  117  .....  SANTO ANTONIO DOS MILAGRES                                                                    220945
+  72  118  .....  SIGEFREDO PACHECO                                                                             221065
+      119  2209 LITORAL                                                                                         220120,220150,220191,220196,220200,220208,220217,220240,220253,220265,220270,220272,220342,220370,220465,220540,220545,220557,220570,220580,220585,220610,220635,220667,220669,220680,220770,220790,220830,220840,220850,220987,220997,221005
+ 119  120  .....  CAJUEIRO DA PRAIA                                                                             220208
+ 119  121  .....  BRASILEIRA                                                                                    220196
+ 119  122  .....  BATALHA                                                                                       220150
+ 119  123  .....  PIRACURUCA                                                                                    220830
+ 119  124  .....  PARNAIBA                                                                                      220770
+ 119  125  .....  NOSSA SENHORA DOS REMEDIOS                                                                    220680
+ 119  126  .....  MORRO DO CHAPEU DO PIAUI                                                                      220667
+ 119  127  .....  MURICI DOS PORTELAS                                                                           220669
+ 119  128  .....  MILTON BRANDAO                                                                                220635
+ 119  129  .....  MADEIRO                                                                                       220585
+ 119  130  .....  JOCA MARQUES                                                                                  220545
+ 119  131  .....  SAO JOAO DA FRONTEIRA                                                                         220987
+ 119  132  .....  PIRIPIRI                                                                                      220840
+ 119  133  .....  PEDRO II                                                                                      220790
+ 119  134  .....  MATIAS OLIMPIO                                                                                220610
+ 119  135  .....  COCAL                                                                                         220270
+ 119  136  .....  COCAL DOS ALVES                                                                               220272
+ 119  137  .....  BURITI DOS LOPES                                                                              220200
+ 119  138  .....  JOAQUIM PIRES                                                                                 220540
+ 119  139  .....  LAGOA DE SAO FRANCISCO                                                                        220557
+ 119  140  .....  ILHA GRANDE                                                                                   220465
+ 119  141  .....  BARRAS                                                                                        220120
+ 119  142  .....  PORTO                                                                                         220850
+ 119  143  .....  SAO JOSE DO DIVINO                                                                            221005
+ 119  144  .....  CAXINGO                                                                                       220265
+ 119  145  .....  BOM PRINCIPIO DO PIAUI                                                                        220191
+ 119  146  .....  ESPERANTINA                                                                                   220370
+ 119  147  .....  CAMPO LARGO DO PIAUI                                                                          220217
+ 119  148  .....  LUZILANDIA                                                                                    220580
+ 119  149  .....  LUIS CORREIA                                                                                  220570
+ 119  150  .....  SAO JOAO DO ARRAIAL                                                                           220997
+ 119  151  .....  CAPITAO DE CAMPOS                                                                             220240
+ 119  152  .....  DOMINGOS MOURAO                                                                               220342
+ 119  153  .....  CARAUBAS DO PIAUI                                                                             220253
+      154  2210 CERRADOS                                                                                        220045,220070,220080,220100,220110,220115,220130,220170,220190,220192,220198,220211,220225,220230,220245,220250,220275,220285,220290,220300,220310,220320,220323,220335,220345,220360,220375,220380,220390,220410,220440,220450,220455,220510,220530,220535,220552,220553,220556,220560,220590,220600,220660,220665,220670,220730,220735,220740,220760,220785,220793,220795,220855,220870,220885,220887,220890,220900,220920,220930,220955,220970,220975,221000,221010,221035,221039,221060,221062,221063,221090,221095,221120,221135
+ 154  155  .....  AVELINO LOPES                                                                                 220110
+ 154  156  .....  FARTURA DO PIAUI                                                                              220375
+ 154  157  .....  FLORIANO                                                                                      220390
+ 154  158  .....  PEDRO LAURENTINO                                                                              220793
+ 154  159  .....  SAO RAIMUNDO NONATO                                                                           221060
+ 154  160  .....  LANDRI SALES                                                                                  220560
+ 154  161  .....  CURIMATA                                                                                      220320
+ 154  162  .....  BOM JESUS                                                                                     220190
+ 154  163  .....  BARREIRAS DO PIAUI                                                                            220130
+ 154  164  .....  NAZARE DO PIAUI                                                                               220670
+ 154  165  .....  CURRAIS                                                                                       220323
+ 154  166  .....  GUADALUPE                                                                                     220450
+ 154  167  .....  RIBEIRO GONCALVES                                                                             220890
+ 154  168  .....  RIO GRANDE DO PIAUI                                                                           220900
+ 154  169  .....  GILBUES                                                                                       220440
+ 154  170  .....  DIRCEU ARCOVERDE                                                                              220335
+ 154  171  .....  CORONEL JOSE DIAS                                                                             220285
+ 154  172  .....  GUARIBAS                                                                                      220455
+ 154  173  .....  PAES LANDIM                                                                                   220730
+ 154  174  .....  PORTO ALEGRE DO PIAUI                                                                         220855
+ 154  175  .....  URUCUI                                                                                        221120
+ 154  176  .....  LAGOA DO BARRO DO PIAUI                                                                       220556
+ 154  177  .....  DOM INOCENCIO                                                                                 220345
+ 154  178  .....  CORRENTE                                                                                      220290
+ 154  179  .....  SANTA FILOMENA                                                                                220920
+ 154  180  .....  SANTA LUZ                                                                                     220930
+ 154  181  .....  REDENCAO DO GURGUEIA                                                                          220870
+ 154  182  .....  RIACHO FRIO                                                                                   220885
+ 154  183  .....  COLONIA DO GURGUEIA                                                                           220275
+ 154  184  .....  CARACOL                                                                                       220250
+ 154  185  .....  CAMPO ALEGRE DO FIDALGO                                                                       220211
+ 154  186  .....  CRISTINO CASTRO                                                                               220310
+ 154  187  .....  CANTO DO BURITI                                                                               220230
+ 154  188  .....  PAVUSSU                                                                                       220785
+ 154  189  .....  NOVA SANTA RITA                                                                               220795
+ 154  190  .....  BREJO DO PIAUI                                                                                220198
+ 154  191  .....  PARNAGUA                                                                                      220760
+ 154  192  .....  BONFIM DO PIAUI                                                                               220192
+ 154  193  .....  PAJEU DO PIAUI                                                                                220735
+ 154  194  .....  ARRAIAL                                                                                       220100
+ 154  195  .....  BAIXA GRANDE DO RIBEIRO                                                                       220115
+ 154  196  .....  MORRO CABECA NO TEMPO                                                                         220665
+ 154  197  .....  BERTOLINIA                                                                                    220170
+ 154  198  .....  ANISIO DE ABREU                                                                               220070
+ 154  199  .....  ANTONIO ALMEIDA                                                                               220080
+ 154  200  .....  VARZEA BRANCA                                                                                 221135
+ 154  201  .....  JUREMA                                                                                        220553
+ 154  202  .....  JULIO BORGES                                                                                  220552
+ 154  203  .....  SOCORRO DO PIAUI                                                                              221090
+ 154  204  .....  SEBASTIAO LEAL                                                                                221063
+ 154  205  .....  SAO LOURENCO DO PIAUI                                                                         221035
+ 154  206  .....  SAO MIGUEL DO FIDALGO                                                                         221039
+ 154  207  .....  SAO GONCALO DO GURGUEIA                                                                       220975
+ 154  208  .....  SAO JOSE DO PEIXE                                                                             221010
+ 154  209  .....  SAO FRANCISCO DO PIAUI                                                                        220970
+ 154  210  .....  SAO JOAO DO PIAUI                                                                             221000
+ 154  211  .....  FRANCISCO AYRES                                                                               220410
+ 154  212  .....  SAO BRAZ DO PIAUI                                                                             220955
+ 154  213  .....  FLORES DO PIAUI                                                                               220380
+ 154  214  .....  ALVORADA DO GURGUEIA                                                                          220045
+ 154  215  .....  CANAVIEIRA                                                                                    220225
+ 154  216  .....  CAPITAO GERVASIO OLIVEIRA                                                                     220245
+ 154  217  .....  CRISTALANDIA DO PIAUI                                                                         220300
+ 154  218  .....  MONTE ALEGRE DO PIAUI                                                                         220660
+ 154  219  .....  SEBASTIAO BARROS                                                                              221062
+ 154  220  .....  TAMBORIL DO PIAUI                                                                             221095
+ 154  221  .....  MANOEL EMIDIO                                                                                 220590
+ 154  222  .....  MARCOS PARENTE                                                                                220600
+ 154  223  .....  ELISEU MARTINS                                                                                220360
+ 154  224  .....  RIBEIRA DO PIAUI                                                                              220887
+ 154  225  .....  PALMEIRA DO PIAUI                                                                             220740
+ 154  226  .....  JOAO COSTA                                                                                    220535
+ 154  227  .....  JERUMENHA                                                                                     220530
+ 154  228  .....  ITAUEIRA                                                                                      220510

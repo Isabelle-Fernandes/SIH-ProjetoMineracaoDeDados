@@ -1,0 +1,221 @@
+N 220 6
+        1  2109 MACRORREGIAO SUL                                                                                210005,210050,210060,210095,210140,210160,210203,210232,210235,210255,210280,210325,210375,210405,210407,210408,210409,210410,210455,210480,210530,210535,210542,210547,210550,210598,210610,210700,210725,210900,210950,210955,210970,211080,211085,211105,211153,211157,211160,211176,211180,211200,211285
+   1    2  .....  DAVINOPOLIS                                                                                   210375
+   1    3  .....  SAMBAIBA                                                                                      210970
+   1    4  .....  RIACHAO                                                                                       210950
+   1    5  .....  CAROLINA                                                                                      210280
+   1    6  .....  BURITICUPU                                                                                    210232
+   1    7  .....  CAMPESTRE DO MARANHAO                                                                         210255
+   1    8  .....  BURITIRANA                                                                                    210235
+   1    9  .....  NOVA COLINAS                                                                                  210725
+   1   10  .....  MONTES ALTOS                                                                                  210700
+   1   11  .....  ACAILANDIA                                                                                    210005
+   1   12  .....  ALTO PARNAIBA                                                                                 210050
+   1   13  .....  LORETO                                                                                        210610
+   1   14  .....  VILA NOVA DOS MARTIRIOS                                                                       211285
+   1   15  .....  TASSO FRAGOSO                                                                                 211200
+   1   16  .....  IMPERATRIZ                                                                                    210530
+   1   17  .....  SAO JOAO DO PARAISO                                                                           211105
+   1   18  .....  GRAJAU                                                                                        210480
+   1   19  .....  FORMOSA DA SERRA NEGRA                                                                        210409
+   1   20  .....  SAO FELIX DE BALSAS                                                                           211080
+   1   21  .....  SAO FRANCISCO DO BREJAO                                                                       211085
+   1   22  .....  FERNANDO FALCAO                                                                               210408
+   1   23  .....  SAO RAIMUNDO DAS MANGABEIRAS                                                                  211160
+   1   24  .....  BARRA DO CORDA                                                                                210160
+   1   25  .....  ESTREITO                                                                                      210405
+   1   26  .....  SAO PEDRO DA AGUA BRANCA                                                                      211153
+   1   27  .....  AMARANTE DO MARANHAO                                                                          210060
+   1   28  .....  LAJEADO NOVO                                                                                  210598
+   1   29  .....  RIBAMAR FIQUENE                                                                               210955
+   1   30  .....  JENIPAPO DOS VIEIRAS                                                                          210547
+   1   31  .....  PORTO FRANCO                                                                                  210900
+   1   32  .....  GOVERNADOR EDISON LOBAO                                                                       210455
+   1   33  .....  SITIO NOVO                                                                                    211180
+   1   34  .....  CIDELANDIA                                                                                    210325
+   1   35  .....  SENADOR LA ROCQUE                                                                             211176
+   1   36  .....  JOAO LISBOA                                                                                   210550
+   1   37  .....  BALSAS                                                                                        210140
+   1   38  .....  BOM JESUS DAS SELVAS                                                                          210203
+   1   39  .....  ARAME                                                                                         210095
+   1   40  .....  FORTALEZA DOS NOGUEIRAS                                                                       210410
+   1   41  .....  ITAIPAVA DO GRAJAU                                                                            210535
+   1   42  .....  SAO PEDRO DOS CRENTES                                                                         211157
+   1   43  .....  ITINGA DO MARANHAO                                                                            210542
+   1   44  .....  FEIRA NOVA DO MARANHAO                                                                        210407
+       45  2110 MACRORREGIAO NORTE                                                                              210015,210020,210040,210047,210055,210070,210080,210083,210087,210090,210100,210110,210120,210125,210130,210135,210170,210173,210177,210190,210197,210200,210207,210210,210215,210237,210240,210250,210260,210270,210290,210310,210312,210315,210317,210320,210355,210370,210430,210465,210467,210490,210500,210510,210515,210540,210565,210590,210620,210630,210632,210635,210637,210640,210650,210663,210667,210675,210680,210690,210710,210720,210735,210740,210745,210750,210760,210805,210810,210825,210830,210840,210850,210860,210870,210880,210905,210920,210923,210927,210930,210940,210945,210960,210980,210990,211000,211003,211010,211020,211023,211027,211040,211050,211060,211100,211102,211120,211130,211140,211170,211172,211178,211227,211240,211245,211250,211260,211270,211280,211290,211300,211400
+  45   46  .....  CURURUPU                                                                                      210370
+  45   47  .....  SANTA RITA                                                                                    211020
+  45   48  .....  SANTA HELENA                                                                                  210980
+  45   49  .....  CENTRO DO GUILHERME                                                                           210315
+  45   50  .....  SANTA INES                                                                                    210990
+  45   51  .....  CEDRAL                                                                                        210310
+  45   52  .....  CHAPADINHA                                                                                    210320
+  45   53  .....  PRESIDENTE SARNEY                                                                             210927
+  45   54  .....  PIO XII                                                                                       210870
+  45   55  .....  CACHOEIRA GRANDE                                                                              210237
+  45   56  .....  CAJAPIO                                                                                       210240
+  45   57  .....  CAJARI                                                                                        210250
+  45   58  .....  PRESIDENTE JUSCELINO                                                                          210920
+  45   59  .....  PRESIDENTE MEDICI                                                                             210923
+  45   60  .....  PINDARE-MIRIM                                                                                 210850
+  45   61  .....  BARREIRINHAS                                                                                  210170
+  45   62  .....  BOM LUGAR                                                                                     210207
+  45   63  .....  BEQUIMAO                                                                                      210190
+  45   64  .....  OLINDA NOVA DO MARANHAO                                                                       210745
+  45   65  .....  ARARI                                                                                         210100
+  45   66  .....  OLHO D'AGUA DAS CUNHAS                                                                        210740
+  45   67  .....  MORROS                                                                                        210710
+  45   68  .....  MATINHA                                                                                       210650
+  45   69  .....  AXIXA                                                                                         210110
+  45   70  .....  BACABEIRA                                                                                     210125
+  45   71  .....  AGUA DOCE DO MARANHAO                                                                         210015
+  45   72  .....  MONCAO                                                                                        210690
+  45   73  .....  MARAJA DO SENA                                                                                210635
+  45   74  .....  ALTAMIRA DO MARANHAO                                                                          210040
+  45   75  .....  AMAPA DO MARANHAO                                                                             210055
+  45   76  .....  ANAJATUBA                                                                                     210070
+  45   77  .....  APICUM-ACU                                                                                    210083
+  45   78  .....  MIRINZAL                                                                                      210680
+  45   79  .....  ANAPURUS                                                                                      210080
+  45   80  .....  ARAGUANA                                                                                      210087
+  45   81  .....  LUIS DOMINGUES                                                                                210620
+  45   82  .....  VARGEM GRANDE                                                                                 211270
+  45   83  .....  VIANA                                                                                         211280
+  45   84  .....  MATA ROMA                                                                                     210640
+  45   85  .....  VITORIA DO MEARIM                                                                             211290
+  45   86  .....  VITORINO FREIRE                                                                               211300
+  45   87  .....  LAGO VERDE                                                                                    210590
+  45   88  .....  TUFILANDIA                                                                                    211227
+  45   89  .....  URBANO SANTOS                                                                                 211260
+  45   90  .....  ITAPECURU MIRIM                                                                               210540
+  45   91  .....  SERRANO DO MARANHAO                                                                           211178
+  45   92  .....  SATUBINHA                                                                                     211172
+  45   93  .....  GODOFREDO VIANA                                                                               210430
+  45   94  .....  SAO LUIS GONZAGA DO MARANHAO                                                                  211140
+  45   95  .....  SAO JOAO DO CARU                                                                              211102
+  45   96  .....  IGARAPE DO MEIO                                                                               210515
+  45   97  .....  GOVERNADOR NEWTON BELLO                                                                       210465
+  45   98  .....  SAO BENEDITO DO RIO PRETO                                                                     211040
+  45   99  .....  SAO BERNARDO                                                                                  211060
+  45  100  .....  ICATU                                                                                         210510
+  45  101  .....  TURILANDIA                                                                                    211245
+  45  102  .....  SAO LUIS                                                                                      211130
+  45  103  .....  PENALVA                                                                                       210830
+  45  104  .....  PORTO RICO DO MARANHAO                                                                        210905
+  45  105  .....  PRIMEIRA CRUZ                                                                                 210940
+  45  106  .....  BACURITUBA                                                                                    210135
+  45  107  .....  PEDRO DO ROSARIO                                                                              210825
+  45  108  .....  PERI MIRIM                                                                                    210840
+  45  109  .....  CENTRAL DO MARANHAO                                                                           210312
+  45  110  .....  MATOES DO NORTE                                                                               210663
+  45  111  .....  PALMEIRANDIA                                                                                  210760
+  45  112  .....  PIRAPEMAS                                                                                     210880
+  45  113  .....  BREJO                                                                                         210210
+  45  114  .....  BREJO DE AREIA                                                                                210215
+  45  115  .....  BOA VISTA DO GURUPI                                                                           210197
+  45  116  .....  BOM JARDIM                                                                                    210200
+  45  117  .....  SANTANA DO MARANHAO                                                                           211023
+  45  118  .....  MAGALHAES DE ALMEIDA                                                                          210630
+  45  119  .....  SAO BENTO                                                                                     211050
+  45  120  .....  PRESIDENTE VARGAS                                                                             210930
+  45  121  .....  BACURI                                                                                        210130
+  45  122  .....  CARUTAPERA                                                                                    210290
+  45  123  .....  ALCANTARA                                                                                     210020
+  45  124  .....  TURIACU                                                                                       211240
+  45  125  .....  ZE DOCA                                                                                       211400
+  45  126  .....  SANTA QUITERIA DO MARANHAO                                                                    211010
+  45  127  .....  TUTOIA                                                                                        211250
+  45  128  .....  NOVA OLINDA DO MARANHAO                                                                       210735
+  45  129  .....  NINA RODRIGUES                                                                                210720
+  45  130  .....  PAULINO NEVES                                                                                 210805
+  45  131  .....  PACO DO LUMIAR                                                                                210750
+  45  132  .....  MILAGRES DO MARANHAO                                                                          210667
+  45  133  .....  MIRANDA DO NORTE                                                                              210675
+  45  134  .....  MARACACUME                                                                                    210632
+  45  135  .....  CANTANHEDE                                                                                    210270
+  45  136  .....  BELAGUA                                                                                       210173
+  45  137  .....  BACABAL                                                                                       210120
+  45  138  .....  CENTRO NOVO DO MARANHAO                                                                       210317
+  45  139  .....  ROSARIO                                                                                       210960
+  45  140  .....  RAPOSA                                                                                        210945
+  45  141  .....  GUIMARAES                                                                                     210490
+  45  142  .....  HUMBERTO DE CAMPOS                                                                            210500
+  45  143  .....  CANDIDO MENDES                                                                                210260
+  45  144  .....  CONCEICAO DO LAGO-ACU                                                                         210355
+  45  145  .....  PINHEIRO                                                                                      210860
+  45  146  .....  SAO JOAO BATISTA                                                                              211100
+  45  147  .....  JUNCO DO MARANHAO                                                                             210565
+  45  148  .....  PAULO RAMOS                                                                                   210810
+  45  149  .....  ALTO ALEGRE DO PINDARE                                                                        210047
+  45  150  .....  ARAIOSES                                                                                      210090
+  45  151  .....  MARANHAOZINHO                                                                                 210637
+  45  152  .....  SANTA LUZIA                                                                                   211000
+  45  153  .....  SANTA LUZIA DO PARUA                                                                          211003
+  45  154  .....  SANTO AMARO DO MARANHAO                                                                       211027
+  45  155  .....  SAO JOSE DE RIBAMAR                                                                           211120
+  45  156  .....  SAO VICENTE FERRER                                                                            211170
+  45  157  .....  GOVERNADOR NUNES FREIRE                                                                       210467
+  45  158  .....  BELA VISTA DO MARANHAO                                                                        210177
+      159  2111 MACRORREGIAO LESTE                                                                              210010,210030,210043,210150,210180,210193,210220,210230,210275,210300,210330,210340,210350,210360,210380,210390,210400,210420,210440,210450,210460,210462,210470,210520,210545,210560,210570,210580,210592,210594,210596,210600,210660,210670,210730,210770,210780,210790,210800,210820,210845,210890,210910,210975,211030,211065,211070,211090,211107,211110,211125,211150,211163,211167,211174,211190,211195,211210,211220,211223,211230
+ 159  160  .....  DOM PEDRO                                                                                     210380
+ 159  161  .....  CODO                                                                                          210330
+ 159  162  .....  PEDREIRAS                                                                                     210820
+ 159  163  .....  CAXIAS                                                                                        210300
+ 159  164  .....  PARNARAMA                                                                                     210780
+ 159  165  .....  ALDEIAS ALTAS                                                                                 210030
+ 159  166  .....  PASTOS BONS                                                                                   210800
+ 159  167  .....  BURITI BRAVO                                                                                  210230
+ 159  168  .....  NOVA IORQUE                                                                                   210730
+ 159  169  .....  MIRADOR                                                                                       210670
+ 159  170  .....  LIMA CAMPOS                                                                                   210600
+ 159  171  .....  LAGO DA PEDRA                                                                                 210570
+ 159  172  .....  LAGOA GRANDE DO MARANHAO                                                                      210596
+ 159  173  .....  TRIZIDELA DO VALE                                                                             211223
+ 159  174  .....  JOSELANDIA                                                                                    210560
+ 159  175  .....  TUNTUM                                                                                        211230
+ 159  176  .....  SAO RAIMUNDO DO DOCA BEZERRA                                                                  211163
+ 159  177  .....  SENADOR ALEXANDRE COSTA                                                                       211174
+ 159  178  .....  TIMBIRAS                                                                                      211210
+ 159  179  .....  TIMON                                                                                         211220
+ 159  180  .....  SAO MATEUS DO MARANHAO                                                                        211150
+ 159  181  .....  GOVERNADOR EUGENIO BARROS                                                                     210460
+ 159  182  .....  GOVERNADOR LUIZ ROCHA                                                                         210462
+ 159  183  .....  SAO JOSE DOS BASILIOS                                                                         211125
+ 159  184  .....  SANTO ANTONIO DOS LOPES                                                                       211030
+ 159  185  .....  GRACA ARANHA                                                                                  210470
+ 159  186  .....  SAO DOMINGOS DO AZEITAO                                                                       211065
+ 159  187  .....  SAO DOMINGOS DO MARANHAO                                                                      211070
+ 159  188  .....  DUQUE BACELAR                                                                                 210390
+ 159  189  .....  ESPERANTINOPOLIS                                                                              210400
+ 159  190  .....  FORTUNA                                                                                       210420
+ 159  191  .....  COROATA                                                                                       210360
+ 159  192  .....  CAPINZAL DO NORTE                                                                             210275
+ 159  193  .....  COELHO NETO                                                                                   210340
+ 159  194  .....  SUCUPIRA DO RIACHAO                                                                           211195
+ 159  195  .....  AFONSO CUNHA                                                                                  210010
+ 159  196  .....  SAO ROBERTO                                                                                   211167
+ 159  197  .....  MATOES                                                                                        210660
+ 159  198  .....  SAO JOAO DO SOTER                                                                             211107
+ 159  199  .....  SAO JOAO DOS PATOS                                                                            211110
+ 159  200  .....  BURITI                                                                                        210220
+ 159  201  .....  BERNARDO DO MEARIM                                                                            210193
+ 159  202  .....  PRESIDENTE DUTRA                                                                              210910
+ 159  203  .....  BENEDITO LEITE                                                                                210180
+ 159  204  .....  IGARAPE GRANDE                                                                                210520
+ 159  205  .....  GOVERNADOR ARCHER                                                                             210450
+ 159  206  .....  LAGO DOS RODRIGUES                                                                            210594
+ 159  207  .....  LAGOA DO MATO                                                                                 210592
+ 159  208  .....  JATOBA                                                                                        210545
+ 159  209  .....  BARAO DE GRAJAU                                                                               210150
+ 159  210  .....  LAGO DO JUNCO                                                                                 210580
+ 159  211  .....  COLINAS                                                                                       210350
+ 159  212  .....  POCAO DE PEDRAS                                                                               210890
+ 159  213  .....  PASSAGEM FRANCA                                                                               210790
+ 159  214  .....  ALTO ALEGRE DO MARANHAO                                                                       210043
+ 159  215  .....  PARAIBANO                                                                                     210770
+ 159  216  .....  PERITORO                                                                                      210845
+ 159  217  .....  SUCUPIRA DO NORTE                                                                             211190
+ 159  218  .....  GONCALVES DIAS                                                                                210440
+ 159  219  .....  SAO FRANCISCO DO MARANHAO                                                                     211090
+ 159  220  .....  SANTA FILOMENA DO MARANHAO                                                                    210975
